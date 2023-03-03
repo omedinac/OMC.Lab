@@ -1,2 +1,2 @@
-# OMCLab
+# OMC Lab
 OMC LAB @ HIMFG
