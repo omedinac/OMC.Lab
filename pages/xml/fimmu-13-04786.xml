@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">Front. Immunol.</journal-id>
+<journal-title>Frontiers in Immunology</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Front. Immunol.</abbrev-journal-title>
+<issn pub-type="epub">1664-3224</issn>
+<publisher>
+<publisher-name>Frontiers Media S.A.</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.3389/fimmu.2022.979749</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Immunology</subject>
+<subj-group>
+<subject>Original Research</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>IL-36&#x3b3; is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Manzanares-Meza</surname>
+<given-names>Laura D.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/1917168"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Guti&#xe9;rrez-Rom&#xe1;n</surname>
+<given-names>Claudia I.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/1887181"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Jim&#xe9;nez-Pineda</surname>
+<given-names>Albertana</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/1956319"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Castro-Mart&#xed;nez</surname>
+<given-names>Felipe</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/1049573"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Pati&#xf1;o-L&#xf3;pez</surname>
+<given-names>Genaro</given-names>
+</name>
+<xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/336389"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodr&#xed;guez-Arellano</surname>
+<given-names>Eunice</given-names>
+</name>
+<xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/625488"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Valle-Rios</surname>
+<given-names>Ricardo</given-names>
+</name>
+<xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref>
+<xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/531992"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Ort&#xed;z-Navarrete</surname>
+<given-names>Vianney F.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/38230"/>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Medina-Contreras</surname>
+<given-names>Oscar</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<xref ref-type="author-notes" rid="fn001">
+<sup>*</sup>
+</xref>
+<uri xlink:href="https://loop.frontiersin.org/people/604571"/>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<sup>1</sup>
+<institution>Mexico Children&#x2019;s Hospital, Endocrinology, Epidemiology &amp; Nutrition Research Unit</institution>, <addr-line>Mexico City</addr-line>, <country>Mexico</country>
+</aff>
+<aff id="aff2">
+<sup>2</sup>
+<institution>Department of Molecular Biomedicine, Center for Research and Advanced Studies, National Polytechnic Institute (CINVESTAV)</institution>, <addr-line>Mexico City</addr-line>, <country>Mexico</country>
+</aff>
+<aff id="aff3">
+<sup>3</sup>
+<institution>Hospital Infantil de Mexico, Unidad de Investigaci&#xf3;n en Inmunolog&#xed;a y Prote&#xf3;mica</institution>, <addr-line>Mexico City</addr-line>, <country>Mexico</country>
+</aff>
+<aff id="aff4">
+<sup>4</sup>
+<institution>Genomic Medicine Laboratory, Hospital Regional Lic. Adolfo L&#xf3;pez Mateos</institution>, <addr-line>Mexico City</addr-line>, <country>Mexico</country>
+</aff>
+<aff id="aff5">
+<sup>5</sup>
+<institution>Unidad Universitaria de Investigaci&#xf3;n, Divisi&#xf3;n de Investigaci&#xf3;n, Facultad de Medicina, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico</institution>, <addr-line>Mexico City</addr-line>, <country>Mexico</country>
+</aff>
+<author-notes>
+<fn fn-type="edited-by">
+<p>Edited by: Juan Bautista De Sanctis, Palack&#xfd; University Olomouc, Czechia</p>
+</fn>
+<fn fn-type="edited-by">
+<p>Reviewed by: Rodolfo Fern&#xe1;ndez-G&#xf3;mez, Independent Researcher, Caracas, Venezuela; Mercedes Teresita Fernandez Mestre, Instituto Venezolano de Investigaciones Cient&#xed;ficas (IVIC), Caracas, Venezuela; Thusanth Thuraisingam, McGill University, Canada</p>
+</fn>
+<fn fn-type="corresp" id="fn001">
+<p>*Correspondence: Oscar Medina-Contreras, <email xlink:href="mailto:omedina@himfg.edu.mx">omedina@himfg.edu.mx</email>
+</p>
+</fn>
+<fn fn-type="other" id="fn002">
+<p>This article was submitted to Cytokines and Soluble Mediators in Immunity, a section of the journal Frontiers in Immunology</p>
+</fn>
+</author-notes>
+<pub-date pub-type="epub">
+<day>18</day>
+<month>08</month>
+<year>2022</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2022</year>
+</pub-date>
+<volume>13</volume>
+<elocation-id>979749</elocation-id>
+<history>
+<date date-type="received">
+<day>27</day>
+<month>06</month>
+<year>2022</year>
+</date>
+<date date-type="accepted">
+<day>04</day>
+<month>08</month>
+<year>2022</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>Copyright &#xa9; 2022 Manzanares-Meza, Guti&#xe9;rrez-Rom&#xe1;n, Jim&#xe9;nez-Pineda, Castro-Mart&#xed;nez, Pati&#xf1;o-L&#xf3;pez, Rodr&#xed;guez-Arellano, Valle-Rios, Ort&#xed;z-Navarrete and Medina-Contreras</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder>Manzanares-Meza, Guti&#xe9;rrez-Rom&#xe1;n, Jim&#xe9;nez-Pineda, Castro-Mart&#xed;nez, Pati&#xf1;o-L&#xf3;pez, Rodr&#xed;guez-Arellano, Valle-Rios, Ort&#xed;z-Navarrete and Medina-Contreras</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p>
+</license>
+</permissions>
+<abstract>
+<p>Mucosal innate immunity functions as the first line of defense against invading pathogens. Members of the IL-1 family are key cytokines upregulated in the inflamed mucosa. Inflammatory cytokines are regulated by limiting their function and availability through their activation and secretion mechanisms. IL-1 cytokines secretion is affected by the lack of a signal peptide on their sequence, which prevents them from accessing the conventional protein secretion pathway; thus, they use unconventional protein secretion pathways. Here we show in mouse macrophages that LPS/ATP stimulation induces cytokine relocalization to the plasma membrane, and conventional secretion blockade using monensin or Brefeldin A triggers no IL-36&#x3b3; accumulation within the cell. <italic>In silico</italic> modeling indicates IL-36&#x3b3; can pass through both the P2X7R and Gasdermin D pores, and both IL-36&#x3b3;, P2X7R and Gasdermin D mRNA are upregulated in inflammation; further, experimental blockade of these receptors&#x2019; limits IL-36&#x3b3; release. Our results demonstrate that IL-36&#x3b3; is secreted mainly by an unconventional pathway through membrane pores formed by P2X7R and Gasdermin D.</p>
+</abstract>
+<kwd-group>
+<kwd>IL-36&#x3b3;</kwd>
+<kwd>inflammation</kwd>
+<kwd>macrophages</kwd>
+<kwd>cytokin receptors</kwd>
+<kwd>secretion</kwd>
+</kwd-group>
+<contract-sponsor id="cn001">Consejo Nacional de Ciencia y Tecnolog&#xed;a<named-content content-type="fundref-id">10.13039/501100003141</named-content>
+</contract-sponsor>
+<counts>
+<fig-count count="3"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="34"/>
+<page-count count="8"/>
+<word-count count="3406"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec id="s1" sec-type="intro">
+<title>Introduction</title>
+<p>Mucosal innate immunity functions as the first line of defense against invading pathogens. A key cellular component of these innate immune responses are macrophages (<xref ref-type="bibr" rid="B1">1</xref>). During infection and the subsequent inflammation, macrophages recognize Pathogen Associated Molecular Patterns (PAPs) and initiate downstream signaling that promotes the expression and secretion of inflammatory cytokines (<xref ref-type="bibr" rid="B2">2</xref>). Several members of the IL-1 family (IL-1&#x3b1;, IL-1&#x3b2;, IL-18, IL-33) are key cytokines upregulated in the inflamed mucosa (<xref ref-type="bibr" rid="B3">3</xref>).</p>
+<p>This superfamily of cytokines is formed by eleven members, classified into three subfamilies: IL-1 subfamily, IL-18 subfamily and, IL-36 subfamily (<xref ref-type="bibr" rid="B4">4</xref>). The IL-36 subfamily has been recently described and involved in the development of several inflammatory diseases such as inflammatory bowel disease, rheumatoid arthritis, or psoriasis (<xref ref-type="bibr" rid="B5">5</xref>, <xref ref-type="bibr" rid="B6">6</xref>).</p>
+<p>The IL-36 subfamily consists of four members, a receptor antagonist (IL-36Ra), and three agonists, IL-36&#x3b1;, IL-36&#x3b2; and, IL-36&#x3b3; (<xref ref-type="bibr" rid="B5">5</xref>). These agonists signal through the same receptor (IL-36R) (<xref ref-type="bibr" rid="B7">7</xref>) in a MyD88-dependent manner and activate NF&#x3ba;B and MAPK pathways; thus, leading to leukocyte recruitment and amplification of inflammation (<xref ref-type="bibr" rid="B8">8</xref>).</p>
+<p>Inflammatory cytokines are regulated through their activation and secretion mechanisms to limit their function and availability (<xref ref-type="bibr" rid="B9">9</xref>), and cytokine processing is the first regulatory checkpoint (<xref ref-type="bibr" rid="B10">10</xref>). IL-1 cytokine superfamily requires processing to achieve full bioactivity (<xref ref-type="bibr" rid="B11">11</xref>). IL-36 cytokines are processed by neutrophil proteases (elastase, proteinase-3, and cathepsin G) (<xref ref-type="bibr" rid="B12">12</xref>) and macrophage- and epithelial cell-derived cathepsin S (<xref ref-type="bibr" rid="B13">13</xref>).</p>
+<p>The second checkpoint corresponds to its secretion, and this mechanism is a fundamental response to damage and infection (<xref ref-type="bibr" rid="B14">14</xref>). IL-1 cytokines secretion is affected by the lack of a signal peptide on their sequence (<xref ref-type="bibr" rid="B10">10</xref>), which prevents them from accessing the conventional protein secretion pathway (CPS). Thus, they use unconventional protein secretion pathways (UPS) that involve membrane pores, vesicles, transporters, among others (<xref ref-type="bibr" rid="B15">15</xref>). IL-1&#x3b2; is associated with two types of unconventional secretory pathways (<xref ref-type="bibr" rid="B16">16</xref>), vesicles and membrane pores (<xref ref-type="bibr" rid="B17">17</xref>). The receptor P2X7R is involved in IL-1&#x3b2; secretion under ATP exposure, a stimulus that opens a pore and promotes vesicle shedding (<xref ref-type="bibr" rid="B18">18</xref>). Similarly, the membrane pore formed by Gasdermin D (GSDMD) has been involved in IL-1&#x3b2; secretion under inflammatory conditions (<xref ref-type="bibr" rid="B19">19</xref>). However, it remains unknown if members of the IL-36 family follow the same secretion mechanisms.</p>
+<p>The activation and secretion checkpoints are of paramount importance as they have a direct impact on cytokine functionality, which could help in the development of new therapeutic targets. Since IL-36 cytokines participate in the development of several inflammatory and autoimmune diseases, and little is known about their function and signaling mechanisms, exploring the mechanisms that regulate the secretion of the IL-36&#x3b3; cytokine is fundamental to further understand IL-36 cytokines biology.</p>
+<p>We studied IL-36&#x3b3; secretion, and we found that LPS induced expression of IL-36&#x3b3; cytokine in IC21 macrophages and perinuclear localization, and LPS/ATP induced its secretion. We explored non-conventional secretion pathways and observed P2X7R or GSDMD pores blockade limits the cytokine release. Collectively, our results show that IL-36&#x3b3; cytokine follows a non-conventional secretion pathway using P2X7R and GSDMD pores.</p>
+</sec>
+<sec id="s2" sec-type="materials|methods">
+<title>Materials and methods</title>
+<sec id="s2_1">
+<title>Cell lines</title>
+<p>Murine macrophages cell line IC21 (TIB-186) was cultured according to the manufacturer&#x2019;s instructions (ATCC, VA).</p>
+</sec>
+<sec id="s2_2">
+<title>Cytokine induction</title>
+<p>1x10<sup>6</sup> IC21 cells/well were seeded in a 48-well plate (Corning, MA) and grown in RPMI-1640 (Corning, MA) medium supplemented with 10% fetal bovine serum (PAN Biotech, Germany), antibiotic/antimycotic (Corning, MA), and L-glutamine (Corning, MA). 24h after cell seeding the cells were stimulated for 18h with 1&#xb5;g/ml LPS (Sigma-Aldrich, MO), and protein lysates were purified.</p>
+</sec>
+<sec id="s2_3">
+<title>Cytokine secretion</title>
+<p>LPS-stimulated IC21 cells were co-stimulated for 1h with 3mM ATP (<italic>In vivo</italic>Gen, CA), in the presence or absence of 2 &#xb5;M monensin (Biolegend, CA), 5 &#xb5;g/ml brefeldin A (Biolegend, CA), 200nM A438079 hydrochloride (TOCRIS, UK) or 20&#xb5;M Necrosulfonamide (NSA; TOCRIS, UK) (specific inhibitors specific for P2X7R and Gasdermin D respectively). Supernatants and protein lysates were evaluated after co-stimulation.</p>
+</sec>
+<sec id="s2_4">
+<title>Protein precipitation</title>
+<p>The proteins present in the supernatant were precipitated with a 1:4 water-acetone mix at -20&#xb0;C for 24h. The solution was centrifuged at 4700&#xa0;g (Thermo-Fisher, MA) for 30min, and the pellet was washed twice with water-acetone and resuspended in RIPA (Sigma-Aldrich, MO).</p>
+</sec>
+<sec id="s2_5">
+<title>Western blot</title>
+<p>40&#xb5;g total protein were probed by western blot using primary Ab anti-IL-36&#x3b3; TA505994; Origene, MD; 1:4,000), anti-GAPDH (GTX100118; GeneTex, CA; 1:1,000), and secondary anti-mouse-HRP (7076P2; Cell Signaling, MA; 1:5,000).</p>
+</sec>
+<sec id="s2_6">
+<title>Confocal microscopy</title>
+<p>3.5x10<sup>5</sup> IC21 cells were seeded in 25mm sterile coverslips (Corning, MA) in a six-well plate (Corning, MA) and were LPS-induced and ATP-stimulated as before. After stimulation, the cells were fixed with 4% paraformaldehyde, permeabilized with 0.2% Triton, blocked with 0.2% BSA in PBS, and stained with the rabbit primary antibody &#x3b1;-IL-36&#x3b3; (TA326667; Origene, MD; 1:1000), followed by staining with the secondary Alexa Fluor 594 &#x3b1;-rabbit IgG antibody (8889S; Cell Signaling, MA; 1:2000) and DAPI (Sigma-Aldrich, MO). Images were acquired using a white light laser Leica TCS SP8 X confocal microscope at 60X (Leica, Wetzlar, Germany).</p>
+</sec>
+<sec id="s2_7">
+<title>
+<italic>In silico</italic> modeling</title>
+<p>The amino acid sequence of mouse IL-36&#x3b3;, P2X7R, and GSDMD were retrieved from UniProtKB (Q8R460, Q9D8T2, and Q9Z1M0, respectively). Models were built in the SWISS-MODEL server (<xref ref-type="bibr" rid="B20">20</xref>) using the crystals for human IL-36&#x3b3;, rat P2X7R, and mouse GSDMD as templates, and the models with a Qmean score closest to 0 were accepted. The program MOE was used to refine the models using energy minimization and removal of water molecules, and the server SymmDock (<xref ref-type="bibr" rid="B21">21</xref>) was used to build the 16-subunit oligomer GSDMD pore.</p>
+</sec>
+<sec id="s2_8">
+<title>Statistical analysis</title>
+<p>GraphPad Prism v9.3 software was used for data analysis. Statistical significance was determined by Student t-test between two groups. Mean &#xb1; SD of the data is presented. p&lt;0.05 was statistically significant.</p>
+</sec>
+</sec>
+<sec id="s3" sec-type="results">
+<title>Results</title>
+<sec id="s3_1">
+<title>LPS/ATP induces IL-36&#x3b3; expression and secretion in IC21 macrophages</title>
+<p>We first explored whether IL-36&#x3b3; expression and secretion is altered by ATP, as other IL-1 superfamily cytokines (<xref ref-type="bibr" rid="B18">18</xref>). We stimulated IC21 murine macrophages and evaluated IL-36&#x3b3; expression at protein (<xref ref-type="fig" rid="f1">
+<bold>Figures&#xa0;1A, B</bold>
+</xref>
+<bold>)</bold> and mRNA levels (data not shown). Stimulation with LPS increased IL-36&#x3b3; expression, similar to previous reports in response to bacterial components (<xref ref-type="bibr" rid="B22">22</xref>). This correlates with the expression other members of the IL-36 subfamily under similar inflammatory conditions (<xref ref-type="bibr" rid="B23">23</xref>). We further observed that LPS/ATP stimulation induces the liberation of IL-36&#x3b3; to the extracellular milieu (<xref ref-type="fig" rid="f1">
+<bold>Figures&#xa0;1A, C</bold>
+</xref>
+<bold>)</bold>. Taken together, these results suggests that bacterial components, like LPS and ATP, not only induce IL-36&#x3b3; expression but also trigger its secretion.</p>
+<fig id="f1" position="float">
+<label>Figure&#xa0;1</label>
+<caption>
+<p>IL-36&#x3b3; is secreted in response to ATP in a non-conventional pathway. <bold>(A)</bold> IL-36&#x3b3; protein expression in lysates (L) and supernatants (S) of LPS or LPS/ATP activated macrophages. Densitometry of IL-36&#x3b3; intensity in lysates <bold>(B)</bold> and supernatants <bold>(C)</bold> of cell stimulated with LPS or LPS/ATP (L/A). <bold>(D)</bold> IF of IC21 macrophages stimulated with LPS/ATP (L/A) and treated with monensin (Mon) or brefeldin A (BfA). *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fimmu-13-979749-g001.tif"/>
+</fig>
+</sec>
+<sec id="s3_2">
+<title>IL-36&#x3b3; does not follow the conventional secretory pathway</title>
+<p>Cytokine secretion to the extracellular milieu is of paramount importance during inflammation to coordinate defense mechanisms in the host. Eucaryotic cells use the conventional and unconventional protein secretion pathways. The conventional secretory pathway involves the translocation of proteins into the endoplasmic reticulum (ER), transport to the Golgi apparatus and finally to the plasma membrane for their secretion. This pathway depends on a signal peptide at the N-terminal portion of the protein to follow this route (<xref ref-type="bibr" rid="B24">24</xref>). As it has been hypothesized that IL-36&#x3b3; lacks a signal peptide (<xref ref-type="bibr" rid="B11">11</xref>), we used the server signal IP 5.0 to predict the presence of a signal peptide <italic>in silico</italic> and confirmed there is no signal peptide predicted on IL-36&#x3b3; amino acid sequence (data not shown). We then explored if IL-36&#x3b3; follows the conventional secretory pathway using monensin (MN) and brefeldin A (BfA) to block secretion. MN is a Na<sup>+</sup> ionophore that affects regions of the Golgi apparatus that are linked to the final stages of secretory vesicle maturation. BfA is a macrocyclic lactone produced by fungi that inhibits protein secretion from the ER to the Golgi apparatus (<xref ref-type="bibr" rid="B25">25</xref>). We observed that when MN or BfA are added to the cell culture, stimulation with LPS/ATP triggers no IL-36&#x3b3; accumulation within the cell (<xref ref-type="fig" rid="f1">
+<bold>Figure&#xa0;1D</bold>
+</xref>), demonstrating that IL-36&#x3b3; does not follow the conventional secretory pathway for its secretion.</p>
+</sec>
+<sec id="s3_3">
+<title>IL-36&#x3b3; can pass through P2X7R and GSDMD <italic>in silico</italic>
+</title>
+<p>Lack of a signal peptide on IL-36&#x3b3; sequence suggests it uses the unconventional secretory pathway. Of the four unconventional secretion pathways, membrane pores are the preferred mechanism for proteins that lack a signal peptide (<xref ref-type="bibr" rid="B15">15</xref>). In macrophages P2X7R (<xref ref-type="bibr" rid="B26">26</xref>) and GSDMD (<xref ref-type="bibr" rid="B19">19</xref>) form pores during inflammation or hyperactivation in an ATP-dependent manner. Both pores have been previously involved in IL-1&#x3b2; secretion (<xref ref-type="bibr" rid="B18">18</xref>, <xref ref-type="bibr" rid="B19">19</xref>). Thus, we evaluated if IL-36&#x3b3;, like IL-1&#x3b2;, uses P2X7R and/or GSDMD to exit the cell. We performed an <italic>in silico</italic> modeling of full-length and processed mouse IL-36&#x3b3;, P2X7R, and GSDMD through three different servers, Swiss-Model, IntFold, and Robetta. The quality of the models was assessed through the Qmean score, Ramachandran score, and Molprobity score. The models built through the Swiss-Model server had the best scores and were used for further analysis. Full length (FL) and serin 42 processed (S42) IL-36&#x3b3; were modeled based on the human IL-36&#x3b3; crystal. The validation of the model gave a Qmean score of -0.53, Ramachandran score of 96.64% and Mol probity score of 1.29, indicating a good quality model. Processed IL-36&#x3b3; model had the same scores as the FL variant, which suggests that the size reduction does not generate significant structural changes in the <italic>in silico</italic> model. Then, we analyzed the size and net charge, and we observed that both proteins have a positive net charge and an approximate diameter of 3.7nm (FL) and 3.5nm (S42) (<xref ref-type="fig" rid="f2">
+<bold>Figure&#xa0;2A</bold>
+</xref>). Next, we built the mouse homotrimer P2X7R in an open state, with bound ATP, based on the rat crystal due to the 85% identity. Validation of the model gave a Qmean score of -2.70, Ramachandran score of 94.79 and Molprobity score of 1.26. The pore diameter of P2X7R in an open state is 5nm in the <italic>in silico</italic> model, and has a negative net charge, particularly in the transmembrane and extracellular portions of the receptor (<xref ref-type="fig" rid="f2">
+<bold>Figure&#xa0;2B</bold>
+</xref>). Next, we built the NT-GSDMD model since it is the fraction that oligomerizes and forms the membrane pore. The model was generated based on the mouse crystal of full GSDMD due to the 97.97% identity. We obtained a medium-low quality model with a Q-mean score of-4.73, Ramachandran score of 86.67%, and Molprobity of 2.86. This low quality could be due to the low resolution of the crystal in the NT portion of the protein. We built the 16nm oligomer through the server SymmDock, which generates a 14nm diameter pore (<xref ref-type="fig" rid="f2">
+<bold>Figure&#xa0;2C</bold>
+</xref>). According to the data obtained by our <italic>in silico</italic> models, 3.7 and 3.5nm positively charged IL-36&#x3b3; can theoretically pass through both the 5nm P2X7R pore and the 14nm GSDMD pore.</p>
+<fig id="f2" position="float">
+<label>Figure&#xa0;2</label>
+<caption>
+<p>IL-36&#x3b3; is secreted through the membrane pores P2X7R and GSDMD of the unconventional secretory pathway type I. <bold>(A)</bold> <italic>In silico</italic> model of mouse IL-36&#x3b3; generated by SWISS-MODEL. <bold>(B)</bold> <italic>In silico</italic> model of P2X7R generated by SWISS-MODEL. <bold>(C)</bold> <italic>In silico</italic> model of GSDMD pore generated by SymmDock sever. <bold>(D)</bold> Western blot of lysates and supernatants under control, LPS, LPS/ATP (L/A), LPS/ATP+A438 conditions. Densitometry of IL-36&#x3b3; in lysates <bold>(E)</bold> and supernatants <bold>(F)</bold>. *p&lt;0.05, **p&lt;0.01.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fimmu-13-979749-g002.tif"/>
+</fig>
+<p>Consistent with these results, we observed P2x7r and Gsdmd are upregulated in a microarray from pro-inflammatory intestinal mouse macrophages (<xref ref-type="supplementary-material" rid="SM1">
+<bold>Figure S1A</bold>
+</xref>) as well as LPS-activated IC21 macrophages (<xref ref-type="supplementary-material" rid="SM1">
+<bold>Figure S1B</bold>
+</xref>), suggesting an increased bioavailability in conditions where IL-36 &#x3b3; is expressed.</p>
+</sec>
+<sec id="s3_4">
+<title>IL-36&#x3b3; is secreted through membrane pores of the unconventional protein secretion pathway under inflammatory conditions</title>
+<p>To confirm the <italic>in silico</italic> data, we evaluated IL-36&#x3b3; secretion through P2X7R and GSDMD experimentally. First, we used the P2X7R specific inhibitor A438 that binds to the inner face of the receptor blocking its opening, even in the presence of ATP. The presence of IL-36&#x3b3; was evaluated by western blot in lysates and supernatants of IC21 macrophages under LPS or LPS/ATP and A438. We observed that in the presence of a P2X7R specific inhibitor, IL-36&#x3b3; is accumulated within the cell, as observed in the lysates (<xref ref-type="fig" rid="f2">
+<bold>Figures&#xa0;2D, E</bold>
+</xref>). In contrast, when we evaluated the supernatants, we observed a clear reduction in secreted IL-36&#x3b3; of approximately 75% (<xref ref-type="fig" rid="f2">
+<bold>Figures&#xa0;2D, F</bold>
+</xref>), suggesting that P2X7R participates in IL-36&#x3b3; secretion. Then, we evaluated IL-36&#x3b3; secretion by GSDMD pore. We used the specific inhibitor Necrosulfonamide (NSA), which binds to the NT domain of processed GSDMD and prevents its oligomerization and pore formation in the plasma membrane. Similar to P2X7R, we observed that in the presence of NSA, IL-36&#x3b3; is accumulated within the cell (<xref ref-type="supplementary-material" rid="SM1">
+<bold>Figure S1C</bold>
+</xref>), suggesting that GSDMD also participates in IL-36&#x3b3; secretion. Our data demonstrate that P2X7R and GSDMD have a role in IL-36&#x3b3; secretion.</p>
+</sec>
+<sec id="s3_5">
+<title>IL-36&#x3b3; localizes to the perinucleus of activated IC21 macrophages</title>
+<p>Finally, we evaluated IL-36&#x3b3; localization within the cell in CTL, LPS, LPS/ATP, and LPS/ATP+A438/NSA conditions (<xref ref-type="fig" rid="f3">
+<bold>Figure&#xa0;3</bold>
+</xref>). We observed that IL-36&#x3b3; localizes in the cytoplasm of IC21 macrophages, particularly in a perinuclear fashion, in CTL and LPS conditions. In the presence of LPS/ATP we observed that IL-36&#x3b3; is accumulated in a scatter pattern in the cytoplasm and close to the plasma membrane, which falls in line with the induction of its secretion by the same stimulus, showing that LPS/ATP-induced secretion mobilizes IL-36&#x3b3; towards the plasma membrane. In contrast, when we added the specific inhibitors A438 or NSA, IL-36&#x3b3; changes its location and goes back to the perinuclear region as observed in CTL and LPS conditions. In contrast, when we added the specific inhibitor NSA, IL-36&#x3b3; localizes close to the plasma membrane. Thus, our results show that the inhibition of IL-36&#x3b3; secretion through P2X7R prevents the cytokine relocalization within the cell.</p>
+<fig id="f3" position="float">
+<label>Figure&#xa0;3</label>
+<caption>
+<p>IL-36&#x3b3; is localized in the cytoplasm of IC21 macrophages. IL-36&#x3b3; localization in IC21 macrophages in control, LPS, LPS/ATP (L/A), LPS/ATP+A438, and LPS/ATP+NSA conditions. nuclei staining (DAPI), IL-36&#x3b3; (Alexa Fluor594).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fimmu-13-979749-g003.tif"/>
+</fig>
+<p>Together, our results demonstrate that IL-36&#x3b3; is secreted mainly by an unconventional pathway through membrane pores formed by P2X7R and GSDMD.</p>
+</sec>
+</sec>
+<sec id="s4" sec-type="discussion">
+<title>Discussion</title>
+<p>In recent years there has been a growing interest in IL-36&#x3b3; function and its involvement in the development of inflammatory diseases. However, a few mechanisms in this cytokine biology remain unknown. IL-36&#x3b3; lack of a signal peptide (<xref ref-type="bibr" rid="B8">8</xref>, <xref ref-type="bibr" rid="B22">22</xref>) suggests it could have access to unconventional secretory pathways (<xref ref-type="bibr" rid="B15">15</xref>, <xref ref-type="bibr" rid="B27">27</xref>). Our data shows that the addition of LPS/ATP induces IL-36&#x3b3; secretion. Our data agree with previous reports that have established that secretion of some members of the superfamily of IL-1, such as IL-1&#x3b2;, IL-18, and IL-36&#x3b1;, need two signals. LPS works as the first signal as it induces the expression of the cytokines; meanwhile, ATP works as the second signal triggering the secretion of the cytokines (<xref ref-type="bibr" rid="B23">23</xref>). It is interesting that such stimulation also activates P2X7R, an ATP receptor, as well as the inflammasome, which in turn activates GSDMD. GSDMD, once it is cleaved by caspase 1, oligomerizes and forms a pore on the plasma membrane (<xref ref-type="bibr" rid="B26">26</xref>, <xref ref-type="bibr" rid="B28">28</xref>). Both P2X7R and GSDMD are members of the unconventional secretory pathway type I (<xref ref-type="bibr" rid="B15">15</xref>). Thus, we decided to evaluate if IL-36&#x3b3;, like IL-1&#x3b2; and IL-18 (<xref ref-type="bibr" rid="B17">17</xref>, <xref ref-type="bibr" rid="B29">29</xref>), is also secreted through these membrane pores. First, we evaluated <italic>in silico</italic> the IL-36&#x3b3; secretion capabilities. According to our generated 3D models, the 3.7nm and 3.5nm size (full length and processed respectively), as well as the net positive charge of IL-36&#x3b3;, allow its passage through the 5nm P2X7R and the 14nm GSDMD pores. Experimentally, we observed a significant intracellular accumulation and an extracellular reduction in IL-36&#x3b3; levels when both P2X7R and GSDMD pores are blocked, confirming IL-36&#x3b3; uses an unconventional secretion pathway. Our data suggest that secretion through membrane pores of the unconventional secretory pathway type I could be a common secretion mechanism for cytokines of the IL-1 superfamily. Consistent with our results, it has been observed that IL-36&#x3b1; is also secreted through P2X7R (<xref ref-type="bibr" rid="B23">23</xref>).</p>
+<p>IL-36&#x3b3; localizes preferentially to the cytoplasm of IC21 macrophages, particularly in a perinuclear region under homeostatic conditions. After LPS stimulation it remains localized to the perinuclear region, but LPS/ATP scattered IL-36&#x3b3; in the cytoplasm closer to the plasma membrane, which agrees with its secretion in response to this stimulus. Other members of the superfamily like IL-1&#x3b1;, IL-1&#x3b2;, and IL-18 have polybasic regions in their sequence, which allows them to adhere to the plasma membrane in preparation for secretion (<xref ref-type="bibr" rid="B16">16</xref>); we found through <italic>in silico</italic> prediction that IL-36&#x3b3; contains a small polybasic region that could allow its association to the plasma membrane through electrostatic interactions. Also, we observed that under the P27XR specific inhibition, IL-36&#x3b3; appears to go back to the perinuclear area. In contrast, under GSDMD specific inhibitor IL-36&#x3b3; remains close to the membrane. Suggesting that ATP is the stimuli that affects IL-36&#x3b3; localization since we only observed this phenomenon when P2X7R is blocked. Previous studies have shown that IL-33, member of IL-1 superfamily, localizes to the nucleus under homeostatic conditions and it relocalizes to the cytoplasm in response to stress. This relocalization depends on the microtubule network and ATP (<xref ref-type="bibr" rid="B30">30</xref>). It has been shown that ATP participates in microtubule assembly (<xref ref-type="bibr" rid="B31">31</xref>) and it triggers vesicle movement towards the plus end for their secretion (<xref ref-type="bibr" rid="B32">32</xref>). Thus, IL-36&#x3b3; localization dependance on ATP could be explained if IL-36&#x3b3; travels along microtubules to be secreted. It&#x2019;s worth exploring if IL-36&#x3b3; is intracellularly localized in vesicles that could potentially travel along microtubules towards the plasma membrane for its exocytosis.</p>
+<p>Here we have demonstrated that IL-36&#x3b3; is secreted through an unconventional secretory pathway type I, specifically through the P2X7R and GSDMD membrane pores in a mechanism dependent on LPS/ATP stimulation. As P2X7R/GSDMD have an important role in the secretion of IL-36&#x3b3;; thus, we believe that blocking these pores can be a novel therapeutic approach to limit IL-36 cytokines bioavailability in several autoimmune diseases, cancer, obesity, and chronic inflammatory pain, among others, and ameliorate symptoms, as has been proposed elsewhere (<xref ref-type="bibr" rid="B33">33</xref>, <xref ref-type="bibr" rid="B34">34</xref>).</p>
+</sec>
+<sec id="s5" sec-type="data-availability">
+<title>Data availability statement</title>
+<p>Publicly available datasets were analyzed in this study. This data can be found here: <uri xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=olgvmwkanfgzlcd&amp;acc=GSE68269">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=olgvmwkanfgzlcd&amp;acc=GSE68269</uri>.</p>
+</sec>
+<sec id="s6" sec-type="author-contributions">
+<title>Author contributions</title>
+<p>OM-C and LM-M conceived and designed the analysis. LM-M, CG-R, AJP and FC-M collected the data. GP-L, ER-A, RV-R and VO-N contributed data or analysis tools. LM-M and OM-C performed the analysis. OM-C and LM-M wrote the paper. All authors contributed to the article and approved the submitted version.</p>
+</sec>
+<sec id="s7" sec-type="funding-information">
+<title>Funding</title>
+<p>This work was supported by CONACYT grant CB2016-01/280815 to O. Medina-Contreras. L Manzanares-Meza received the CONACYT scholarship 589088.</p>
+</sec>
+<sec id="s8" sec-type="acknowledgement">
+<title>Acknowledgments</title>
+<p>We thank D. Castro-Eguiluz for her scientific editing and writing support.</p>
+</sec>
+<sec id="s9" sec-type="COI-statement">
+<title>Conflict of interest</title>
+<p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+</sec>
+<sec id="s10" sec-type="disclaimer">
+<title>Publisher&#x2019;s note</title>
+<p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+</sec>
+</body>
+<back>
+<sec id="s11" sec-type="supplementary-material">
+<title>Supplementary material</title>
+<p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full#supplementary-material">https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full#supplementary-material</ext-link>
+</p>
+<supplementary-material xlink:href="Image_1.tif" id="SM1" mimetype="image/tiff">
+<label>Supplementary Figure 1</label>
+<caption>
+<p>
+<bold>(A)</bold> Microarray analysis from DSS-treated mouse colonic macrophages. <bold>(B)</bold> qPCR expression for P2x7r and Gsdmd in IC21 macrophages stimulated with LPS or LPS/ATP. <bold>(C)</bold> Densitometry of IL-36&#x3b3; in macrophages under CTL, LPS/ATP or LPS/ATP+NSA stimulation.</p>
+</caption>
+</supplementary-material>
+</sec>
+<ref-list>
+<title>References</title>
+<ref id="B1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ross</surname> <given-names>EA</given-names>
+</name>
+<name>
+<surname>Devitt</surname> <given-names>A</given-names>
+</name>
+<name>
+<surname>Johnson</surname> <given-names>JR</given-names>
+</name>
+</person-group>. <article-title>Macrophages: The good, the bad, and the gluttony</article-title>. <source>Front Immunol</source> (<year>2021</year>) <volume>12</volume>:<elocation-id>708186</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.708186</pub-id>
+</citation>
+</ref>
+<ref id="B2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Paludan</surname> <given-names>SR</given-names>
+</name>
+<name>
+<surname>Pradeu</surname> <given-names>T</given-names>
+</name>
+<name>
+<surname>Masters</surname> <given-names>SL</given-names>
+</name>
+<name>
+<surname>Mogensen</surname> <given-names>TH</given-names>
+</name>
+</person-group>. <article-title>Constitutive immune mechanisms: mediators of host defence and immune regulation</article-title>. <source>Nat Rev Immunol</source> (<year>2021</year>) <volume>21</volume>:<page-range>137&#x2013;50</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41577-020-0391-5</pub-id>
+</citation>
+</ref>
+<ref id="B3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dinarello</surname> <given-names>CA</given-names>
+</name>
+</person-group>. <article-title>Introduction to the interleukin-1 family of cytokines and receptors: Drivers of innate inflammation and acquired immunity</article-title>. <source>Immunol Rev</source> (<year>2018</year>) <volume>281</volume>:<fpage>5</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.1111/imr.12624</pub-id>
+</citation>
+</ref>
+<ref id="B4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dinarello</surname> <given-names>C</given-names>
+</name>
+<name>
+<surname>Arend</surname> <given-names>W</given-names>
+</name>
+<name>
+<surname>Sims</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Smith</surname> <given-names>D</given-names>
+</name>
+<name>
+<surname>Blumberg</surname> <given-names>H</given-names>
+</name>
+<name>
+<surname>O&#x2019;Neill</surname> <given-names>L</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>IL-1 family nomenclature</article-title>. <source>Nat Immunol</source> (<year>2010</year>) <volume>11</volume>:<page-range>973&#x2013;3</page-range>. doi: <pub-id pub-id-type="doi">10.1038/ni1110-973</pub-id>
+</citation>
+</ref>
+<ref id="B5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Debets</surname> <given-names>R</given-names>
+</name>
+<name>
+<surname>Timans</surname> <given-names>JC</given-names>
+</name>
+<name>
+<surname>Homey</surname> <given-names>B</given-names>
+</name>
+<name>
+<surname>Zurawski</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Sana</surname> <given-names>TR</given-names>
+</name>
+<name>
+<surname>Lo</surname> <given-names>S</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Two novel IL-1 family members, IL-1&#x3b4; and IL-1&#x3f5;, function as an antagonist and agonist of NF-&#x3ba;B activation through the orphan IL-1 receptor-related protein 2</article-title>. <source>J Immunol</source> (<year>2001</year>) <volume>167</volume>:<page-range>1440&#x2013;6</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.167.3.1440</pub-id>
+</citation>
+</ref>
+<ref id="B6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Towne</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Sims</surname> <given-names>J</given-names>
+</name>
+</person-group>. <article-title>IL-36 in psoriasis</article-title>. <source>Curr Opin Pharmacol</source> (<year>2012</year>) <volume>12</volume>:<page-range>486&#x2013;90</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.coph.2012.02.009</pub-id>
+</citation>
+</ref>
+<ref id="B7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Towne</surname> <given-names>JE</given-names>
+</name>
+<name>
+<surname>Garka</surname> <given-names>KE</given-names>
+</name>
+<name>
+<surname>Renshaw</surname> <given-names>BR</given-names>
+</name>
+<name>
+<surname>Virca</surname> <given-names>GD</given-names>
+</name>
+<name>
+<surname>Sims</surname> <given-names>JE</given-names>
+</name>
+</person-group>. <article-title>Interleukin (IL)-1F6, IL-1F8, and IL-1F9 signal through IL-1Rrp2 and IL-1RAcP to activate the pathway leading to NF-&#x3ba;B and MAPKs</article-title>. <source>J Biol Chem</source> (<year>2004</year>) <volume>279</volume>:<page-range>13677&#x2013;88</page-range>. doi: <pub-id pub-id-type="doi">10.1074/jbc.M400117200</pub-id>
+</citation>
+</ref>
+<ref id="B8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gabay</surname> <given-names>C</given-names>
+</name>
+<name>
+<surname>Towne</surname> <given-names>JE</given-names>
+</name>
+</person-group>. <article-title>Regulation and function of interleukin-36 cytokines in homeostasis and pathological conditions</article-title>. <source>J Leukoc Biol</source> (<year>2015</year>) <volume>97</volume>:<page-range>645&#x2013;52</page-range>. doi: <pub-id pub-id-type="doi">10.1189/jlb.3RI1014-495R</pub-id>
+</citation>
+</ref>
+<ref id="B9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stenken</surname> <given-names>JA</given-names>
+</name>
+<name>
+<surname>Poschenrieder</surname> <given-names>AJ</given-names>
+</name>
+</person-group>. <article-title>Bioanalytical chemistry of cytokines &#x2013; A review</article-title>. <source>Anal Chim Acta</source> (<year>2014</year>) <volume>853</volume>:<fpage>95</fpage>&#x2013;<lpage>115</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.aca.2014.10.009</pub-id>
+</citation>
+</ref>
+<ref id="B10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dinarello</surname> <given-names>CA</given-names>
+</name>
+</person-group>. <article-title>Overview of the IL-1 family in innate inflammation and acquired immunity</article-title>. <source>Immunol Rev</source> (<year>2017</year>) <volume>281</volume>:<fpage>8</fpage>&#x2013;<lpage>27</lpage>. doi: <pub-id pub-id-type="doi">10.1111/imr.12621</pub-id>
+</citation>
+</ref>
+<ref id="B11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Towne</surname> <given-names>JE</given-names>
+</name>
+<name>
+<surname>Renshaw</surname> <given-names>BR</given-names>
+</name>
+<name>
+<surname>Douangpanya</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Lipsky</surname> <given-names>BP</given-names>
+</name>
+<name>
+<surname>Shen</surname> <given-names>M</given-names>
+</name>
+<name>
+<surname>Gabel</surname> <given-names>CA</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Interleukin-36 (IL-36) ligands require processing for full agonist (IL-36&#x3b1;, IL-36&#x3b2;, and IL-36&#x3b3;) or antagonist (IL-36Ra) activity</article-title>. <source>J Biol Chem</source> (<year>2011</year>) <volume>286</volume>:<page-range>42594&#x2013;602</page-range>. doi: <pub-id pub-id-type="doi">10.1074/jbc.M111.267922</pub-id>
+</citation>
+</ref>
+<ref id="B12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Henry</surname> <given-names>CM</given-names>
+</name>
+<name>
+<surname>Sullivan</surname> <given-names>GP</given-names>
+</name>
+<name>
+<surname>Clancy</surname> <given-names>DM</given-names>
+</name>
+<name>
+<surname>Afonina</surname> <given-names>IS</given-names>
+</name>
+<name>
+<surname>Kulms</surname> <given-names>D</given-names>
+</name>
+<name>
+<surname>Martin</surname> <given-names>SJ</given-names>
+</name>
+</person-group>. <article-title>Neutrophil-derived proteases escalate inflammation through activation of IL-36 family cytokines</article-title>. <source>Cell Rep</source> (<year>2016</year>) <volume>14</volume>:<page-range>708&#x2013;22</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.celrep.2015.12.072</pub-id>
+</citation>
+</ref>
+<ref id="B13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ainscough</surname> <given-names>JS</given-names>
+</name>
+<name>
+<surname>Macleod</surname> <given-names>T</given-names>
+</name>
+<name>
+<surname>McGonagle</surname> <given-names>D</given-names>
+</name>
+<name>
+<surname>Brakefield</surname> <given-names>R</given-names>
+</name>
+<name>
+<surname>Baron</surname> <given-names>JM</given-names>
+</name>
+<name>
+<surname>Alase</surname> <given-names>A</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Cathepsin s is the major activator of the psoriasis-associated proinflammatory cytokine IL-36&#x3b3;</article-title>. <source>Proc Natl Acad Sci</source> (<year>2017</year>) <volume>114</volume>:<page-range>E2748&#x2013;57</page-range>. doi:&#xa0;<pub-id pub-id-type="doi">10.1073/pnas.1620954114</pub-id>
+</citation>
+</ref>
+<ref id="B14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stanley</surname> <given-names>AC</given-names>
+</name>
+<name>
+<surname>Lacy</surname> <given-names>P</given-names>
+</name>
+</person-group>. <article-title>Pathways for cytokine secretion</article-title>. <source>Physiology</source> (<year>2010</year>) <volume>25</volume>:<page-range>218&#x2013;29</page-range>. doi: <pub-id pub-id-type="doi">10.1152/physiol.00017.2010</pub-id>
+</citation>
+</ref>
+<ref id="B15">
+<label>15</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rabouille</surname> <given-names>C</given-names>
+</name>
+</person-group>. <article-title>Pathways of unconventional protein secretion</article-title>. <source>Trends Cell Biol</source> (<year>2017</year>) <volume>27</volume>:<page-range>230&#x2013;40</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.tcb.2016.11.007</pub-id>
+</citation>
+</ref>
+<ref id="B16">
+<label>16</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Monteleone</surname> <given-names>M</given-names>
+</name>
+<name>
+<surname>Stanley</surname> <given-names>AC</given-names>
+</name>
+<name>
+<surname>Chen</surname> <given-names>KW</given-names>
+</name>
+<name>
+<surname>Brown</surname> <given-names>DL</given-names>
+</name>
+<name>
+<surname>Bezbradica</surname> <given-names>JS</given-names>
+</name>
+<name>
+<surname>von Pein</surname> <given-names>JB</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Interleukin-1&#x3b2; maturation triggers its relocation to the plasma membrane for gasdermin-D-Dependent and -independent secretion</article-title>. <source>Cell Rep</source> (<year>2018</year>) <volume>24</volume>:<page-range>1425&#x2013;33</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.celrep.2018.07.027</pub-id>
+</citation>
+</ref>
+<ref id="B17">
+<label>17</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Qu</surname> <given-names>Y</given-names>
+</name>
+<name>
+<surname>Franchi</surname> <given-names>L</given-names>
+</name>
+<name>
+<surname>Nunez</surname> <given-names>G</given-names>
+</name>
+<name>
+<surname>Dubyak</surname> <given-names>GR</given-names>
+</name>
+</person-group>. <article-title>Nonclassical IL-1&#x3b2; secretion stimulated by P2X7 receptors is dependent on inflammasome activation and correlated with exosome release in murine macrophages</article-title>. <source>J Immunol</source> (<year>2019</year>) <volume>179</volume>:<page-range>1913&#x2013;25</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.179.3.1913</pub-id>
+</citation>
+</ref>
+<ref id="B18">
+<label>18</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Giuliani</surname> <given-names>AL</given-names>
+</name>
+<name>
+<surname>Sarti</surname> <given-names>AC</given-names>
+</name>
+<name>
+<surname>Falzoni</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Virgilio</surname> <given-names>FD</given-names>
+</name>
+</person-group>. <article-title>The P2X7 receptor-Interleukin-1 liaison</article-title>. <source>Front Pharmacol</source> (<year>2017</year>) <volume>8</volume>:<elocation-id>123</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fphar.2017.00123</pub-id>
+</citation>
+</ref>
+<ref id="B19">
+<label>19</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Evavold</surname> <given-names>CL</given-names>
+</name>
+<name>
+<surname>Ruan</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Tan</surname> <given-names>Y</given-names>
+</name>
+<name>
+<surname>Xia</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Wu</surname> <given-names>H</given-names>
+</name>
+<name>
+<surname>Kagan</surname> <given-names>JC</given-names>
+</name>
+</person-group>. <article-title>The pore-forming protein gasdermin d regulates interleukin-1 secretion from living macrophages</article-title>. <source>Immunity</source> (<year>2018</year>) <volume>48</volume>:<fpage>35</fpage>&#x2013;<lpage>44.e6</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.immuni.2017.11.013</pub-id>
+</citation>
+</ref>
+<ref id="B20">
+<label>20</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Waterhouse</surname> <given-names>A</given-names>
+</name>
+<name>
+<surname>Bertoni</surname> <given-names>M</given-names>
+</name>
+<name>
+<surname>Bienert</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Studer</surname> <given-names>G</given-names>
+</name>
+<name>
+<surname>Tauriello</surname> <given-names>G</given-names>
+</name>
+<name>
+<surname>Gumienny</surname> <given-names>R</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>SWISS-MODEL: homology modelling of protein structures and complexes</article-title>. <source>Nucleic Acids Res</source> (<year>2018</year>) <volume>46</volume>:<page-range>W296&#x2013;303</page-range>. doi: <pub-id pub-id-type="doi">10.1093/nar/gky427</pub-id>
+</citation>
+</ref>
+<ref id="B21">
+<label>21</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schneidman-Duhovny</surname> <given-names>D</given-names>
+</name>
+<name>
+<surname>Inbar</surname> <given-names>Y</given-names>
+</name>
+<name>
+<surname>Nussinov</surname> <given-names>R</given-names>
+</name>
+<name>
+<surname>Wolfson</surname> <given-names>HJ</given-names>
+</name>
+</person-group>. <article-title>Geometry-based flexible and symmetric protein docking</article-title>. <source>Proteins Struct Funct Bioinform</source> (<year>2005</year>) <volume>60</volume>:<page-range>224&#x2013;31</page-range>. doi: <pub-id pub-id-type="doi">10.1002/prot.20562</pub-id>
+</citation>
+</ref>
+<ref id="B22">
+<label>22</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Medina-Contreras</surname> <given-names>O</given-names>
+</name>
+<name>
+<surname>Harusato</surname> <given-names>A</given-names>
+</name>
+<name>
+<surname>Nishio</surname> <given-names>H</given-names>
+</name>
+<name>
+<surname>Flannigan</surname> <given-names>KL</given-names>
+</name>
+<name>
+<surname>Ngo</surname> <given-names>V</given-names>
+</name>
+<name>
+<surname>Leoni</surname> <given-names>G</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Cutting edge: IL-36 receptor promotes resolution of intestinal damage</article-title>. <source>J Immunol</source> (<year>2016</year>) <volume>196</volume>:<page-range>34&#x2013;8</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.1501312</pub-id>
+</citation>
+</ref>
+<ref id="B23">
+<label>23</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Martin</surname> <given-names>U</given-names>
+</name>
+<name>
+<surname>Scholler</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Gurgel</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Renshaw</surname> <given-names>B</given-names>
+</name>
+<name>
+<surname>Sims</surname> <given-names>JE</given-names>
+</name>
+<name>
+<surname>Gabel</surname> <given-names>CA</given-names>
+</name>
+</person-group>. <article-title>Externalization of the leaderless cytokine IL-1F6 occurs in response to Lipopolysaccharide/ATP activation of transduced bone marrow macrophages</article-title>. <source>J Immunol</source> (<year>2009</year>) <volume>183</volume>:<page-range>4021&#x2013;30</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.0803301</pub-id>
+</citation>
+</ref>
+<ref id="B24">
+<label>24</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Viotti</surname> <given-names>C</given-names>
+</name>
+</person-group>. <article-title>Unconventional protein secretion, methods and protocols</article-title>. <source>Methods Mol Biol</source> (<year>2016</year>) <volume>1459</volume>:<fpage>3</fpage>&#x2013;<lpage>29</lpage>. doi: <pub-id pub-id-type="doi">10.1007/978-1-4939-3804-9_1</pub-id>
+</citation>
+</ref>
+<ref id="B25">
+<label>25</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>O&#x2019;Neil-Andersen</surname> <given-names>NJ</given-names>
+</name>
+<name>
+<surname>Lawrence</surname> <given-names>DA</given-names>
+</name>
+</person-group>. <article-title>Differential modulation of surface and intracellular protein expression by T cells after stimulation in the presence of monensin or brefeldin a</article-title>. <source>Clin Diagn Lab Immunol</source> (<year>2002</year>) <volume>9</volume>:<page-range>243&#x2013;50</page-range>. doi:&#xa0;<pub-id pub-id-type="doi">10.1128/CDLI.9.2.243-250.2001</pub-id>
+</citation>
+</ref>
+<ref id="B26">
+<label>26</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alves</surname> <given-names>LA</given-names>
+</name>
+<name>
+<surname>de Melo Reis</surname> <given-names>RA</given-names>
+</name>
+<name>
+<surname>de Souza</surname> <given-names>CAM</given-names>
+</name>
+<name>
+<surname>de Freitas</surname> <given-names>MS</given-names>
+</name>
+<name>
+<surname>Teixeira</surname> <given-names>PCN</given-names>
+</name>
+<name>
+<surname>Ferreira</surname> <given-names>DNM</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>The P2X7 receptor: Shifting from a low- to a high-conductance channel &#x2014; an enigmatic phenomenon</article-title>? <source>Biochim Biophys Acta Biomembr</source> (<year>2014</year>) <volume>1838</volume>:<page-range>2578&#x2013;87</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.bbamem.2014.05.015</pub-id>
+</citation>
+</ref>
+<ref id="B27">
+<label>27</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boutet</surname> <given-names>M-A</given-names>
+</name>
+<name>
+<surname>Bart</surname> <given-names>G</given-names>
+</name>
+<name>
+<surname>Penhoat</surname> <given-names>M</given-names>
+</name>
+<name>
+<surname>Amiaud</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Brulin</surname> <given-names>B</given-names>
+</name>
+<name>
+<surname>Charrier</surname> <given-names>C</given-names>
+</name>
+<etal/>
+</person-group>. <article-title>Distinct expression of interleukin (IL)-36&#x3b1;, &#x3b2; and &#x3b3;, their antagonist IL-36Ra and IL-38 in psoriasis, rheumatoid arthritis and crohn&#x2019;s disease</article-title>. <source>Clin Exp Immunol</source> (<year>2016</year>) <volume>184</volume>:<page-range>159&#x2013;73</page-range>. doi: <pub-id pub-id-type="doi">10.1111/cei.12761</pub-id>
+</citation>
+</ref>
+<ref id="B28">
+<label>28</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wiley</surname> <given-names>JS</given-names>
+</name>
+<name>
+<surname>Sluyter</surname> <given-names>R</given-names>
+</name>
+<name>
+<surname>Gu</surname> <given-names>BJ</given-names>
+</name>
+<name>
+<surname>Stokes</surname> <given-names>L</given-names>
+</name>
+<name>
+<surname>Fuller</surname> <given-names>SJ</given-names>
+</name>
+</person-group>. <article-title>The human P2X7 receptor and its role in innate immunity</article-title>. <source>Tissue Antigens</source> (<year>2011</year>) <volume>78</volume>:<page-range>321&#x2013;32</page-range>. doi: <pub-id pub-id-type="doi">10.1111/j.1399-0039.2011.01780.x</pub-id>
+</citation>
+</ref>
+<ref id="B29">
+<label>29</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gardella</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Andrei</surname> <given-names>C</given-names>
+</name>
+<name>
+<surname>Poggi</surname> <given-names>A</given-names>
+</name>
+<name>
+<surname>Zocchi</surname> <given-names>MR</given-names>
+</name>
+<name>
+<surname>Rubartelli</surname> <given-names>A</given-names>
+</name>
+</person-group>. <article-title>Control of interleukin-18 secretion by dendritic cells: role of calcium influxes</article-title>. <source>FEBS Lett</source> (<year>2000</year>) <volume>481</volume>:<page-range>245&#x2013;8</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S0014-5793(00)02015-9</pub-id>
+</citation>
+</ref>
+<ref id="B30">
+<label>30</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kakkar</surname> <given-names>R</given-names>
+</name>
+<name>
+<surname>Hei</surname> <given-names>H</given-names>
+</name>
+<name>
+<surname>Dobner</surname> <given-names>S</given-names>
+</name>
+<name>
+<surname>Lee</surname> <given-names>RT</given-names>
+</name>
+</person-group>. <article-title>Interleukin 33 as a mechanically responsive cytokine secreted by living cells</article-title>. <source>J Biol Chem</source> (<year>2012</year>) <volume>287</volume>:<page-range>6941&#x2013;8</page-range>. doi: <pub-id pub-id-type="doi">10.1074/jbc.M111.298703</pub-id>
+</citation>
+</ref>
+<ref id="B31">
+<label>31</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Murray</surname> <given-names>JW</given-names>
+</name>
+<name>
+<surname>Bananis</surname> <given-names>E</given-names>
+</name>
+<name>
+<surname>Wolkoff</surname> <given-names>AW</given-names>
+</name>
+</person-group>. <article-title>Reconstitution of ATP-dependent movement of endocytic vesicles along microtubules <italic>In vitro</italic>: An oscillatory bidirectional process</article-title>. <source>Mol Biol Cell</source> (<year>2000</year>) <volume>11</volume>:<page-range>419&#x2013;33</page-range>. doi: <pub-id pub-id-type="doi">10.1091/mbc.11.2.419</pub-id>
+</citation>
+</ref>
+<ref id="B32">
+<label>32</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zabrecky</surname> <given-names>JR</given-names>
+</name>
+<name>
+<surname>Cole</surname> <given-names>RD</given-names>
+</name>
+</person-group>. <article-title>Binding of ATP to tubulin</article-title>. <source>Nature</source> (<year>1982</year>) <volume>296</volume>:<page-range>775&#x2013;6</page-range>. doi: <pub-id pub-id-type="doi">10.1038/296775a0</pub-id>
+</citation>
+</ref>
+<ref id="B33">
+<label>33</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ngo</surname> <given-names>VL</given-names>
+</name>
+<name>
+<surname>Kuczma</surname> <given-names>M</given-names>
+</name>
+<name>
+<surname>Maxim</surname> <given-names>E</given-names>
+</name>
+<name>
+<surname>Denning</surname> <given-names>TL</given-names>
+</name>
+</person-group>. <article-title>IL-36 cytokines and gut immunity</article-title>. <source>Immunology</source> (<year>2021</year>) <volume>163</volume>:<page-range>145&#x2013;54</page-range>. doi: <pub-id pub-id-type="doi">10.1111/imm.13310</pub-id>
+</citation>
+</ref>
+<ref id="B34">
+<label>34</label>
+<citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Byrne</surname> <given-names>J</given-names>
+</name>
+<name>
+<surname>Baker</surname> <given-names>K</given-names>
+</name>
+<name>
+<surname>Houston</surname> <given-names>A</given-names>
+</name>
+<name>
+<surname>Brint</surname> <given-names>E</given-names>
+</name>
+</person-group>. <article-title>IL-36 cytokines in inflammatory and malignant diseases: Not the new kid on the block anymore</article-title>. <source>Cell Mol Life Sci</source> (<year>2021</year>), <volume>78</volume>:<fpage>6215</fpage>&#x2013;<lpage>27</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00018-021-03909-4</pub-id>
+</citation>
+</ref>
+</ref-list>
+</back>
+</article>
