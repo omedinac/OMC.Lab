@@ -1,119 +1,415 @@
-<!DOCTYPE HTML>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html>
 
-  <title>Oscar Medina-Contreras</title>
-  
-  <meta name="author" content="Oscar Medina-Contreras">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-	<link rel="icon" href="Logo Aniversario.jpeg">
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>About OMC Lab</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
 </head>
 
 <body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-    <tr style="padding:0px">
-      <td style="padding:0px">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr style="padding:0px">
-            <td style="padding:2.5%;width:63%;vertical-align:middle">
-              <p style="text-align:center">
-                <name>Oscar Medina-Contreras</name>
-              </p>
-		    <p style="text-align:justify">
-              <p>I am a medical sciences researcher at <a href="http://www.himfg.edu.mx">Mexico Children's Hospital</a> in <a href="https://en.wikipedia.org/wiki/Mexico_City">Mexico City</a>, where I work on mucosal immunology.
-              </p>
-              <p>
-                My principal interest is on intestinal immune responses and inflammation in chronic diseases. I did my PhD at <a href="https://www.cinvestav.mx">CINVESTAV</a>, where I was advised by <a href="https://biomol.cinvestav.mx/Personal-Académico/Dr-Vianney-Ortiz-Navarrete">Vianney Ortiz-Navarrete</a>. I did a postdoc at <a href="https://www.emory.edu/home/index.html">Emory University</a> and <a href="https://www.gsu.edu">Georgia State Univesity</a>, under the mentorship of <a href="https://ursa.research.gsu.edu/profile/denning-tim/">Tim Denning</a> and <a href="https://medicine.umich.edu/dept/immunology/charles-parkos-md-phd">Charles Parkos</a>. I'm member of the <a href="https://conacyt.mx/sistema-nacional-de-investigadores/">National Research System</a> and the <a href="https://amc.edu.mx/amc/index.php?option=com_content&view=article&id=59&Itemid=79">National Academy of Sciences</a>.
-              </p>
-              <p style="text-align:center">
-                <a href="mailto:omedina@himfg.edu.mx">email</a> &nbsp/&nbsp
-                <a href="data/CV-omc.pdf">CV</a> &nbsp/&nbsp
-                <a href="pages/about-omc.html">Bio</a> &nbsp/&nbsp
-		<a href="https://orcid.org/0000-0002-4432-7780">ORCiD</a> &nbsp/&nbsp
-		<a href="https://www.scopus.com/authid/detail.uri?authorId=56013615300">Scopus</a> &nbsp/&nbsp
-                <a href="https://github.com/omedinac">GitHub</a>
-              </p>
-            </td>
-            <td style="padding:2.5%;width:40%;max-width:40%">
-            <img style="width:100%;max-width:100%" src="images/oscar.png">
-            </td>
-          </tr>
-          </p>
-        </td>
-      </tr>
-        </tbody>
-      </tr>
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-          <td style="padding:20px;width:100%;vertical-align:middle">
-            <heading>My Lab</heading>
-            <p>
-            <p style="text-align:justify">
-              I'm interested in mucosal immunology, immunometabolism, microbiota, metabolic diseases, and <a href="https://25bab1ae0c47de86-dot-us-central1.notebooks.googleusercontent.com/lab/">data science</a>. Much of my research focuses on the role of intestinal macrophages on T cell function, and the interaction with epithelial cells and microbiota. We use extensively flow cytometry, mass spec, and microarrays to understand the molecular mechanisms behind inestinal inflammation. My lab has <a href="pages/students.html">students</a> in PhD and MSc programs in the top universities in Mexico. Our most recent paper is:
-           
-           </p>
-         </td>
-       
-      
-            <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#ffffd0">
-             
-                
-              </td>
-              <td style="padding:20px;width:75%;vertical-align:middle">
-                  <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full">
-                    <papertitle>IL-36γ is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores</papertitle>
-                </a>
-                <br>
-                
-                <p>Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-Contreras O<p>
-                
-                <br>
-                <em>Front Immunol </em>13, 979749 &nbsp <font color="red"><strong>(10.3389/fimmu.2022.979749)</strong></font>
-                <br>
-              
-                <a href="https://pubmed.ncbi.nlm.nih.gov/36059446/">PubMed</a>
-                
-                <p></p>
-                <p>
-                    <p style="text-align:justify">
-                    Mucosal innate immunity functions as the first line of defense against invading pathogens. Members of the IL-1 family are key cytokines upregulated in the inflamed mucosa. Inflammatory cytokines are regulated by limiting their function and availability through their activation and secretion mechanisms. IL-1 cytokines secretion is affected by the lack of a signal peptide on their sequence, which prevents them from accessing the conventional protein secretion pathway; thus, they use unconventional protein secretion pathways. Here we show in mouse macrophages that LPS/ATP stimulation induces cytokine relocalization to the plasma membrane, and conventional secretion blockade using monensin or Brefeldin A triggers no IL-36γ accumulation within the cell. In silico modeling indicates IL-36γ can pass through both the P2X7R and Gasdermin D pores, and both IL-36γ, P2X7R and Gasdermin D mRNA are upregulated in inflammation; further, experimental blockade of these receptors' limits IL-36γ release. Our results demonstrate that IL-36γ is secreted mainly by an unconventional pathway through membrane pores formed by P2X7R and Gasdermin D.
 
-                
-                <td style="padding:20px;width:25%;vertical-align:middle">
-                  <div class="one">
-                   
-                    
-                    <img src='images/frontiers.png' width="160">
-                  </div>
-                  </p>
-              </td>
-            </tr>
-              
-             
-         </tbody></table>
-         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-             <tr>
-             <td style="padding:20px;width:100%;vertical-align:middle">
-                 
-               <heading>Publications</heading></a>
-               <p style="text-align:justify">
-                 Representative 
-		 <a href="pages/publications.html">papers</a> are <span class="highlight">highlighted</span>.
-              
-    
-            </td>
-          </tr>
-         </tbody></table>
-         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-             <tr>
-             <td style="padding:20px;width:100%;vertical-align:middle">
-                 
-                 <a style="text-decoration: none" href="pages/collabs.html"><heading>Collaborators and Funding</heading></a>
-              </p>
-            </td>
-          </tr>
-             <td style="padding:2.5%;width:40%;max-width:40%">
-             <img style="width:10%;max-width:10%" src="images/python.png">
-            
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">OMC Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="students.html">Students</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="collabs.html">Collaborations</a>
+</li>
+<li>
+  <a href="1-example.html">Viridis Colors</a>
+</li>
+<li>
+  <a href="3-inline.html">Terrain Colors</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">About OMC Lab</h1>
+
+</div>
+
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+<div class="row" style="padding-top: 30px;">
+
+<div id="oscar-medina-contreras" class="section level1">
+<h1><strong>Oscar Medina Contreras</strong></h1>
+<div id="section" class="section level3">
+<h3>**</h3>
+<div style="text-align: justify">
+<p>I am a medical sciences researcher at <a
+href="http://www.himfg.edu.mx">Mexico Children’s Hospital</a> in <a
+href="https://en.wikipedia.org/wiki/Mexico_City">Mexico City</a>, where
+I work on mucosal immunology.</p>
+<p>My principal interest is on intestinal immune responses and
+inflammation in chronic diseases. I did my PhD at <a
+href="https://www.cinvestav.mx">CINVESTAV</a>, where I was advised by <a
+href="https://biomol.cinvestav.mx/Personal-Académico/Dr-Vianney-Ortiz-Navarrete">Vianney
+Ortiz-Navarrete</a>. I did a postdoc at <a
+href="https://www.emory.edu/home/index.html">Emory University</a> and <a
+href="https://www.gsu.edu">Georgia State University</a>, under the
+mentorship of <a
+href="https://ursa.research.gsu.edu/profile/denning-tim">Tim Denning</a>
+and <a
+href="https://medicine.umich.edu/dept/immunology/charles-parkos-md-phd">Charles
+Parkos</a>. I’m member of the <a
+href="https://conacyt.mx/sistema-nacional-de-investigadores/">National
+Research System</a> and the <a
+href="https://amc.edu.mx/amc/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=79">National
+Academy of Sciences</a>.</p>
+I’m interested in mucosal immunology, immunometabolism, microbiota,
+metabolic diseases, and
+<a href="https://25bab1ae0c47de86-dot-us-central1.notebooks.googleusercontent.com/lab/">data
+science</a>. Much of my research focuses on the role of intestinal
+macrophages on T cell function, and the interaction with epithelial
+cells and microbiota. We use extensively flow cytometry, mass spec, and
+microarrays to understand the molecular mechanisms behind inestinal
+inflammation. My lab has <a href="pages/students.html">students</a> in
+PhD and MSc programs in the top universities in Mexico. Our most recent
+paper is:
+</div>
+<p><br></p>
+<p style="padding: 10px; border: 1px solid #808080;">
+<a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full">
+<papertitle>IL-36γ is secreted through an unconventional pathway using
+the Gasdermin D and P2X7R membrane pores</papertitle></a> <br>
+<p>
+Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A,
+Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R,
+Ortíz-Navarrete VF, Medina-Contreras O
+<p>
+<p><em>Front Immunol </em>13, 979749
+<font color="red"><strong>(10.3389/fimmu.2022.979749)</strong></font>
+<br></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36059446/">PubMed</a>
+<p>
+<div style="text-align: justify">
+Mucosal innate immunity functions as the first line of defense against
+invading pathogens. Members of the IL-1 family are key cytokines
+upregulated in the inflamed mucosa. Inflammatory cytokines are regulated
+by limiting their function and availability through their activation and
+secretion mechanisms. IL-1 cytokines secretion is affected by the lack
+of a signal peptide on their sequence, which prevents them from
+accessing the conventional protein secretion pathway; thus, they use
+unconventional protein secretion pathways. Here we show in mouse
+macrophages that LPS/ATP stimulation induces cytokine relocalization to
+the plasma membrane, and conventional secretion blockade using monensin
+or Brefeldin A triggers no IL-36<span>γ</span> accumulation within the
+cell. <em>In silico</em> modeling indicates IL-36<span>γ</span> can pass
+through both the P2X7R and Gasdermin D pores, and both
+IL-36<span>γ</span>, P2X7R and Gasdermin D mRNA are upregulated in
+inflammation; further, experimental blockade of these receptors limits
+IL-36<span>γ</span> release. Our results demonstrate that
+IL-36<span>γ</span> is secreted mainly by an unconventional pathway
+through membrane pores formed by P2X7R and Gasdermin D.
+</div>
+</p>
+<p><img src="images/python.png" /> <img src="images/R.png"
+width="50" /></p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
 </html>
