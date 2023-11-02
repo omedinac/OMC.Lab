@@ -11,7 +11,7 @@
 
 
 
-<title>About OMC Lab</title>
+<title>About Den Lab</title>
 
 <script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -238,21 +238,18 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" >OMC Lab</a>
+      <a class="navbar-brand" >Den Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="denlab.html">Home</a>
 </li>
 <li>
   <a href="students.html">Students</a>
 </li>
 <li>
-  <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="collabs.html">Collaborations</a>
+  <a href="publicationsden.html">Publications</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -266,7 +263,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About OMC Lab</h1>
+<h1 class="title toc-ignore">About Den Lab</h1>
 
 </div>
 
@@ -283,43 +280,41 @@ $(document).ready(function () {
 </style>
 <div class="row" style="padding-top: 30px;">
 
+
+</td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  
+<div id="section" class="section level3">
+<h3>Postdoc</h3>
+
+                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#FFA500">
+                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='' width="160">
+                </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
+                <a style="text-decoration: none"  href="">
+                <papertitle>Diana</papertitle></a><br>
+                <span class="authors"><p></p>
+                <p  style="text-align:justify">...</p>
+
 </td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
 <div id="section" class="section level3">
 <h3>PhD</h3>
 
-                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#E6E6FA">
-                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/estudiantes.png' width="160">
-                </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
-                <a style="text-decoration: none"  href="https://www.researchgate.net/profile/Albertana-Jimenez">
-                <papertitle>Albertana Jimenez-Pineda</papertitle></a><br>
-                <span class="authors"><p>Doctorado en Biotecnología</p>
-                <p  style="text-align:justify">...</p>
-                
-                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#E6E6FA">
-                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/logo.png' width="160">
-                </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
-                <a style="text-decoration: none"  href="https://www.researchgate.net/profile/Claudia-Gutierrez-Roman">
-                <papertitle>Claudia I Gutierrez-Roman</papertitle></a><br>
-                <span class="authors"><p>Doctorado en Ciencias Químico Biológicas</p>
-                <p  style="text-align:justify">Anestesiologa</p>
-                
-                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#E6E6FA">
-                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/logo.png' width="160">
+                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#FFA500">
+                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/R.png' width="160">
                 </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
                 <a style="text-decoration: none"  href="https://www.">
-                <papertitle>Carmen L Perez-De Gante</papertitle></a><br>
-                <span class="authors"><p>Doctorado en Ciencias Biológicas</p>
+                <papertitle>Alejandra</papertitle></a><br>
+                <span class="authors"><p>...</p>
                 <p  style="text-align:justify">...</p>
                 
                 <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#E6E6FA">
-                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/logo.png' width="160">
+                <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/R.png' width="160">
                 </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
                 <a style="text-decoration: none"  href="https://www.">
-                <papertitle>Samantha Ysais-Chong</papertitle></a><br>
-                <span class="authors"><p>Doctorado en Biotecnología</p>
+                <papertitle>Amairani</papertitle></a><br>
+                <span class="authors"><p>...</p>
                 <p  style="text-align:justify">...</p>
-
+<!--
 </td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 <div id="section" class="section level3"> 
@@ -333,7 +328,7 @@ $(document).ready(function () {
                 <span class="authors"><p>Maestria en Inmunología</p>
                 <p  style="text-align:justify">...</p> 
                 
-                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#E6E6FA">
+                <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#FFA500">
                 <td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/bren.jpg' width="160">
                 </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
                 <a style="text-decoration: none"  href="https://www.instagram.com/himfogram">
@@ -354,18 +349,17 @@ $(document).ready(function () {
                 <papertitle>Yanen Z Rios Lozano</papertitle></a><br>
                 <span class="authors"><p>Especialidad en Genética</p>
                 <p  style="text-align:justify">Mamá de Román</p> 
-
+--> 
 </td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-   
+
 <div id="section" class="section level3">           
 <h3>Former</h3>
 
 <div class="student"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#7FFFD4">
   </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
     
-   <a style="text-decoration: none" href="https://www.researchgate.net/profile/Laura-Manzanares">Laura Manzanares-Meza</a> </p>
-		<a style="text-decoration: none" href="https://">Felipe Castro-Martinez</a> </p>
-		<a style="text-decoration: none" href="https://">Miguel Prieto-Islas</a> </p>
+   <a style="text-decoration: none" href="">Julissa Luvián Morales</a> </p>
+
 		
               </p>
    

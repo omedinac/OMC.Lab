@@ -8,7 +8,10 @@
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
-<title>About OMC Lab</title>
+
+
+
+<title>About Den Lab</title>
 
 <script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -37,6 +40,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
+  span.highlight{background-color: #ffffd0;}
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -85,6 +89,7 @@ details > summary > p:only-child {
 pre code {
   padding: 0;
 }
+       
 </style>
 
 
@@ -235,26 +240,18 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" >OMC Lab</a>
+      <a class="navbar-brand" ">Den Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-
-<li>
-  <a href="denlab.html">Den Lab</a>
-</li>
-<li>   
-<li>
-  <a href="students.html">Students</a>
+        <li>
+  <a href="denlab.html">Home</a>
 </li>
 <li>
-  <a href="publications.html">Publications</a>
+  <a href="studentsden.html">Students</a>
 </li>
 <li>
-  <a href="collabs.html">Collaborations</a>
-</li>
-<li>
-  <a href="/intranet/index.html">intraNet</a>
+  <a href="publicationsden.html">Publications</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -268,7 +265,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About OMC Lab</h1>
+<h1 class="title toc-ignore">About Den Lab</h1>
 
 </div>
 
@@ -285,143 +282,44 @@ $(document).ready(function () {
 </style>
 <div class="row" style="padding-top: 30px;">
 
-<div id="oscar-medina-contreras" class="section level1">
-<h1><strong>Oscar Medina Contreras</strong></h1>
 <div id="section" class="section level3">
-<h5>
-<p style="text-align:center">
-                <a href="mailto:omedina@himfg.edu.mx">email</a> &nbsp/&nbsp
-                <a href="cv.html">CV</a> &nbsp/&nbsp
-                <a href="about.html">Bio</a> &nbsp/&nbsp
-		<a href="https://orcid.org/0000-0002-4432-7780">ORCiD</a> &nbsp/&nbsp
-		<a href="https://www.scopus.com/authid/detail.uri?authorId=56013615300">Scopus</a> &nbsp/&nbsp
-                <a href="https://g.dev/omedina">Google</a>
-              </p>
-              </h5>
-
+<h5>Representative papers are <span class="highlight">highlighted</span></h5>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
-<div class="citation"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#FFFFFF">
-<td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/oscar.png' width="200">
+<!--
+<div class="citation"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#00FFFF">
+<td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/image.png' width="160">
 </div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
-<div style="text-align: justify">
-<p>I am a medical sciences researcher at <a
-href="http://www.himfg.edu.mx">Mexico Children’s Hospital</a> in <a
-href="https://en.wikipedia.org/wiki/Mexico_City">Mexico City</a>, where
-I work on mucosal immunology.</p>
-<p>My principal interest is on intestinal immune responses and
-inflammation in chronic diseases. I did my PhD at <a
-href="https://www.cinvestav.mx">CINVESTAV</a>, where I was advised by <a
-href="https://biomol.cinvestav.mx/Personal-Académico/Dr-Vianney-Ortiz-Navarrete">Vianney
-Ortiz-Navarrete</a>. I did a postdoc at <a
-href="https://www.emory.edu/home/index.html">Emory University</a> and <a
-href="https://www.gsu.edu">Georgia State University</a>, under the
-mentorship of <a
-href="https://ursa.research.gsu.edu/profile/denning-tim">Tim Denning</a>
-and <a
-href="https://medicine.umich.edu/dept/immunology/charles-parkos-md-phd">Charles
-Parkos</a>. I’m member of the <a
-href="https://conacyt.mx/sistema-nacional-de-investigadores/">National
-Research System</a> and the <a
-href="https://amc.edu.mx/amc/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=79">National
-Academy of Sciences</a>.</p>
-I’m interested in mucosal immunology, immunometabolism, microbiota,
-metabolic diseases, and
-<a href="https://25bab1ae0c47de86-dot-us-central1.notebooks.googleusercontent.com/lab/">data
-science</a>. Much of my research focuses on the role of intestinal
-macrophages on T cell function, and the interaction with epithelial
-cells and microbiota. We use extensively flow cytometry, mass spec, and
-microarrays to understand the molecular mechanisms behind inestinal
-inflammation. My lab has <a href="pages/students.html">students</a> in
-PhD and MSc programs in the top universities in Mexico. Our most recent
-paper is:
-</p></td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-</div>
-<p style="padding: 10px; border: 1px solid #808080;">
-<a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full">
-<papertitle>IL-36γ is secreted through an unconventional pathway using
-the Gasdermin D and P2X7R membrane pores</papertitle></a> <br>
-<p>
-Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A,
-Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R,
-Ortíz-Navarrete VF, Medina-Contreras O
-<p>
-<p><em>Front Immunol </em>13, 979749
-<font color="red"><strong>(10.3389/fimmu.2022.979749)</strong></font>
-<br></p>
-<a href="https://pubmed.ncbi.nlm.nih.gov/36059446/">PubMed</a>
-<p>
-<div style="text-align: justify">
-Mucosal innate immunity functions as the first line of defense against
-invading pathogens. Members of the IL-1 family are key cytokines
-upregulated in the inflamed mucosa. Inflammatory cytokines are regulated
-by limiting their function and availability through their activation and
-secretion mechanisms. IL-1 cytokines secretion is affected by the lack
-of a signal peptide on their sequence, which prevents them from
-accessing the conventional protein secretion pathway; thus, they use
-unconventional protein secretion pathways. Here we show in mouse
-macrophages that LPS/ATP stimulation induces cytokine relocalization to
-the plasma membrane, and conventional secretion blockade using monensin
-or Brefeldin A triggers no IL-36<span>γ</span> accumulation within the
-cell. <em>In silico</em> modeling indicates IL-36<span>γ</span> can pass
-through both the P2X7R and Gasdermin D pores, and both
-IL-36<span>γ</span>, P2X7R and Gasdermin D mRNA are upregulated in
-inflammation; further, experimental blockade of these receptors limits
-IL-36<span>γ</span> release. Our results demonstrate that
-IL-36<span>γ</span> is secreted mainly by an unconventional pathway
-through membrane pores formed by P2X7R and Gasdermin D.
-</div>
-</p>
-<p><img src="images/python.png" /> <img src="images/R.png"
-width="50" /> <img src="images/appleteacher.png" height="100"></p></p>
-</div>
-</div>
+<a style="text-decoration: none"  href="https://">
+<papertitle></papertitle></a><br>
+<span class="authors"><p><p><br>
+</a><span class="source"></span><em>Journal </em>Volume(Issue), Pages &nbsp <span class="doi"><font color="red"><strong>(10.)</strong></font></span><br>
+<a style="text-decoration: none"  href="https://pubmed.ncbi.nlm.nih.gov//">PubMed</a><p></p><p><p style="text-align:justify">
+Abstract
+</p></td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody> 
+-->
 
+<div class="citation"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#FFC0CB">
+<td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/crfsn.png' width="160">
+</div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
+<a style="text-decoration: none"  href="https://www.tandfonline.com/doi/abs/10.1080/10408398.2021.1875189">
+<papertitle>Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review</papertitle></a><br>
+<span class="authors"><p>Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L, Castro-Eguiluz D<p><br>
+</a><span class="source"></span><em>Crit Rev Food Sci Nutr </em>62(16), 4371-4392 &nbsp <span class="doi"><font color="red"><strong>(10.1080/10408398.2021.1875189)</strong></font></span><br>
+<a style="text-decoration: none"  href="https://pubmed.ncbi.nlm.nih.gov/33506690/">PubMed</a><p></p><p><p style="text-align:justify">
+Chronic diseases are responsible for approximately 71% global deaths. These are characterized by chronic low-grade inflammation and metabolic alterations. "Functional foods" have been attributed with anti-inflammatory properties, demonstrated in cell lines and murine models; however, studies in humans are inconclusive. The purpose of this systematic review is to identify clinical trials that analyzed changes in inflammatory and metabolic mediators, in response to consumption of specific functional foods. A total of 3581 trials were screened and 88 were included for this review. Foods identified to regulate inflammation included cranberries, grapes, pomegranate, strawberries, wheat, whole grain products, low fat dairy products, yogurt, green tea, cardamom, turmeric, soy foods, almonds, chia seeds, flaxseed, pistachios, algae oil, flaxseed oil and grape seed oil. Clinical trials that focus on a dietary pattern rich in functional foods are necessary to explore if the additive effect of these foods lead to more clinically relevant outcomes.
+</p></td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody> 
+  
+<div class="citation"> <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#00FFFF">
+<td style="padding:20px;width:25%;vertical-align:top"> <div class="one"> <img src='images/jjco.png' width="160">
+</div></script></td><td style="padding:20px;width:75%;vertical-align:middle">
+<a style="text-decoration: none"  href="https://academic.oup.com/jjco/article/53/4/304/6964664">
+<papertitle>Validation of the QLQ-CAX24 instrument in cervical cancer and its association with cachexia classifications</papertitle></a><br>
+<span class="authors"><p>Luvián-Morales J, Castillo-Aguilar J, Delgadillo-González M, Cisneros-Sánchez A, Bosch-Gutiérrez J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF<p><br>
+</a><span class="source"></span><em>Jpn J Clin Oncol </em>53(4), 304-312 &nbsp <span class="doi"><font color="red"><strong>(10.1093/jjco/hyac199)</strong></font></span><br>
+<a style="text-decoration: none"  href="https://pubmed.ncbi.nlm.nih.gov/36579766/">PubMed</a><p></p><p><p style="text-align:justify">
+Cancer-related cachexia (CRC) is a common phenomenon in cervical cancer (CC), severely affecting clinical response, drug toxicity and survival. The patients' point of view should be evaluated to quantify the impact of CRC, and adequate instruments to do so are required. Thus, the study aimed to validate the Mexican-Spanish version of the QLQ-CAX24 instrument in women with CC. A cohort of women with CC answered the EORTC QLQ-C30 and QLQ-CAX24 instruments. The psychometric and clinimetric properties of the instruments were assessed. Two hundred and forty-four women were included; the mean age was 50 years (IQR: 41-60) and 188 (77%) were first diagnosed in locally advanced stages. The QLQ-CAX24 internal consistency test demonstrated adequate convergent (Spearman correlation coefficient 0.08-0.709) and divergent validity (Spearman correlation coefficient 0.006-0.471). Cronbach's alpha coefficients of the three multi-item scales were >0.5 (minimum 0.539, maximum 0.84). Patients with decreased handgrip strength, low fat-free mass, or high C-reactive protein levels had worse QLQ-CAX24 scale scores. Cachexia was diagnosed with the SCRINIO, Fearon and Evans criteria, and 31.5, 32.4 and 38.5% of women had cachexia, respectively. Patients with cachexia had the worst scores in terms of quality of life. The test re-test analysis did not show differences between visits in patients without malnutrition. The Mexican-Spanish version of the QLQ-CAX24 instrument is reliable and valid. Low handgrip strength, low fat-free mass and high C-reactive protein levels were associated with poor scale scores.
+</p></td></tr></tbody></table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody> 
 
-
-
-</div>
-
-<script>
-
-// add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
-}
-$(document).ready(function () {
-  bootstrapStylePandocTables();
-});
-
-
-</script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open');
-  });
-});
-</script>
-
-<!-- code folding -->
-
-
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-
-</body>
 </html>
