@@ -1,384 +1,184 @@
 <!DOCTYPE html>
-
-<html>
-
+<html lang="en">
 <head>
+    <title>Coming Soon 2</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta charset="utf-8" />
-<meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
 
-<title>About OMC Lab</title>
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 
-<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
-<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<style>h1 {font-size: 34px;}
-       h1.title {font-size: 38px;}
-       h2 {font-size: 30px;}
-       h3 {font-size: 24px;}
-       h4 {font-size: 18px;}
-       h5 {font-size: 16px;}
-       h6 {font-size: 12px;}
-       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
-       pre:not([class]) { background-color: white }</style>
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
 
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 
-
-
-
-
-
-
-
-<style type = "text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-img {
-  max-width:100%;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-.html-widget {
-  margin-bottom: 20px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-summary {
-  display: list-item;
-}
-details > summary > p:only-child {
-  display: inline;
-}
-pre code {
-  padding: 0;
-}
-</style>
-
-
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
-
-<!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
-<!-- code folding -->
-
-
-
-
+    <meta name="robots" content="noindex, follow">
+    <script nonce="a8d6d3d0-f8b4-49bc-9a32-bfcc05e16678">
+    (function(w, d) {
+        !function(bv, bw, bx, by) {
+            bv[bx] = bv[bx] || {};
+            bv[bx].executed = [];
+            bv.zaraz = {
+                deferred: [],
+                listeners: []
+            };
+            bv.zaraz.q = [];
+            bv.zaraz._f = function(bz) {
+                return function() {
+                    var bA = Array.prototype.slice.call(arguments);
+                    bv.zaraz.q.push({
+                        m: bz,
+                        a: bA
+                    })
+                }
+            };
+            for (const bB of ["track", "set", "debug"])
+                bv.zaraz[bB] = bv.zaraz._f(bB);
+            bv.zaraz.init = () => {
+                var bC = bw.getElementsByTagName(by)[0],
+                    bD = bw.createElement(by),
+                    bE = bw.getElementsByTagName("title")[0];
+                bE && (bv[bx].t = bw.getElementsByTagName("title")[0].text);
+                bv[bx].x = Math.random();
+                bv[bx].w = bv.screen.width;
+                bv[bx].h = bv.screen.height;
+                bv[bx].j = bv.innerHeight;
+                bv[bx].e = bv.innerWidth;
+                bv[bx].l = bv.location.href;
+                bv[bx].r = bw.referrer;
+                bv[bx].k = bv.screen.colorDepth;
+                bv[bx].n = bw.characterSet;
+                bv[bx].o = (new Date).getTimezoneOffset();
+                if (bv.dataLayer)
+                    for (const bI of Object.entries(Object.entries(dataLayer).reduce(((bJ, bK) => ({
+                        ...bJ[1],
+                        ...bK[1]
+                    })))))
+                        zaraz.set(bI[0], bI[1], {
+                            scope: "page"
+                        });
+                bv[bx].q = [];
+                for (; bv.zaraz.q.length;) {
+                    const bL = bv.zaraz.q.shift();
+                    bv[bx].q.push(bL)
+                }
+                bD.defer = !0;
+                for (const bM of [localStorage, sessionStorage])
+                    Object.keys(bM || {}).filter((bO => bO.startsWith("_zaraz_"))).forEach((bN => {
+                        try {
+                            bv[bx]["z_" + bN.slice(7)] = JSON.parse(bM.getItem(bN))
+                        } catch {
+                            bv[bx]["z_" + bN.slice(7)] = bM.getItem(bN)
+                        }
+                    }));
+                bD.referrerPolicy = "origin";
+                bD.src = "/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(bv[bx])));
+                bC.parentNode.insertBefore(bD, bC)
+            };
+            ["complete", "interactive"].includes(bw.readyState) ? zaraz.init() : bv.addEventListener("DOMContentLoaded", zaraz.init)
+        }(w, d, "zarazData", "script");
+    })(window, document);
+    </script>
 </head>
-
 <body>
 
-
-<div class="container-fluid main-container">
-
-
-
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" >OMC Lab</a>
+    <div class="simpleslide100">
+        <div class="simpleslide100-item bg-img1" style="background-image: url('images/logo.jpg');"></div>
+        <div class="simpleslide100-item bg-img1" style="background-image: url('images/logo.jpg');"></div>
+        <div class="simpleslide100-item bg-img1" style="background-image: url('images/logo.jpg');"></div>
     </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-       
-<li>
-  <a href="students.html">Students</a>
-</li>
-<li>
-  <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="collabs.html">Collaborations</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
+    <div class="size1 overlay1">
 
-<div id="header">
+        <div class="size1 flex-col-c-m p-l-15 p-r-15 p-t-50 p-b-50">
+            <h3 class="l1-txt1 txt-center p-b-25">
+            Coming Soon
+            </h3>
+            <p class="m2-txt1 txt-center p-b-48">
+            Our website is under construction, follow us for update now!
+            </p>
+            <div class="flex-w flex-c-m cd100 p-b-33">
+                <div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
+                    <span class="l2-txt1 p-b-9 days">35</span>
+                    <span class="s2-txt1">Days</span>
+                </div>
+                <div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
+                    <span class="l2-txt1 p-b-9 hours">17</span>
+                    <span class="s2-txt1">Hours</span>
+                </div>
+                <div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
+                    <span class="l2-txt1 p-b-9 minutes">50</span>
+                    <span class="s2-txt1">Minutes</span>
+                </div>
+                <div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
+                    <span class="l2-txt1 p-b-9 seconds">39</span>
+                    <span class="s2-txt1">Seconds</span>
+                </div>
+            </div>
+            <form class="w-full flex-w flex-c-m validate-form">
+                <div class="wrap-input100 validate-input where1" data-validate="Valid email is required: ex@abc.xyz">
+                    <input class="input100 placeholder0 s2-txt2" type="text" name="email" placeholder="Enter Email Address">
+                    <span class="focus-input100"></span>
+                </div>
+                <button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
+                Subscribe
+                </button>
+            </form>
+        </div>
+    </div>
 
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-<h1 class="title toc-ignore">About OMC Lab</h1>
+    <script src="vendor/select2/select2.min.js"></script>
 
-</div>
-
-
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-<div class="row" style="padding-top: 30px;">
-
-<div id="oscar-medina-contreras" class="section level1">
-<h1><strong>Oscar Medina Contreras</strong></h1>
-<div id="section" class="section level3">
-<h5>
-<p style="text-align:center">
-                <a href="mailto:omedina@himfg.edu.mx">email</a> &nbsp/&nbsp
-                <a href="cv.html">CV</a> &nbsp/&nbsp
-                <a href="about.html">Bio</a> &nbsp/&nbsp
-		<a href="https://orcid.org/0000-0002-4432-7780">ORCiD</a> &nbsp/&nbsp
-		<a href="https://www.scopus.com/authid/detail.uri?authorId=56013615300">Scopus</a> &nbsp/&nbsp
-                <a href="https://g.dev/omedina">Google</a>
-              </p>
-              </h5>
-
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-</div>
-<p style="padding: 10px; border: 1px solid #808080;">
-<a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full">
-<papertitle>IL-36γ is secreted through an unconventional pathway using
-the Gasdermin D and P2X7R membrane pores</papertitle></a> <br>
-<p>
-Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A,
-Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R,
-Ortíz-Navarrete VF, Medina-Contreras O
-<p>
-<p><em>Front Immunol </em>13, 979749
-<font color="red"><strong>(10.3389/fimmu.2022.979749)</strong></font>
-<br></p>
-<a href="https://pubmed.ncbi.nlm.nih.gov/36059446/">PubMed</a>
-<p>
-<div style="text-align: justify">
-Mucosal innate immunity functions as the first line of defense against
-invading pathogens. Members of the IL-1 family are key cytokines
-upregulated in the inflamed mucosa. Inflammatory cytokines are regulated
-by limiting their function and availability through their activation and
-secretion mechanisms. IL-1 cytokines secretion is affected by the lack
-of a signal peptide on their sequence, which prevents them from
-accessing the conventional protein secretion pathway; thus, they use
-unconventional protein secretion pathways. Here we show in mouse
-macrophages that LPS/ATP stimulation induces cytokine relocalization to
-the plasma membrane, and conventional secretion blockade using monensin
-or Brefeldin A triggers no IL-36<span>γ</span> accumulation within the
-cell. <em>In silico</em> modeling indicates IL-36<span>γ</span> can pass
-through both the P2X7R and Gasdermin D pores, and both
-IL-36<span>γ</span>, P2X7R and Gasdermin D mRNA are upregulated in
-inflammation; further, experimental blockade of these receptors limits
-IL-36<span>γ</span> release. Our results demonstrate that
-IL-36<span>γ</span> is secreted mainly by an unconventional pathway
-through membrane pores formed by P2X7R and Gasdermin D.
-</div>
-</p>
-<p><img src="images/python.png" /> <img src="images/R.png"
-width="50" /></p>
-</div>
-</div>
+    <script src="vendor/countdowntime/moment.min.js"></script>
+    <script src="vendor/countdowntime/moment-timezone.min.js"></script>
+    <script src="vendor/countdowntime/moment-timezone-with-data.min.js"></script>
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+    <script>
+    $('.cd100').countdown100({
+        /*Set Endtime here*/
+        /*Endtime must be > current time*/
+        endtimeYear: 0,
+        endtimeMonth: 0,
+        endtimeDate: 35,
+        endtimeHours: 18,
+        endtimeMinutes: 0,
+        endtimeSeconds: 0,
+        timeZone: ""
 
 
+    });
+    </script>
 
+    <script src="vendor/tilt/tilt.jquery.min.js"></script>
+    <script>
+    $('.js-tilt').tilt({
+        scale: 1.1
+    })
+    </script>
 
-</div>
+    <script src="js/main.js"></script>
 
-<script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-// add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
-}
-$(document).ready(function () {
-  bootstrapStylePandocTables();
-});
-
-
-</script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open');
-  });
-});
-</script>
-
-<!-- code folding -->
-
-
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-
+    gtag('config', 'UA-23581568-13');
+    </script>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7a32e47d1e5f2839","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.2.0","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>
+
