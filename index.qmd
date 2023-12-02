@@ -8,7 +8,7 @@ Our principal interests are on immunonutrition, intestinal immune responses, and
 
 Our most recent papers are:
 
-:::callout-important
+::: callout-important
 ## [Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review](https://www.tandfonline.com/doi/abs/10.1080/10408398.2021.1875189)
 
 Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L, Castro-Eguiluz D\
@@ -18,7 +18,7 @@ doi 10.1080/10408398.2021.1875189, [PubMed](https://pubmed.ncbi.nlm.nih.gov/3350
 Chronic diseases are responsible for approximately 71% global deaths. These are characterized by chronic low-grade inflammation and metabolic alterations. "Functional foods" have been attributed with anti-inflammatory properties, demonstrated in cell lines and murine models; however, studies in humans are inconclusive. The purpose of this systematic review is to identify clinical trials that analyzed changes in inflammatory and metabolic mediators, in response to consumption of specific functional foods. A total of 3581 trials were screened and 88 were included for this review. Foods identified to regulate inflammation included cranberries, grapes, pomegranate, strawberries, wheat, whole grain products, low fat dairy products, yogurt, green tea, cardamom, turmeric, soy foods, almonds, chia seeds, flaxseed, pistachios, algae oil, flaxseed oil and grape seed oil. Clinical trials that focus on a dietary pattern rich in functional foods are necessary to explore if the additive effect of these foods lead to more clinically relevant outcomes.
 :::
 
-:::callout-important
+::: callout-important
 ## [IL-36γ is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores](https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full)
 
 Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-Contreras O\

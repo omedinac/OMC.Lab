@@ -2,13 +2,13 @@
 title: "Students"
 ---
 
-:::callout-tip
+::: callout-tip
 ## Postdoc
 
 Diana Villalpando
 :::
 
-:::callout-tip
+::: callout-tip
 ## PhD
 
 Albertana Jimenez Pineda\
@@ -21,28 +21,25 @@ Samantha Ysais-Chong\
 Sara Miguel-Suarez
 :::
 
-:::callout-tip
+::: callout-tip
 ## MSc
 
 [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
 
-
-
-
-:::callout-tip
+::: callout-tip
 ## Clinical Specialty
 
 Yanen Z Rios Lozano
 :::
 
-:::callout-tip
+::: callout-tip
 ## Undergrad
 
 F
 :::
 
-:::callout-tip
+::: callout-tip
 ## Former
 
 Laura D Manzanares-Meza\

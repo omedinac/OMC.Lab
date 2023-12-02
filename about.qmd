@@ -5,15 +5,17 @@ title: "About Us"
 # Denisse Castro Eguiluz
 
 |                                      |        |                                                |
-|------------------------|-----------------|-------------------------------|
+|------------------------|------------------|------------------------------|
 | [email](mailto:adcastro@conahcyt.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) |
 
 I did my PhD at [ENCB](https://www.encb.ipn.mx/posgrado/doctorado-inmunologia/), where I was advised by [Vianney Ortiz-Navarrete](href=%22https://biomol.cinvestav.mx/Personal-Académico/Dr-Vianney-Ortiz-Navarrete). I’m member of the [National Research System](https://conacyt.mx/sistema-nacional-de-investigadores/).
 
 # Oscar Medina-Contreras
 
+# ![Oscar Medina Contreras](res/omc.JPG){width="200"}
+
 |                                      |        |                                                |                                                                         |                                                                         |                                   |                                        |
-|-------------|--------|-------------------|--------|--------|--------|--------|
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | [email](mailto:omedina@himfg.edu.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) | [Scholar](https://scholar.google.com/citations?user=8uVVtz4AAAAJ&hl=en) | [X](https://twitter.com/morphant) | [GitHub](https://github.com/omedinac/) |
 
 Dr. Oscar Medina Contreras is a Medical Sciences Researcher at Mexico Children's Hospital, a National Institute of Health, in the Immunology & Proteomics Laboratory and the Epidemiology, Endocrinology & Nutrition Research Unit. Before joining Mexico Children's Hospital, he was a research associate in the Institute for Biomedical Sciences' Center for Inflammation, Immunity & Infection at Georgia State University.

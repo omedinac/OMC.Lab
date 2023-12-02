@@ -5,12 +5,12 @@ title: "Publications"
 ::: {.callout-warning collapse="true"}
 ## upcoming
 
-- Paneth and Paneth-like cells undergoing necroptosis fuel intestinal epithelial cell proliferation following IFN$\gamma$ stimulation
-- Leptin-receptor modulators: Docking-based virtual screening
-- HS1 deficiency protects from experimental colitis by reducing neutrophil recruitment to the mucosa and transepithelial migration
-- Recognition of molecular targets against acute lymphoblastic leukemia, with *Trypanosoma cruzi* antibodies
-- HPV vaccination improves immune response in children with respiratory papillomatosis
-- Crtam and IL-36$\gamma$ are required for the control of <i>Salmonella</i> infection in the intestine
+-   Paneth and Paneth-like cells undergoing necroptosis fuel intestinal epithelial cell proliferation following IFN$\gamma$ stimulation
+-   Leptin-receptor modulators: Docking-based virtual screening
+-   HS1 deficiency protects from experimental colitis by reducing neutrophil recruitment to the mucosa and transepithelial migration
+-   Recognition of molecular targets against acute lymphoblastic leukemia, with *Trypanosoma cruzi* antibodies
+-   HPV vaccination improves immune response in children with respiratory papillomatosis
+-   Crtam and IL-36$\gamma$ are required for the control of <i>Salmonella</i> infection in the intestine
 :::
 
 ::: {.callout-note collapse="true"}
@@ -28,7 +28,7 @@ Chronic diseases are responsible for approximately 71% global deaths. These are 
 Luvián-Morales J, Castillo-Aguilar J, Delgadillo-González M, Cisneros-Sánchez A, Bosch-Gutiérrez J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF\
 *Jpn J Clin Oncol* 53(4), 304-312
 
-Cancer-related cachexia (CRC) is a common phenomenon in cervical cancer (CC), severely affecting clinical response, drug toxicity and survival. The patients' point of view should be evaluated to quantify the impact of CRC, and adequate instruments to do so are required. Thus, the study aimed to validate the Mexican-Spanish version of the QLQ-CAX24 instrument in women with CC. A cohort of women with CC answered the EORTC QLQ-C30 and QLQ-CAX24 instruments. The psychometric and clinimetric properties of the instruments were assessed. Two hundred and forty-four women were included; the mean age was 50 years (IQR: 41-60) and 188 (77%) were first diagnosed in locally advanced stages. The QLQ-CAX24 internal consistency test demonstrated adequate convergent (Spearman correlation coefficient 0.08-0.709) and divergent validity (Spearman correlation coefficient 0.006-0.471). Cronbach's alpha coefficients of the three multi-item scales were >0.5 (minimum 0.539, maximum 0.84). Patients with decreased handgrip strength, low fat-free mass, or high C-reactive protein levels had worse QLQ-CAX24 scale scores. Cachexia was diagnosed with the SCRINIO, Fearon and Evans criteria, and 31.5, 32.4 and 38.5% of women had cachexia, respectively. Patients with cachexia had the worst scores in terms of quality of life. The test re-test analysis did not show differences between visits in patients without malnutrition. The Mexican-Spanish version of the QLQ-CAX24 instrument is reliable and valid. Low handgrip strength, low fat-free mass and high C-reactive protein levels were associated with poor scale scores.
+Cancer-related cachexia (CRC) is a common phenomenon in cervical cancer (CC), severely affecting clinical response, drug toxicity and survival. The patients' point of view should be evaluated to quantify the impact of CRC, and adequate instruments to do so are required. Thus, the study aimed to validate the Mexican-Spanish version of the QLQ-CAX24 instrument in women with CC. A cohort of women with CC answered the EORTC QLQ-C30 and QLQ-CAX24 instruments. The psychometric and clinimetric properties of the instruments were assessed. Two hundred and forty-four women were included; the mean age was 50 years (IQR: 41-60) and 188 (77%) were first diagnosed in locally advanced stages. The QLQ-CAX24 internal consistency test demonstrated adequate convergent (Spearman correlation coefficient 0.08-0.709) and divergent validity (Spearman correlation coefficient 0.006-0.471). Cronbach's alpha coefficients of the three multi-item scales were \>0.5 (minimum 0.539, maximum 0.84). Patients with decreased handgrip strength, low fat-free mass, or high C-reactive protein levels had worse QLQ-CAX24 scale scores. Cachexia was diagnosed with the SCRINIO, Fearon and Evans criteria, and 31.5, 32.4 and 38.5% of women had cachexia, respectively. Patients with cachexia had the worst scores in terms of quality of life. The test re-test analysis did not show differences between visits in patients without malnutrition. The Mexican-Spanish version of the QLQ-CAX24 instrument is reliable and valid. Low handgrip strength, low fat-free mass and high C-reactive protein levels were associated with poor scale scores.
 :::
 
 ::: {.callout-note collapse="true"}
@@ -80,12 +80,12 @@ Hyperinflammation present in individuals with severe COVID-19 has been associate
 ## [Immunoproteomics of cow's milk allergy in Mexican pediatric patients](https://www.sciencedirect.com/science/article/abs/pii/S1874391922003335)
 
 Torres-Arroyo A, Martínez-Aguilar J, Castillo-Villanueva A, Zárate-Mondragón F, Cervantes-Bustamante R, Patiño-López G, Medina-Contreras O, Espinosa-Padilla SE, Valencia-Rojas S, Romero-Guzmán L, Oria-Hernández J, Reyes-Vivas H\
-J Proteomics 273, 104809 
+J Proteomics 273, 104809
 
 Immunological mechanisms of non-IgE-mediated cow's milk protein allergy (CMPA) are not well understood. Such a circumstance requires attention with the aim of discovering new biomarkers that could lead to better diagnostic assays for early treatment. Here, we sought both to investigate the mechanism that underlies non-IgE-mediated CMPA and to identify cow's milk immunoreactive proteins in a Mexican pediatric patient group (n = 34). Hence, we determined the IgE and IgG1-4 subclass antibody levels against cow's milk proteins (CMP) by ELISA. Then, we performed 2D-Immunoblots using as first antibody immunoglobulins in the patients'serum that bound specifically against CMP together with CMP enrichment by ion-exchange chromatography. Immunoreactive proteins were identified by mass spectrometry-based proteomics. The serological test confirmed absence of specific IgE in the CMPA patients but showed significant increase in antigen-specific IgG1. Additionally, we identified 11 proteins that specifically bound to IgG1. We conclude that the detection of specific IgG1 together with an immunoproteomics approach is highly relevant to the understanding of CMPA's physiopathology and as a possible aid in making a prognosis since current evidence indicates IgG1 occurrence as an early signal of potential risk toward development of IgE-mediated food allergy. SIGNIFICANCE: Allergies are one of the most studied topics in the field of public health and novel protein allergens are found each year. Discovery of new principal and regional allergens has remarkable repercussions in precise molecular diagnostics, prognostics, and more specific immunotherapies. In this context, specific IgE is widely known to mediate physiopathology; however, allergies whose mechanism does not involve this immunoglobulin are poorly understood although their incidence has increased. Therefore, accurate diagnosis and adequate treatment are delayed with significant consequences on the health of pediatric patients. The study of type and subtypes of immunoglobulins associated with the immunoreactivity of cow's milk proteins together with an immunoproteomics approach allows better comprehension of physiopathology, brings the opportunity to discover new potential cow's milk protein allergens and may help in prognosis prediction (IgG1 occurrence as an early signal of possible risk toward development of IgE-mediated food allergy).
 :::
 
-::: {.callout-note collapse="true"} 
+::: {.callout-note collapse="true"}
 ## [IL-36γ is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores](https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full)
 
 Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-Contreras O\
@@ -99,7 +99,7 @@ Mucosal innate immunity functions as the first line of defense against invading 
 
 Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG, Jiménez-Pineda A, Reyes-López CA, Cerecedo D\
 J Hum Hypertens 36(7), 640-50
- 
+
 Hypertension (HTN) causes end-organ damage and is a major cause of morbidity and mortality globally. Recent studies suggested blood cells participate in the maintenance of HTN. Platelets-anucleated cell fragments derived from megakaryocytes-exert diverse functions, including their well-characterized role in the formation of hemostatic clots. However, platelets from patients with HTN exhibit altered membrane lipid and protein compositions that impact platelet function and lead to formation of aggregates and vascular obstructions. Here, for the first time, we have identified, by proteomic analyses, the most relevant 11 proteins that show the greatest difference in their expression in platelets derived from patients with HTN, in comparison with those from normotensive individuals. These proteins are involved in cytoskeletal organization and the coagulation cascade that contributes to platelet activation, release of granule contents, and aggregation, which culminate in thrombus formation. These results have important implications in our understanding of the molecular mechanisms associated with the development of HTN, and in consequence, the development of new strategies to counteract the cardiovascular disorders associated with constitutive activation of platelets in HTN.
 :::
 
@@ -108,7 +108,7 @@ Hypertension (HTN) causes end-organ damage and is a major cause of morbidity and
 
 Aparicio-Bautista DI, Chávez-Valenzuela D, Ambriz-Álvarez G, Córdova-Fraga T, Reyes-Grajeda JP, Medina-Contreras Ó, Rodríguez-Cruz F, García-Sierra F, Zúñiga-Sánchez P, Gutiérrez-Gutiérrez AM, Arellanes-Robledo J, Basurto-Islas G\
 Bioelectromagnetics 43(4), 225-44
- 
+
 Homogeneous extremely low-frequency electromagnetic fields (ELF-EMFs) alter biological phenomena, including the cell phenotype and proliferation rate. Heterogenous vortex magnetic fields (VMFs), a new approach of exposure to magnetic fields, induce systematic movements on charged biomolecules from target cells; however, the effect of VMFs on living systems remains uncertain. Here, we designed, constructed, and characterized an ELF-VMF-modified Rodin's coil to expose SH-SY5Y cells. Samples were analyzed by performing 2D-differential-gel electrophoresis, identified by MALDI-TOF/TOF, validated by western blotting, and characterized by confocal microscopy. A total of 106 protein spots were differentially expressed; 40 spots were downregulated and 66 were upregulated in the exposed cell proteome, compared to the control cell proteome. The identified spots are associated with cytoskeleton and cell viability proteins, and according to the protein-protein interaction network, a significant interaction among them was found. Our data revealed a decrease in cell survival associated with apoptotic cells without effects on the cell cycle, as well as evident changes in the cytoskeleton. We demonstrated that ELF-VMFs, at a specific frequency and exposure time, alter the cell proteome and structurally affect the target cells. This is the first report showing that VMF application might be a versatile system for testing different hypotheses in living systems, using appropriate exposure parameters.
 :::
 
@@ -145,19 +145,19 @@ In this study, the genomes of two lytic bacteriophages, vB_EcoS-phiEc3 and vB_Ec
 Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O\
 J Interferon Cytokine Res 42(2), 49-61
 
-The interleukin (IL)-1 superfamily of cytokines comprises 11 pro- and anti-inflammatory cytokines, which play essential roles during the immune response. Several pathogenic pathways are initiated by IL-1RL2 (interleukin 1 receptor-like 2) signaling, also known as IL-36R, in the skin, lungs, and gut. IL-36 cytokines promote the secretion of proinflammatory cytokines and chemokines, upregulation of antimicrobial peptides, proliferation mediators, and adhesion molecules on endothelial cells. In addition, the IL-36-IL-1RL2 axis has an essential role against viral infections, including a potential role in COVID-19 pathology. The evidence presented in this review highlights the importance of the axis IL-36-IL-1RL2 in the development of several inflammation-related diseases and the healing process. It suggests that IL-1RL2 ligands have specific roles depending on the tissue or cell source. However, there is still much to discover about this cytokine family, their functions in other organs, and how they accomplish a dual effect in inflammation and healing.                       
+The interleukin (IL)-1 superfamily of cytokines comprises 11 pro- and anti-inflammatory cytokines, which play essential roles during the immune response. Several pathogenic pathways are initiated by IL-1RL2 (interleukin 1 receptor-like 2) signaling, also known as IL-36R, in the skin, lungs, and gut. IL-36 cytokines promote the secretion of proinflammatory cytokines and chemokines, upregulation of antimicrobial peptides, proliferation mediators, and adhesion molecules on endothelial cells. In addition, the IL-36-IL-1RL2 axis has an essential role against viral infections, including a potential role in COVID-19 pathology. The evidence presented in this review highlights the importance of the axis IL-36-IL-1RL2 in the development of several inflammation-related diseases and the healing process. It suggests that IL-1RL2 ligands have specific roles depending on the tissue or cell source. However, there is still much to discover about this cytokine family, their functions in other organs, and how they accomplish a dual effect in inflammation and healing.
 :::
 
-::: {.callout-note collapse="true"}                             
-## [Evaluation and Quantification of Micro Epithelial Gaps in the Colonic Mucosa using Immunofluorescence Staining](href="https://www.jove.com/es/t/62204/evaluation-quantification-micro-epithelial-gaps-colonic-mucosa-using)
+::: {.callout-note collapse="true"}
+## [Evaluation and Quantification of Micro Epithelial Gaps in the Colonic Mucosa using Immunofluorescence Staining](href=%22https://www.jove.com/es/t/62204/evaluation-quantification-micro-epithelial-gaps-colonic-mucosa-using)
 
 Castro-Martínez F, Encarnación-García MDR, Candelario-Martinez A, Medina-Contreras O, Patiño-Lopez G, Schnoor M, Nava P\
 J Vis Exp 2021(172)
 
-Epithelial cells lining the intestinal mucosa create a physical barrier that separates the luminal content from the interstitium. Epithelial barrier impairment has been associated with the development of various pathologies such as inflammatory bowel diseases (IBD). In the inflamed mucosa, superficial erosions or micro-erosions that corrupt epithelial monolayers correspond to sites of high permeability. Several mechanisms have been implicated in the formation of micro-erosions including cell shedding and apoptosis. These micro-erosions often represent microscopic epithelial gaps randomly distributed in the colon. Visualization and quantification of those epithelial gaps has emerged as an important tool to investigate intestinal epithelial barrier function. Here, we describe a new method to visualize the specific location of where transcellular and paracellular permeability is enhanced in the inflamed colonic mucosa. In this assay, we apply a 10 kDa fluorescent dye conjugated to a lysine fixable dextran to visualize high permeability regions (HPR) in the colonic mucosa. Additional use of cell death markers revealed that HPR encompass apoptotic foci where epithelial extrusion/shedding occurs. The protocol described here provides a simple but effective approach to visualize and quantify micro-erosions in the intestine, which is a very useful tool in disease models, in which the intestinal epithelial barrier is compromised.     
+Epithelial cells lining the intestinal mucosa create a physical barrier that separates the luminal content from the interstitium. Epithelial barrier impairment has been associated with the development of various pathologies such as inflammatory bowel diseases (IBD). In the inflamed mucosa, superficial erosions or micro-erosions that corrupt epithelial monolayers correspond to sites of high permeability. Several mechanisms have been implicated in the formation of micro-erosions including cell shedding and apoptosis. These micro-erosions often represent microscopic epithelial gaps randomly distributed in the colon. Visualization and quantification of those epithelial gaps has emerged as an important tool to investigate intestinal epithelial barrier function. Here, we describe a new method to visualize the specific location of where transcellular and paracellular permeability is enhanced in the inflamed colonic mucosa. In this assay, we apply a 10 kDa fluorescent dye conjugated to a lysine fixable dextran to visualize high permeability regions (HPR) in the colonic mucosa. Additional use of cell death markers revealed that HPR encompass apoptotic foci where epithelial extrusion/shedding occurs. The protocol described here provides a simple but effective approach to visualize and quantify micro-erosions in the intestine, which is a very useful tool in disease models, in which the intestinal epithelial barrier is compromised.
 :::
 
-::: {.callout-note collapse="true"}                             
+::: {.callout-note collapse="true"}
 ## [Comparative Transcriptomes of the Body Wall of Wild and Farmed Sea Cucumber *Isostichopus badionotus*](https://www.mdpi.com/1422-0067/22/8/3882)
 
 Martín-Hernández R, Rodríguez-Canul R, Kantún-Moreno N, Olvera-Novoa MA, Medina-Contreras O, Garikoitz-Legarda C, Triviño JC, Zamora-Briseño JA, May-Solis V, Poot-Salazar A, Pérez-Vega JA, Gil-Zamorano J, Grant G, Dávalos A, Olivera-Castillo L\
@@ -176,24 +176,24 @@ Enteropathogenic bacterial infections are a global health issue associated with 
 :::
 
 ::: {.callout-note collapse="true"}
-## [Nucleoredoxin interaction with flightless-I/actin complex is differentially altered in alcoholic liver disease](href="https://onlinelibrary.wiley.com/doi/10.1111/bcpt.13451)
+## [Nucleoredoxin interaction with flightless-I/actin complex is differentially altered in alcoholic liver disease](href=%22https://onlinelibrary.wiley.com/doi/10.1111/bcpt.13451)
 
 Alarcón-Sánchez BR, Guerrero-Escalera D, Rosas-Madrigal S, Ivette Aparicio-Bautista D, Reyes-Gordillo K, Lakshman MR, Ortiz-Fernández A, Quezada H, Medina-Contreras O, Villa-Treviño S, Isael Pérez-Carreón J, Arellanes-Robledo J\
 Basic Clin Pharmacol Toxicol 127(5), 389-404
- 
-Alcoholic liver disease (ALD) may be attributed to multiple hits driving several alterations. The aim of this work was to determine whether nucleoredoxin (NXN) interacts with flightless-I (FLII)/actin complex and how this ternary complex is altered during ALD progression induced by different ALD models. ALD was recapitulated in C57BL/6J female mice by the well-known ALD Lieber-DeCarli model, and by an in vitro human co-culture system overexpressing NXN. The effects of ethanol and low doses of lipopolysaccharides (LPS) and diethylnitrosamine (DEN) were also evaluated in vivo as a first approach of an ALD multi-hit protocol. We demonstrated that NXN interacts with FLII/actin complex. This complex was differentially altered in ALD in vivo and in vitro, and NXN overexpression partially reverted this alteration. We also showed that ethanol, LPS and DEN synergistically induced liver structural disarrangement, steatosis and inflammatory infiltration accompanied by increased levels of proliferation (Ki67), ethanol metabolism (CYP2E1), hepatocarcinogenesis (GSTP1) and LPS-inducible (MYD88 and TLR4) markers. In summary, we provide evidence showing that NXN/FLII/actin complex is involved in ALD progression and that NXN might be involved in the regulation of FLII/actin-dependent cellular functions. Moreover, we present a promising first approach of a multi-hit protocol to better recapitulate ALD pathogenesis.        
+
+Alcoholic liver disease (ALD) may be attributed to multiple hits driving several alterations. The aim of this work was to determine whether nucleoredoxin (NXN) interacts with flightless-I (FLII)/actin complex and how this ternary complex is altered during ALD progression induced by different ALD models. ALD was recapitulated in C57BL/6J female mice by the well-known ALD Lieber-DeCarli model, and by an in vitro human co-culture system overexpressing NXN. The effects of ethanol and low doses of lipopolysaccharides (LPS) and diethylnitrosamine (DEN) were also evaluated in vivo as a first approach of an ALD multi-hit protocol. We demonstrated that NXN interacts with FLII/actin complex. This complex was differentially altered in ALD in vivo and in vitro, and NXN overexpression partially reverted this alteration. We also showed that ethanol, LPS and DEN synergistically induced liver structural disarrangement, steatosis and inflammatory infiltration accompanied by increased levels of proliferation (Ki67), ethanol metabolism (CYP2E1), hepatocarcinogenesis (GSTP1) and LPS-inducible (MYD88 and TLR4) markers. In summary, we provide evidence showing that NXN/FLII/actin complex is involved in ALD progression and that NXN might be involved in the regulation of FLII/actin-dependent cellular functions. Moreover, we present a promising first approach of a multi-hit protocol to better recapitulate ALD pathogenesis.
 :::
 
-::: {.callout-note collapse="true"}                                 
+::: {.callout-note collapse="true"}
 ## [Molecular Epidemiology of <i>Acinetobacter calcoaceticus</i>-<i>Acinetobacter baumannii</i> Complex Isolated From Children at the Hospital Infantil de México Federico Gómez](https://onlinelibrary.wiley.com/doi/10.1111/bcpt.13451)
 
 Mancilla-Rojano J, Ochoa SA, Reyes-Grajeda JP, Flores V, Medina-Contreras O, Espinosa-Mazariego K, Parra-Ortega I, Rosa-Zamboni D, Castellanos-Cruz MDC, Arellano-Galindo J, Cevallos MA, Hernández-Castro R, Xicohtencatl-Cortes J, Cruz-Córdova A\
 Front Microbiol 11, 576673
 
-The Acinetobacter calcoaceticus-baumannii (Acb) complex is regarded as a group of phenotypically indistinguishable opportunistic pathogens responsible for mainly causing hospital-acquired pneumonia and bacteremia. The aim of this study was to determine the frequency of isolation of the species that constitute the Acb complex, as well as their susceptibility to antibiotics, and their distribution at the Hospital Infantil de Mexico Federico Gomez (HIMFG). A total of 88 strains previously identified by Vitek 2®, 40 as Acinetobacter baumannii and 48 as Acb complex were isolated from 52 children from 07, January 2015 to 28, September 2017. A. baumannii accounted for 89.77% (79/88) of the strains; Acinetobacter pittii, 6.82% (6/88); and Acinetobacter nosocomialis, 3.40% (3/88). Most strains were recovered mainly from patients in the intensive care unit (ICU) and emergency wards. Blood cultures (BC) provided 44.32% (39/88) of strains. The 13.63% (12/88) of strains were associated with primary bacteremia, 3.4% (3/88) with secondary bacteremia, and 2.3% (2/88) with pneumonia. In addition, 44.32% (39/88) were multidrug-resistant (MDR) strains and, 11.36% (10/88) were extensively drug-resistant (XDR). All strains amplified the bla OXA-51 gene; 51.13% (45/88), the bla OXA-23 gene; 4.54% (4/88), the bla OXA-24 gene; and 2.27% (2/88), the bla OXA-58 gene. Plasmid profiles showed that the strains had 1-6 plasmids. The strains were distributed in 52 pulsotypes, and 24 showed identical restriction patterns, with a correlation coefficient of 1.0. Notably, some strains with the same pulsotype were isolated from different patients, wards, or years, suggesting the persistence of more than one clone. Twenty-seven sequence types (STs) were determined for the strains based on a Pasteur multilocus sequence typing (MLST) scheme using massive sequencing; the most prevalent was ST 156 (27.27%, 24/88). The Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas I-Fb system provided amplification in A. baumannii and A. pittii strains (22.73%, 20/88). This study identified an increased number of MDR strains and the relationship among strains through molecular typing. The data suggest that more than one strain could be causing an infection in some patient. The implementation of molecular epidemiology allowed the characterization of a set of strains and identification of different attributes associated with its distribution in a specific environment.                         
+The Acinetobacter calcoaceticus-baumannii (Acb) complex is regarded as a group of phenotypically indistinguishable opportunistic pathogens responsible for mainly causing hospital-acquired pneumonia and bacteremia. The aim of this study was to determine the frequency of isolation of the species that constitute the Acb complex, as well as their susceptibility to antibiotics, and their distribution at the Hospital Infantil de Mexico Federico Gomez (HIMFG). A total of 88 strains previously identified by Vitek 2®, 40 as Acinetobacter baumannii and 48 as Acb complex were isolated from 52 children from 07, January 2015 to 28, September 2017. A. baumannii accounted for 89.77% (79/88) of the strains; Acinetobacter pittii, 6.82% (6/88); and Acinetobacter nosocomialis, 3.40% (3/88). Most strains were recovered mainly from patients in the intensive care unit (ICU) and emergency wards. Blood cultures (BC) provided 44.32% (39/88) of strains. The 13.63% (12/88) of strains were associated with primary bacteremia, 3.4% (3/88) with secondary bacteremia, and 2.3% (2/88) with pneumonia. In addition, 44.32% (39/88) were multidrug-resistant (MDR) strains and, 11.36% (10/88) were extensively drug-resistant (XDR). All strains amplified the bla OXA-51 gene; 51.13% (45/88), the bla OXA-23 gene; 4.54% (4/88), the bla OXA-24 gene; and 2.27% (2/88), the bla OXA-58 gene. Plasmid profiles showed that the strains had 1-6 plasmids. The strains were distributed in 52 pulsotypes, and 24 showed identical restriction patterns, with a correlation coefficient of 1.0. Notably, some strains with the same pulsotype were isolated from different patients, wards, or years, suggesting the persistence of more than one clone. Twenty-seven sequence types (STs) were determined for the strains based on a Pasteur multilocus sequence typing (MLST) scheme using massive sequencing; the most prevalent was ST 156 (27.27%, 24/88). The Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas I-Fb system provided amplification in A. baumannii and A. pittii strains (22.73%, 20/88). This study identified an increased number of MDR strains and the relationship among strains through molecular typing. The data suggest that more than one strain could be causing an infection in some patient. The implementation of molecular epidemiology allowed the characterization of a set of strains and identification of different attributes associated with its distribution in a specific environment.
 :::
 
-::: {.callout-note collapse="true"}                       
+::: {.callout-note collapse="true"}
 ## [The role of the oncogenic Rab35 in cancer invasion, metastasis, and immune evasion, especially in leukemia](https://www.tandfonline.com/doi/full/10.1080/21541248.2018.1463895)
 
 Villagomez FR, Medina-Contreras O, Cerna-Cortes JF, Patino-Lopez G\
@@ -202,7 +202,7 @@ Small GTPases 11(5), 334-45
 The study of cancer has allowed researchers to describe some biological characteristics that tumor cells acquire during their development, known as the "hallmarks of cancer" but more research is needed to expand our knowledge about cancer biology and to generate new strategies of treatment. The role that RabGTPases might play in some hallmarks of cancer represents interesting areas of study since these proteins are frequently altered in cancer. However, their participation is not well known. Recently, Rab35was recognized as an oncogenic RabGTPase and and because of its association with different cellular functions, distinctly important in immune cells, a possible role of Rab35 in leukemia can be suggested. Nevertheless, the involvement of Rab35 in cancer remains poorly understood and its possible specific role in leukemia remains unknown. In this review, we analyze general aspects of the participation of RabGTPases in cancer, and especially, the plausible role of Rab35 in leukemia.
 :::
 
-::: {.callout-note collapse="true"}                         
+::: {.callout-note collapse="true"}
 ## [A glycosaminoglycan-rich fraction from sea cucumber *Isostichopus badionotus* has potent anti-inflammatory properties *in vitro* and *in vivo*](https://www.mdpi.com/2072-6643/12/6/1698)
 
 Olivera-Castillo L, Grant G, Kantún-Moreno N, Barrera-Pérez HA, Montero J, Olvera-Novoa MA, Carrillo-Cocom LM, Acevedo JJ, Puerto-Castillo C, May Solís V, Pérez-Vega JA, Gil-Zamorano J, Hernández-Garibay E, Fernández-Herrera MA, Pérez-Tapia M, Medina-Contreras O, Villanueva-Toledo JR, Rodriguez-Canul R, Dávalos A\
@@ -271,7 +271,7 @@ The high prevalence of childhood obesity in Mexico is alarming in the health-sci
 Costa-Urrutia P, Vizuet-Gámez A, Ramirez-Alcántara M, Guillen-González MÁ, Medina-Contreras O, Valdes-Moreno M, Musalem-Younes C, Solares-Tlapechco J, Granados J, Franco-Trecu V, Rodriguez-Arellano ME\
 PLoS One 14(2), e0212792
 
-In Mexico, the increase in childhood obesity is alarming. Thus, improving the precision of its diagnosis is expected to impact on disease prevention. We estimated obesity prevalence by bioimpedance-based percent body fat (%BF) and body mass index (BMI) in 1061 girls and 1121 boys, from 3 to 17 years old. Multiple regressions and area under receiver operating curves (AUC) were used to determine the predictive value of BMI on %BF and percentile curves were constructed. Overall obesity prevalence estimated by %BF was 43.7%, and by BMI it was 20.1%; it means that the diagnosis by BMI underestimated around 50% of children diagnosed with obesity by %BF (≥30% for girls, ≥25% for boys). The fat mass excess is further underestimated in boys than in girls when using the standard BMI classification. The relationship between %BF and BMI was strong in school children and adolescents (all cases R2>0.70), but not in preschool children (girls R2 = 0.57, boys R2 = 0.23). AUCs showed greater discriminative power of BMI to detect %BF obesity in school children and adolescents (all cases AUC≥0.90) than in preschool children (girls AUC = 0.86; boys AUC = 0.70). Growth percentile charts showed that girls aged 9-17 years and boys aged 8-17 years presented fat excess from the 50th percentile and above. We suggested to change the BMI cut-off for them, considering values at the 75th percentile as overweight, and values at the 85th percentile as obesity, as previously recommended for Mexican children. Improving obesity diagnosis will allow greater efficiency when searching for comorbidities in clinical practice.
+In Mexico, the increase in childhood obesity is alarming. Thus, improving the precision of its diagnosis is expected to impact on disease prevention. We estimated obesity prevalence by bioimpedance-based percent body fat (%BF) and body mass index (BMI) in 1061 girls and 1121 boys, from 3 to 17 years old. Multiple regressions and area under receiver operating curves (AUC) were used to determine the predictive value of BMI on %BF and percentile curves were constructed. Overall obesity prevalence estimated by %BF was 43.7%, and by BMI it was 20.1%; it means that the diagnosis by BMI underestimated around 50% of children diagnosed with obesity by %BF (≥30% for girls, ≥25% for boys). The fat mass excess is further underestimated in boys than in girls when using the standard BMI classification. The relationship between %BF and BMI was strong in school children and adolescents (all cases R2\>0.70), but not in preschool children (girls R2 = 0.57, boys R2 = 0.23). AUCs showed greater discriminative power of BMI to detect %BF obesity in school children and adolescents (all cases AUC≥0.90) than in preschool children (girls AUC = 0.86; boys AUC = 0.70). Growth percentile charts showed that girls aged 9-17 years and boys aged 8-17 years presented fat excess from the 50th percentile and above. We suggested to change the BMI cut-off for them, considering values at the 75th percentile as overweight, and values at the 85th percentile as obesity, as previously recommended for Mexican children. Improving obesity diagnosis will allow greater efficiency when searching for comorbidities in clinical practice.
 :::
 
 ::: {.callout-note collapse="true"}
@@ -281,8 +281,8 @@ Jiménez-Osorio AS, Musalem-Younes C, Cárdenas-Hernández H, Solares-Tlapechco 
 Medicina 55(2), 40
 
 Type 2 diabetes (T2D) is a major problem of public health in Mexico. We investigated the influence of five polymorphisms, previously associated with obesity and cardiovascular disease in Europeans and Asians, on T2D in Mexican Mestizos. A total of 1358 subjects from 30 to 85 years old were genotyped for five loci: CXCL12 rs501120; CDNK2A/B rs1333049; HNF-1α rs2259816; FTO rs9939609; and LEP rs7799039. We used logistic regressions to test the effect of each locus on T2D in two case⁻control groups with obesity and without obesity. Also, linear regression models on glucose and glycated hemoglobin (HbA1c) were carried out on the whole sample, adjusted by age, gender, and body mass index. The CXCL12 rs501120 C allele (OR = 1.96, p = 0.02), the FTO rs9939609 A allele (OR = 2.20, p = 0.04) and the LEP rs7799039 A allele (OR = 0.6, p = 0.03) were significantly associated with T2D in obesity case⁻control group. No significant association was found in the non-obesity case⁻control group. The linear regression model showed that CDNK2A/B rs1333049 C allele (β = 0.4, p = 0.03) and FTO rs9939609 A allele (β = 0.5, p = 0.03), were significantly associated with HbA1c, but no association was found among the loci with the glucose levels. Polymorphisms previously linked with obesity and cardiovascular events were also associated with T2D and high levels of HbA1c. Furthermore, we must point at the fact that this is the first report where polymorphisms CXCL12 rs501120 and LEP rs7799039 are associated with T2D in subjects with obesity.
-:::                         
-                             
+:::
+
 ::: {.callout-note collapse="true"}
 ## [Myosin 1F Regulates M1-Polarization by Stimulating Intercellular Adhesion in Macrophages](https://www.frontiersin.org/articles/10.3389/fimmu.2018.03118/full)
 
@@ -347,285 +347,109 @@ The gastrointestinal tract is the largest hormone-producing organ in the body du
 :::
 
 ::: {.callout-note collapse="true"}
-## [14-3-3 Proteins regulate Akt Thr308 phosphorylation in intestinal epithelial cells](https://www.nature.com/articles/cdd2015163)
+## 14-3-3 Proteins regulate Akt Thr308 phosphorylation in intestinal epithelial cells
 
 Gómez-Suárez M, Gutiérrez-Martínez IZ, Hernández-Trejo JA, Hernández-Ruiz M, Suárez-Pérez D, Candelario A, Kamekura R, Medina-Contreras O, Schnoor M, Ortiz-Navarrete V, Villegas-Sepúlveda N, Parkos C, Nusrat A, Nava P\
-Cell Death Differ 23(6), 1060-72
+[Cell Death Differ 23(6), 1060-72](https://www.nature.com/articles/cdd2015163)
 
 Akt activation has been associated with proliferation, differentiation, survival and death of epithelial cells. Phosphorylation of Thr308 of Akt by phosphoinositide-dependent kinase 1 (PDK1) is critical for optimal stimulation of its kinase activity. However, the mechanism(s) regulating this process remain elusive. Here, we report that 14-3-3 proteins control Akt Thr308 phosphorylation during intestinal inflammation. Mechanistically, we found that IFNγ and TNFα treatment induce degradation of the PDK1 inhibitor, 14-3-3η, in intestinal epithelial cells. This mechanism requires association of 14-3-3ζ with raptor in a process that triggers autophagy and leads to 14-3-3η degradation. Notably, inhibition of 14-3-3 function by the chemical inhibitor BV02 induces uncontrolled Akt activation, nuclear Akt accumulation and ultimately intestinal epithelial cell death. Our results suggest that 14-3-3 proteins control Akt activation and regulate its biological functions, thereby providing a new mechanistic link between cell survival and apoptosis of intestinal epithelial cells during inflammation.
 :::
 
 ::: {.callout-note collapse="true"}
-## [IL-36 Receptor Promotes Resolution of Intestinal Damage](https://journals.aai.org/jimmunol/article/196/1/34/105174/Cutting-Edge-IL-36-Receptor-Promotes-Resolution-of)
+## IL-36 Receptor Promotes Resolution of Intestinal Damage
 
 Medina-Contreras O, Harusato A, Nishio H, Flannigan KL, Ngo V, Leoni G, Neumann PA, Geem D, Lili LN, Ramadas RA, Chassaing B, Gewirtz AT, Kohlmeier JE, Parkos CA, Towne JE, Nusrat A, Denning TL\
-J Immunol 196(1), 34-8
+[J Immunol 196(1), 34-8](https://journals.aai.org/jimmunol/article/196/1/34/105174/Cutting-Edge-IL-36-Receptor-Promotes-Resolution-of)
 
 IL-1 family members are central mediators of host defense. In this article, we show that the novel IL-1 family member IL-36γ was expressed during experimental colitis and human inflammatory bowel disease. Germ-free mice failed to induce IL-36γ in response to dextran sodium sulfate (DSS)-induced damage, suggesting that gut microbiota are involved in its induction. Surprisingly, IL-36R-deficient (Il1rl2(-/-)) mice exhibited defective recovery following DSS-induced damage and impaired closure of colonic mucosal biopsy wounds, which coincided with impaired neutrophil accumulation in the wound bed. Failure of Il1rl2(-/-) mice to recover from DSS-induced damage was associated with a profound reduction in IL-22 expression, particularly by colonic neutrophils. Defective recovery of Il1rl2(-/-) mice could be rescued by an aryl hydrocarbon receptor agonist, which was sufficient to restore IL-22 expression and promote full recovery from DSS-induced damage. These findings implicate the IL-36/IL-36R axis in the resolution of intestinal mucosal wounds.
 :::
 
 ::: {.callout-note collapse="true"}
-## [IFNγ-induced suppression of β-catenin signaling: evidence for roles of Akt and 14.3.3ζ](https://www.molbiolcell.org/doi/10.1091/mbc.E13-09-0512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+## IFN$\gamma$-induced suppression of β-catenin signaling: evidence for roles of Akt and 14.3.3$\zeta$
 
 Nava P, Kamekura R, Quirós M, Medina-Contreras O, Hamilton RW, Kolegraff KN, Koch S, Candelario A, Romo-Parra H, Laur O, Hilgarth RS, Denning TL, Parkos CA, Nusrat A\
-Mol Biol Cell 25(19), 2894-904
+[Mol Biol Cell 25(19), 2894-904](https://www.molbiolcell.org/doi/10.1091/mbc.E13-09-0512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 The proinflammatory cytokine interferon γ (IFNγ) influences intestinal epithelial cell (IEC) homeostasis in a biphasic manner by acutely stimulating proliferation that is followed by sustained inhibition of proliferation despite continued mucosal injury. β-Catenin activation has been classically associated with increased IEC proliferation. However, we observed that IFNγ inhibits IEC proliferation despite sustained activation of Akt/β-catenin signaling. Here we show that inhibition of Akt/β-catenin-mediated cell proliferation by IFNγ is associated with the formation of a protein complex containing phosphorylated β-catenin 552 (pβ-cat552) and 14.3.3ζ. Akt1 served as a bimodal switch that promotes or inhibits β-catenin transactivation in response to IFNγ stimulation. IFNγ initially promotes β-catenin transactivation through Akt-dependent C-terminal phosphorylation of β-catenin to promote its association with 14.3.3ζ. Augmented β-catenin transactivation leads to increased Akt1 protein levels, and active Akt1 accumulates in the nucleus, where it phosphorylates 14.3.3ζ to translocate 14.3.3ζ/β-catenin from the nucleus, thereby inhibiting β-catenin transactivation and IEC proliferation. These results outline a dual function of Akt1 that suppresses IEC proliferation during intestinal inflammation.
 :::
 
-::: {.callout-note collapse="true"} 
-## [Neutrophil-derived JAML inhibits repair of intestinal epithelial injury during acute inflammation](https://www.mucosalimmunology.org/article/S1933-0219(22)01131-X/fulltext)
+::: {.callout-note collapse="true"}
+## Neutrophil-derived JAML inhibits repair of intestinal epithelial injury during acute inflammation
 
-Weber DA, Sumagin R, McCall IC, Leoni G, Neumann PA, Andargachew R,
-Brazil JC, Medina-Contreras O, Denning TL, Nusrat A, Parkos CA\
-Mucosal Immunol 7(5), 1221-32
+Weber DA, Sumagin R, McCall IC, Leoni G, Neumann PA, Andargachew R, Brazil JC, Medina-Contreras O, Denning TL, Nusrat A, Parkos CA\
+[Mucosal Immunol 7(5), 1221-32](https://www.mucosalimmunology.org/article/S1933-0219(22)01131-X/fulltext)
 
-Neutrophil transepithelial migration (TEM) during acute inflammation is
-associated with mucosal injury. Using models of acute mucosal injury in
-vitro and in vivo, we describe a new mechanism by which neutrophils
-infiltrating the intestinal mucosa disrupt epithelial homeostasis. We
-report that junctional adhesion molecule-like protein (JAML) is cleaved
-from neutrophil surface by zinc metalloproteases during TEM.
-Neutrophil-derived soluble JAML binds to the epithelial tight junction
-protein coxsackie-adenovirus receptor (CAR) resulting in compromised
-barrier and inhibition of wound repair, through decreased epithelial
-proliferation. The deleterious effects of JAML on barrier and wound
-repair are reversed with an anti-JAML monoclonal antibody that inhibits
-JAML-CAR binding. JAML released from transmigrating neutrophils across
-inflamed epithelia may thus promote recruitment of leukocytes and aid in
-clearance of invading microorganisms. However, sustained release of JAML
-under pathologic conditions associated with persistence of large numbers
-of infiltrated neutrophils would compromise intestinal barrier and
-inhibit mucosal healing. Thus, targeting JAML-CAR interactions may
-improve mucosal healing responses under conditions of dysregulated
-neutrophil recruitment.
+Neutrophil transepithelial migration (TEM) during acute inflammation is associated with mucosal injury. Using models of acute mucosal injury in vitro and in vivo, we describe a new mechanism by which neutrophils infiltrating the intestinal mucosa disrupt epithelial homeostasis. We report that junctional adhesion molecule-like protein (JAML) is cleaved from neutrophil surface by zinc metalloproteases during TEM. Neutrophil-derived soluble JAML binds to the epithelial tight junction protein coxsackie-adenovirus receptor (CAR) resulting in compromised barrier and inhibition of wound repair, through decreased epithelial proliferation. The deleterious effects of JAML on barrier and wound repair are reversed with an anti-JAML monoclonal antibody that inhibits JAML-CAR binding. JAML released from transmigrating neutrophils across inflamed epithelia may thus promote recruitment of leukocytes and aid in clearance of invading microorganisms. However, sustained release of JAML under pathologic conditions associated with persistence of large numbers of infiltrated neutrophils would compromise intestinal barrier and inhibit mucosal healing. Thus, targeting JAML-CAR interactions may improve mucosal healing responses under conditions of dysregulated neutrophil recruitment.
 :::
 
 ::: {.callout-note collapse="true"}
-## [Specific microbiota-induced intestinal Th17 differentiation requires MHC class II but not GALT and mesenteric lymph nodes](https://journals.aai.org/jimmunol/article/193/1/431/108704/Specific-Microbiota-Induced-Intestinal-Th17)
+## Specific microbiota-induced intestinal Th17 differentiation requires MHC class II but not GALT and mesenteric lymph nodes
 
 Geem D, Medina-Contreras O, McBride M, Newberry RD, Koni PA, Denning TL\
-J Immunol 193(1), 431-8
+[J Immunol 193(1), 431-8](https://journals.aai.org/jimmunol/article/193/1/431/108704/Specific-Microbiota-Induced-Intestinal-Th17)
 
-IL-17-expressing CD4+ T lymphocytes (Th17 cells) naturally reside in the
-intestine where specific cytokines and microbiota, such as segmented
-filamentous bacteria (SFB), promote their differentiation. Intestinal
-Th17 cells are thought to initially differentiate in the GALT and/or
-mesenteric lymph nodes upon Ag encounter and subsequently home to the
-lamina propria (LP) where they mediate effector functions. However,
-whether GALT and/or mesenteric lymph nodes are required for intestinal
-Th17 differentiation as well as how microbiota containing SFB regulate
-Ag-specific intestinal Th17 cells remain poorly defined. In this study,
-we observed that naive CD4+ T cells were abundant in the intestinal LP
-prior to weaning and that the accumulation of Th17 cells in response to
-microbiota containing SFB occurred in the absence of
-lymphotoxin-dependent lymphoid structures and the spleen. Furthermore,
-the differentiation of intestinal Th17 cells in the presence of
-microbiota containing SFB was dependent on MHC class II expression by
-CD11c+ cells. Lastly, the differentiation of Ag-specific Th17 cells
-required both the presence of cognate Ag and microbiota containing SFB.
-These findings suggest that microbiota containing SFB create an
-intestinal milieu that may induce Ag-specific Th17 differentiation
-against food and/or bacterial Ags directly in the intestinal LP.
+IL-17-expressing CD4+ T lymphocytes (Th17 cells) naturally reside in the intestine where specific cytokines and microbiota, such as segmented filamentous bacteria (SFB), promote their differentiation. Intestinal Th17 cells are thought to initially differentiate in the GALT and/or mesenteric lymph nodes upon Ag encounter and subsequently home to the lamina propria (LP) where they mediate effector functions. However, whether GALT and/or mesenteric lymph nodes are required for intestinal Th17 differentiation as well as how microbiota containing SFB regulate Ag-specific intestinal Th17 cells remain poorly defined. In this study, we observed that naive CD4+ T cells were abundant in the intestinal LP prior to weaning and that the accumulation of Th17 cells in response to microbiota containing SFB occurred in the absence of lymphotoxin-dependent lymphoid structures and the spleen. Furthermore, the differentiation of intestinal Th17 cells in the presence of microbiota containing SFB was dependent on MHC class II expression by CD11c+ cells. Lastly, the differentiation of Ag-specific Th17 cells required both the presence of cognate Ag and microbiota containing SFB. These findings suggest that microbiota containing SFB create an intestinal milieu that may induce Ag-specific Th17 differentiation against food and/or bacterial Ags directly in the intestinal LP.
 :::
 
-:::{.callout-note collapse="true"}
-## [Compromised intestinal epithelial barrier induces adaptive immune compensation that protects from colitis](https://www.cell.com/immunity/fulltext/S1074-7613(12)00380-9?\_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761312003809%3Fshowall%3Dtrue)
+::: {.callout-note collapse="true"}
+## Compromised intestinal epithelial barrier induces adaptive immune compensation that protects from colitis
 
-Khounlotham M, Kim W, Peatman E, Nava P, Medina-Contreras O, Addis C,
-Koch S, Fournier B, Nusrat A, Denning TL, Parkos CA\
-Immunity 37(3), 563-73
+Khounlotham M, Kim W, Peatman E, Nava P, Medina-Contreras O, Addis C, Koch S, Fournier B, Nusrat A, Denning TL, Parkos CA\
+[Immunity 37(3), 563-73](https://www.cell.com/immunity/fulltext/S1074-7613(12)00380-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761312003809%3Fshowall%3Dtrue)
 
-Mice lacking junctional adhesion molecule A (JAM-A, encoded by F11r)
-exhibit enhanced intestinal epithelial permeability, bacterial
-translocation, and elevated colonic lymphocyte numbers, yet do not
-develop colitis. To investigate the contribution of adaptive immune
-compensation in response to increased intestinal epithelial
-permeability, we examined the susceptibility of F11r(-/-)Rag1(-/-) mice
-to acute colitis. Although negligible contributions of adaptive immunity
-in F11r(+/+)Rag1(-/-) mice were observed, F11r(-/-)Rag1(-/-) mice
-exhibited increased microflora-dependent colitis. Elimination of T cell
-subsets and cytokine analyses revealed a protective role for
-TGF-β-producing CD4(+) T cells in F11r(-/-) mice. Additionally, loss of
-JAM-A resulted in elevated mucosal and serum IgA that was dependent upon
-CD4(+) T cells and TGF-β. Absence of IgA in F11r(+/+)Igha(-/-) mice did
-not affect disease, whereas F11r(-/-)Igha(-/-) mice displayed markedly
-increased susceptibility to acute injury-induced colitis. These data
-establish a role for adaptive immune-mediated protection from acute
-colitis under conditions of intestinal epithelial barrier compromise.
+Mice lacking junctional adhesion molecule A (JAM-A, encoded by F11r) exhibit enhanced intestinal epithelial permeability, bacterial translocation, and elevated colonic lymphocyte numbers, yet do not develop colitis. To investigate the contribution of adaptive immune compensation in response to increased intestinal epithelial permeability, we examined the susceptibility of F11r(-/-)Rag1(-/-) mice to acute colitis. Although negligible contributions of adaptive immunity in F11r(+/+)Rag1(-/-) mice were observed, F11r(-/-)Rag1(-/-) mice exhibited increased microflora-dependent colitis. Elimination of T cell subsets and cytokine analyses revealed a protective role for TGF-β-producing CD4(+) T cells in F11r(-/-) mice. Additionally, loss of JAM-A resulted in elevated mucosal and serum IgA that was dependent upon CD4(+) T cells and TGF-β. Absence of IgA in F11r(+/+)Igha(-/-) mice did not affect disease, whereas F11r(-/-)Igha(-/-) mice displayed markedly increased susceptibility to acute injury-induced colitis. These data establish a role for adaptive immune-mediated protection from acute colitis under conditions of intestinal epithelial barrier compromise.
 :::
 
-:::{.callout-note collapse="true"}
-## [Isolation and characterization of dendritic cells and macrophages from the mouse intestine](https://www.jove.com/es/t/4040/isolation-characterization-dendritic-cells-macrophages-from-mouse)
+::: {.callout-note collapse="true"}
+## Isolation and characterization of dendritic cells and macrophages from the mouse intestine
 
 Geem D, Medina-Contreras O, Kim W, Huang CS, Denning TL\
-J Vis Exp (63), e4040
+[J Vis Exp (63), e4040](https://www.jove.com/es/t/4040/isolation-characterization-dendritic-cells-macrophages-from-mouse)
 
-Within the intestine reside unique populations of innate and adaptive
-immune cells that are involved in promoting tolerance towards commensal
-flora and food antigens while concomitantly remaining poised to mount
-inflammatory responses toward invasive pathogens. Antigen presenting
-cells, particularly DCs and macrophages, play critical roles in
-maintaining intestinal immune homeostasis via their ability to sense and
-appropriately respond to the microbiota. Efficient isolation of
-intestinal DCs and macrophages is a critical step in characterizing the
-phenotype and function of these cells. While many effective methods of
-isolating intestinal immune cells, including DCs and macrophages, have
-been described, many rely upon long digestions times that may negatively
-influence cell surface antigen expression, cell viability, and/or cell
-yield. Here, we detail a methodology for the rapid isolation of large
-numbers of viable, intestinal DCs and macrophages. Phenotypic
-characterization of intestinal DCs and macrophages is carried out by
-directly staining isolated intestinal cells with specific
-fluorescence-labeled monoclonal antibodies for multi-color flow
-cytometric analysis. Furthermore, highly pure DC and macrophage
-populations are isolated for functional studies utilizing CD11c and
-CD11b magnetic-activated cell sorting beads followed by cell sorting.
+Within the intestine reside unique populations of innate and adaptive immune cells that are involved in promoting tolerance towards commensal flora and food antigens while concomitantly remaining poised to mount inflammatory responses toward invasive pathogens. Antigen presenting cells, particularly DCs and macrophages, play critical roles in maintaining intestinal immune homeostasis via their ability to sense and appropriately respond to the microbiota. Efficient isolation of intestinal DCs and macrophages is a critical step in characterizing the phenotype and function of these cells. While many effective methods of isolating intestinal immune cells, including DCs and macrophages, have been described, many rely upon long digestions times that may negatively influence cell surface antigen expression, cell viability, and/or cell yield. Here, we detail a methodology for the rapid isolation of large numbers of viable, intestinal DCs and macrophages. Phenotypic characterization of intestinal DCs and macrophages is carried out by directly staining isolated intestinal cells with specific fluorescence-labeled monoclonal antibodies for multi-color flow cytometric analysis. Furthermore, highly pure DC and macrophage populations are isolated for functional studies utilizing CD11c and CD11b magnetic-activated cell sorting beads followed by cell sorting.
 :::
 
-:::{.callout-note collapse="true"}
-## [CX3CR1 regulates intestinal macrophage homeostasis, bacterial translocation, and colitogenic Th17 responses in mice](https://www.jci.org/articles/view/59150)
+::: {.callout-note collapse="true"}
+## CX3CR1 regulates intestinal macrophage homeostasis, bacterial translocation, and colitogenic Th17 responses in mice
 
-Medina-Contreras O, Geem D, Laur O, Williams IR, Lira SA, Nusrat A,
-Parkos CA, Denning TL\
-J Clin Invest 121(12), 4787-95
+Medina-Contreras O, Geem D, Laur O, Williams IR, Lira SA, Nusrat A, Parkos CA, Denning TL\
+[J Clin Invest 121(12), 4787-95](https://www.jci.org/articles/view/59150)
 
-The two most common forms of inflammatory bowel disease (IBD), Crohn's
-disease and ulcerative colitis, affect approximately 1 million people in
-the United States. Uncontrolled APC reactivity toward commensal bacteria
-is implicated in the pathogenesis of the disease. A number of
-functionally distinct APC populations exist in the mucosal lamina
-propria (LP) below the intestinal epithelium, but their relative
-contributions to inflammation remain unclear. Here, we demonstrate in
-mice important roles for the chemokine receptor CX3CR1 in maintaining LP
-macrophage populations, preventing translocation of commensal bacteria
-to mesenteric lymph nodes (mLNs), and limiting colitogenic Th17
-responses. CX3CR1 was found to be expressed in resident LP macrophages
-(defined as CD11b(+)F4/80(+)) but not DCs (defined as CD11c(+)CD103(+)).
-LP macrophage frequency and number were decreased in two strains of
-CX3CR1-knockout mice and in mice deficient in the CX3CR1 ligand CX3CL1.
-All these knockout strains displayed markedly increased translocation of
-commensal bacteria to mLNs. Additionally, the severity of DSS-induced
-colitis was dramatically enhanced in the knockout mice as compared with
-controls. Disease severity could be limited by either administration of
-neutralizing IL-17A antibodies or transfer of CX3CR1-sufficient
-macrophages. Our data thus suggest key roles for the CX3CR1/CX3CL1 axis
-in the intestinal mucosa; further clarification of CX3CR1 function will
-likely direct efforts toward therapeutic intervention for mucosal
-inflammatory disorders such as IBD.
-::: 
+The two most common forms of inflammatory bowel disease (IBD), Crohn's disease and ulcerative colitis, affect approximately 1 million people in the United States. Uncontrolled APC reactivity toward commensal bacteria is implicated in the pathogenesis of the disease. A number of functionally distinct APC populations exist in the mucosal lamina propria (LP) below the intestinal epithelium, but their relative contributions to inflammation remain unclear. Here, we demonstrate in mice important roles for the chemokine receptor CX3CR1 in maintaining LP macrophage populations, preventing translocation of commensal bacteria to mesenteric lymph nodes (mLNs), and limiting colitogenic Th17 responses. CX3CR1 was found to be expressed in resident LP macrophages (defined as CD11b(+)F4/80(+)) but not DCs (defined as CD11c(+)CD103(+)). LP macrophage frequency and number were decreased in two strains of CX3CR1-knockout mice and in mice deficient in the CX3CR1 ligand CX3CL1. All these knockout strains displayed markedly increased translocation of commensal bacteria to mLNs. Additionally, the severity of DSS-induced colitis was dramatically enhanced in the knockout mice as compared with controls. Disease severity could be limited by either administration of neutralizing IL-17A antibodies or transfer of CX3CR1-sufficient macrophages. Our data thus suggest key roles for the CX3CR1/CX3CL1 axis in the intestinal mucosa; further clarification of CX3CR1 function will likely direct efforts toward therapeutic intervention for mucosal inflammatory disorders such as IBD.
+:::
 
-:::{.callout-note collapse="true"}
-## [Functional specializations of intestinal dendritic cell and macrophage subsets that control Th17 and regulatory T cell responses are dependent on the T cell/APC ratio, source of mouse strain, and regional localization](https://journals.aai.org/jimmunol/article/187/2/733/38769/Functional-Specializations-of-Intestinal-Dendritic)
+::: {.callout-note collapse="true"}
+## Functional specializations of intestinal dendritic cell and macrophage subsets that control Th17 and regulatory T cell responses are dependent on the T cell/APC ratio, source of mouse strain, and regional localization
 
-Denning TL, Norris BA, Medina-Contreras O, Manicassamy S, Geem D, Madan
-R, Karp CL, Pulendran B\
-J Immunol 187(2), 733-47
+Denning TL, Norris BA, Medina-Contreras O, Manicassamy S, Geem D, Madan R, Karp CL, Pulendran B\
+[J Immunol 187(2), 733-47](https://journals.aai.org/jimmunol/article/187/2/733/38769/Functional-Specializations-of-Intestinal-Dendritic)
 
-Although several subsets of intestinal APCs have been described, there
-has been no systematic evaluation of their phenotypes, functions, and
-regional localization to date. In this article, we used 10-color flow
-cytometry to define the major APC subsets in the small and large
-intestine lamina propria. Lamina propria APCs could be subdivided into
-CD11c(+)CD11b(-), CD11c(+)CD11b(+), and CD11c(dull)CD11b(+) subsets.
-CD11c(+)CD11b(-) cells were largely CD103(+)F4/80(-) dendritic cells
-(DCs), whereas the CD11c(+)CD11b(+) subset comprised
-CD11c(+)CD11b(+)CD103(+)F4/80(-) DCs and
-CD11c(+)CD11b(+)CD103(-)F4/80(+) macrophage-like cells. The majority of
-CD11c(dull)CD11b(+) cells were CD103(-)F4/80(+) macrophages. Although
-macrophages were more efficient at inducing Foxp3(+) regulatory T
-(T(reg)) cells than DCs, at higher T cell/APC ratios, all of the DC
-subsets efficiently induced Foxp3(+) T(reg) cells. In contrast, only
-CD11c(+)CD11b(+)CD103(+) DCs efficiently induced Th17 cells. Consistent
-with this, the regional distribution of CD11c(+)CD11b(+)CD103(+) DCs
-correlated with that of Th17 cells, with duodenum \> jejunum \> ileum \>
-colon. Conversely, CD11c(+)CD11b(-)CD103(+) DCs, macrophages, and
-Foxp3(+) T(reg) cells were most abundant in the colon and scarce in the
-duodenum. Importantly, however, the ability of DC and macrophage subsets
-to induce Foxp3(+) T(reg) cells versus Th17 cells was strikingly
-dependent on the source of the mouse strain. Thus, DCs from C57BL/6 mice
-from Charles River Laboratories (that have segmented filamentous
-bacteria, which induce robust levels of Th17 cells in situ) were more
-efficient at inducing Th17 cells and less efficient at inducing Foxp3(+)
-T(reg) cells than DCs from B6 mice from The Jackson Laboratory. Thus,
-the functional specializations of APC subsets in the intestine are
-dependent on the T cell/APC ratio, regional localization, and source of
-the mouse strain.
+Although several subsets of intestinal APCs have been described, there has been no systematic evaluation of their phenotypes, functions, and regional localization to date. In this article, we used 10-color flow cytometry to define the major APC subsets in the small and large intestine lamina propria. Lamina propria APCs could be subdivided into CD11c(+)CD11b(-), CD11c(+)CD11b(+), and CD11c(dull)CD11b(+) subsets. CD11c(+)CD11b(-) cells were largely CD103(+)F4/80(-) dendritic cells (DCs), whereas the CD11c(+)CD11b(+) subset comprised CD11c(+)CD11b(+)CD103(+)F4/80(-) DCs and CD11c(+)CD11b(+)CD103(-)F4/80(+) macrophage-like cells. The majority of CD11c(dull)CD11b(+) cells were CD103(-)F4/80(+) macrophages. Although macrophages were more efficient at inducing Foxp3(+) regulatory T (T(reg)) cells than DCs, at higher T cell/APC ratios, all of the DC subsets efficiently induced Foxp3(+) T(reg) cells. In contrast, only CD11c(+)CD11b(+)CD103(+) DCs efficiently induced Th17 cells. Consistent with this, the regional distribution of CD11c(+)CD11b(+)CD103(+) DCs correlated with that of Th17 cells, with duodenum \> jejunum \> ileum \> colon. Conversely, CD11c(+)CD11b(-)CD103(+) DCs, macrophages, and Foxp3(+) T(reg) cells were most abundant in the colon and scarce in the duodenum. Importantly, however, the ability of DC and macrophage subsets to induce Foxp3(+) T(reg) cells versus Th17 cells was strikingly dependent on the source of the mouse strain. Thus, DCs from C57BL/6 mice from Charles River Laboratories (that have segmented filamentous bacteria, which induce robust levels of Th17 cells in situ) were more efficient at inducing Th17 cells and less efficient at inducing Foxp3(+) T(reg) cells than DCs from B6 mice from The Jackson Laboratory. Thus, the functional specializations of APC subsets in the intestine are dependent on the T cell/APC ratio, regional localization, and source of the mouse strain.
 :::
 
 ::: {.callout-note collapse="true"}
 ## CRTAM: A molecule involved in epithelial cell adhesion
 
-Garay E, Patiño-López G, Islas S, Alarcón L, Canche-Pool E, Valle-Rios
-R, Medina-Contreras O, Granados G, Chávez-Munguía B, Juaristi E,
-Ortiz-Navarrete V, González-Mariscal L\
+Garay E, Patiño-López G, Islas S, Alarcón L, Canche-Pool E, Valle-Rios R, Medina-Contreras O, Granados G, Chávez-Munguía B, Juaristi E, Ortiz-Navarrete V, González-Mariscal L\
 [J Cell Biochem 111(1), 111-22](https://onlinelibrary.wiley.com/doi/10.1002/jcb.22673)
 
-Class I-restricted T cell associated molecule (CRTAM) is a member of the
-immunoglobulin superfamily that complies with the structural
-characteristics of the JAM family of proteins and is phylogenetically
-more closely related to nectin-like proteins. Here we demonstrate for
-the first time, that CRTAM is expressed in epithelial cells along the
-lateral membrane and is important for early cell-cell contacts and
-cell-substrate interactions. CRTAM is sensitive to intermediate filament
-disruption and treatment of monolayers with soluble CRTAM enhances
-cell-cell dissociation and lowers transepithelial electrical resistance.
-Incubation of newly plated cells with anti-CRTAM antibody decreases the
-formation of cell aggregates and promotes cell detachment. Co-cultures
-of epithelial cells and fibroblasts that lack CRTAM expression and in
-vitro binding assays, demonstrate the participation of CRTAM in
-homotypic and heterotypic trans-interactions. Hence we conclude that
-CRTAM is a molecule involved in epithelial cell adhesion.
+Class I-restricted T cell associated molecule (CRTAM) is a member of the immunoglobulin superfamily that complies with the structural characteristics of the JAM family of proteins and is phylogenetically more closely related to nectin-like proteins. Here we demonstrate for the first time, that CRTAM is expressed in epithelial cells along the lateral membrane and is important for early cell-cell contacts and cell-substrate interactions. CRTAM is sensitive to intermediate filament disruption and treatment of monolayers with soluble CRTAM enhances cell-cell dissociation and lowers transepithelial electrical resistance. Incubation of newly plated cells with anti-CRTAM antibody decreases the formation of cell aggregates and promotes cell detachment. Co-cultures of epithelial cells and fibroblasts that lack CRTAM expression and in vitro binding assays, demonstrate the participation of CRTAM in homotypic and heterotypic trans-interactions. Hence we conclude that CRTAM is a molecule involved in epithelial cell adhesion.
 :::
 
 ::: {.callout-note collapse="true"}
-## [Role of CRTAM during mouse early T lymphocytes development](https://www.sciencedirect.com/science/article/pii/S0145305X09002018?via%3Dihub)
+## Role of CRTAM during mouse early T lymphocytes development
 
-Medina-Contreras O, Soldevila G, Patiño-Lopez G, Canche-Pool E,
-Valle-Rios R, Ortiz-Navarrete V\
-Dev Comp Immunol 34(2), 196-202
+Medina-Contreras O, Soldevila G, Patiño-Lopez G, Canche-Pool E, Valle-Rios R, Ortiz-Navarrete V\
+[Dev Comp Immunol 34(2), 196-202](https://www.sciencedirect.com/science/article/pii/S0145305X09002018?via%3Dihub)
 
-CRTAM was reported as a novel receptor expressed in activated NKT and
-CD8 T lymphocytes. However, we have recently shown that it is also
-expressed in several non-immune tissues. In opposition to what has been
-stated for lymphoid cells, CRTAM expression is constitutive in
-epithelia, suggesting a role in cell-cell interactions. Given the
-importance of cell interactions during T lymphocyte development, we
-evaluated CRTAM during T lymphocyte ontogeny. Here we show that CRTAM
-has an unexpected constitutive expression in adult thymocytes and,
-remarkably, it is sustained during all stages of thymocyte development.
-CRTAM expression is restricted to CD8 and all DN subpopulations, with a
-consistent pattern from E13.5 stage to adult mice. Blocking CRTAM
-interaction with CADM1 impairs thymus growth, uncovering a novel role in
-thymus development, with a consequent impact in thymocyte maturation.
-Thus, CRTAM interaction with CADM1 is involved in structural maintenance
-of the thymic lobes.
+CRTAM was reported as a novel receptor expressed in activated NKT and CD8 T lymphocytes. However, we have recently shown that it is also expressed in several non-immune tissues. In opposition to what has been stated for lymphoid cells, CRTAM expression is constitutive in epithelia, suggesting a role in cell-cell interactions. Given the importance of cell interactions during T lymphocyte development, we evaluated CRTAM during T lymphocyte ontogeny. Here we show that CRTAM has an unexpected constitutive expression in adult thymocytes and, remarkably, it is sustained during all stages of thymocyte development. CRTAM expression is restricted to CD8 and all DN subpopulations, with a consistent pattern from E13.5 stage to adult mice. Blocking CRTAM interaction with CADM1 impairs thymus growth, uncovering a novel role in thymus development, with a consequent impact in thymocyte maturation. Thus, CRTAM interaction with CADM1 is involved in structural maintenance of the thymic lobes.
 :::
 
 ::: {.callout-note collapse="true"}
-## [Characterization of CRTAM gene promoter: AP-1 transcription factor control its expression in human T CD8 lymphocytes](https://www.sciencedirect.com/science/article/abs/pii/S0161589009006166?via%3Dihub)
+## Characterization of CRTAM gene promoter: AP-1 transcription factor control its expression in human T CD8 lymphocytes
 
-Valle-Rios R, Patiño-Lopez G, Medina-Contreras O, Canche-Pool E,
-Recillas-Targa F, Lopez-Bayghen E, Zlotnik A, Ortiz-Navarrete V\
-Mol Immunol 46(16), 3379-87
+Valle-Rios R, Patiño-Lopez G, Medina-Contreras O, Canche-Pool E, Recillas-Targa F, Lopez-Bayghen E, Zlotnik A, Ortiz-Navarrete V\
+[Mol Immunol 46(16), 3379-87](https://www.sciencedirect.com/science/article/abs/pii/S0161589009006166?via%3Dihub)
 
-Class-I MHC-restricted T-cell associated molecule (CRTAM) is a member of
-the Nectin-like adhesion molecule family. It is rapidly induced in NK,
-NKT and CD8(+) T cells. Interaction with its ligand Nectin-like 2
-results in increased secretion of IFN-gamma by activated CD8(+) T
-lymphocytes. Through sequential bioinformatic analyses of the upstream
-region of the human CRTAM gene, we detected cis-elements potentially
-important for CRTAM gene transcription. Analyzing 2kb upstream from the
-ATG translation codon by mutation analysis in conjunction with
-luciferase reporter assays, electrophoretic mobility shify assay (EMSA)
-and supershift assays, we identified an AP-1 binding site, located at
-1.4kb from the ATG translation codon of CRTAM gene as an essential
-element for CRTAM expression in activated but not resting human CD8(+) T
-cells. CRTAM expression was reduced in activated CD8(+) T cells treated
-with the JNK inhibitor SP600125, indicating that CRTAM expression is
-driven by the JNK-AP-1 signaling pathway. This study represents the
-first CRTAM gene promoter analysis in human T cells and indicates that
-AP-1 is a positive transcriptional regulator of this gene, a likely
-important finding because CRTAM has recently been shown to play a role
-in IFN-gamma and IL-17 production and T cell proliferation.
+Class-I MHC-restricted T-cell associated molecule (CRTAM) is a member of the Nectin-like adhesion molecule family. It is rapidly induced in NK, NKT and CD8(+) T cells. Interaction with its ligand Nectin-like 2 results in increased secretion of IFN-gamma by activated CD8(+) T lymphocytes. Through sequential bioinformatic analyses of the upstream region of the human CRTAM gene, we detected cis-elements potentially important for CRTAM gene transcription. Analyzing 2kb upstream from the ATG translation codon by mutation analysis in conjunction with luciferase reporter assays, electrophoretic mobility shify assay (EMSA) and supershift assays, we identified an AP-1 binding site, located at 1.4kb from the ATG translation codon of CRTAM gene as an essential element for CRTAM expression in activated but not resting human CD8(+) T cells. CRTAM expression was reduced in activated CD8(+) T cells treated with the JNK inhibitor SP600125, indicating that CRTAM expression is driven by the JNK-AP-1 signaling pathway. This study represents the first CRTAM gene promoter analysis in human T cells and indicates that AP-1 is a positive transcriptional regulator of this gene, a likely important finding because CRTAM has recently been shown to play a role in IFN-gamma and IL-17 production and T cell proliferation.
 :::
