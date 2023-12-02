@@ -5,32 +5,32 @@ title: "Students"
 ::: callout-tip
 ## Postdoc
 
-Diana Villalpando
+[Diana Villalpando](https://www.linkedin.com/in/diana-villalpando-7a2626148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACOwFuoBbBMsMRvT2ga6_CoNKoHdye6b508&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BGLSCXG2qSMmbjU1mPxYyHg%3D%3D)
 :::
 
 ::: callout-tip
 ## PhD
 
-Albertana Jimenez Pineda\
 Alejandra\
 Amairani\
-Albertana Jimenez-Pineda\
-Claudia I Gutierrez-Roman\
-Carmen L Perez-De Gante\
-Samantha Ysais-Chong\
-Sara Miguel-Suarez
+[Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)\
+[Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)\
+[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)\
+[Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)\
+[Sara Miguel-Suarez](https://mx.linkedin.com/in/sara-miguel-suarez-b43a8b1a2)
 :::
 
 ::: callout-tip
 ## MSc
 
+![](res/bren.png){width="150"}
 [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
 
 ::: callout-tip
 ## Clinical Specialty
 
-Yanen Z Rios Lozano
+[Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
 :::
 
 ::: callout-tip
@@ -44,5 +44,7 @@ F
 
 Laura D Manzanares-Meza\
 Felipe A Castro-Martínez\
-Miguel A Prieto-Islas
+Julissa Luvian Morales\
+Miguel A Prieto-Islas\
+Merari Delgadillo González
 :::
