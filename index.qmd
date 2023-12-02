@@ -1,0 +1,29 @@
+---
+title: "Medina-Castro Lab"
+---
+
+**Denisse Castro-Eguiluz** is a researcher for México at [National Cancer Institute](https://www.incan.salud.gob.mx), where she works on cervical cancer. **Oscar Medina-Contreras** is a medical sciences researcher at [Mexico Children’s Hospital](https://www.himfg.edu.mx/), where he works on mucosal immunology.
+
+Our principal interests are on immunonutrition, intestinal immune responses, and inflammation in chronic diseases and canceer. Much of our research focuses on the role of intestinal macrophages on T cell function, and the interaction with epithelial cells and microbiota. We use extensively flow cytometry, mass spec, and microarrays to understand the molecular mechanisms behind inestinal inflammation.
+
+Our most recent papers are:
+
+:::callout-important
+## [Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review](https://www.tandfonline.com/doi/abs/10.1080/10408398.2021.1875189)
+
+Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L, Castro-Eguiluz D\
+*Crit Rev Food Sci Nutr* 62(16),4371-4392\
+doi 10.1080/10408398.2021.1875189, [PubMed](https://pubmed.ncbi.nlm.nih.gov/33506690/)
+
+Chronic diseases are responsible for approximately 71% global deaths. These are characterized by chronic low-grade inflammation and metabolic alterations. "Functional foods" have been attributed with anti-inflammatory properties, demonstrated in cell lines and murine models; however, studies in humans are inconclusive. The purpose of this systematic review is to identify clinical trials that analyzed changes in inflammatory and metabolic mediators, in response to consumption of specific functional foods. A total of 3581 trials were screened and 88 were included for this review. Foods identified to regulate inflammation included cranberries, grapes, pomegranate, strawberries, wheat, whole grain products, low fat dairy products, yogurt, green tea, cardamom, turmeric, soy foods, almonds, chia seeds, flaxseed, pistachios, algae oil, flaxseed oil and grape seed oil. Clinical trials that focus on a dietary pattern rich in functional foods are necessary to explore if the additive effect of these foods lead to more clinically relevant outcomes.
+:::
+
+:::callout-important
+## [IL-36γ is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores](https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full)
+
+Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-Contreras O\
+Front Immunol 13, 979749\
+doi 10.3389/fimmu.2022.979749, [PubMed](https://pubmed.ncbi.nlm.nih.gov/36059446/)
+
+Mucosal innate immunity functions as the first line of defense against invading pathogens. Members of the IL-1 family are key cytokines upregulated in the inflamed mucosa. Inflammatory cytokines are regulated by limiting their function and availability through their activation and secretion mechanisms. IL-1 cytokines secretion is affected by the lack of a signal peptide on their sequence, which prevents them from accessing the conventional protein secretion pathway; thus, they use unconventional protein secretion pathways. Here we show in mouse macrophages that LPS/ATP stimulation induces cytokine relocalization to the plasma membrane, and conventional secretion blockade using monensin or Brefeldin A triggers no IL-36γ accumulation within the cell. In silico modeling indicates IL-36γ can pass through both the P2X7R and Gasdermin D pores, and both IL-36γ, P2X7R and Gasdermin D mRNA are upregulated in inflammation; further, experimental blockade of these receptors limits IL-36γ release. Our results demonstrate that IL-36γ is secreted mainly by an unconventional pathway through membrane pores formed by P2X7R and Gasdermin D.
+:::

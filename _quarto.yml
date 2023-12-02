@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "OMC Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - students.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
