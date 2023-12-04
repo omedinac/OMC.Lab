@@ -13,30 +13,33 @@ title: "Students"
 
 Alejandra\
 Amairani\
-[Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)\
-[Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)\
-[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)\
-[Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)\
-[Sara Miguel-Suarez](https://mx.linkedin.com/in/sara-miguel-suarez-b43a8b1a2)
+![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
+
+![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
+
+[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)
+
+![](res/sam.png){width="150"} [Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
+
+![](res/sara.png){width="150"} [Sara Miguel-Suarez](https://mx.linkedin.com/in/sara-miguel-suarez-b43a8b1a2)
 :::
 
 ::: callout-tip
 ## MSc
 
-![](res/bren.png){width="150"}
-[Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
+![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
 
 ::: callout-tip
 ## Clinical Specialty
 
-[Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
+![](res/yan.png){width="150"} [Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
 :::
 
 ::: callout-tip
 ## Undergrad
 
-F
+- 
 :::
 
 ::: callout-tip

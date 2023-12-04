@@ -2,6 +2,17 @@
 title: "Medina-Castro Lab"
 ---
 
+<!--
+The ubiquitin-proteasome system in cancer and immune regulation 
+​
+Standing at the intersection of Biochemistry, Proteomics, and Immunology, our lab studies mucosal regulation in cancer and immunity. Maintaining intestinal homeostasis is a crucial immune task involving an extensive network of antoigen presenting cells and effector cells, to allow proper function of our immune responses.  We focus primarily on two aspects of mucosal immunology control namely, macrophages regulation of intestinal T cells and epithelial and immune interactions in health and disease. Read More
+ 
+Our group employs advanced high-throughput immuno-proteomic, proteomics and genomic methods, cell biology, biochemistry and in-vivo models to reveal new intestinal immune regulation mechanisms. 
+We combine our expertise to gain novel insight on basic research questions as well as develop cutting-edge technologies to transform our ability to analyze the proteomic landscape. Importantly, we aim for translating our findings into clinical applications and therapeutic interventions to promote human health. Read More
+ 
+We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!
+-->
+
 **Denisse Castro-Eguiluz** is a researcher for México at [National Cancer Institute](https://www.incan.salud.gob.mx), where she works on cervical cancer. **Oscar Medina-Contreras** is a medical sciences researcher at [Mexico Children’s Hospital](https://www.himfg.edu.mx/), where he works on mucosal immunology.
 
 Our principal interests are on immunonutrition, intestinal immune responses, and inflammation in chronic diseases and canceer. Much of our research focuses on the role of intestinal macrophages on T cell function, and the interaction with epithelial cells and microbiota. We use extensively flow cytometry, mass spec, and microarrays to understand the molecular mechanisms behind inestinal inflammation.

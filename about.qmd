@@ -4,8 +4,10 @@ title: "About Us"
 
 # Denisse Castro Eguiluz
 
+# ![Denisse Castro-Eguiluz](res/den.jpeg){width="200"}
+
 |                                      |        |                                                |
-|------------------------|-------------------|------------------------------|
+|------------------------|-------------------|-----------------------------|
 | [email](mailto:adcastro@conahcyt.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) |
 
 I did my PhD at [ENCB](https://www.encb.ipn.mx/posgrado/doctorado-inmunologia/), where I was advised by [Vianney Ortiz-Navarrete](href=%22https://biomol.cinvestav.mx/Personal-Académico/Dr-Vianney-Ortiz-Navarrete). I’m member of the [National Research System](https://conacyt.mx/sistema-nacional-de-investigadores/).
