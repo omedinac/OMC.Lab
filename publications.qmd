@@ -53,8 +53,7 @@ Pérez-Martín AR, Castro-Eguiluz D, Cetina-Pérez L, Velasco-Torres Y, Bahena-G
 ::: {.callout-note collapse="true"}
 ## Treatment of locally advanced cervical cancer with kidney failure and comorbidities
 
-Arango Bravo E, Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Flores E, Cetina-Pérez LDC
-*Oncology* 35(11), 741-745
+Arango Bravo E, Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Flores E, Cetina-Pérez LDC *Oncology* 35(11), 741-745
 :::
 
 ::: {.callout-note collapse="true"}
@@ -104,7 +103,7 @@ Purpose: The aim of this trial was to evaluate the safety and efficacy of a trab
 :::
 
 ::: {.callout-note collapse="true"}
-## Editorial: Women in mucosal immunity]
+## Editorial: Women in mucosal immunity\]
 
 Bose T, Medina-Contreras O, Fernández C, Finotto S\
 [*Front Immunol* 14, 1282709](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1282709/full)
@@ -301,6 +300,7 @@ Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L, S�
 In the development of cervical cancer (CC), the immune response plays an essential role, from the elimination of human papillomavirus (HPV) infection to the response against the tumor. For optimal function of the immune response, various factors are required, one of the most important being an adequate nutrition. The complex interaction between nutrients and microbiota maintains the immune system in homeostasis and in case of infection, it provides the ability to fight against pathogen invasion, as occurs in HPV infection. The purpose of this article is to describe the role of diet, food, and specific nutrients in the immune response from the onset of infection to progression to precancerous lesions and CC, as well as the role of diet and nutrition during oncological treatment. The immunomodulatory role of microbiota is also discussed. A detailed analysis of the evidence leads us to recommend a nutritional pattern very similar to the Mediterranean diet or the prudent diet for an optimal immune response. Moreover, pre- and probiotics favorably modulate the microbiota and induce preventive and therapeutic effects against cancer.
 :::
 
+```{=html}
 <!--
 Cetina-Pérez L, Castro-Eguiluz D. CONSENSUS REPORT ON THE PREVENTION, DIAGNOSIS, AND TREATMENT OF CERVICAL CANCER - A PERSPECTIVE FROM THE IMMUNE SYSTEM TOWARD IMMUNOTHERAPY. Rev Invest Clin. 2020;72(4):185-187. doi: 10.24875/RIC.20000129. PMID: 33064681.
 
@@ -328,7 +328,7 @@ Rosales-Reyes R, Pérez-López A, Sánchez-Gómez C, Hernández-Mote RR, Castro-
 
 
 -->
-
+```
 ::: {.callout-note collapse="true"}
 ## SARS-CoV-2 and influenza: a comparative overview and treatment implications
 
@@ -558,5 +558,5 @@ Class-I MHC-restricted T-cell associated molecule (CRTAM) is a member of the Nec
 Hernández Guerrero CA, Tlapanco Barba R, Ramos Pérez C, Velázquez Ramírez N, Castro Eguiluz D, Cérbulo Vázquez A.\
 *Ginecol Obstet Mex* 71, 559-74
 
-Objective: To determine the immunology kind of response Th1 (cytotoxic) or Th2 (humoral) prevailing at peripheral and peritoneal environment at endometriosis women (ENW). Study design: Observational, transverse, analytical, retrospective, cases and controls. Material and methods: Cooperative and cytotoxic lymphocytes obtained from peritoneal fluid (PF) and peripheral blood (PB) were used to determine IFN-gamma and IL-2 intracellular synthesis at ENW. IFN-gamma, IL-2, IL-4 and IL-10 concentration were determined at PF, PB at ENW and fertile women (FERW). Results were analyzed by ANOVA, t student and Mann-Whitney tests, accepting p < 0.05, as a statistic difference. Results: Peritoneal environment of ENW shows a smaller intracellular synthesis of IFN-gamma and IL-2 at cooperative and cytotoxic T lymphocytes, as in the PF at ENW. The decrease is associated to a smaller percentage of activated, cooperative T lymphocytes and NK cells (p < 0.05, at all the variable), versus FERW. This phenomenon is observed more stressed at the III and IV pathology degree. Conclusions: ENW show a peritoneal environment with a smaller immunology cytotoxic capacity, versus FERW. The discouragement of the immunology cytotoxic capacity increases associated to the pathology intensity.
+Objective: To determine the immunology kind of response Th1 (cytotoxic) or Th2 (humoral) prevailing at peripheral and peritoneal environment at endometriosis women (ENW). Study design: Observational, transverse, analytical, retrospective, cases and controls. Material and methods: Cooperative and cytotoxic lymphocytes obtained from peritoneal fluid (PF) and peripheral blood (PB) were used to determine IFN-gamma and IL-2 intracellular synthesis at ENW. IFN-gamma, IL-2, IL-4 and IL-10 concentration were determined at PF, PB at ENW and fertile women (FERW). Results were analyzed by ANOVA, t student and Mann-Whitney tests, accepting p \< 0.05, as a statistic difference. Results: Peritoneal environment of ENW shows a smaller intracellular synthesis of IFN-gamma and IL-2 at cooperative and cytotoxic T lymphocytes, as in the PF at ENW. The decrease is associated to a smaller percentage of activated, cooperative T lymphocytes and NK cells (p \< 0.05, at all the variable), versus FERW. This phenomenon is observed more stressed at the III and IV pathology degree. Conclusions: ENW show a peritoneal environment with a smaller immunology cytotoxic capacity, versus FERW. The discouragement of the immunology cytotoxic capacity increases associated to the pathology intensity.
 :::

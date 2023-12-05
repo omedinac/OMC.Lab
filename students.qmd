@@ -2,6 +2,8 @@
 title: "Students"
 ---
 
+#### We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!
+
 ::: callout-tip
 ## Postdoc
 
@@ -11,8 +13,10 @@ title: "Students"
 ::: callout-tip
 ## PhD
 
-Alejandra\
-Amairani\
+Alejandra
+
+Amairani
+
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
 ![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
@@ -39,7 +43,7 @@ Amairani\
 ::: callout-tip
 ## Undergrad
 
-- 
+-   
 :::
 
 ::: callout-tip
