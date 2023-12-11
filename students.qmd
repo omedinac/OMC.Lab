@@ -7,15 +7,13 @@ title: "Students"
 ::: callout-tip
 ## Postdoc
 
-[Diana Villalpando](https://www.linkedin.com/in/diana-villalpando-7a2626148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACOwFuoBbBMsMRvT2ga6_CoNKoHdye6b508&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BGLSCXG2qSMmbjU1mPxYyHg%3D%3D)
+![](res/diana.png){width="150"} [Diana Villalpando](https://www.linkedin.com/in/diana-villalpando-7a2626148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACOwFuoBbBMsMRvT2ga6_CoNKoHdye6b508&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BGLSCXG2qSMmbjU1mPxYyHg%3D%3D)
 :::
 
 ::: callout-tip
 ## PhD
 
 Alejandra
-
-Amairani
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
@@ -30,6 +28,8 @@ Amairani
 
 ::: callout-tip
 ## MSc
+
+Amairani
 
 ![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
