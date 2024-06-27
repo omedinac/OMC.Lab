@@ -15,8 +15,6 @@ title: "Students"
 
 Alejandra
 
-
-
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
 ![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
@@ -59,27 +57,27 @@ Ashley
 ::: callout-tip
 ## Former
 
-[ ] Laura D Manzanares-Meza\
-[ ] Felipe A Castro-Martínez\
-[ ] Julissa Luvian Morales\
-[ ] Miguel A Prieto-Islas\
-[ ] Merari Delgadillo González\
-[ ] Sara I Miguel-Suarez\
-[ ] Yanen Z Rios Lozano\
-[ ] Nelly X Álvarez Martínez\
-[ ] Maria D Vazquez Martinez\
-[ ] Valeria C Campuzano Espinal\
-[ ] Eunice Amezcua Arroyo\
-[ ] Yereth Torres Damian\
-[ ] Sandra N Garduño Vergara\
-[ ] Cristian Avila Mijangos\
-[ ] Daniel Calderon Loeza\
-[ ] Abril J Armenta Manjarrez\
-[ ] Josue Zambrano Carrasco\
-[ ] Carolina A Martinez Mendiola\
-[ ] Fernando A Diaz Sanchez\
-[ ] Raquel Camacho Millan\
-[ ] Sandra L Gonzalez Lopez\
-[ ] Rubi Escobar Resendiz\
-[ ] Bibiana Fabian Mora
+- [ ] Laura D Manzanares-Meza\
+- [ ] Felipe A Castro-Martínez\
+- [ ] Julissa Luvian Morales\
+- [ ] Miguel A Prieto-Islas\
+- [ ] Merari Delgadillo González\
+- [ ] Sara I Miguel-Suarez\
+- [ ] Yanen Z Rios Lozano\
+- [ ] Nelly X Álvarez Martínez\
+- [ ] Maria D Vazquez Martinez\
+- [ ] Valeria C Campuzano Espinal\
+- [ ] Eunice Amezcua Arroyo\
+- [ ] Yereth Torres Damian\
+- [ ] Sandra N Garduño Vergara\
+- [ ] Cristian Avila Mijangos\
+- [ ] Daniel Calderon Loeza\
+- [ ] Abril J Armenta Manjarrez\
+- [ ] Josue Zambrano Carrasco\
+- [ ] Carolina A Martinez Mendiola\
+- [ ] Fernando A Diaz Sanchez\
+- [ ] Raquel Camacho Millan\
+- [ ] Sandra L Gonzalez Lopez\
+- [ ] Rubi Escobar Resendiz\
+- [ ] Bibiana Fabian Mora
 :::
