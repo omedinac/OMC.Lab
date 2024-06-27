@@ -2,7 +2,7 @@
 title: "Medina-Castro Lab"
 ---
 
-### The intestinal immune system in cancer and immune regulation 
+### The intestinal immune system in cancer and immune regulation
 
 Standing at the intersection of Nutrition, Proteomics, and Immunology, our lab studies mucosal regulation in cancer, inflammation, and immunity. Intestinal immune homeostasis is maintained by a fine balance between the pro- and anti-inflammatory responses to microbiota. An extensive network of antigen presenting cells and effector cells tightly regulate these responses. We focus primarily on 1) the role of nutrition on immune responses and 2) macrophages regulation of intestinal T cells and epithelial cells, in health and disease.
 
@@ -13,13 +13,13 @@ We combine our expertise to gain novel insight on basic research questions, and 
 Our most recent papers are:
 
 ::: callout-important
-## [Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review](https://www.tandfonline.com/doi/abs/10.1080/10408398.2021.1875189)
+## [Effects of prebiotics, probiotics, and synbiotics on the prevention and treatment of cervical cancer: Mexican consensus and recommendations](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1383258/full)
 
-Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L, Castro-Eguiluz D\
-*Crit Rev Food Sci Nutr* 62(16),4371-4392\
-doi 10.1080/10408398.2021.1875189, [PubMed](https://pubmed.ncbi.nlm.nih.gov/33506690/)
+Gutiérrez Salmeán G, Delgadillo González M, Rueda Escalona AA, Leyva Islas JA, Castro-Eguiluz D.\
+*Front Oncol* 14:1383258\
+doi 10.3389/fonc.2024.1383258, [PubMed](https://pubmed.ncbi.nlm.nih.gov/38606098/)
 
-Chronic diseases are responsible for approximately 71% global deaths. These are characterized by chronic low-grade inflammation and metabolic alterations. "Functional foods" have been attributed with anti-inflammatory properties, demonstrated in cell lines and murine models; however, studies in humans are inconclusive. The purpose of this systematic review is to identify clinical trials that analyzed changes in inflammatory and metabolic mediators, in response to consumption of specific functional foods. A total of 3581 trials were screened and 88 were included for this review. Foods identified to regulate inflammation included cranberries, grapes, pomegranate, strawberries, wheat, whole grain products, low fat dairy products, yogurt, green tea, cardamom, turmeric, soy foods, almonds, chia seeds, flax seed, pistachios, algae oil, flaxseed oil and grape seed oil. Clinical trials that focus on a dietary pattern rich in functional foods are necessary to explore if the additive effect of these foods lead to more clinically relevant outcomes.
+Gut microbiota plays a crucial role in modulating immune responses, including effector response to infection and surveillance of tumors. This article summarizes the current scientific evidence on the effects of supplementation with prebiotics, probiotics, and synbiotics on high-risk human papillomavirus (HPV) infections, precancerous lesions, and various stages of cervical cancer development and treatment while also examining the underlying molecular pathways involved. Our findings indicate that a higher dietary fiber intake is associated with a reduced risk of HPV infection, while certain probiotics have shown promising results in clearing HPV-related lesions. Additionally, certain strains of probiotics, prebiotics such as inulin and fructo-oligosaccharides, and synbiotics decrease the frequency of gastrointestinal adverse effects in cervical cancer patients. These agents attain their results by modulating crucial metabolic pathways, including the reduction of inflammation and oxidative stress, promoting apoptosis, inhibiting cell proliferation, and suppressing the activity of oncogenes, thus attenuating tumorigenesis. We conclude that although further human studies are necessary, robust evidence in preclinical models demonstrates that prebiotics, probiotics, and synbiotics play an essential role in cervical cancer, from infection to carcinogenesis and its medical treatment. Consequently, we strongly recommend conducting high-quality clinical trials using these agents as adjuvants since they have proven safe.
 :::
 
 ::: callout-important

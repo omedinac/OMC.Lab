@@ -6,7 +6,7 @@ title: "About Us"
 
 # ![Denisse Castro Eguiluz](res/den.jpeg){width="200"}
 
-|                                      |        |                                                |
+|  |  |  |
 |------------------------|-------------------|-----------------------------|
 | [email](mailto:adcastro@conahcyt.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) |
 
@@ -20,7 +20,7 @@ Dr. Castro received her bachelor’s degree in Nutrition from Universidad Ibero.
 
 # ![Oscar Medina Contreras](res/omc.JPG){width="200"}
 
-|                                      |        |                                                |                                                                         |                                                                         |                                   |                                        |
+|  |  |  |  |  |  |  |
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | [email](mailto:omedina@himfg.edu.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) | [Scholar](https://scholar.google.com/citations?user=8uVVtz4AAAAJ&hl=en) | [X](https://twitter.com/morphant) | [GitHub](https://github.com/omedinac/) |
 
