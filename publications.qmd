@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 ---
+
+```{=html}
 <!--
 ::: {.callout-warning collapse="true"}
 ## upcoming
@@ -25,6 +27,7 @@ title: "Publications"
 [** 1, 1](https://www.)
 :::
 -->
+```
 
 ::: {.callout-note collapse="true"}
 ## IFN$\gamma$ stimulates Paneth cell secretion through necroptosis activation
@@ -361,6 +364,7 @@ Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L, S�
 In the development of cervical cancer (CC), the immune response plays an essential role, from the elimination of human papillomavirus (HPV) infection to the response against the tumor. For optimal function of the immune response, various factors are required, one of the most important being an adequate nutrition. The complex interaction between nutrients and microbiota maintains the immune system in homeostasis and in case of infection, it provides the ability to fight against pathogen invasion, as occurs in HPV infection. The purpose of this article is to describe the role of diet, food, and specific nutrients in the immune response from the onset of infection to progression to precancerous lesions and CC, as well as the role of diet and nutrition during oncological treatment. The immunomodulatory role of microbiota is also discussed. A detailed analysis of the evidence leads us to recommend a nutritional pattern very similar to the Mediterranean diet or the prudent diet for an optimal immune response. Moreover, pre- and probiotics favorably modulate the microbiota and induce preventive and therapeutic effects against cancer.
 :::
 
+```{=html}
 <!--
 Cetina-Pérez L, Castro-Eguiluz D. CONSENSUS REPORT ON THE PREVENTION, DIAGNOSIS, AND TREATMENT OF CERVICAL CANCER - A PERSPECTIVE FROM THE IMMUNE SYSTEM TOWARD IMMUNOTHERAPY. Rev Invest Clin. 2020;72(4):185-187. doi: 10.24875/RIC.20000129. PMID: 33064681.
 
@@ -388,6 +392,7 @@ Rosales-Reyes R, Pérez-López A, Sánchez-Gómez C, Hernández-Mote RR, Castro-
 
 
 -->
+```
 
 ::: {.callout-note collapse="true"}
 ## SARS-CoV-2 and influenza: a comparative overview and treatment implications

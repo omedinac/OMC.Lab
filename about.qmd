@@ -7,7 +7,7 @@ title: "About Us"
 # ![Denisse Castro Eguiluz](res/den.jpeg){width="200"}
 
 |  |  |  |
-|------------------------|-------------------|-----------------------------|
+|----|----|----|
 | [email](mailto:adcastro@conahcyt.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) |
 
 Dr. Denisse Castro Eguiluz is a Researcher for Mexico at the National Cancer Institute, in the MICAELA program.
@@ -21,7 +21,7 @@ Dr. Castro received her bachelor’s degree in Nutrition from Universidad Ibero.
 # ![Oscar Medina Contreras](res/omc.JPG){width="200"}
 
 |  |  |  |  |  |  |  |
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [email](mailto:omedina@himfg.edu.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) | [Scholar](https://scholar.google.com/citations?user=8uVVtz4AAAAJ&hl=en) | [X](https://twitter.com/morphant) | [GitHub](https://github.com/omedinac/) |
 
 Dr. Oscar Medina Contreras is a Medical Sciences Researcher at Mexico Children's Hospital, a National Institute of Health, in the Immunology & Proteomics Laboratory and the Epidemiology, Endocrinology & Nutrition Research Unit. Before joining Mexico Children's Hospital, he was a research associate in the Institute for Biomedical Sciences' Center for Inflammation, Immunity & Infection at Georgia State University.

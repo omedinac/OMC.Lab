@@ -17,9 +17,7 @@ Alejandra
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
-![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
-
-[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)
+<!--[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)-->
 
 ![](res/sam.png){width="150"} [Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 :::
@@ -34,6 +32,7 @@ Ashley
 ![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
 
+```{=html}
 <!--
 ::: callout-tip
 ## Clinical Specialty
@@ -41,44 +40,46 @@ Ashley
 ![](res/yan.png){width="150"} [Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
 :::
 -->
+```
 
 ::: callout-tip
 ## Undergrad
 
-![](res/camis){width="150"} [Camila Ramírez Padilla](http://www.)
+<!--![](res/camis){width="150"} [Camila Ramírez Padilla](http://www.)-->
 
 ![](res/aelinne){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.)
 
-[Yes](http://www.)
-
-[Nico](http://www.)
 :::
 
 ::: callout-tip
 ## Former
 
-![](res/yanen.jpg){width="150"} [Yanen Z Rios Lozano, MSc]](](https://www.instagram.com/dra.yanen.rios?igsh=Y29oazMwMzRieDlw)
+![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman, PhD](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
 
-- [ ] Laura D Manzanares-Meza\
-- [ ] Felipe A Castro-Martínez\
-- [ ] Julissa Luvian Morales\
-- [ ] Miguel A Prieto-Islas\
-- [ ] Merari Delgadillo González\
-- [ ] Sara I Miguel-Suarez\
-- [ ] Nelly X Álvarez Martínez\
-- [ ] Maria D Vazquez Martinez\
-- [ ] Valeria C Campuzano Espinal\
-- [ ] Eunice Amezcua Arroyo\
-- [ ] Yereth Torres Damian\
-- [ ] Sandra N Garduño Vergara\
-- [ ] Cristian Avila Mijangos\
-- [ ] Daniel Calderon Loeza\
-- [ ] Abril J Armenta Manjarrez\
-- [ ] Josue Zambrano Carrasco\
-- [ ] Carolina A Martinez Mendiola\
-- [ ] Fernando A Diaz Sanchez\
-- [ ] Raquel Camacho Millan\
-- [ ] Sandra L Gonzalez Lopez\
-- [ ] Rubi Escobar Resendiz\
-- [ ] Bibiana Fabian Mora
+![](res/yanen.jpg){width="150"} [Yanen Z Rios Lozano, MSc](https://www.instagram.com/dra.yanen.rios?igsh=Y29oazMwMzRieDlw)
+
+-   [ ] Laura D Manzanares-Meza\
+-   [ ] Felipe A Castro-Martínez\
+-   [ ] Julissa Luvian Morales\
+-   [ ] Miguel A Prieto-Islas\
+-   [ ] Merari Delgadillo González\
+-   [ ] Sara I Miguel-Suarez\
+-   [ ] Nelly X Álvarez Martínez\
+-   [ ] Maria D Vazquez Martinez\
+-   [ ] Valeria C Campuzano Espinal\
+-   [ ] Eunice Amezcua Arroyo\
+-   [ ] Yereth Torres Damian\
+-   [ ] Sandra N Garduño Vergara\
+-   [ ] Cristian Avila Mijangos\
+-   [ ] Daniel Calderon Loeza\
+-   [ ] Abril J Armenta Manjarrez\
+-   [ ] Josue Zambrano Carrasco\
+-   [ ] Carolina A Martinez Mendiola\
+-   [ ] Fernando A Diaz Sanchez\
+-   [ ] Raquel Camacho Millan\
+-   [ ] Sandra L Gonzalez Lopez\
+-   [ ] Rubi Escobar Resendiz\
+-   [ ] Bibiana Fabian Mora
+- [Yes](http://www.)
+- [Nico](http://www.)
 :::
