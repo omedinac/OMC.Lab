@@ -29,6 +29,29 @@ title: "Publications"
 -->
 ```
 
+
+::: {.callout-note collapse="true"}
+## Editorial: Cervical cancer: updates from the Mexican national consensus
+
+Cetina-Pérez L, Medina-Contreras O [*Front Oncol* 14:1493334](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1493334/full)
+:::
+
+::: {.callout-note collapse="true"}
+## UNAM-HIMFG bacterial lysate activates the immune response and inhibits colonization of bladder of Balb/c mice infected with the uropathogenic CFT073 *Escherichia coli* strain
+
+Acevedo-Monroy SE, Hernández-Chiñas U, Medina-Contreras O, López-Díaz O, Ahumada-Cota RE, Martínez-Gómez D, Huerta-Yepez S, Tirado-Rodríguez AB,  Molina-López J,  Castro-Luna R, Martínez-Cristóbal L, Rojas-Castro FE, Chávez-Berrocal ME, Verdugo-Rodríguez A, Eslava-Campos CA [*Int J Mol Sci* 25(18):9876](https://www.mdpi.com/1422-0067/25/18/9876)
+
+Urinary tract infections (UTIs) represent a clinical and epidemiological problem of worldwide impact that affects the economy and the emotional state of the patient. Control of the condition is complicated due to multidrug resistance of pathogens associated with the disease. Considering the difficulty in carrying out effective treatment with antimicrobials, it is necessary to propose alternatives that improve the clinical status of the patients. With this purpose, in a previous study, the safety and immunostimulant capacity of a polyvalent lysate designated UNAM-HIMFG prepared with different bacteria isolated during a prospective study of chronic urinary tract infection (CUTI) was evaluated. In this work, using an animal model, results are presented on the immunostimulant and protective activity of the polyvalent UNAM-HIMFG lysate to define its potential use in the control and treatment of CUTI. Female Balb/c mice were infected through the urethra with Escherichia coli CFT073 (UPEC O6:K2:H1) strain; urine samples were collected before the infection and every week for up to 60 days. Once the animals were colonized, sublingual doses of UNAM-HIMFG lysate were administrated. The colonization of the bladder and kidneys was evaluated by culture, and their alterations were assessed using histopathological analysis. On the other hand, the immunostimulant activity of the compound was analyzed by qPCR of spleen mRNA. Uninfected animals receiving UNAM-HIMFG lysate and infected animals administered with the physiological saline solution were used as controls. During this study, the clinical status and evolution of the animals were evaluated. At ninety-six hours after infection, the presence of CFT073 was identified in the urine of infected animals, and then, sublingual administration of UNAM-HIMFG lysate was started every week for 60 days. The urine culture of mice treated with UNAM-HIMFG lysate showed the presence of bacteria for three weeks post-treatment; in contrast, in the untreated animals, positive cultures were observed until the 60th day of this study. The histological analysis of bladder samples from untreated animals showed the presence of chronic inflammation and bacteria in the submucosa, while tissues from mice treated with UNAM-HIMFG lysate did not show alterations. The same analysis of kidney samples of the two groups (treated and untreated) did not present alterations. Immunostimulant activity assays of UNAM-HIMFG lysate showed overexpression of TNF-α and IL-10. Results suggest that the lysate activates the expression of cytokines that inhibit the growth of inoculated bacteria and control the inflammation responsible for tissue damage. In conclusion, UNAM-HIMFG lysate is effective for the treatment and control of CUTIs without the use of antimicrobials.
+:::
+
+::: {.callout-note collapse="true"}
+## Tumor suppressive cross linking of anti-*T. cruzi* antibodies in acute lymphoblastic leukemia
+
+Maravelez Acosta VA, Crisóstomo Vázquez MP, Eligio García L, Franco Sandoval LO, Castro Pérez D, Patiño López G, Medina Contreras O, Jiménez Cardoso E [*Int J Mol Sci* 25(15):8307](https://www.mdpi.com/1422-0067/25/15/8307)
+
+Parasites have been associated with possible anticancer activity, including Trypanosoma cruzi, which has been linked to inhibiting the growth of solid tumors. To better understand this antitumor effect, we investigated the association of anti-T. cruzi antibodies with B cells of the acute lymphoblastic leukemia (ALL) SUPB15 cell line. The antibodies were generated in rabbits. IgGs were purified by affinity chromatography. Two procedures (flow cytometry (CF) and Western blot(WB)) were employed to recognize anti-T. cruzi antibodies on SUPB15 cells. We also used CF to determine whether the anti-T. cruzi antibodies could suppress SUPB15 cells. The anti-T. cruzi antibodies recognized 35.5% of the surface antigens of SUPB15. The complement-dependent cytotoxicity (CDC) results demonstrate the cross-suppression of anti-T. cruzi antibodies on up to 8.4% of SUPB15 cells. For the WB analysis, a band at 100 kDa with high intensity was sequenced using mass spectrometry, identifying the protein as nucleolin. This protein may play a role in the antitumor effect on T. cruzi. The anti-T. cruzi antibodies represent promising polyclonal antibodies that have the effect of tumor-suppressive cross-linking on cancer cells, which should be further investigated.
+:::
+
 ::: {.callout-note collapse="true"}
 ## IFN$\gamma$ stimulates Paneth cell secretion through necroptosis activation
 
