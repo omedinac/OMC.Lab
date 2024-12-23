@@ -17,8 +17,6 @@ Alejandra
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
-<!--[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)-->
-
 ![](res/sam.png){width="150"} [Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 :::
 
@@ -32,20 +30,8 @@ Ashley
 ![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 :::
 
-```{=html}
-<!--
-::: callout-tip
-## Clinical Specialty
-
-![](res/yan.png){width="150"} [Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
-:::
--->
-```
-
 ::: callout-tip
 ## Undergrad
-
-<!--![](res/camis){width="150"} [Camila Ramírez Padilla](http://www.)-->
 
 ![](res/aelinne){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.)
 

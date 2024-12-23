@@ -13,22 +13,9 @@ title: "Publications"
 -   Recognition of molecular targets against acute lymphoblastic leukemia, with *Trypanosoma cruzi* antibodies
 -   HPV vaccination improves immune response in children with respiratory papillomatosis
 -   Crtam and IL-36$\gamma$ are required for the control of <i>Salmonella</i> infection in the intestine
-:::
-
-
-
-1.
-. 
-. 
-** 
-2024, **in press**
-::: {.callout-note collapse="true"}
-## 
-[** 1, 1](https://www.)
+- Negrete-Méndez H, Valencia-Toxqui G, Martínez-Peñafiel E, Medina-Contreras O, Fernández-Ramírez F, Morales-Ríos E, Navarro-González LJ, Torres-Flores JM, Kameyama L. (2024). A Lambda-evo ($\lambda$evo) phage platform for E-DIII ZIKV display [*Applied Microbiology and Biotechnology* **in press**]
 :::
 -->
-```
-
 
 ::: {.callout-note collapse="true"}
 ## Editorial: Cervical cancer: updates from the Mexican national consensus
@@ -39,7 +26,7 @@ Cetina-Pérez L, Medina-Contreras O [*Front Oncol* 14:1493334](https://www.front
 ::: {.callout-note collapse="true"}
 ## UNAM-HIMFG bacterial lysate activates the immune response and inhibits colonization of bladder of Balb/c mice infected with the uropathogenic CFT073 *Escherichia coli* strain
 
-Acevedo-Monroy SE, Hernández-Chiñas U, Medina-Contreras O, López-Díaz O, Ahumada-Cota RE, Martínez-Gómez D, Huerta-Yepez S, Tirado-Rodríguez AB,  Molina-López J,  Castro-Luna R, Martínez-Cristóbal L, Rojas-Castro FE, Chávez-Berrocal ME, Verdugo-Rodríguez A, Eslava-Campos CA [*Int J Mol Sci* 25(18):9876](https://www.mdpi.com/1422-0067/25/18/9876)
+Acevedo-Monroy SE, Hernández-Chiñas U, Medina-Contreras O, López-Díaz O, Ahumada-Cota RE, Martínez-Gómez D, Huerta-Yepez S, Tirado-Rodríguez AB, Molina-López J, Castro-Luna R, Martínez-Cristóbal L, Rojas-Castro FE, Chávez-Berrocal ME, Verdugo-Rodríguez A, Eslava-Campos CA [*Int J Mol Sci* 25(18):9876](https://www.mdpi.com/1422-0067/25/18/9876)
 
 Urinary tract infections (UTIs) represent a clinical and epidemiological problem of worldwide impact that affects the economy and the emotional state of the patient. Control of the condition is complicated due to multidrug resistance of pathogens associated with the disease. Considering the difficulty in carrying out effective treatment with antimicrobials, it is necessary to propose alternatives that improve the clinical status of the patients. With this purpose, in a previous study, the safety and immunostimulant capacity of a polyvalent lysate designated UNAM-HIMFG prepared with different bacteria isolated during a prospective study of chronic urinary tract infection (CUTI) was evaluated. In this work, using an animal model, results are presented on the immunostimulant and protective activity of the polyvalent UNAM-HIMFG lysate to define its potential use in the control and treatment of CUTI. Female Balb/c mice were infected through the urethra with Escherichia coli CFT073 (UPEC O6:K2:H1) strain; urine samples were collected before the infection and every week for up to 60 days. Once the animals were colonized, sublingual doses of UNAM-HIMFG lysate were administrated. The colonization of the bladder and kidneys was evaluated by culture, and their alterations were assessed using histopathological analysis. On the other hand, the immunostimulant activity of the compound was analyzed by qPCR of spleen mRNA. Uninfected animals receiving UNAM-HIMFG lysate and infected animals administered with the physiological saline solution were used as controls. During this study, the clinical status and evolution of the animals were evaluated. At ninety-six hours after infection, the presence of CFT073 was identified in the urine of infected animals, and then, sublingual administration of UNAM-HIMFG lysate was started every week for 60 days. The urine culture of mice treated with UNAM-HIMFG lysate showed the presence of bacteria for three weeks post-treatment; in contrast, in the untreated animals, positive cultures were observed until the 60th day of this study. The histological analysis of bladder samples from untreated animals showed the presence of chronic inflammation and bacteria in the submucosa, while tissues from mice treated with UNAM-HIMFG lysate did not show alterations. The same analysis of kidney samples of the two groups (treated and untreated) did not present alterations. Immunostimulant activity assays of UNAM-HIMFG lysate showed overexpression of TNF-α and IL-10. Results suggest that the lysate activates the expression of cytokines that inhibit the growth of inoculated bacteria and control the inflammation responsible for tissue damage. In conclusion, UNAM-HIMFG lysate is effective for the treatment and control of CUTIs without the use of antimicrobials.
 :::
@@ -53,11 +40,11 @@ Parasites have been associated with possible anticancer activity, including Tryp
 :::
 
 ::: {.callout-note collapse="true"}
-## IFN$\gamma$ stimulates Paneth cell secretion through necroptosis activation
+## IFN$\gamma$ stimulates Paneth cell secretion through necroptosis mTORC1 dependent
 
-Encarnacion-Garcia MR, De La Torre-Baez R, Hernandez-Cueto MA, Velázquez-Villegas LA, Candelario-Martinez A, Horta-López PH, Montoya-García A, Jaimes-Ortega GA, Lopez-Bailon L, Piedra-Quintero Z, Carrasco-Torres G, De Ita M, Figueroa-Corona MP, Muñoz-Medina JE, Sánchez-Uribe M, Villa-Treviño S, Meraz-Ríos MA, Silva-Olivares A, Betanzos A, Garcia-Sierra F, Cisneros B, Schnoor M, Ortíz-Navarrete VF, Villegas-Sepúlveda N, Valle-Rios R, Medina-Contreras O, Noriega LG, Nava P [*Eur J Immunol* **in press**](https://onlinelibrary.wiley.com/doi/10.1002/eji.202350716)
+Encarnacion-Garcia MR, De la Torre-Baez R, Hernandez-Cueto MA, Velázquez-Villegas LA, Candelario-Martinez A, Sánchez-Argáez AB, Horta-López PH, Montoya-García A, Jaimes-Ortega GA, Lopez-Bailon L, Piedra-Quintero Z, Carrasco-Torres G, De Ita M, Figueroa-Corona MP, Muñoz-Medina JE, Sánchez-Uribe M, Ortiz-Fernández A, Meraz-Ríos MA, Silva-Olivares A, Betanzos A, Baay-Guzman GJ, Navarro-Garcia F, Villa-Treviño S, Garcia-Sierra F, Cisneros B, Schnoor M, Ortíz-Navarrete VF, Villegas-Sepúlveda N, Valle-Rios R, Medina-Contreras O, Noriega LG, Nava P. [*Eur J Immunol* 54: 2350716](https://onlinelibrary.wiley.com/doi/10.1002/eji.202350716)
 
-Immune mediators affect multiple biological functions of intestinal epithelial cells (IECs) and, like Paneth and Paneth-like cells, play an important role in intestinal epithelial homeostasis. IFN$\gamma$ a prototypical proinflammatory cytokine disrupts intestinal epithelial homeostasis. However, the mechanism underlying the process remains unknown. In this study, using *in vivo* and *in vitro* models we demonstrate that IFN$\gamma$ is spontaneously secreted in the small intestine. Furthermore, we observed that this cytokine stimulates mitochondrial activity, ROS production, and Paneth and Paneth-like cell secretion. Paneth and Paneth-like secretion downstream of IFN$\gamma$, as identified here, is mTORC1 and necroptosis-dependent. Thus, our findings revealed that the pleiotropic function of IFN$\gamma$ also includes the regulation of Paneth cell function in the homeostatic gut.
+Immune mediators affect multiple biological functions of intestinal epithelial cells (IECs) and, like Paneth and Paneth-like cells, play an important role in intestinal epithelial homeostasis. IFN-$\gamma$ a prototypical proinflammatory cytokine disrupts intestinal epithelial homeostasis. However, the mechanism underlying the process remains unknown. In this study, using in vivo and in vitro models we demonstrate that IFN-$\gamma$ is spontaneously secreted in the small intestine. Furthermore, we observed that this cytokine stimulates mitochondrial activity, ROS production, and Paneth and Paneth-like cell secretion. Paneth and Paneth-like secretion downstream of IFN-$\gamma$, as identified here, is mTORC1 and necroptosis-dependent. Thus, our findings revealed that the pleiotropic function of IFN-$\gamma$ also includes the regulation of Paneth cell function in the homeostatic gut.
 :::
 
 ::: {.callout-note collapse="true"}
@@ -387,7 +374,6 @@ Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L, S�
 In the development of cervical cancer (CC), the immune response plays an essential role, from the elimination of human papillomavirus (HPV) infection to the response against the tumor. For optimal function of the immune response, various factors are required, one of the most important being an adequate nutrition. The complex interaction between nutrients and microbiota maintains the immune system in homeostasis and in case of infection, it provides the ability to fight against pathogen invasion, as occurs in HPV infection. The purpose of this article is to describe the role of diet, food, and specific nutrients in the immune response from the onset of infection to progression to precancerous lesions and CC, as well as the role of diet and nutrition during oncological treatment. The immunomodulatory role of microbiota is also discussed. A detailed analysis of the evidence leads us to recommend a nutritional pattern very similar to the Mediterranean diet or the prudent diet for an optimal immune response. Moreover, pre- and probiotics favorably modulate the microbiota and induce preventive and therapeutic effects against cancer.
 :::
 
-```{=html}
 <!--
 Cetina-Pérez L, Castro-Eguiluz D. CONSENSUS REPORT ON THE PREVENTION, DIAGNOSIS, AND TREATMENT OF CERVICAL CANCER - A PERSPECTIVE FROM THE IMMUNE SYSTEM TOWARD IMMUNOTHERAPY. Rev Invest Clin. 2020;72(4):185-187. doi: 10.24875/RIC.20000129. PMID: 33064681.
 
