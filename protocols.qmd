@@ -1,0 +1,64 @@
+---
+title: "Protocols"
+toc: true
+number-sections: false
+highlight-style: pygments
+---
+
+::: {.callout-note collapse="true"}
+## LP intestinal
+
+-   Precalentar a 37°C solución de PBS 1X y Solución de Hanks-SFB (5%).
+
+-   Eutanasiar a los ratones por dislocación cervical. Una vez muertos
+    los ratones, realizar una incisión abdominal por planos por piel y
+    peritoneo. Separar el intestino delgado del estómago y hacer un
+    corte en el píloro gástrico. Eliminar el ciego y continuar hasta el
+    recto.
+
+-   Extraer cuidadosamente el intestino, retirar el tejido mesentérico
+    adyacente y las placas de Peyer.
+
+-   Cortar el intestino longitudinal de extremo a extremo y colocarlo en
+    una bandeja con PBS 1X/37°C y agitar suavemente. Transferir a una
+    nueva bandeja y repetir dos veces el proceso.
+
+-   Cortar el intestino en fragmentos de 0.5cm y colocar en un tubo
+    falcón (50ml): EDTA (2mM) en solución de Hanks-SFB (30ml). Agitar a
+    250 rpm/37°C/20 minutos.
+
+-   Remover el tejido y repetir la incubación con soluciones frescas.
+
+-   Cortar finamente el tejido en fragmentos de 1mm y agregar colagenasa
+    tipo IV (1mg/ml) y DNasa I (800$\mu$g) disueltas en solución de
+    Hanks-SFB (20ml). Poner en agitación continua 200rpm/37°C/10
+    minutos.
+
+-   Pasar la solución por un colador celular de 100$\mu$m y colectar la
+    suspensión celular, agregar 20ml de solución de Hanks-SFB frío.
+    Centrifugar 1500 RPM/4°C/5 min.
+
+-   Resuspender el botón celular y contar las células en la cámara de
+    Neubauer.
+
+:::
+
+::: {.callout-note collapse="true"}
+## Transformación bacteriana
+
+-   Mezclar 3$\mu$l del vector exógeno con un vial de bacterias competentes.
+
+-   Incubar 30 minutos en hielo.
+
+-   Incubar 60 segundos a 42ºC.
+
+-   Incubar 2 minutos en hielo.
+
+-   Añadir 200$\mu$l de medio SOC, e incubar 37°C/200rpm/1hr.
+
+-   Plaquear en agar LB con antibiotico de selección.
+
+-   Incubar 12-16hrs a 37°C.
+
+:::
+

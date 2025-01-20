@@ -11,6 +11,7 @@ website:
       - publications.qmd
       - students.qmd
       - about.qmd
+      - protocols.qmd
 
 format:
   html:
