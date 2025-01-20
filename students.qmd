@@ -33,6 +33,8 @@ Ashley
 ::: callout-tip
 ## Undergrad
 
+![](res/fer){width="150"} [Luisa Fernanda Palazuelos Altamirano](http://www.)
+
 ![](res/aelinne){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.)
 
 :::

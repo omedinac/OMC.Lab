@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.7.5">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ff4371ef257df69894857e99c6ad0d06.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -167,7 +167,6 @@ PhD
 <div class="callout-body-container callout-body">
 <p>Alejandra</p>
 <p><img src="res/bety.png" class="img-fluid" width="150"> <a href="https://loop.frontiersin.org/people/1956319/overview">Albertana Jimenez-Pineda</a></p>
-<!--[Carmen L Perez-De Gante](http://www.uibcdf.org/carmen/Semblanza_Perez_de_Gante.pdf)-->
 <p><img src="res/sam.png" class="img-fluid" width="150"> <a href="https://mx.linkedin.com/in/samantha-ysais-chong-036935213">Samantha Ysais-Chong</a></p>
 </div>
 </div>
@@ -186,13 +185,6 @@ MSc
 <p><img src="res/bren.png" class="img-fluid" width="150"> <a href="https://www.instagram.com/himfogram/">Brenda Hernández Martínez</a></p>
 </div>
 </div>
-<!--
-::: callout-tip
-## Clinical Specialty
-
-![](res/yan.png){width="150"} [Yanen Z Rios Lozano](https://mx.linkedin.com/in/yanen-zaneli-r%C3%ADos-lozano-96b845124)
-:::
--->
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -203,7 +195,6 @@ Undergrad
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<!--![](res/camis){width="150"} [Camila Ramírez Padilla](http://www.)-->
 <p><img src="res/aelinne.png" class="img-fluid" width="150"> <a href="http://www.">Aelinne Alejandra Pérez Martínez</a></p>
 </div>
 </div>
@@ -355,8 +346,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -467,7 +456,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
