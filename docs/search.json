@@ -32,6 +32,13 @@
     "href": "protocols.html",
     "title": "Protocols",
     "section": "",
-    "text": "LP intestinal\n\n\n\n\n\n\nPrecalentar a 37°C solución de PBS 1X y Solución de Hanks-SFB (5%).\nEutanasiar a los ratones por dislocación cervical. Una vez muertos los ratones, realizar una incisión abdominal por planos por piel y peritoneo. Separar el intestino delgado del estómago y hacer un corte en el píloro gástrico. Eliminar el ciego y continuar hasta el recto.\nExtraer cuidadosamente el intestino, retirar el tejido mesentérico adyacente y las placas de Peyer.\nCortar el intestino longitudinal de extremo a extremo y colocarlo en una bandeja con PBS 1X/37°C y agitar suavemente. Transferir a una nueva bandeja y repetir dos veces el proceso.\nCortar el intestino en fragmentos de 0.5cm y colocar en un tubo falcón (50ml): EDTA (2mM) en solución de Hanks-SFB (30ml). Agitar a 250 rpm/37°C/20 minutos.\nRemover el tejido y repetir la incubación con soluciones frescas.\nCortar finamente el tejido en fragmentos de 1mm y agregar colagenasa tipo IV (1mg/ml) y DNasa I (800\\(\\mu\\)g) disueltas en solución de Hanks-SFB (20ml). Poner en agitación continua 200rpm/37°C/10 minutos.\nPasar la solución por un colador celular de 100\\(\\mu\\)m y colectar la suspensión celular, agregar 20ml de solución de Hanks-SFB frío. Centrifugar 1500 RPM/4°C/5 min.\nResuspender el botón celular y contar las células en la cámara de Neubauer.\n\n\n\n\n\n\n\n\n\n\nTransformación bacteriana\n\n\n\n\n\n\nMezclar 3\\(\\mu\\)l del vector exógeno con un vial de bacterias competentes.\nIncubar 30 minutos en hielo.\nIncubar 60 segundos a 42ºC.\nIncubar 2 minutos en hielo.\nAñadir 200\\(\\mu\\)l de medio SOC, e incubar 37°C/200rpm/1hr.\nPlaquear en agar LB con antibiotico de selección.\nIncubar 12-16hrs a 37°C.\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTBD"
+    "text": "Congelar células\n\n\n\n\n\n\nCosechar las células1 y resuspender en 5ml de medio de cultivo.\nCentrifugar a 1500rpm/5 minutos/4ºC.\nRemover el sobrenadante y añadir 1 ml de medio crioprotector2.\nResuspender las células y pasar inmediatamente a hielo.\nGuardar a -80°C/24 hrs y posteriormente almacenar en nitrógeno líquido."
+  },
+  {
+    "objectID": "protocols.html#footnotes",
+    "href": "protocols.html#footnotes",
+    "title": "Protocols",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPartir de células con una confluencia del 80-90%↩︎\nCongelar a una concentración de 106-107 células/ml↩︎"
   }
 ]
