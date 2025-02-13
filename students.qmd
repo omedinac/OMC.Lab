@@ -13,6 +13,8 @@ title: "Students"
 ::: callout-tip
 ## PhD
 
+Lucero
+
 Alejandra Ariadna
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
