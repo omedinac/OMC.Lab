@@ -13,9 +13,9 @@ title: "Students"
 ::: callout-tip
 ## PhD
 
-Lucero
+![](res/lu.png){width="150"} [Lucero Nuncio Mora](https://www.instagram.com/omc_lab/)
 
-Alejandra Ariadna
+![](res/ale.png){width="150"} [Alejandra Ariadna Rueda Escalona](https://www.instagram.com/omc_lab/)
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
@@ -25,22 +25,29 @@ Alejandra Ariadna
 ::: callout-tip
 ## MSc
 
-Ashley
+![](res/brendaland.png){width="150"} [Brenda Landa Esquivias](https://www.instagram.com/omc_lab/)
+
+![](res/ashley.png){width="150"} [Ashley García Yepes](https://www.instagram.com/omc_lab/)
 
 ![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
+
+![](res/omclab.jpg){width="150"} [Arleth Garibay Oropeza](https://www.instagram.com/omc_lab/)
 :::
 
 ::: callout-tip
 ## Undergrad
 
-![](res/fer.png){width="150"} [Luisa Fernanda Palazuelos Altamirano](http://www.)
-
 ![](res/aelinne.png){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.)
+
+![](res/omclab.jpg){width="150"} [Ernesto Augusto Aguilar Alva](https://www.instagram.com/omc_lab/)
 
 :::
 
+<!--
 ::: callout-tip
 ## Former
+
+![](res/fer.png){width="150"} [Luisa Fernanda Palazuelos Altamirano](http://www.)
 
 ![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman, PhD](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
 
@@ -72,3 +79,5 @@ Ashley
 - [Yes](http://www.)
 - [Nico](http://www.)
 :::
+
+-->

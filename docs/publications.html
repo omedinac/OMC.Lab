@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.5">
+<meta name="generator" content="quarto-1.9.2">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,15 +30,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ff4371ef257df69894857e99c6ad0d06.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c6982bbdd90c704a9b15aa23d87ad911.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,7 +83,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -100,13 +102,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">OMC Lab</span>
     </a>
@@ -132,6 +136,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About Us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./protocols.html"> 
+<span class="menu-text">Protocols</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -172,26 +180,92 @@ window.Quarto = {
 <!--
 ::: {.callout-warning collapse="true"}
 ## upcoming
-
--   Paneth and Paneth-like cells undergoing necroptosis fuel intestinal epithelial cell proliferation following IFN$\gamma$ stimulation
--   Leptin-receptor modulators: Docking-based virtual screening
--   HS1 deficiency protects from experimental colitis by reducing neutrophil recruitment to the mucosa and transepithelial migration
--   Recognition of molecular targets against acute lymphoblastic leukemia, with *Trypanosoma cruzi* antibodies
--   HPV vaccination improves immune response in children with respiratory papillomatosis
 -   Crtam and IL-36$\gamma$ are required for the control of <i>Salmonella</i> infection in the intestine
 :::
 -->
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-A Lambda-evo (λevo) phage platform for Zika virus EDIII protein displayed
+<span class="screen-reader-only">Note</span>The role of inflammasomes in LPS and Gram-negative bacterial sepsis
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hernández-Cuellar H, Tsuchiya K, Medina-Contreras O, Valle-Ríos R<br>
+<a href="https://www.mdpi.com/">J Clin Med 14,</a></p>
+<p><strong>Background</strong>: Sepsis is a life-threatening condition characterized by an uncontrolled immune response due to systemic infections. It is responsible for millions of deaths worldwide. Although inflammasomes play an important role in host defense, they have a detrimental role in sepsis induced by LPS or Gram-negative bacteria. We aimed to revise the molecular mechanisms of inflammasome activation in sepsis by LPS and Gram-negative bacteria other than cytokine release as treatments blocking TNF<span class="math inline">\(\alpha\)</span> and IL-1 cytokines have been ineffective even though cytokine storm is associated with lethality. <strong>Results</strong>: Studies with knockout mice deficient in inflammasome-derived cytokines have shown contrasting results on the role of these proinflammatory cytokines in the lethality of LPS- and Gram-negative-induced sepsis. However, DAMPs released after non-canonical inflammasome activation such as extracellular DNA, histones, HMGB1, and tissue factor result in disseminated-intravascular coagulation (DIC) and mortality in mice. Blocking these products in preclinical studies with animal models showed improved clinical scores and survival after LPS-induced sepsis or polymicrobial sepsis induced by Cecal Ligation and Puncture. <strong>Conclusions</strong>: Even though immunomodulatory drugs have shown inconclusive results as therapies for sepsis, blocking DAMPs associated with DIC may be considered for clinical trials in the future, especially in patients presenting biomarkers of coagulopathies.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>HPV vaccination improves immune response in children with respiratory papillomatosis
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Prieto-Islas MA, Godoy-Dahbura E, Villalpando-Sanchez DC,Cortés-Benavides C, Hernández-Cuellar E, Castro-Eguiluz Denisse, Álvarez-Neri H, Medina-Contreras O<br>
+<a href="https://www.nature.com/articles/s41598-025-14787-2">Sci Rep 15, 29885</a></p>
+<p>Recurrent respiratory papillomatosis (RRP) is a pathology characterized by the presence of neoplasm in the epithelium of the airways, where the larynx is the main affected organ. The cause of this disease is the low-risk Human Papillomavirus (HPV), where subtypes 6 and 11 are the most frequent. The only proven effective treatment is surgical resection of the lesions, and although there are adjunctive treatments to try to reduce the recurrence of neoplasms, it has not been proven that there is an effective alternative that achieves this effect. A proposal as adjuvant therapy is the HPV vaccine; although used in adults to treat the disease, the effect it has on immunological changes in a pediatric population with PRR has not been studied, so the objective of this work is to assess the efficacy of vaccination as an adjuvant treatment, by observing the immunological changes that are generated after vaccination, measuring the antibody titer as well as the cytokine profile present in the patients and relating it to the impact at the clinical in pediatric population. For this, blood samples and biopsies obtained by laryngeal surgery from 10 patients before and 6 months after completing the HPV vaccination scheme were compared. Viral load of the HPV6/11 serotypes was measured by qPCR, observing a decrease in copy number of both subtypes after vaccination. The antibody titer in the serum of the same patients was measured by ELISA, observing an increase in the amount of IgG antibodies without finding modifications in the IgM antibodies against HPV L1 protein. In addition, HPV vaccination was associated with a decrease in the immunosuppressive cytokine IL-10 in papilloma tissue and a significant increase in the pro-inflammatory cytokine TNFα in serum, suggesting a shift towards a Th1-mediated immune response. All these changes had an impact on the number of surgeries that were performed to remove the neoplasms, where there was a decrease in these during a six-month follow-up after vaccination. In conclusion, the vaccination as adjuvant therapy increased the number of IgG antibodies against the virus. It increased the amount of pro-inflammatory cytokines at the systemic level, reducing the viral load and the number of recurrences of papillomas.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Isthmin1 upregulation in the intestinal microenvironment during Salmonella typhimurium infection: identification and characterization of Isthmin1-producing cells
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Gustavo Alberto Jaimes-Ortega GA, Angeles-Floriano T, Rivera-Torruco G, Almanza-Pérez JC, Xicohtencatl-Cortes J, Hernandez-Cuellar E, Medina-Contreras O, Cruz-Córdova A, Valle-Rios, Ricardo<br>
+<a href="https://link.springer.com/article/10.1007/s00253-024-13380-3">Microorganisms 13(6), 1280</a></p>
+<p>Isthmin1 (ISM1) is a constitutively secreted cytokine produced by barrier tissues and different immune cell types. Importantly, ISM1 is also expressed by cells with a hematopoietic stem cell phenotype in the lung and plays a role during hematopoiesis. Under inflammatory conditions, ISM1 levels are also altered. Given that the intestine is one of the tissues with the highest ISM1 gene expression, in this work, we characterized the immunophenotype of ISM1-producing cells in the small intestine of uninfected or Salmonella Typhimurium-infected mice. We found a variety of ISM1+-expressing cells, including CD45+ cells, EpCAM+ cells, and, importantly, we also found different subsets of cells carrying hematopoietic stem cell markers (LSKs) expressing ISM1, and their frequency was perturbed during infection. Finally, we also found that isthmin1 is secreted into the intestinal lumen, and its concentration was increased during S. Typhimurium infection. Our findings suggest that increased luminal ISM1 secretion during mucosal infection may serve as a potential novel biomarker of pathogen-mediated inflammation.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Persistent stimulation of human mesenchymal stem/stromal cells with TNF<span class="math inline">\(\alpha\)</span> and IFN<span class="math inline">\(\gamma\)</span> affects the release of large eExtracellular vesicles with immunoregulatory phenotype
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Castro-Manrreza M, Romano LE, López-García L, Medina-Contreras O, Montesinos J<br>
+<a href="https://www.liebertpub.com/doi/10.1089/scd.2025.0064">Stem Cells Dev 34(13-14), 291-303</a></p>
+<p>Mesenchymal stem/stromal cells (MSCs) possess immunoregulatory capacity, which is enhanced in an inflammatory environment. Participation of extracellular vesicles (EVs) in this function is proposed, as they can transport various immunoregulatory molecules. However, the impact of the inflammatory microenvironment on the load of the different types of EVs released by these cells is not fully known. Therefore, this work analyzes in detail the temporal effect of IFN<span class="math inline">\(\gamma\)</span>, alone or in combination with TNF<span class="math inline">\(\alpha\)</span> (TNF<span class="math inline">\(\alpha\)</span> + IFN<span class="math inline">\(\gamma\)</span>), on the cargo of immunoregulatory molecules (programmed cell death ligand 1 [PD-L1], CD73, and intercellular adhesion molecule 1 [ICAM-1]) in large extracellular vesicles (L-EVs) released by human bone marrow mesenchymal stem cells (BM-MSCs). The presence of these molecules on the surface of L-EVs was determined by flow cytometry. Our results demonstrate that exposing BM-MSCs to TNF<span class="math inline">\(\alpha\)</span> + IFN<span class="math inline">\(\gamma\)</span> for 24 h increases the percentage of PD-L1+ and CD73+ L-EVs. However, if this stimulus persists, the release of L-EVs with an immunoregulatory phenotype (PD-L1+, CD73+, and PD-L1+CD73+) decreases. The impact of pro-inflammatory cytokines on the transport of ICAM-1 by L-EVs is late, since up to 72 h of treatment with IFN<span class="math inline">\(\gamma\)</span> or TNF<span class="math inline">\(\alpha\)</span> + IFN<span class="math inline">\(\gamma\)</span>, the percentage of ICAM-1+ L-EVs increases. In contrast, stimulation with IFN<span class="math inline">\(\gamma\)</span> for 72 h favors the release of CD73high and ICAM-1high L-EVs, but this effect also decreases in the presence of TNF<span class="math inline">\(\alpha\)</span>. Our study generates novel knowledge about the impact of the inflammatory microenvironment on the cargo composition of L-EVs released by BM-MSCs and demonstrates, for the first time, that the prolonged presence of TNF<span class="math inline">\(\alpha\)</span> reduces the cargo of immunoregulatory molecules in these structures.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>A Lambda-evo (λevo) phage platform for Zika virus EDIII protein displayed
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Negrete-Méndez H, Valencia-Toxqui G, Martínez-Peñafiel E, Medina-Contreras O, Fernández-Ramírez F, Morales-Ríos E, Navarro-González LJ, Torres-Flores JM, Kameyama L<br>
 <a href="https://link.springer.com/article/10.1007/s00253-024-13380-3">Appl Microbiol Biotechnol 109(8), 1–20</a></p>
@@ -200,151 +274,155 @@ A Lambda-evo (λevo) phage platform for Zika virus EDIII protein displayed
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Editorial: Cervical cancer: updates from the Mexican national consensus
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Cetina-Pérez L, Medina-Contreras O <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1493334/full"><em>Front Oncol</em> 14:1493334</a></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-UNAM-HIMFG bacterial lysate activates the immune response and inhibits colonization of bladder of Balb/c mice infected with the uropathogenic CFT073 <em>Escherichia coli</em> strain
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Acevedo-Monroy SE, Hernández-Chiñas U, Medina-Contreras O, López-Díaz O, Ahumada-Cota RE, Martínez-Gómez D, Huerta-Yepez S, Tirado-Rodríguez AB, Molina-López J, Castro-Luna R, Martínez-Cristóbal L, Rojas-Castro FE, Chávez-Berrocal ME, Verdugo-Rodríguez A, Eslava-Campos CA <a href="https://www.mdpi.com/1422-0067/25/18/9876"><em>Int J Mol Sci</em> 25(18):9876</a></p>
-<p>Urinary tract infections (UTIs) represent a clinical and epidemiological problem of worldwide impact that affects the economy and the emotional state of the patient. Control of the condition is complicated due to multidrug resistance of pathogens associated with the disease. Considering the difficulty in carrying out effective treatment with antimicrobials, it is necessary to propose alternatives that improve the clinical status of the patients. With this purpose, in a previous study, the safety and immunostimulant capacity of a polyvalent lysate designated UNAM-HIMFG prepared with different bacteria isolated during a prospective study of chronic urinary tract infection (CUTI) was evaluated. In this work, using an animal model, results are presented on the immunostimulant and protective activity of the polyvalent UNAM-HIMFG lysate to define its potential use in the control and treatment of CUTI. Female Balb/c mice were infected through the urethra with Escherichia coli CFT073 (UPEC O6:K2:H1) strain; urine samples were collected before the infection and every week for up to 60 days. Once the animals were colonized, sublingual doses of UNAM-HIMFG lysate were administrated. The colonization of the bladder and kidneys was evaluated by culture, and their alterations were assessed using histopathological analysis. On the other hand, the immunostimulant activity of the compound was analyzed by qPCR of spleen mRNA. Uninfected animals receiving UNAM-HIMFG lysate and infected animals administered with the physiological saline solution were used as controls. During this study, the clinical status and evolution of the animals were evaluated. At ninety-six hours after infection, the presence of CFT073 was identified in the urine of infected animals, and then, sublingual administration of UNAM-HIMFG lysate was started every week for 60 days. The urine culture of mice treated with UNAM-HIMFG lysate showed the presence of bacteria for three weeks post-treatment; in contrast, in the untreated animals, positive cultures were observed until the 60th day of this study. The histological analysis of bladder samples from untreated animals showed the presence of chronic inflammation and bacteria in the submucosa, while tissues from mice treated with UNAM-HIMFG lysate did not show alterations. The same analysis of kidney samples of the two groups (treated and untreated) did not present alterations. Immunostimulant activity assays of UNAM-HIMFG lysate showed overexpression of TNF-α and IL-10. Results suggest that the lysate activates the expression of cytokines that inhibit the growth of inoculated bacteria and control the inflammation responsible for tissue damage. In conclusion, UNAM-HIMFG lysate is effective for the treatment and control of CUTIs without the use of antimicrobials.</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tumor suppressive cross linking of anti-<em>T. cruzi</em> antibodies in acute lymphoblastic leukemia
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Maravelez Acosta VA, Crisóstomo Vázquez MP, Eligio García L, Franco Sandoval LO, Castro Pérez D, Patiño López G, Medina Contreras O, Jiménez Cardoso E <a href="https://www.mdpi.com/1422-0067/25/15/8307"><em>Int J Mol Sci</em> 25(15):8307</a></p>
-<p>Parasites have been associated with possible anticancer activity, including Trypanosoma cruzi, which has been linked to inhibiting the growth of solid tumors. To better understand this antitumor effect, we investigated the association of anti-T. cruzi antibodies with B cells of the acute lymphoblastic leukemia (ALL) SUPB15 cell line. The antibodies were generated in rabbits. IgGs were purified by affinity chromatography. Two procedures (flow cytometry (CF) and Western blot(WB)) were employed to recognize anti-T. cruzi antibodies on SUPB15 cells. We also used CF to determine whether the anti-T. cruzi antibodies could suppress SUPB15 cells. The anti-T. cruzi antibodies recognized 35.5% of the surface antigens of SUPB15. The complement-dependent cytotoxicity (CDC) results demonstrate the cross-suppression of anti-T. cruzi antibodies on up to 8.4% of SUPB15 cells. For the WB analysis, a band at 100 kDa with high intensity was sequenced using mass spectrometry, identifying the protein as nucleolin. This protein may play a role in the antitumor effect on T. cruzi. The anti-T. cruzi antibodies represent promising polyclonal antibodies that have the effect of tumor-suppressive cross-linking on cancer cells, which should be further investigated.</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-IFN<span class="math inline">\(\gamma\)</span> stimulates Paneth cell secretion through necroptosis mTORC1 dependent
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Encarnacion-Garcia MR, De la Torre-Baez R, Hernandez-Cueto MA, Velázquez-Villegas LA, Candelario-Martinez A, Sánchez-Argáez AB, Horta-López PH, Montoya-García A, Jaimes-Ortega GA, Lopez-Bailon L, Piedra-Quintero Z, Carrasco-Torres G, De Ita M, Figueroa-Corona MP, Muñoz-Medina JE, Sánchez-Uribe M, Ortiz-Fernández A, Meraz-Ríos MA, Silva-Olivares A, Betanzos A, Baay-Guzman GJ, Navarro-Garcia F, Villa-Treviño S, Garcia-Sierra F, Cisneros B, Schnoor M, Ortíz-Navarrete VF, Villegas-Sepúlveda N, Valle-Rios R, Medina-Contreras O, Noriega LG, Nava P. <a href="https://onlinelibrary.wiley.com/doi/10.1002/eji.202350716"><em>Eur J Immunol</em> 54: 2350716</a></p>
-<p>Immune mediators affect multiple biological functions of intestinal epithelial cells (IECs) and, like Paneth and Paneth-like cells, play an important role in intestinal epithelial homeostasis. IFN-<span class="math inline">\(\gamma\)</span> a prototypical proinflammatory cytokine disrupts intestinal epithelial homeostasis. However, the mechanism underlying the process remains unknown. In this study, using in vivo and in vitro models we demonstrate that IFN-<span class="math inline">\(\gamma\)</span> is spontaneously secreted in the small intestine. Furthermore, we observed that this cytokine stimulates mitochondrial activity, ROS production, and Paneth and Paneth-like cell secretion. Paneth and Paneth-like secretion downstream of IFN-<span class="math inline">\(\gamma\)</span>, as identified here, is mTORC1 and necroptosis-dependent. Thus, our findings revealed that the pleiotropic function of IFN-<span class="math inline">\(\gamma\)</span> also includes the regulation of Paneth cell function in the homeostatic gut.</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Effects of prebiotics, probiotics, and synbiotics on the prevention and treatment of cervical cancer: Mexican consensus and recommendations
+<span class="screen-reader-only">Note</span>Editorial: Cervical cancer: updates from the Mexican national consensus
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Gutiérrez Salmeán G, Delgadillo González M, Rueda Escalona AA, Leyva Islas JA, Castro-Eguiluz D <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1383258/full"><em>Front Oncol</em> 14:1383258</a></p>
-<p>Gut microbiota plays a crucial role in modulating immune responses, including effector response to infection and surveillance of tumors. This article summarizes the current scientific evidence on the effects of supplementation with prebiotics, probiotics, and synbiotics on high-risk human papillomavirus (HPV) infections, precancerous lesions, and various stages of cervical cancer development and treatment while also examining the underlying molecular pathways involved. Our findings indicate that a higher dietary fiber intake is associated with a reduced risk of HPV infection, while certain probiotics have shown promising results in clearing HPV-related lesions. Additionally, certain strains of probiotics, prebiotics such as inulin and fructo-oligosaccharides, and synbiotics decrease the frequency of gastrointestinal adverse effects in cervical cancer patients. These agents attain their results by modulating crucial metabolic pathways, including the reduction of inflammation and oxidative stress, promoting apoptosis, inhibiting cell proliferation, and suppressing the activity of oncogenes, thus attenuating tumorigenesis. We conclude that although further human studies are necessary, robust evidence in preclinical models demonstrates that prebiotics, probiotics, and synbiotics play an essential role in cervical cancer, from infection to carcinogenesis and its medical treatment. Consequently, we strongly recommend conducting high-quality clinical trials using these agents as adjuvants since they have proven safe.</p>
+<p>Cetina-Pérez L, Medina-Contreras O&nbsp; <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1493334/full"><em>Front Oncol</em> 14:1493334</a></p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Polyvalent bacterial lysate with potential use to treatment and 2 control of recurrent urinary tract infections
+<span class="screen-reader-only">Note</span>UNAM-HIMFG bacterial lysate activates the immune response and inhibits colonization of bladder of Balb/c mice infected with the uropathogenic CFT073 <em>Escherichia coli</em> strain
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-7" class="callout-7-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Acevedo-Monroy SE, Rocha-Ramírez L, Martinez-Gomez D, Basurto-Alcantara FJ, Medina-Contreras O, Hernández-Chiñas U, Quiñones-Peña MA, García-Sosa D, Ramírez-Lezama J, Rodríguez-García J, González-Villalobos E, Castro-Luna R, Martínez-Cristóbal L, Eslava-Campos CA <a href="https://www.mdpi.com/1422-0067/25/11/6157"><em>Int J Mol Sci</em> 25(11):6157</a></p>
-<p>Overuse of antimicrobials has greatly contributed to the increase in the emergence of multidrug-resistant bacteria, a situation that hinders the control and treatment of infectious diseases. This is the case with urinary tract infections (UTIs), which represent a substantial percentage of worldwide public health problems, thus the need to look for alternatives for their control and treatment. Previous studies have shown the usefulness of autologous bacterial lysates as an alternative for the treatment and control of UTIs. However, a limitation is the high cost of producing individual immunogens. At the same time, an important aspect of vaccines is their immunogenic amplitude, which is the reason why they must be constituted of diverse antigenic components. In the case of UTIs, the etiology of the disease is associated with different bacteria, and even Escherichia coli, the main causal agent of the disease, is made up of several antigenic variants. In this work, we present results on the study of a bacterial lysate composed of 10 serotypes of <em>Escherichia coli</em> and by <em>Klebsiella pneumoniae</em>, <em>Klebsiella aerogenes</em>, <em>Enterococcus faecalis</em>, <em>Proteus mirabilis</em>, <em>Citrobacter freundii</em>, and <em>Staphylococcus haemolyticus</em>. The safety of the compound was tested on cells in culture and in an animal model, and its immunogenic capacity by analysing in vitro human and murine macrophages (cell line J774 A1). The results show that the polyvalent lysate did not cause damage to the cells in culture or alterations in the animal model used. The immunostimulatory activity assay showed that it activates the secretion of TNF-α and IL-6 in human macrophages and TNF-α in murine cells. The obtained results suggest that the polyvalent lysate evaluated can be an alternative for the treatment and control of chronic urinary tract infections, which will reduce the use of antimicrobials.</p>
+<p>Acevedo-Monroy SE, Hernández-Chiñas U, Medina-Contreras O, López-Díaz O, Ahumada-Cota RE, Martínez-Gómez D, Huerta-Yepez S, Tirado-Rodríguez AB, Molina-López J, Castro-Luna R, Martínez-Cristóbal L, Rojas-Castro FE, Chávez-Berrocal ME, Verdugo-Rodríguez A, Eslava-Campos CA&nbsp; <a href="https://www.mdpi.com/1422-0067/25/18/9876"><em>Int J Mol Sci</em> 25(18):9876</a></p>
+<p>Urinary tract infections (UTIs) represent a clinical and epidemiological problem of worldwide impact that affects the economy and the emotional state of the patient. Control of the condition is complicated due to multidrug resistance of pathogens associated with the disease. Considering the difficulty in carrying out effective treatment with antimicrobials, it is necessary to propose alternatives that improve the clinical status of the patients. With this purpose, in a previous study, the safety and immunostimulant capacity of a polyvalent lysate designated UNAM-HIMFG prepared with different bacteria isolated during a prospective study of chronic urinary tract infection (CUTI) was evaluated. In this work, using an animal model, results are presented on the immunostimulant and protective activity of the polyvalent UNAM-HIMFG lysate to define its potential use in the control and treatment of CUTI. Female Balb/c mice were infected through the urethra with Escherichia coli CFT073 (UPEC O6:K2:H1) strain; urine samples were collected before the infection and every week for up to 60 days. Once the animals were colonized, sublingual doses of UNAM-HIMFG lysate were administrated. The colonization of the bladder and kidneys was evaluated by culture, and their alterations were assessed using histopathological analysis. On the other hand, the immunostimulant activity of the compound was analyzed by qPCR of spleen mRNA. Uninfected animals receiving UNAM-HIMFG lysate and infected animals administered with the physiological saline solution were used as controls. During this study, the clinical status and evolution of the animals were evaluated. At ninety-six hours after infection, the presence of CFT073 was identified in the urine of infected animals, and then, sublingual administration of UNAM-HIMFG lysate was started every week for 60 days. The urine culture of mice treated with UNAM-HIMFG lysate showed the presence of bacteria for three weeks post-treatment; in contrast, in the untreated animals, positive cultures were observed until the 60th day of this study. The histological analysis of bladder samples from untreated animals showed the presence of chronic inflammation and bacteria in the submucosa, while tissues from mice treated with UNAM-HIMFG lysate did not show alterations. The same analysis of kidney samples of the two groups (treated and untreated) did not present alterations. Immunostimulant activity assays of UNAM-HIMFG lysate showed overexpression of TNF-α and IL-10. Results suggest that the lysate activates the expression of cytokines that inhibit the growth of inoculated bacteria and control the inflammation responsible for tissue damage. In conclusion, UNAM-HIMFG lysate is effective for the treatment and control of CUTIs without the use of antimicrobials.</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Screening of Leptin-LepR modulators using molecular docking and binding assay
+<span class="screen-reader-only">Note</span>Tumor suppressive cross linking of anti-<em>T. cruzi</em> antibodies in acute lymphoblastic leukemia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-8" class="callout-8-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Jiménez-Pineda A, Vique-Sánchez JL, Medina-Contreras O, Benitez-Cardoza CG <a href="https://www.bioinformation.net/020/973206300200404.htm"><em>Bioinformation</em> 20(5), 404-411</a></p>
-<p>Leptin is a pleiotropic hormone which, upon binding to its cognate leptin receptor (LepR), induces the activation of the JAK2/ERK, /STAT3, /STAT5 and IRS/PI3 kinase signaling cascades. Hence, we used molecular docking and a chemical library to identify 18 compounds with high probability of interacting with the leptin binding domain (LBD) of LepR. 6 out of 18 compounds were selected based on toxicological and physicochemical properties to evaluate their effect in the formation of Leptin-LepR complex using ELISA assays. The six compounds showed discreet but significant modulation on the complex formation. These results have important implications in proposing novel strategies for modulating the formation of the Leptin-LepR complex, as therapeutic alternatives for patho-physiologies where the formation of this complex is deregulated.</p>
+<p>Maravelez Acosta VA, Crisóstomo Vázquez MP, Eligio García L, Franco Sandoval LO, Castro Pérez D, Patiño López G, Medina Contreras O, Jiménez Cardoso E<br>
+<a href="https://www.mdpi.com/1422-0067/25/15/8307"><em>Int J Mol Sci</em> 25(15):8307</a></p>
+<p>Parasites have been associated with possible anticancer activity, including Trypanosoma cruzi, which has been linked to inhibiting the growth of solid tumors. To better understand this antitumor effect, we investigated the association of anti-T. cruzi antibodies with B cells of the acute lymphoblastic leukemia (ALL) SUPB15 cell line. The antibodies were generated in rabbits. IgGs were purified by affinity chromatography. Two procedures (flow cytometry (CF) and Western blot(WB)) were employed to recognize anti-T. cruzi antibodies on SUPB15 cells. We also used CF to determine whether the anti-T. cruzi antibodies could suppress SUPB15 cells. The anti-T. cruzi antibodies recognized 35.5% of the surface antigens of SUPB15. The complement-dependent cytotoxicity (CDC) results demonstrate the cross-suppression of anti-T. cruzi antibodies on up to 8.4% of SUPB15 cells. For the WB analysis, a band at 100 kDa with high intensity was sequenced using mass spectrometry, identifying the protein as nucleolin. This protein may play a role in the antitumor effect on T. cruzi. The anti-T. cruzi antibodies represent promising polyclonal antibodies that have the effect of tumor-suppressive cross-linking on cancer cells, which should be further investigated.</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Molecular aspects of cervical cancer: a pathogenesis update
+<span class="screen-reader-only">Note</span>IFN<span class="math inline">\(\gamma\)</span> stimulates Paneth cell secretion through necroptosis mTORC1 dependent
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-9" class="callout-9-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Vallejo-Ruiz V, Gutiérrez-Xicoténcatl ML, Medina-Contreras O, Lizano-Soberón M <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1356581/full"><em>Front Oncol</em> 14, 1356581</a></p>
+<p>Encarnacion-Garcia MR, De la Torre-Baez R, Hernandez-Cueto MA, Velázquez-Villegas LA, Candelario-Martinez A, Sánchez-Argáez AB, Horta-López PH, Montoya-García A, Jaimes-Ortega GA, Lopez-Bailon L, Piedra-Quintero Z, Carrasco-Torres G, De Ita M, Figueroa-Corona MP, Muñoz-Medina JE, Sánchez-Uribe M, Ortiz-Fernández A, Meraz-Ríos MA, Silva-Olivares A, Betanzos A, Baay-Guzman GJ, Navarro-Garcia F, Villa-Treviño S, Garcia-Sierra F, Cisneros B, Schnoor M, Ortíz-Navarrete VF, Villegas-Sepúlveda N, Valle-Rios R, Medina-Contreras O, Noriega LG, Nava P<br>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/eji.202350716"><em>Eur J Immunol</em> 54: 2350716</a></p>
+<p>Immune mediators affect multiple biological functions of intestinal epithelial cells (IECs) and, like Paneth and Paneth-like cells, play an important role in intestinal epithelial homeostasis. IFN-<span class="math inline">\(\gamma\)</span> a prototypical proinflammatory cytokine disrupts intestinal epithelial homeostasis. However, the mechanism underlying the process remains unknown. In this study, using in vivo and in vitro models we demonstrate that IFN-<span class="math inline">\(\gamma\)</span> is spontaneously secreted in the small intestine. Furthermore, we observed that this cytokine stimulates mitochondrial activity, ROS production, and Paneth and Paneth-like cell secretion. Paneth and Paneth-like secretion downstream of IFN-<span class="math inline">\(\gamma\)</span>, as identified here, is mTORC1 and necroptosis-dependent. Thus, our findings revealed that the pleiotropic function of IFN-<span class="math inline">\(\gamma\)</span> also includes the regulation of Paneth cell function in the homeostatic gut.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Effects of prebiotics, probiotics, and synbiotics on the prevention and treatment of cervical cancer: Mexican consensus and recommendations
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Gutiérrez Salmeán G, Delgadillo González M, Rueda Escalona AA, Leyva Islas JA, Castro-Eguiluz D&nbsp; <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1383258/full"><em>Front Oncol</em> 14:1383258</a></p>
+<p>Gut microbiota plays a crucial role in modulating immune responses, including effector response to infection and surveillance of tumors. This article summarizes the current scientific evidence on the effects of supplementation with prebiotics, probiotics, and synbiotics on high-risk human papillomavirus (HPV) infections, precancerous lesions, and various stages of cervical cancer development and treatment while also examining the underlying molecular pathways involved. Our findings indicate that a higher dietary fiber intake is associated with a reduced risk of HPV infection, while certain probiotics have shown promising results in clearing HPV-related lesions. Additionally, certain strains of probiotics, prebiotics such as inulin and fructo-oligosaccharides, and synbiotics decrease the frequency of gastrointestinal adverse effects in cervical cancer patients. These agents attain their results by modulating crucial metabolic pathways, including the reduction of inflammation and oxidative stress, promoting apoptosis, inhibiting cell proliferation, and suppressing the activity of oncogenes, thus attenuating tumorigenesis. We conclude that although further human studies are necessary, robust evidence in preclinical models demonstrates that prebiotics, probiotics, and synbiotics play an essential role in cervical cancer, from infection to carcinogenesis and its medical treatment. Consequently, we strongly recommend conducting high-quality clinical trials using these agents as adjuvants since they have proven safe.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Polyvalent bacterial lysate with potential use to treatment and 2 control of recurrent urinary tract infections
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-11" class="callout-11-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Acevedo-Monroy SE, Rocha-Ramírez L, Martinez-Gomez D, Basurto-Alcantara FJ, Medina-Contreras O, Hernández-Chiñas U, Quiñones-Peña MA, García-Sosa D, Ramírez-Lezama J, Rodríguez-García J, González-Villalobos E, Castro-Luna R, Martínez-Cristóbal L, Eslava-Campos CA<br>
+<a href="https://www.mdpi.com/1422-0067/25/11/6157"><em>Int J Mol Sci</em> 25(11):6157</a></p>
+<p>Overuse of antimicrobials has greatly contributed to the increase in the emergence of multidrug-resistant bacteria, a situation that hinders the control and treatment of infectious diseases. This is the case with urinary tract infections (UTIs), which represent a substantial percentage of worldwide public health problems, thus the need to look for alternatives for their control and treatment. Previous studies have shown the usefulness of autologous bacterial lysates as an alternative for the treatment and control of UTIs. However, a limitation is the high cost of producing individual immunogens. At the same time, an important aspect of vaccines is their immunogenic amplitude, which is the reason why they must be constituted of diverse antigenic components. In the case of UTIs, the etiology of the disease is associated with different bacteria, and even Escherichia coli, the main causal agent of the disease, is made up of several antigenic variants. In this work, we present results on the study of a bacterial lysate composed of 10 serotypes of <em>Escherichia coli</em> and by <em>Klebsiella pneumoniae</em>, <em>Klebsiella aerogenes</em>, <em>Enterococcus faecalis</em>, <em>Proteus mirabilis</em>, <em>Citrobacter freundii</em>, and <em>Staphylococcus haemolyticus</em>. The safety of the compound was tested on cells in culture and in an animal model, and its immunogenic capacity by analysing in vitro human and murine macrophages (cell line J774 A1). The results show that the polyvalent lysate did not cause damage to the cells in culture or alterations in the animal model used. The immunostimulatory activity assay showed that it activates the secretion of TNF-α and IL-6 in human macrophages and TNF-α in murine cells. The obtained results suggest that the polyvalent lysate evaluated can be an alternative for the treatment and control of chronic urinary tract infections, which will reduce the use of antimicrobials.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-12-contents" aria-controls="callout-12" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Screening of Leptin-LepR modulators using molecular docking and binding assay
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-12" class="callout-12-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Jiménez-Pineda A, Vique-Sánchez JL, Medina-Contreras O, Benitez-Cardoza CG [<em>Bioinformation</em> 20(5), 404-411](https://www.bioinformation.net/020/973206300200404.htm)</p>
+<p>Leptin is a pleiotropic hormone which, upon binding to its cognate leptin receptor (LepR), induces the activation of the JAK2/ERK, /STAT3, /STAT5 and IRS/PI3 kinase signaling cascades. Hence, we used molecular docking and a chemical library to identify 18 compounds with high probability of interacting with the leptin binding domain (LBD) of LepR. 6 out of 18 compounds were selected based on toxicological and physicochemical properties to evaluate their effect in the formation of Leptin-LepR complex using ELISA assays. The six compounds showed discreet but significant modulation on the complex formation. These results have important implications in proposing novel strategies for modulating the formation of the Leptin-LepR complex, as therapeutic alternatives for patho-physiologies where the formation of this complex is deregulated.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Molecular aspects of cervical cancer: a pathogenesis update
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-13" class="callout-13-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Vallejo-Ruiz V, Gutiérrez-Xicoténcatl ML, Medina-Contreras O, Lizano-Soberón M<br>
+<a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1356581/full"><em>Front Oncol</em> 14, 1356581</a></p>
 <p>Cervical cancer (CC) is a significant health problem, especially in low-income countries. Functional studies on the human papillomavirus have generated essential advances in the knowledge of CC. However, many unanswered questions remain. This mini-review discusses the latest results on CC pathogenesis, HPV oncogenesis, and molecular changes identified through next-generation technologies. Interestingly, the percentage of samples with HPV genome integrations correlates with the degree of the cervical lesions, suggesting a role in the development of CC. Also, new functions have been described for the viral oncoproteins E5, E6, and E7, resulting in the acquisition and maintenance of cancer hallmarks, including proliferation, immune response evasion, apoptosis, and genomic instability. Remarkably, E5 oncoprotein affects signaling pathways involved in the expression of interferon-induced genes and EGFR-induced proliferation, while E6 and E7 oncoproteins regulate the DNA damage repair and cell cycle continuity pathways. Furthermore, next-generation technologies provide vast amounts of information, increasing our knowledge of changes in the genome, transcriptome, proteome, metabolome, and epigenome in CC. These studies have identified novel molecular traits associated with disease susceptibility, degree of progression, treatment response, and survival as potential biomarkers and therapeutic targets.</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-14-contents" aria-controls="callout-14" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Differences in biofilm formation by methicillin-resistant and methicillin-susceptible <em>Staphylococcus aureus</em> strains
+<span class="screen-reader-only">Note</span>Differences in biofilm formation by methicillin-resistant and methicillin-susceptible <em>Staphylococcus aureus</em> strains
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div id="callout-14" class="callout-14-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Hernández-Cuellar E, Tsuchiya K, Valle-Ríos R, Medina-Contreras O <a href="https://www.mdpi.com/2079-9721/11/4/160"><em>Diseases</em> 11(4), 160</a></p>
 <p><em>Staphylococcus aureus</em> (S. aureus) is a common pathogen involved in community- and hospital-acquired infections. Its biofilm formation ability predisposes it to device-related infections. Methicillin-resistant <em>S. aureus</em> (MRSA) strains are associated with more serious infections and higher mortality rates and are more complex in terms of antibiotic resistance. It is still controversial whether MRSA are indeed more virulent than methicillin-susceptible <em>S. aureus</em> (MSSA) strains. A difference in biofilm formation by both types of bacteria has been suggested, but how only the presence of the SCCmec cassette or mecA influences this phenotype remains unclear. In this review, we have searched for literature studying the difference in biofilm formation by MRSA and MSSA. We highlighted the relevance of the icaADBC operon in the PIA-dependent biofilms generated by MSSA under osmotic stress conditions, and the role of extracellular DNA and surface proteins in the PIA-independent biofilms generated by MRSA. We described the prominent role of surface proteins with the LPXTG motif and hydrolases for the release of extracellular DNA in the MRSA biofilm formation. Finally, we explained the main regulatory systems in <em>S. aureus</em> involved in virulence and biofilm formation, such as the SarA and Agr systems. As most of the studies were in vitro using inert surfaces, it will be necessary in the future to focus on biofilm formation on extracellular matrix components and its relevance in the pathogenesis of infection by both types of strains using <em>in vivo</em> animal models.</p>
@@ -352,16 +430,16 @@ Differences in biofilm formation by methicillin-resistant and methicillin-suscep
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-15-contents" aria-controls="callout-15" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Chemoradiotherapy treatment with gemcitabine improves renal function in locally advanced cervical cancer patients with renal dysfunction
+<span class="screen-reader-only">Note</span>Chemoradiotherapy treatment with gemcitabine improves renal function in locally advanced cervical cancer patients with renal dysfunction
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-11" class="callout-11-contents callout-collapse collapse">
+<div id="callout-15" class="callout-15-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Alarcón-Barrios S, Luvián-Morales J, Castro-Eguiluz D, Delgadillo-González M, Lezcano-Velázquez BO, Arango-Bravo EA, Flores-Cisneros L, Aguiar Rosas S, Cetina-Pérez L<br>
 <em>Curr Probl Cancer</em> 48, 101041</p>
@@ -369,16 +447,16 @@ Chemoradiotherapy treatment with gemcitabine improves renal function in locally 
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-12-contents" aria-controls="callout-12" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-16-contents" aria-controls="callout-16" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Validation of the QLQ-CAX24 instrument in cervical cancer and its association with cachexia classifications
+<span class="screen-reader-only">Note</span>Validation of the QLQ-CAX24 instrument in cervical cancer and its association with cachexia classifications
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-12" class="callout-12-contents callout-collapse collapse">
+<div id="callout-16" class="callout-16-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Luvián-Morales J, Castillo-Aguilar J, Delgadillo-González M, Cisneros-Sánchez A, Bosch-Gutiérrez J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF<br>
 <a href="https://academic.oup.com/jjco/article/53/4/304/6964664"><em>Jpn J Clin Oncol</em> 53(4), 304-312</a></p>
@@ -387,16 +465,16 @@ Validation of the QLQ-CAX24 instrument in cervical cancer and its association wi
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-17-contents" aria-controls="callout-17" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The health system and access to treatment in patients with cervical cancer in Mexico
+<span class="screen-reader-only">Note</span>The health system and access to treatment in patients with cervical cancer in Mexico
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-13" class="callout-13-contents callout-collapse collapse">
+<div id="callout-17" class="callout-17-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Arango-Bravo EA, Cetina-Pérez LDC, Galicia-Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Cruz-Bautista I, Dueñas-Gonzalez A<br>
 <em>Front Oncol</em> 12, 1028291</p>
@@ -404,16 +482,16 @@ The health system and access to treatment in patients with cervical cancer in Me
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-14-contents" aria-controls="callout-14" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-18-contents" aria-controls="callout-18" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Clinical benefits of olaparib in Mexican ovarian cancer patients with founder mutation BRCA1-Del ex9-12
+<span class="screen-reader-only">Note</span>Clinical benefits of olaparib in Mexican ovarian cancer patients with founder mutation BRCA1-Del ex9-12
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-14" class="callout-14-contents callout-collapse collapse">
+<div id="callout-18" class="callout-18-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Gallardo-Rincón D, Montes-Servín E, Alamilla-García G, Montes-Servín E, Bahena-González A, Cetina-Pérez L, Morales Vásquez F, Cano-Blanco C, Coronel-Martínez J, González-Ibarra E, Espinosa-Romero R, María Alvarez-Gómez R, Pedroza-Torres A, Castro-Eguiluz D<br>
 <em>Front Genet</em> 13, 863956</p>
@@ -421,16 +499,16 @@ Clinical benefits of olaparib in Mexican ovarian cancer patients with founder mu
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-15-contents" aria-controls="callout-15" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-19-contents" aria-controls="callout-19" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Impact of metabolic syndrome on the risk of endometrial cancer and the role of lifestyle in prevention
+<span class="screen-reader-only">Note</span>Impact of metabolic syndrome on the risk of endometrial cancer and the role of lifestyle in prevention
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-15" class="callout-15-contents callout-collapse collapse">
+<div id="callout-19" class="callout-19-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Pérez-Martín AR, Castro-Eguiluz D, Cetina-Pérez L, Velasco-Torres Y, Bahena-González A, Montes-Servín E, González-Ibarra E, Espinosa-Romero R, Gallardo-Rincón D<br>
 <em>Bosn J Basic Med Sci</em> 22(4):499-510</p>
@@ -438,32 +516,32 @@ Impact of metabolic syndrome on the risk of endometrial cancer and the role of l
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-16-contents" aria-controls="callout-16" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-20-contents" aria-controls="callout-20" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Treatment of locally advanced cervical cancer with kidney failure and comorbidities
+<span class="screen-reader-only">Note</span>Treatment of locally advanced cervical cancer with kidney failure and comorbidities
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-16" class="callout-16-contents callout-collapse collapse">
+<div id="callout-20" class="callout-20-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Arango Bravo E, Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Flores E, Cetina-Pérez LDC <em>Oncology</em> 35(11), 741-745</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-17-contents" aria-controls="callout-17" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-21-contents" aria-controls="callout-21" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Effectiveness of concomitant chemoradiotherapy with gemcitabine in locally advanced cervical cancer patients with comorbidities
+<span class="screen-reader-only">Note</span>Effectiveness of concomitant chemoradiotherapy with gemcitabine in locally advanced cervical cancer patients with comorbidities
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-17" class="callout-17-contents callout-collapse collapse">
+<div id="callout-21" class="callout-21-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Brau-Figueroa H, Arango-Bravo E, Castro-Eguiluz D, Galicia-Carmona T, Lugo-Alferez LA, Cruz-Bautista I, Jiménez-Lima R, Cetina-Pérez L<br>
 <em>Cancer Res Treat</em> 54(2), 554-562</p>
@@ -471,16 +549,16 @@ Effectiveness of concomitant chemoradiotherapy with gemcitabine in locally advan
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-18-contents" aria-controls="callout-18" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-22-contents" aria-controls="callout-22" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Validation of the QLQ-CX24 questionnaire for the assessment of quality of life in Mexican women with cervical cancer
+<span class="screen-reader-only">Note</span>Validation of the QLQ-CX24 questionnaire for the assessment of quality of life in Mexican women with cervical cancer
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-18" class="callout-18-contents callout-collapse collapse">
+<div id="callout-22" class="callout-22-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Luvián-Morales J, Flores-Cisneros L, Jiménez-Lima R, Alarcón-Barrios S, Salazar-Mendoza J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF<br>
 <em>Int J Gynecol Cancer</em> 31(9), 1228-1235</p>
@@ -488,16 +566,16 @@ Validation of the QLQ-CX24 questionnaire for the assessment of quality of life i
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-19-contents" aria-controls="callout-19" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-23-contents" aria-controls="callout-23" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-ADXS11-001 LM-LLO as specific immunotherapy in cervical cancer
+<span class="screen-reader-only">Note</span>ADXS11-001 LM-LLO as specific immunotherapy in cervical cancer
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-19" class="callout-19-contents callout-collapse collapse">
+<div id="callout-23" class="callout-23-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Galicia-Carmona T, Arango-Bravo E, Serrano-Olvera JA, Flores-de La Torre C, Cruz-Esquivel I, Villalobos-Valencia R, Morán-Mendoza A, Castro-Eguiluz D, Cetina-Pérez L<br>
 <em>Hum Vaccin Immunother</em> 17(8), 2617-2625</p>
@@ -505,16 +583,16 @@ ADXS11-001 LM-LLO as specific immunotherapy in cervical cancer
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-20-contents" aria-controls="callout-20" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-24-contents" aria-controls="callout-24" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review
+<span class="screen-reader-only">Note</span>Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-20" class="callout-20-contents callout-collapse collapse">
+<div id="callout-24" class="callout-24-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L, Castro-Eguiluz D<br>
 <a href="https://www.tandfonline.com/doi/abs/10.1080/10408398.2021.1875189"><em>Crit Rev Food Sci Nutr</em> 62(16), 4371-4392</a></p>
@@ -523,16 +601,16 @@ Functional foods modulating inflammation and metabolism in chronic diseases: a s
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-21-contents" aria-controls="callout-21" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-25-contents" aria-controls="callout-25" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Therapeutic use of human papillomavirus vaccines in cervical lesions
+<span class="screen-reader-only">Note</span>Therapeutic use of human papillomavirus vaccines in cervical lesions
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-21" class="callout-21-contents callout-collapse collapse">
+<div id="callout-25" class="callout-25-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Castro-Eguiluz D, Barquet-Muñoz SA, Arteaga-Gómez AC, Salcedo Hernández RA, Rodríguez-Trejo A, Gallardo-Rincón D, Serrano-Olvera JA, Aranda-Flores C<br>
 <em>Rev Invest Clin</em> 72(4), 239-249</p>
@@ -540,16 +618,16 @@ Therapeutic use of human papillomavirus vaccines in cervical lesions
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-22-contents" aria-controls="callout-22" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-26-contents" aria-controls="callout-26" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-A trabecular micro-bypass stent combined with phacoemulsification efficiently reduces intraocular pressure in open angle glaucoma in Mexican population
+<span class="screen-reader-only">Note</span>A trabecular micro-bypass stent combined with phacoemulsification efficiently reduces intraocular pressure in open angle glaucoma in Mexican population
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-22" class="callout-22-contents callout-collapse collapse">
+<div id="callout-26" class="callout-26-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Escamilla-Gallegos SI, Ochoa-Araujo DA, Domínguez-Hernández E, De La Torre-Tovar JD, Valencia-Rojas G, Esparza-Rocha G, Urzua-De La Luz P, Castellanos-Castellanos YA, Vázquez-Ramirez A, Ruiz-Magaña F, Padilla-Baca F, Ruiz-Peralta K, Medina-Contreras O<br>
 <a href="https://ecronicon.net/ecop/a-trabecular-micro-bypass-stent-combined-with-phacoemulsification-efficiently-reduces-intraocular-pressure-in-primary-open-angle-glaucoma-in-mexican-population"><em>EC Ophthalmology</em> 14(10), 1-8</a></p>
@@ -558,16 +636,16 @@ A trabecular micro-bypass stent combined with phacoemulsification efficiently re
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-23-contents" aria-controls="callout-23" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-27-contents" aria-controls="callout-27" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Editorial: Women in mucosal immunity]
+<span class="screen-reader-only">Note</span>Editorial: Women in mucosal immunity]
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-23" class="callout-23-contents callout-collapse collapse">
+<div id="callout-27" class="callout-27-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Bose T, Medina-Contreras O, Fernández C, Finotto S<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1282709/full"><em>Front Immunol</em> 14, 1282709</a></p>
@@ -576,16 +654,16 @@ Editorial: Women in mucosal immunity]
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-24-contents" aria-controls="callout-24" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-28-contents" aria-controls="callout-28" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Rapid and efficient enrichment of mouse spinal cord microglia
+<span class="screen-reader-only">Note</span>Rapid and efficient enrichment of mouse spinal cord microglia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-24" class="callout-24-contents callout-collapse collapse">
+<div id="callout-28" class="callout-28-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Gutiérrez-Román CI, Meléndez-Camargo ME, García-Rojas CC, Jiménez-Olvera M, Gutierrez-Román SH, Medina-Contreras O<br>
 <a href="https://www.jove.com/es/t/65961/rapid-and-efficient-enrichment-of-mouse-spinal-cord-microglia"><em>J Vis Exp</em> 199, e65961</a></p>
@@ -594,16 +672,16 @@ Rapid and efficient enrichment of mouse spinal cord microglia
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-25-contents" aria-controls="callout-25" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-29-contents" aria-controls="callout-29" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-T cell functions and organ infiltration by leukemic T cells require cortactin
+<span class="screen-reader-only">Note</span>T cell functions and organ infiltration by leukemic T cells require cortactin
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-25" class="callout-25-contents callout-collapse collapse">
+<div id="callout-29" class="callout-29-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Castellanos-Martínez R, León-Vega II, Guerrero-Fonseca IM, Vargas-Robles H, Jiménez-Camacho KE, Hernández-Galicia G, Ortiz-Navarrete VF, Rottner K, Medina-Contreras O, Schnoor M<br>
 <a href="https://academic.oup.com/jleukbio/article/113/3/315/6992623?login=false/"><em>J Leukoc Biol</em> 113(3), 315-25</a></p>
@@ -612,16 +690,16 @@ T cell functions and organ infiltration by leukemic T cells require cortactin
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-26-contents" aria-controls="callout-26" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-30-contents" aria-controls="callout-30" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Leukocyte surface expression of the endoplasmic reticulum chaperone GRP78 is increased in severe COVID-19
+<span class="screen-reader-only">Note</span>Leukocyte surface expression of the endoplasmic reticulum chaperone GRP78 is increased in severe COVID-19
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-26" class="callout-26-contents callout-collapse collapse">
+<div id="callout-30" class="callout-30-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Angeles-Floriano T, San Juan-Méndez A, Rivera-Torruco G, Parra-Ortega I, Lopez-Martinez B, Martinez-Castro J, Marin-Santiago S, Alcántara-Hernández C, Martínez-Martínez A, Márquez-González H, Klünder-Klünder M, Olivar-López V, Zaragoza-Ojeda M, Arenas-Huertero F, Torres-Aguilar H, Medina-Contreras O, Zlotnik A, Valle-Rios R<br>
 <a href="https://academic.oup.com/jleukbio/article/113/1/1/6979766/"><em>J Leukoc Biol</em> 113(1), 1-10</a></p>
@@ -630,16 +708,16 @@ Leukocyte surface expression of the endoplasmic reticulum chaperone GRP78 is inc
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-27-contents" aria-controls="callout-27" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-31-contents" aria-controls="callout-31" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Immunoproteomics of cow’s milk allergy in Mexican pediatric patients
+<span class="screen-reader-only">Note</span>Immunoproteomics of cow’s milk allergy in Mexican pediatric patients
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-27" class="callout-27-contents callout-collapse collapse">
+<div id="callout-31" class="callout-31-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Torres-Arroyo A, Martínez-Aguilar J, Castillo-Villanueva A, Zárate-Mondragón F, Cervantes-Bustamante R, Patiño-López G, Medina-Contreras O, Espinosa-Padilla SE, Valencia-Rojas S, Romero-Guzmán L, Oria-Hernández J, Reyes-Vivas H<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874391922003335"><em>J Proteomics</em> 273, 104809</a></p>
@@ -648,16 +726,16 @@ Immunoproteomics of cow’s milk allergy in Mexican pediatric patients
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-28-contents" aria-controls="callout-28" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-32-contents" aria-controls="callout-32" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-IL-36<span class="math inline">\(\gamma\)</span> is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores
+<span class="screen-reader-only">Note</span>IL-36<span class="math inline">\(\gamma\)</span> is secreted through an unconventional pathway using the Gasdermin D and P2X7R membrane pores
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-28" class="callout-28-contents callout-collapse collapse">
+<div id="callout-32" class="callout-32-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F, Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-Contreras O<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.979749/full"><em>Front Immunol</em> 13, 979749</a></p>
@@ -666,16 +744,16 @@ IL-36<span class="math inline">\(\gamma\)</span> is secreted through an unconven
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-29-contents" aria-controls="callout-29" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-33-contents" aria-controls="callout-33" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Differentially expressed proteins in platelets derived from patients with hypertension
+<span class="screen-reader-only">Note</span>Differentially expressed proteins in platelets derived from patients with hypertension
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-29" class="callout-29-contents callout-collapse collapse">
+<div id="callout-33" class="callout-33-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG, Jiménez-Pineda A, Reyes-López CA, Cerecedo D<br>
 <a href="https://www.nature.com/articles/s41371-021-00555-y"><em>J Hum Hypertens</em> 36(7), 640-50</a></p>
@@ -684,16 +762,16 @@ Differentially expressed proteins in platelets derived from patients with hypert
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-30-contents" aria-controls="callout-30" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-34-contents" aria-controls="callout-34" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-An extremely low-frequency vortex magnetic field modifies protein expression, rearranges the cytoskeleton, and induces apoptosis of a human neuroblastoma cell line
+<span class="screen-reader-only">Note</span>An extremely low-frequency vortex magnetic field modifies protein expression, rearranges the cytoskeleton, and induces apoptosis of a human neuroblastoma cell line
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-30" class="callout-30-contents callout-collapse collapse">
+<div id="callout-34" class="callout-34-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Aparicio-Bautista DI, Chávez-Valenzuela D, Ambriz-Álvarez G, Córdova-Fraga T, Reyes-Grajeda JP, Medina-Contreras Ó, Rodríguez-Cruz F, García-Sierra F, Zúñiga-Sánchez P, Gutiérrez-Gutiérrez AM, Arellanes-Robledo J, Basurto-Islas G<br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/bem.22400"><em>Bioelectromagnetics</em> 43(4), 225-44</a></p>
@@ -702,16 +780,16 @@ An extremely low-frequency vortex magnetic field modifies protein expression, re
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-31-contents" aria-controls="callout-31" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-35-contents" aria-controls="callout-35" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Proteomic and functional analysis of the effects of quinoxaline derivatives on <em>Entamoeba histolytica</em>
+<span class="screen-reader-only">Note</span>Proteomic and functional analysis of the effects of quinoxaline derivatives on <em>Entamoeba histolytica</em>
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-31" class="callout-31-contents callout-collapse collapse">
+<div id="callout-35" class="callout-35-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Avila-Bonilla RG, López-Sandoval Á, Soto-Sánchez J, Marchat LA, Rivera G, Medina-Contreras O, Ramírez-Moreno E<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2022.887647/full"><em>Front Cell Infect Microbiol</em> 12, 887647</a></p>
@@ -720,16 +798,16 @@ Proteomic and functional analysis of the effects of quinoxaline derivatives on <
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-32-contents" aria-controls="callout-32" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-36-contents" aria-controls="callout-36" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Isthmin 1 is expressed by progenitor-like cells in the lung: phenotypical analysis of Isthmin 1<sup>+</sup> hematopoietic stem-like cells in homeostasis and during infection
+<span class="screen-reader-only">Note</span>Isthmin 1 is expressed by progenitor-like cells in the lung: phenotypical analysis of Isthmin 1<sup>+</sup> hematopoietic stem-like cells in homeostasis and during infection
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-32" class="callout-32-contents callout-collapse collapse">
+<div id="callout-36" class="callout-36-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Rivera-Torruco G, Martínez-Mendiola CA, Angeles-Floriano T, Jaimes-Ortega GA, Maravillas-Montero JL, García-Contreras R, González Y, Juárez E, Nava P, Ortiz-Navarrete V, Medina-Contreras O, Licona-Limón P, Valle-Rios R<br>
 <a href="https://www.hindawi.com/journals/jir/2022/2909487/"><em>J Immunol Res</em> 2022, 2909487</a></p>
@@ -738,16 +816,16 @@ Isthmin 1 is expressed by progenitor-like cells in the lung: phenotypical analys
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-33-contents" aria-controls="callout-33" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-37-contents" aria-controls="callout-37" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Genomic characterization of two bacteriophages (vB_EcoS-phiEc3 and vB_EcoS-phiEc4) belonging to the genus Kagunavirus with lytic activity against uropathogenic <em>Escherichia coli</em>
+<span class="screen-reader-only">Note</span>Genomic characterization of two bacteriophages (vB_EcoS-phiEc3 and vB_EcoS-phiEc4) belonging to the genus Kagunavirus with lytic activity against uropathogenic <em>Escherichia coli</em>
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-33" class="callout-33-contents callout-collapse collapse">
+<div id="callout-37" class="callout-37-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Rodea GE, González-Villalobos E, Medina-Contreras O, Castelán-Sánchez HG, Aguilar-Rodea P, Velázquez-Guadarrama N, Hernández-Chiñas U, Eslava-Campos CA, Balcázar JL, Molina-López J<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0882401022001073"><em>Microb Pathog</em> 165, 105494</a></p>
@@ -756,16 +834,16 @@ Genomic characterization of two bacteriophages (vB_EcoS-phiEc3 and vB_EcoS-phiEc
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-34-contents" aria-controls="callout-34" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-38-contents" aria-controls="callout-38" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Interleukin-1 receptor-like 2: one receptor, three agonists, and many implications
+<span class="screen-reader-only">Note</span>Interleukin-1 receptor-like 2: one receptor, three agonists, and many implications
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-34" class="callout-34-contents callout-collapse collapse">
+<div id="callout-38" class="callout-38-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O<br>
 <a href="https://www.liebertpub.com/doi/10.1089/jir.2021.0173"><em>J Interferon Cytokine Res</em> 42(2), 49-61</a></p>
@@ -774,16 +852,16 @@ Interleukin-1 receptor-like 2: one receptor, three agonists, and many implicatio
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-35-contents" aria-controls="callout-35" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-39-contents" aria-controls="callout-39" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Evaluation and quantification of micro epithelial gaps in the colonic mucosa using immunofluorescence staining
+<span class="screen-reader-only">Note</span>Evaluation and quantification of micro epithelial gaps in the colonic mucosa using immunofluorescence staining
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-35" class="callout-35-contents callout-collapse collapse">
+<div id="callout-39" class="callout-39-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Castro-Martínez F, Encarnación-García MDR, Candelario-Martinez A, Medina-Contreras O, Patiño-Lopez G, Schnoor M, Nava P<br>
 <a href="https://www.jove.com/es/t/62204/evaluation-quantification-micro-epithelial-gaps-colonic-mucosa-using"><em>J Vis Exp</em> 2021(172)</a></p>
@@ -792,16 +870,16 @@ Evaluation and quantification of micro epithelial gaps in the colonic mucosa usi
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-36-contents" aria-controls="callout-36" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-40-contents" aria-controls="callout-40" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Comparative transcriptomes of the body wall of wild and farmed sea cucumber <em>Isostichopus badionotus</em>
+<span class="screen-reader-only">Note</span>Comparative transcriptomes of the body wall of wild and farmed sea cucumber <em>Isostichopus badionotus</em>
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-36" class="callout-36-contents callout-collapse collapse">
+<div id="callout-40" class="callout-40-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Martín-Hernández R, Rodríguez-Canul R, Kantún-Moreno N, Olvera-Novoa MA, Medina-Contreras O, Garikoitz-Legarda C, Triviño JC, Zamora-Briseño JA, May-Solis V, Poot-Salazar A, Pérez-Vega JA, Gil-Zamorano J, Grant G, Dávalos A, Olivera-Castillo L<br>
 <a href="https://www.mdpi.com/1422-0067/22/8/3882"><em>Int J Mol Sci</em> 22(8), 3882</a></p>
@@ -810,16 +888,16 @@ Comparative transcriptomes of the body wall of wild and farmed sea cucumber <em>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-37-contents" aria-controls="callout-37" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-41-contents" aria-controls="callout-41" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-IL-36R signaling integrates innate and adaptive immune-mediated protection against enteropathogenic bacteria
+<span class="screen-reader-only">Note</span>IL-36R signaling integrates innate and adaptive immune-mediated protection against enteropathogenic bacteria
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-37" class="callout-37-contents callout-collapse collapse">
+<div id="callout-41" class="callout-41-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Ngo VL, Abo H, Kuczma M, Szurek E, Moore N, Medina-Contreras O, Nusrat A, Merlin D, Gewirtz AT, Ignatowicz L, Denning TL<br>
 <a href="https://www.pnas.org/doi/full/10.1073/pnas.2004484117"><em>Proc Natl Acad Sci USA</em> 117(44):27540-8</a></p>
@@ -828,16 +906,16 @@ IL-36R signaling integrates innate and adaptive immune-mediated protection again
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-38-contents" aria-controls="callout-38" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-42-contents" aria-controls="callout-42" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Nucleoredoxin interaction with flightless-I/actin complex is differentially altered in alcoholic liver disease
+<span class="screen-reader-only">Note</span>Nucleoredoxin interaction with flightless-I/actin complex is differentially altered in alcoholic liver disease
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-38" class="callout-38-contents callout-collapse collapse">
+<div id="callout-42" class="callout-42-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Alarcón-Sánchez BR, Guerrero-Escalera D, Rosas-Madrigal S, Ivette Aparicio-Bautista D, Reyes-Gordillo K, Lakshman MR, Ortiz-Fernández A, Quezada H, Medina-Contreras O, Villa-Treviño S, Isael Pérez-Carreón J, Arellanes-Robledo J<br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/bcpt.13451"><em>Basic Clin Pharmacol Toxicol</em> 127(5), 389-404</a></p>
@@ -846,16 +924,16 @@ Nucleoredoxin interaction with flightless-I/actin complex is differentially alte
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-39-contents" aria-controls="callout-39" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-43-contents" aria-controls="callout-43" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Molecular epidemiology of <em>Acinetobacter calcoaceticus</em>-<em>Acinetobacter baumannii</em> complex isolated from children at the Hospital Infantil de México Federico Gómez
+<span class="screen-reader-only">Note</span>Molecular epidemiology of <em>Acinetobacter calcoaceticus</em>-<em>Acinetobacter baumannii</em> complex isolated from children at the Hospital Infantil de México Federico Gómez
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-39" class="callout-39-contents callout-collapse collapse">
+<div id="callout-43" class="callout-43-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Mancilla-Rojano J, Ochoa SA, Reyes-Grajeda JP, Flores V, Medina-Contreras O, Espinosa-Mazariego K, Parra-Ortega I, Rosa-Zamboni D, Castellanos-Cruz MDC, Arellano-Galindo J, Cevallos MA, Hernández-Castro R, Xicohtencatl-Cortes J, Cruz-Córdova A<br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/bcpt.13451"><em>Front Microbiol</em> 11, 576673</a></p>
@@ -864,16 +942,16 @@ Molecular epidemiology of <em>Acinetobacter calcoaceticus</em>-<em>Acinetobacter
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-40-contents" aria-controls="callout-40" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-44-contents" aria-controls="callout-44" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The role of the oncogenic Rab35 in cancer invasion, metastasis, and immune evasion, especially in leukemia
+<span class="screen-reader-only">Note</span>The role of the oncogenic Rab35 in cancer invasion, metastasis, and immune evasion, especially in leukemia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-40" class="callout-40-contents callout-collapse collapse">
+<div id="callout-44" class="callout-44-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Villagomez FR, Medina-Contreras O, Cerna-Cortes JF, Patino-Lopez G<br>
 <a href="https://www.tandfonline.com/doi/full/10.1080/21541248.2018.1463895"><em>Small GTPases</em> 11(5), 334-45</a></p>
@@ -882,16 +960,16 @@ The role of the oncogenic Rab35 in cancer invasion, metastasis, and immune evasi
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-41-contents" aria-controls="callout-41" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-45-contents" aria-controls="callout-45" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-A glycosaminoglycan-rich fraction from sea cucumber <em>Isostichopus badionotus</em> has potent anti-inflammatory properties <em>in vitro</em> and <em>in vivo</em>
+<span class="screen-reader-only">Note</span>A glycosaminoglycan-rich fraction from sea cucumber <em>Isostichopus badionotus</em> has potent anti-inflammatory properties <em>in vitro</em> and <em>in vivo</em>
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-41" class="callout-41-contents callout-collapse collapse">
+<div id="callout-45" class="callout-45-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Olivera-Castillo L, Grant G, Kantún-Moreno N, Barrera-Pérez HA, Montero J, Olvera-Novoa MA, Carrillo-Cocom LM, Acevedo JJ, Puerto-Castillo C, May Solís V, Pérez-Vega JA, Gil-Zamorano J, Hernández-Garibay E, Fernández-Herrera MA, Pérez-Tapia M, Medina-Contreras O, Villanueva-Toledo JR, Rodriguez-Canul R, Dávalos A<br>
 <a href="https://www.mdpi.com/2072-6643/12/6/1698"><em>Nutrients</em> 12(6), 1698</a></p>
@@ -900,16 +978,16 @@ A glycosaminoglycan-rich fraction from sea cucumber <em>Isostichopus badionotus<
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-42-contents" aria-controls="callout-42" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-46-contents" aria-controls="callout-46" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Immunoendocrine peripheral effects induced by atypical antipsychotics
+<span class="screen-reader-only">Note</span>Immunoendocrine peripheral effects induced by atypical antipsychotics
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-42" class="callout-42-contents callout-collapse collapse">
+<div id="callout-46" class="callout-46-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Alvarez-Herrera S, Escamilla R, Medina-Contreras O, Saracco R, Flores Y, Hurtado-Alvarado G, Maldonado-García JL, Becerril-Villanueva E, Pérez-Sánchez G, Pavón L<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fendo.2020.00195/full"><em>Front Endocrinol</em> 11, 195</a></p>
@@ -918,16 +996,16 @@ Immunoendocrine peripheral effects induced by atypical antipsychotics
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-43-contents" aria-controls="callout-43" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-47-contents" aria-controls="callout-47" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Intestinal response to dietary manganese depletion in Drosophila
+<span class="screen-reader-only">Note</span>Intestinal response to dietary manganese depletion in Drosophila
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-43" class="callout-43-contents callout-collapse collapse">
+<div id="callout-47" class="callout-47-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Vásquez-Procopio J, Osorio B, Cortés-Martínez L, Hernández-Hernández F, Medina-Contreras O, Ríos-Castro E, Comjean A, Li F, Hu Y, Mohr S, Perrimon N, Missirlis F<br>
 <a href="https://academic.oup.com/metallomics/article/12/2/218/5961849?login=false"><em>Metallomics</em> 12(2), 218-40</a></p>
@@ -936,16 +1014,16 @@ Intestinal response to dietary manganese depletion in Drosophila
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-44-contents" aria-controls="callout-44" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-48-contents" aria-controls="callout-48" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Immunonutrition in cervical cancer: immune response modulation by diet
+<span class="screen-reader-only">Note</span>Immunonutrition in cervical cancer: immune response modulation by diet
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-44" class="callout-44-contents callout-collapse collapse">
+<div id="callout-48" class="callout-48-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L, Sánchez-López MS, Soto-Lugo JH, Castro-Eguiluz D<br>
 <a href="https://clinicalandtranslationalinvestigation.com/frame_esp.php?id=305"><em>Rev Invest Clin</em> 72(4), 219-30</a></p>
@@ -981,16 +1059,16 @@ Rosales-Reyes R, Pérez-López A, Sánchez-Gómez C, Hernández-Mote RR, Castro-
 
 -->
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-45-contents" aria-controls="callout-45" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-49-contents" aria-controls="callout-49" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-SARS-CoV-2 and influenza: a comparative overview and treatment implications
+<span class="screen-reader-only">Note</span>SARS-CoV-2 and influenza: a comparative overview and treatment implications
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-45" class="callout-45-contents callout-collapse collapse">
+<div id="callout-49" class="callout-49-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Manzanares-Meza LD, Medina-Contreras O<br>
 <a href="https://www.bmhim.com/frame_esp.php?id=177"><em>Bol Med Hosp Infant Mex</em> 77(5), 262-273</a></p>
@@ -999,16 +1077,16 @@ SARS-CoV-2 and influenza: a comparative overview and treatment implications
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-46-contents" aria-controls="callout-46" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-50-contents" aria-controls="callout-50" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Omeprazole as a potent activator of human cytosolic aldehyde dehydrogenase ALDH1A1
+<span class="screen-reader-only">Note</span>Omeprazole as a potent activator of human cytosolic aldehyde dehydrogenase ALDH1A1
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-46" class="callout-46-contents callout-collapse collapse">
+<div id="callout-50" class="callout-50-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Calleja LF, Belmont-Díaz JA, Medina-Contreras O, Quezada H, Yoval-Sánchez B, Campos-García J, Rodríguez-Zavala JS<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304416519302375?via%3Dihub"><em>Biochim Biophys Acta Gen Subj</em> 1864(1), 129451</a></p>
@@ -1017,16 +1095,16 @@ Omeprazole as a potent activator of human cytosolic aldehyde dehydrogenase ALDH1
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-47-contents" aria-controls="callout-47" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-51-contents" aria-controls="callout-51" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Polymorphisms in adipokines in Mexican children with obesity
+<span class="screen-reader-only">Note</span>Polymorphisms in adipokines in Mexican children with obesity
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-47" class="callout-47-contents callout-collapse collapse">
+<div id="callout-51" class="callout-51-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Jiménez-Osorio AS, Aguilar-Lucio AO, Cárdenas-Hernández H, Musalem-Younes C, Solares-Tlapechco J, Costa-Urrutia P, Medina-Contreras O, Granados J, Rodríguez-Arellano ME<br>
 <a href="https://www.hindawi.com/journals/ije/2019/4764751/"><em>Int J Endocrinol</em> 2019, 4764751</a></p>
@@ -1035,16 +1113,16 @@ Polymorphisms in adipokines in Mexican children with obesity
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-48-contents" aria-controls="callout-48" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-52-contents" aria-controls="callout-52" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Obesity measured as percent body fat, relationship with body mass index, and percentile curves for Mexican pediatric population
+<span class="screen-reader-only">Note</span>Obesity measured as percent body fat, relationship with body mass index, and percentile curves for Mexican pediatric population
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-48" class="callout-48-contents callout-collapse collapse">
+<div id="callout-52" class="callout-52-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Costa-Urrutia P, Vizuet-Gámez A, Ramirez-Alcántara M, Guillen-González MÁ, Medina-Contreras O, Valdes-Moreno M, Musalem-Younes C, Solares-Tlapechco J, Granados J, Franco-Trecu V, Rodriguez-Arellano ME<br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212792"><em>PLoS One</em> 14(2), e0212792</a></p>
@@ -1053,16 +1131,16 @@ Obesity measured as percent body fat, relationship with body mass index, and per
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-49-contents" aria-controls="callout-49" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-53-contents" aria-controls="callout-53" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Common polymorphisms linked to obesity and cardiovascular disease in Europeans and Asians are associated with Type 2 Diabetes in Mexican mestizos
+<span class="screen-reader-only">Note</span>Common polymorphisms linked to obesity and cardiovascular disease in Europeans and Asians are associated with Type 2 Diabetes in Mexican mestizos
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-49" class="callout-49-contents callout-collapse collapse">
+<div id="callout-53" class="callout-53-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Jiménez-Osorio AS, Musalem-Younes C, Cárdenas-Hernández H, Solares-Tlapechco J, Costa-Urrutia P, Medina-Contreras O, Granados J, López-Saucedo C, Estrada-Garcia T, Rodríguez-Arellano ME<br>
 <a href="https://www.mdpi.com/1648-9144/55/2/40"><em>Medicina</em> 55(2), 40</a></p>
@@ -1071,16 +1149,16 @@ Common polymorphisms linked to obesity and cardiovascular disease in Europeans a
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-50-contents" aria-controls="callout-50" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-54-contents" aria-controls="callout-54" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Myosin 1F regulates M1-polarization by stimulating intercellular adhesion in macrophages
+<span class="screen-reader-only">Note</span>Myosin 1F regulates M1-polarization by stimulating intercellular adhesion in macrophages
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-50" class="callout-50-contents callout-collapse collapse">
+<div id="callout-54" class="callout-54-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Piedra-Quintero ZL, Serrano C, Villegas-Sepúlveda N, Maravillas-Montero JL, Romero-Ramírez S, Shibayama M, Medina-Contreras O, Nava P, Santos-Argumedo L<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2018.03118/full"><em>Front Immunol</em> 9, 3118</a></p>
@@ -1089,16 +1167,16 @@ Myosin 1F regulates M1-polarization by stimulating intercellular adhesion in mac
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-51-contents" aria-controls="callout-51" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-55-contents" aria-controls="callout-55" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The nontoxic cholera B subunit is a potent adjuvant for intradermal DC-targeted vaccination
+<span class="screen-reader-only">Note</span>The nontoxic cholera B subunit is a potent adjuvant for intradermal DC-targeted vaccination
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-51" class="callout-51-contents callout-collapse collapse">
+<div id="callout-55" class="callout-55-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Antonio-Herrera L, Badillo-Godinez O, Medina-Contreras O, Tepale-Segura A, García-Lozano A, Gutierrez-Xicotencatl L, Soldevila G, Esquivel-Guadarrama FR, Idoyaga J, Bonifaz LC<br>
 <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2018.02212/full"><em>Front Immunol</em> 9, 2212</a></p>
@@ -1107,16 +1185,16 @@ The nontoxic cholera B subunit is a potent adjuvant for intradermal DC-targeted 
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-52-contents" aria-controls="callout-52" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-56-contents" aria-controls="callout-56" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-A cytokine network involving IL-36<span class="math inline">\(\gamma\)</span>, IL-23, and IL-22 promotes antimicrobial defense and recovery from intestinal barrier damage
+<span class="screen-reader-only">Note</span>A cytokine network involving IL-36<span class="math inline">\(\gamma\)</span>, IL-23, and IL-22 promotes antimicrobial defense and recovery from intestinal barrier damage
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-52" class="callout-52-contents callout-collapse collapse">
+<div id="callout-56" class="callout-56-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Ngo VL, Abo H, Maxim E, Harusato A, Geem D, Medina-Contreras O, Merlin D, Gewirtz AT, Nusrat A, Denning TL<br>
 <a href="https://www.pnas.org/doi/10.1073/pnas.1718902115"><em>Proc Natl Acad Sci USA</em> 115(22), E5076-85</a></p>
@@ -1125,16 +1203,16 @@ A cytokine network involving IL-36<span class="math inline">\(\gamma\)</span>, I
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-53-contents" aria-controls="callout-53" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-57-contents" aria-controls="callout-57" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-MALDI imaging: beyond classic diagnosis
+<span class="screen-reader-only">Note</span>MALDI imaging: beyond classic diagnosis
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-53" class="callout-53-contents callout-collapse collapse">
+<div id="callout-57" class="callout-57-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Manzanares-Meza LD, Gutiérrez-Román CI, Medina-Contreras O<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1665114617300291?via%3Dihub"><em>Bol Med Hosp Infant Mex</em> 74(3), 212-8</a></p>
@@ -1143,16 +1221,16 @@ MALDI imaging: beyond classic diagnosis
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-54-contents" aria-controls="callout-54" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-58-contents" aria-controls="callout-58" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Proteomic changes in a childhood acute lymphoblastic leukemia cell line during the adaptation to vincristine
+<span class="screen-reader-only">Note</span>Proteomic changes in a childhood acute lymphoblastic leukemia cell line during the adaptation to vincristine
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-54" class="callout-54-contents callout-collapse collapse">
+<div id="callout-58" class="callout-58-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Guzmán-Ortiz AL, Aparicio-Ozores G, Valle-Rios R, Medina-Contreras O, Patiño-López G, Quezada H<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1665114617300321?via%3Dihub"><em>Bol Med Hosp Infant Mex</em> 74(3), 181-92</a></p>
@@ -1161,16 +1239,16 @@ Proteomic changes in a childhood acute lymphoblastic leukemia cell line during t
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-55-contents" aria-controls="callout-55" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-59-contents" aria-controls="callout-59" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Characterization of Cry toxins from autochthonous <em>Bacillus thuringiensis</em> isolates from Mexico
+<span class="screen-reader-only">Note</span>Characterization of Cry toxins from autochthonous <em>Bacillus thuringiensis</em> isolates from Mexico
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-55" class="callout-55-contents callout-collapse collapse">
+<div id="callout-59" class="callout-59-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Camacho-Millán R, Aguilar-Medina EM, Quezada H, Medina-Contreras O, Patiño-López G, Cárdenas-Cota HM, Ramos-Payán R<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1665114617300321?via%3Dihub"><em>Bol Med Hosp Infant Mex</em> 74(3), 576673</a></p>
@@ -1179,16 +1257,16 @@ Characterization of Cry toxins from autochthonous <em>Bacillus thuringiensis</em
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-56-contents" aria-controls="callout-56" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-60-contents" aria-controls="callout-60" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The pro-inflammatory cytokines IFN<span class="math inline">\(\gamma\)</span>/TNF<span class="math inline">\(\alpha\)</span> increase chromogranin A-positive neuroendocrine cells in the colonic epithelium
+<span class="screen-reader-only">Note</span>The pro-inflammatory cytokines IFN<span class="math inline">\(\gamma\)</span>/TNF<span class="math inline">\(\alpha\)</span> increase chromogranin A-positive neuroendocrine cells in the colonic epithelium
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-56" class="callout-56-contents callout-collapse collapse">
+<div id="callout-60" class="callout-60-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Hernández-Trejo JA, Suárez-Pérez D, Gutiérrez-Martínez IZ, Fernandez-Vargas OE, Serrano C, Candelario-Martínez AA, Meraz-Ríos MA, Citalán-Madrid AF, Hernández-Ruíz M, Reyes-Maldonado E, Valle-Rios R, Feintuch-Unger JH, Schnoor M, Villegas-Sepúlveda N, Medina-Contreras O, Nava P<br>
 <a href="https://portlandpress.com/biochemj/article-abstract/473/21/3805/49637/The-pro-inflammatory-cytokines-IFN-TNF-increase?redirectedFrom=fulltext"><em>Biochem J</em> 473(21), 3805-18</a></p>
@@ -1197,16 +1275,16 @@ The pro-inflammatory cytokines IFN<span class="math inline">\(\gamma\)</span>/TN
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-57-contents" aria-controls="callout-57" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-61-contents" aria-controls="callout-61" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-14-3-3 Proteins regulate Akt Thr308 phosphorylation in intestinal epithelial cells
+<span class="screen-reader-only">Note</span>14-3-3 Proteins regulate Akt Thr308 phosphorylation in intestinal epithelial cells
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-57" class="callout-57-contents callout-collapse collapse">
+<div id="callout-61" class="callout-61-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Gómez-Suárez M, Gutiérrez-Martínez IZ, Hernández-Trejo JA, Hernández-Ruiz M, Suárez-Pérez D, Candelario A, Kamekura R, Medina-Contreras O, Schnoor M, Ortiz-Navarrete V, Villegas-Sepúlveda N, Parkos C, Nusrat A, Nava P<br>
 <a href="https://www.nature.com/articles/cdd2015163"><em>Cell Death Differ</em> 23(6), 1060-72</a></p>
@@ -1215,16 +1293,16 @@ The pro-inflammatory cytokines IFN<span class="math inline">\(\gamma\)</span>/TN
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-58-contents" aria-controls="callout-58" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-62-contents" aria-controls="callout-62" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-IL-36 receptor promotes resolution of intestinal damage
+<span class="screen-reader-only">Note</span>IL-36 receptor promotes resolution of intestinal damage
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-58" class="callout-58-contents callout-collapse collapse">
+<div id="callout-62" class="callout-62-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Medina-Contreras O, Harusato A, Nishio H, Flannigan KL, Ngo V, Leoni G, Neumann PA, Geem D, Lili LN, Ramadas RA, Chassaing B, Gewirtz AT, Kohlmeier JE, Parkos CA, Towne JE, Nusrat A, Denning TL<br>
 <a href="https://journals.aai.org/jimmunol/article/196/1/34/105174/Cutting-Edge-IL-36-Receptor-Promotes-Resolution-of"><em>J Immunol</em> 196(1), 34-8</a></p>
@@ -1233,16 +1311,16 @@ IL-36 receptor promotes resolution of intestinal damage
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-59-contents" aria-controls="callout-59" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-63-contents" aria-controls="callout-63" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-IFN<span class="math inline">\(\gamma\)</span>-induced suppression of <span class="math inline">\(\beta\)</span>-catenin signaling: evidence for roles of Akt and 14.3.3<span class="math inline">\(\zeta\)</span>
+<span class="screen-reader-only">Note</span>IFN<span class="math inline">\(\gamma\)</span>-induced suppression of <span class="math inline">\(\beta\)</span>-catenin signaling: evidence for roles of Akt and 14.3.3<span class="math inline">\(\zeta\)</span>
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-59" class="callout-59-contents callout-collapse collapse">
+<div id="callout-63" class="callout-63-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Nava P, Kamekura R, Quirós M, Medina-Contreras O, Hamilton RW, Kolegraff KN, Koch S, Candelario A, Romo-Parra H, Laur O, Hilgarth RS, Denning TL, Parkos CA, Nusrat A<br>
 <a href="https://www.molbiolcell.org/doi/10.1091/mbc.E13-09-0512?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed"><em>Mol Biol Cell</em> 25(19), 2894-904</a></p>
@@ -1251,16 +1329,16 @@ IFN<span class="math inline">\(\gamma\)</span>-induced suppression of <span clas
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-60-contents" aria-controls="callout-60" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-64-contents" aria-controls="callout-64" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Neutrophil-derived JAML inhibits repair of intestinal epithelial injury during acute inflammation
+<span class="screen-reader-only">Note</span>Neutrophil-derived JAML inhibits repair of intestinal epithelial injury during acute inflammation
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-60" class="callout-60-contents callout-collapse collapse">
+<div id="callout-64" class="callout-64-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Weber DA, Sumagin R, McCall IC, Leoni G, Neumann PA, Andargachew R, Brazil JC, Medina-Contreras O, Denning TL, Nusrat A, Parkos CA<br>
 <a href="https://www.mucosalimmunology.org/article/S1933-0219(22)01131-X/fulltext"><em>Mucosal Immunol</em> 7(5), 1221-32</a></p>
@@ -1269,16 +1347,16 @@ Neutrophil-derived JAML inhibits repair of intestinal epithelial injury during a
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-61-contents" aria-controls="callout-61" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-65-contents" aria-controls="callout-65" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Specific microbiota-induced intestinal Th17 differentiation requires MHC class II but not GALT and mesenteric lymph nodes
+<span class="screen-reader-only">Note</span>Specific microbiota-induced intestinal Th17 differentiation requires MHC class II but not GALT and mesenteric lymph nodes
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-61" class="callout-61-contents callout-collapse collapse">
+<div id="callout-65" class="callout-65-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Geem D, Medina-Contreras O, McBride M, Newberry RD, Koni PA, Denning TL<br>
 <a href="https://journals.aai.org/jimmunol/article/193/1/431/108704/Specific-Microbiota-Induced-Intestinal-Th17"><em>J Immunol</em> 193(1), 431-8</a></p>
@@ -1287,16 +1365,16 @@ Specific microbiota-induced intestinal Th17 differentiation requires MHC class I
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-62-contents" aria-controls="callout-62" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-66-contents" aria-controls="callout-66" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Compromised intestinal epithelial barrier induces adaptive immune compensation that protects from colitis
+<span class="screen-reader-only">Note</span>Compromised intestinal epithelial barrier induces adaptive immune compensation that protects from colitis
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-62" class="callout-62-contents callout-collapse collapse">
+<div id="callout-66" class="callout-66-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Khounlotham M, Kim W, Peatman E, Nava P, Medina-Contreras O, Addis C, Koch S, Fournier B, Nusrat A, Denning TL, Parkos CA<br>
 <a href="https://www.cell.com/immunity/fulltext/S1074-7613(12)00380-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761312003809%3Fshowall%3Dtrue"><em>Immunity</em> 37(3), 563-73</a></p>
@@ -1305,16 +1383,16 @@ Compromised intestinal epithelial barrier induces adaptive immune compensation t
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-63-contents" aria-controls="callout-63" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-67-contents" aria-controls="callout-67" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Isolation and characterization of dendritic cells and macrophages from the mouse intestine
+<span class="screen-reader-only">Note</span>Isolation and characterization of dendritic cells and macrophages from the mouse intestine
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-63" class="callout-63-contents callout-collapse collapse">
+<div id="callout-67" class="callout-67-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Geem D, Medina-Contreras O, Kim W, Huang CS, Denning TL<br>
 <a href="https://www.jove.com/es/t/4040/isolation-characterization-dendritic-cells-macrophages-from-mouse"><em>J Vis Exp</em> (63), e4040</a></p>
@@ -1323,16 +1401,16 @@ Isolation and characterization of dendritic cells and macrophages from the mouse
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-64-contents" aria-controls="callout-64" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-68-contents" aria-controls="callout-68" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-CX3CR1 regulates intestinal macrophage homeostasis, bacterial translocation, and colitogenic Th17 responses in mice
+<span class="screen-reader-only">Note</span>CX3CR1 regulates intestinal macrophage homeostasis, bacterial translocation, and colitogenic Th17 responses in mice
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-64" class="callout-64-contents callout-collapse collapse">
+<div id="callout-68" class="callout-68-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Medina-Contreras O, Geem D, Laur O, Williams IR, Lira SA, Nusrat A, Parkos CA, Denning TL<br>
 <a href="https://www.jci.org/articles/view/59150"><em>J Clin Invest</em> 121(12), 4787-95</a></p>
@@ -1341,16 +1419,16 @@ CX3CR1 regulates intestinal macrophage homeostasis, bacterial translocation, and
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-65-contents" aria-controls="callout-65" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-69-contents" aria-controls="callout-69" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Functional specializations of intestinal dendritic cell and macrophage subsets that control Th17 and regulatory T cell responses are dependent on the T cell/APC ratio, source of mouse strain, and regional localization
+<span class="screen-reader-only">Note</span>Functional specializations of intestinal dendritic cell and macrophage subsets that control Th17 and regulatory T cell responses are dependent on the T cell/APC ratio, source of mouse strain, and regional localization
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-65" class="callout-65-contents callout-collapse collapse">
+<div id="callout-69" class="callout-69-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Denning TL, Norris BA, Medina-Contreras O, Manicassamy S, Geem D, Madan R, Karp CL, Pulendran B<br>
 <a href="https://journals.aai.org/jimmunol/article/187/2/733/38769/Functional-Specializations-of-Intestinal-Dendritic"><em>J Immunol</em> 187(2), 733-47</a></p>
@@ -1359,16 +1437,16 @@ Functional specializations of intestinal dendritic cell and macrophage subsets t
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-66-contents" aria-controls="callout-66" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-70-contents" aria-controls="callout-70" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-CRTAM: A molecule involved in epithelial cell adhesion
+<span class="screen-reader-only">Note</span>CRTAM: A molecule involved in epithelial cell adhesion
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-66" class="callout-66-contents callout-collapse collapse">
+<div id="callout-70" class="callout-70-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Garay E, Patiño-López G, Islas S, Alarcón L, Canche-Pool E, Valle-Rios R, Medina-Contreras O, Granados G, Chávez-Munguía B, Juaristi E, Ortiz-Navarrete V, González-Mariscal L<br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/jcb.22673"><em>J Cell Biochem</em> 111(1), 111-22</a></p>
@@ -1377,16 +1455,16 @@ CRTAM: A molecule involved in epithelial cell adhesion
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-67-contents" aria-controls="callout-67" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-71-contents" aria-controls="callout-71" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Role of CRTAM during mouse early T lymphocytes development
+<span class="screen-reader-only">Note</span>Role of CRTAM during mouse early T lymphocytes development
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-67" class="callout-67-contents callout-collapse collapse">
+<div id="callout-71" class="callout-71-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Medina-Contreras O, Soldevila G, Patiño-Lopez G, Canche-Pool E, Valle-Rios R, Ortiz-Navarrete V<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0145305X09002018?via%3Dihub"><em>Dev Comp Immunol</em> 34(2), 196-202</a></p>
@@ -1395,16 +1473,16 @@ Role of CRTAM during mouse early T lymphocytes development
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-68-contents" aria-controls="callout-68" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-72-contents" aria-controls="callout-72" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-B cell precursors are targets for <em>Salmonella</em> infection
+<span class="screen-reader-only">Note</span>B cell precursors are targets for <em>Salmonella</em> infection
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-68" class="callout-68-contents callout-collapse collapse">
+<div id="callout-72" class="callout-72-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Castro-Eguiluz D, Pelayo R, Rosales-Garcia V, Rosales-Reyes R, Alpuche-Aranda C, Ortiz-Navarrete V<br>
 <em>Microb Pathog</em> 47(1), 52-6</p>
@@ -1412,16 +1490,16 @@ B cell precursors are targets for <em>Salmonella</em> infection
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-69-contents" aria-controls="callout-69" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-73-contents" aria-controls="callout-73" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Characterization of CRTAM gene promoter: AP-1 transcription factor control its expression in human T CD8 lymphocytes
+<span class="screen-reader-only">Note</span>Characterization of CRTAM gene promoter: AP-1 transcription factor control its expression in human T CD8 lymphocytes
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-69" class="callout-69-contents callout-collapse collapse">
+<div id="callout-73" class="callout-73-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Valle-Rios R, Patiño-Lopez G, Medina-Contreras O, Canche-Pool E, Recillas-Targa F, Lopez-Bayghen E, Zlotnik A, Ortiz-Navarrete V<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0161589009006166?via%3Dihub"><em>Mol Immunol</em> 46(16), 3379-87</a></p>
@@ -1430,16 +1508,16 @@ Characterization of CRTAM gene promoter: AP-1 transcription factor control its e
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-70-contents" aria-controls="callout-70" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-74-contents" aria-controls="callout-74" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Endometriosis and discouragement of immunology cytotoxic characteristics
+<span class="screen-reader-only">Note</span>Endometriosis and discouragement of immunology cytotoxic characteristics
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-70" class="callout-70-contents callout-collapse collapse">
+<div id="callout-74" class="callout-74-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Hernández Guerrero CA, Tlapanco Barba R, Ramos Pérez C, Velázquez Ramírez N, Castro Eguiluz D, Cérbulo Vázquez A.<br>
 <em>Ginecol Obstet Mex</em> 71, 559-74</p>
@@ -1452,236 +1530,243 @@ Endometriosis and discouragement of immunology cytotoxic characteristics
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
         }
-        return container.innerHTML
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -1689,185 +1774,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 

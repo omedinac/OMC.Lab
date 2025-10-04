@@ -6,11 +6,11 @@ title: "About Us"
 
 # ![Denisse Castro Eguiluz](res/den.jpeg){width="200"}
 
-|  |  |  |
-|----|----|----|
-| [email](mailto:adcastro@conahcyt.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) |
+|  |  |  |||
+|----|----|----|----|----|----|----|
+| [email](mailto:adcastro@secihti.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0001-6873-122X) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193099819) | [Scholar](https://scholar.google.com/citations?hl=en&user=JgIAFVkAAAAJ=en)|
 
-Dr. Denisse Castro Eguiluz is a Researcher for Mexico at the National Cancer Institute, in the MICAELA program.
+Dr. Denisse Castro Eguiluz is a Researcher for Mexico (IxM) at the National Cancer Institute, in the MICAELA program.
 
 Dr. Castro research focuses on the effect of nutrition in ameliorating cervical cancer and local inflammation. She has published more than 25 peer-reviewed studies. She is member of the [National Research System](https://conacyt.mx/sistema-nacional-de-investigadores/), the Mexican Society for Immunology, and the American Dietetic Association.
 
@@ -20,12 +20,12 @@ Dr. Castro received her bachelor’s degree in Nutrition from Universidad Ibero.
 
 # ![Oscar Medina Contreras](res/omc.JPG){width="200"}
 
-|  |  |  |  |  |  |  |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [email](mailto:omedina@himfg.edu.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) | [Scholar](https://scholar.google.com/citations?user=8uVVtz4AAAAJ&hl=en) | [X](https://twitter.com/morphant) | [GitHub](https://github.com/omedinac/) |
+|  |  |  |  |  |  |  ||
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [email](mailto:omedina@himfg.edu.mx) | \[cv\] | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) | [Scholar](https://scholar.google.com/citations?user=8uVVtz4AAAAJ&hl=en) | [X](https://twitter.com/morphant) | [IG](https://www.instagram.com/os.m.c/) | [GitHub](https://github.com/omedinac/) |
 
 Dr. Oscar Medina Contreras is a Medical Sciences Researcher at Mexico Children's Hospital, a National Institute of Health, in the Immunology & Proteomics Laboratory and the Epidemiology, Endocrinology & Nutrition Research Unit. Before joining Mexico Children's Hospital, he was a research associate in the Institute for Biomedical Sciences' Center for Inflammation, Immunity & Infection at Georgia State University.
 
-Dr. Medina's research focuses on the role of intestinal immune cells in the regulation of experimental models of Crohn’s disease and ulcerative colitis, and has been supported by the National Council for Science and Technology (CONACYT) and the Crohn’s and Colitis Foundation of America. Dr. Medina is a grant reviewer for several funding agencies, including CONACYT. He has published more than 50 peer-reviewed studies with over 1000 cites, and has served on the editorial board of Frontiers. He is a member of the Mexican Academy of Sciences, the Society for Mucosal Immunology, the Mexican Society for Immunology, the American Association of Immunologists, the American Society for Investigative Pathology, and the National Research System.
+Dr. Medina's research focuses on the role of intestinal immune cells in the regulation of experimental models of Crohn’s disease and ulcerative colitis, and has been supported by the National Council for Science and Technology (CONACYT) and the Crohn’s and Colitis Foundation of America. Dr. Medina is a grant reviewer for several funding agencies, including CONACYT. He has published more than 50 peer-reviewed studies with over 1600 cites, and has served on the editorial board of Gene Reports and Mediators of Inflammation. He is a member of the Mexican Academy of Sciences, the Society for Mucosal Immunology, the Mexican Society for Immunology, the American Association of Immunologists, the American Society for Investigative Pathology, and the National Research System.
 
 Dr. Medina received his bachelor’s degree in Biology from State of Mexico Autonomous University. He earned a Ph.D. in Molecular Biomedicine at the Center for Research and Advanced Studies, advised by Vianney Ortiz-Navarrete, and did postdoctoral training in the Department of Pediatrics and the Department of Pathology and Laboratory Medicine at Emory University, under the mentorship of Tim Denning and Charles Parkos.
