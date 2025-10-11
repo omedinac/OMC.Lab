@@ -1,0 +1,138 @@
+---
+title: 'Tinción de gotas de lípidos de adipocitos con rojo oleoso'
+subtitle: UIEEN-PT-001
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Diana Villalpando Sánchez
+    email: dianis@omclab
+    orcid: 0000-0000-0000-0000
+    title: Starfleet Captain
+    affiliations: 
+      - name: Tuneado por
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2025-09
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+---
+
+::: {.callout-note title="Propósito"}
+Teñir gotas de lípidos de adipocitos con rojo oleoso
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que necesiten teñir las gotas de lípidos de adipocitos con rojo oleoso en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Instituto Nacional de Salud Hospital Infantil de México Federico Gómez
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+- 	Retirar el Medio de crecimiento (MC) a la monocapa de células.
+	Agregar por las paredes del pozo 1 mL de PBS 1X estéril. 
+	Realizar movimientos circulares y aspirar el PBS 1X inclinando la placa para evitar aspirar la monocapa de células. 
+	Repetir este paso 2 veces más.
+	Agregar suficiente paraformaldehído (PAF) al 4% para recubrir la monocapa de células. De acuerdo con el tamaño de la placa de cultivo a utilizar, añadir:
+	Incubar a temperatura ambiente por 10 minutos.
+	Retirar el PAF con la pipeta y realizar 3 lavados con PBS 1X (descritos anteriormente).
+	En función del tamaño de la placa, agregar el volumen suficiente de Rojo oleoso para recubrir la monocapa de células e incubar a 37ºC por 30 minutos.
+	Retirar el Rojo oleoso y realizar 3 lavados con PBS 1X.
+	Observar al microscopio.
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+- La adición y eliminación de los reactivos se realizará por las paredes del pozo, para evitar el desprendimiento de la monocapa de células.
+Para los lavados, los movimientos no deberán ser vigorosos porque puede provocar el desprendimiento de la monocapa de células.
+
+
+
+:::
+
+## Diagrama de Flujo
+
+![Figura 1. Diagrama de flujo](notebooks/images/red.png){width="25%"}
+
+\newpage
+
+## Anexos
+
+### geles
+
+Placa de cultivo	Volumen
+6 pozos	700 μL
+12 pozos 	500 μL
+24 pozos	400 μL
+48 pozos	300 μL
+
+
+: **Tamaño de ADN y porcentaje de gel** {#tbl-gel}
+
+### Reactivos y Soluciones
+
+(@) Reactivos
+- UltraPure Agarose de Invitrogen
+- SYBR SAFE
+- Buffer carga 6X DNA Loading Dye
+- Marcador de peso molecular
+- TAE 1X
+
+(@) TAE
+
+||1X	|50X
+-|-|-
+Tris|	40 mM	|242 g
+Ácido Acético|	20 mM|	57.1 mL
+Na~2~EDTA-2H~2~O	|1 mM	|18.61 g
+dH~2~O^[aforar a]	|	1 L|1 L
+
+: **Preparación de TAE** {#tbl-tae tbl-colwidths="[40,20,20,20]"}
+
+## Documentos de referencia
+
+1. Gründemann D., Schömig E. 1996. Protection of DNA During Preparative Agarose Gel Electrophoresis Against Damage Induced by Ultraviolet Light. Research Reports, 21(5):898-903. 
+1. Current Protocols in Molecular Biology, Appendix 2, A.2.5, Supplement 40, Frederick M. Ausubel et al. 2003.

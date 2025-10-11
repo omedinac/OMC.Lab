@@ -1,0 +1,627 @@
+---
+title: 'Diferenciación de células 3T3-L1 a adipocitos'
+subtitle: UIEEN-PL-025
+
+format:
+    pdf: default
+    html: 
+      self-contained: true
+      grid: 
+        margin-width: 350px
+execute: 
+  echo: fenced
+reference-location: margin
+toc: true
+citation-location: margin
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Diana Villalpando Sánchez
+    email: dianis@omclab
+    orcid: 0000-0000-0000-0000
+    title: Starfleet Captain
+    affiliations: 
+      - name: Tuneado por
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2025-09
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+#bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+---
+
+
+::: {.callout-note title="Propósito"}
+Diferenciar células 3T3-L1 a adipocitos maduros
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que realicen cultivo celular y que necesiten diferenciar células 3T3-L1 a adipocitos en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Hospital Infantil de México Federico Gómez
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+- 	Extraer del tanque de N líquido un criovial de células 3T3-L1. Esperar a que el criovial se descongele un 60%, y verterlo en un tubo con 5 mL de Medio de crecimiento (MC).
+	Centrifugar a 1500 rpm por 5 minutos.
+	Decantar el sobrenadante.
+	Agregar al tubo 5 mL de MC y re-suspender las células para transferirlas a su respectiva botella tratada. 
+	En el caso de utilizar una botella de 25cm2, no será necesario añadir más MC. En el caso de botellas de 75cm2, añadir 5mL adicionales de MC.
+	Incubar a 37ºC, 5 % CO₂ y 95 % humedad.
+	Una vez que las células presenten una confluencia mayor al 80%, será necesario cosecharlas.
+	Decantar el MC.
+	Lavar 2 veces la monocapa de células con 3 mL de PBS 1X. 
+	Agregar 5 mL de EDTA 2mM e incubar a 37°C por 10 minutos. 
+	Agitar la botella para separar bien las células.
+	Agregar 5 mL de MC para inactivar el EDTA 2mM.
+	Transferir a un tubo Falcon de 10mL.
+	Centrifugar a 1500 rpm por 5 minutos.
+	Decantar el sobrenadante, y re-suspender las células en 1mL de MC.
+	Tomar 10 μL de la suspensión celular para realizar el conteo celular por el método de hemocitometría. (Se sugiere realizar una dilución 1:10).
+	En función de la placa de cultivo tratada a utilizar, añadir: 
+
+	Incubar por aproximadamente 18 horas o hasta que se forme la monocapa de células.
+	Una vez formada la monocapa, retirar todo el medio y agregar Medio de diferenciación (MD) l, incubar por 4 días. 
+	Es importante revisar el cultivo cada 24 horas para realizar el cambio del MD correspondiente cuando resulte necesario.
+	Una vez transcurrido el tiempo, retirar el 80% del medio y agregar MD-II, incubar por 4 días.
+	Transcurrido el tiempo, retirar el 80% de MD-II y añadir MD-III, incubar por 4 días.
+	Terminado el tiempo de incubación con el MD-III, retirar el 80% del medio y agregar MC e incubar por 1 semana. 
+
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+La presencia de gotas de lípidos podrá ser observadas en las células a partir del día 8.
+Durante la diferenciación de las células se observará un cambio morfológico, aproximadamente en el día 12.
+Es importante revisar el cultivo cada 24 horas para realizar el cambio del MD correspondiente cuando resulte necesario.
+Durante el proceso de diferenciación no debe perderse más del 10% de células
+
+
+:::
+\newpage
+## Diagrama de Flujo
+
+![Figura 1. Diagrama de flujo](notebooks/images/adipos.png){width="100%"}
+
+\newpage
+
+## Anexos
+
+### Soluciones
+
+Preparación de medios.
+a)	Medio de crecimiento (MC)
+Opti-MEM + 5% SFB + antibiótico/antimicótico + l-glutamina.
+
+b)	Medios de diferenciación (MD)
+La siguiente tabla es descrita para cada mililitro (1 mL) de MD a preparar. Al MC se le adicionara los reactivos necesarios para preparar los medios de diferenciación:
+
+
+Volumen (1mL)	MD-I	MD-II	MD-III
+Dexametasona 25 μM	10 μL	10 μL	---
+IBMX 125 μM	4 μL	4 μL	---
+Insulina 300 UI/mL	0.3 μL	0.3 μL	0.3 μL
+Rosiglitazona 20 mM	---	1 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm)	---
+
+
+
+(@) Medio de crecimiento
+
+Medio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina
+
+(@) Medios de diferenciación (MD)
+
+Al medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación.
+La siguiente tabla es descrita para 3 mL de medio, es decir para un pozo.
+
+||MD-I|MD-II|MD-III
+-|-|-|-
+Dexamentasona|25 $\mu$M|30 $\mu$L|30 $\mu$L
+IBMX| 125 $\mu$M|	12 $\mu$L	|12 $\mu$L
+Insulina 300 UI/mL|	1 $\mu$L	|1 $\mu$L	|1 $\mu$L
+Rosiglitazona 20 mM	|3 $\mu$L^[de una dilución 1:10 (9$\mu$L de medio de crecimiento + 1$\mu$L de rosiglitazona 20 Mm)]| 3$\mu$L|3 $\mu$L
+
+: **medios de diferenciación** {#tbl-medios tbl-colwidths="[40,20,20,20]"}
+
+### Cantidad de células
+
+Placa de cultivo	Células	Medio de Crecimiento
+6 pozos	1x105 células / pozo	3 mL
+12 pozos 	5x104 células / pozo	2 mL
+24 pozos	5x104 células / pozo	1 mL
+48 pozos	5x104 células / pozo	1 mL
+
+
+## Documentos de referencia
+
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.
+
+
+# Project Summary: A Vision for Holistic Healing
+
+Childhood cancer is a global tragedy, but its burden is not shared equally. In Mexico, a child diagnosed with leukemia faces a 57% chance of survival, a stark contrast to the 90% survival rate in high-income nations. This devastating gap is not just due to access to drugs but to the complications that arise during treatment, such as life-threatening infections and Graft-versus-Host Disease (GVHD). Our project posits that a key, overlooked factor in this disparity lies within us: the **gut microbiota**, our personal inner ecosystem.
+
+This proposal outlines a pioneering study at the Hospital Infantil de México to understand how chemotherapy disrupts this vital microbial community and how this disruption impacts treatment success. We will go beyond mere observation to identify predictive biomarkers and lay the scientific foundation for a revolutionary, low-cost intervention: **microbiome restoration therapy**[^0].
+
+[^0]: e.g., Fecal Microbiota Transplantation - FMT.
+
+Our vision is rooted in the **People-Microbiota-Planet** philosophy. We aim to heal **People** (vulnerable children) by understanding and restoring their **Microbiota** (their inner ecosystem), using a sustainable approach that mirrors the ecological principles of our **Planet**.
+
+# **Alignment with the "People-Microbiota-Planet" Mission**
+
+This project is conceived from the ground up to embody the principles of the Henri Boulard Award.
+
+*   **PEOPLE: Addressing Health Inequity in a Vulnerable Population**
+    Our work is centered on the children of Mexico, a population facing a significant health disadvantage. By reducing treatment-related complications like infections and GVHD, we aim not only to increase survival rates but to dramatically improve the quality of life for young patients and their families. Our goal is to develop a tool that empowers clinicians to provide personalized, proactive care, turning a reactive battle against complications into a predictive strategy for success.
+
+*   **MICROBIOTA: From Symbiotic Partner to Therapeutic Agent**
+    We view the microbiota not as a collection of germs, but as a symbiotic partner—a "forgotten organ" essential for immune function. Standard cancer treatments wage a war that causes collateral damage to this vital ally, leading to a state of *dysbiosis*, or a collapsed inner ecosystem. This project will decipher the complex dialogue between our gut microbes and our immune system during leukemia treatment. Our ultimate goal is to move from simply documenting this damage to actively **restoring** the symbiotic balance, transforming the microbiota from a casualty of war into a powerful agent of healing.
+
+*   **PLANET: An Ecological Approach to Sustainable Health**
+    The health of our planet depends on biodiversity and ecological balance. The same is true for our inner world. This project adopts a "One Health" perspective, viewing the dysbiosis in a child's gut as a microcosm of the biodiversity loss threatening our planet. The solutions we propose are inherently sustainable and ecological. Rather than relying solely on more resource-intensive pharmaceuticals to manage side effects, we are pioneering the use of **microbiome restoration**—a biological, restorative, and potentially low-cost therapy. FMT is the ultimate form of biological recycling, harnessing a healthy ecosystem to repair a damaged one. This approach represents a paradigm shift towards more sustainable, nature-based medicine that can be scaled globally, especially in resource-limited settings.
+
+# **Project Description: From Problem to Solution**
+
+**The Background: A Disrupted Ecosystem**
+
+Chemotherapy and broad-spectrum antibiotics, the cornerstones of leukemia treatment, are indiscriminate. They save lives by killing cancer cells but also decimate the beneficial bacteria in the gut. This loss of microbial diversity cripples the immune system's ability to distinguish friend from foe, leading to two major problems:
+
+1.  **Increased Infections:** The protective shield of good bacteria is gone, leaving the patient vulnerable to opportunistic pathogens.
+2.  **Graft-versus-Host Disease (GVHD):** After a stem cell transplant, a dysbiotic gut can trigger an aggressive immune reaction where the donor's cells attack the patient's body.
+
+**Our Core Hypothesis:** Specific signatures of gut microbial dysbiosis *before* and *during* treatment predispose children with leukemia to poor outcomes. By identifying these signatures, we can predict risk and, more importantly, intervene to restore a healthy microbial ecosystem.
+
+**Our Objectives:**
+
+1.  **To Map the Microbial Landscape of Leukemia:** We will use advanced sequencing to create the first comprehensive map of the gut microbiome in Mexican children with leukemia at different stages of treatment. This will allow us to identify specific "microbial signatures" associated with successful outcomes versus those linked to treatment failure, infections, and GVHD.
+
+2.  **To Decipher the Chemical Language of the Microbiome:** The microbiome communicates with our body through metabolites. Using high-resolution metabolomics (HPLC-Q-TOF-MS), we will identify the specific chemical signals—the "language"—associated with treatment rejection. This will provide a set of fast, non-invasive biomarkers that can be detected in a stool sample to predict a patient's trajectory.
+
+3.  **To Pave the Way for Restorative Therapy:** In the lab, we will test how the "good" and "bad" bacteria we identify interact with human immune and intestinal cells. This will prove their functional role and provide the critical preclinical evidence needed to design future clinical trials using targeted probiotics or Fecal Microbiota Transplantation (FMT) at our hospital.
+
+# **Expected Outcomes and Global Impact**
+
+This project will deliver transformative results on multiple levels:
+
+*   **For Patients:** Identification of non-invasive biomarkers will enable doctors to predict which children are at high risk for complications, allowing for early, personalized intervention. This translates to fewer infections, less suffering, and better survival rates.
+*   **For Science:** We will generate a unique multi-omic dataset (genomics, metabolomics, immunology) that provides a deep understanding of the host-microbe interplay during cancer therapy. This knowledge will be applicable to other diseases where the microbiome is disrupted.
+*   **For Global Health:** Our most significant contribution will be laying the groundwork for implementing **low-cost, high-impact microbiome restoration therapies** in a public hospital setting. Success in Mexico City will create a blueprint for other low- and middle-income countries, offering a sustainable solution to close the global gap in cancer survival.
+
+# **Conclusion: Seeding a Healthier Future**
+
+This is more than a research project; it is a mission to redefine cancer care. By embracing the elegant, ecological principles that govern both our planet and our inner worlds, we can develop therapies that are not only more effective but also more humane and sustainable. By funding this work, the Henri Boulard Award will not only help save the lives of children in Mexico but will also champion a new paradigm in global health—one that recognizes the profound connection between **People, Microbiota, and Planet**.
+
+
+# Henri Boulard Awards
+
+## for a better Global Health "People-Microbiota-Planet"
+
+To foster its commitment to improving health worldwide, the Biocodex Microbiota Foundation launched in 2021 the Henri Boulard Award. 
+
+Henri Boulard is the famous French microbiologist who discovered the yeast Saccharomyces boulardii in the 1920s in Indochina and its virtues against diarrhoea. The Henri Boulard Award is dedicated to improving the human conditions related to microbiota. 
+
+Because Gut Microbiota is more and more considered an organ, it deserves to be protected. Some factors such as Diet, Life style, Drugs or Environmental may impact microbiota leading to clinical disorders or diseases.
+
+Actions such as educational programs, water purification, farming projects may preserve the organ integrity and may avoid the disorders associated with microbiota dysfunction. 
+
+That is why the Henri Boulard Award wants to support 4 initiatives: 2 related to microbiota and human health, 1 to microbiota and antimicrobial resistance prevention and 1 to microbiota and environmental concerns from 3 geographical areas: Asia, Latin America and Middle East Africa.
+
+# Introduction
+
+This document demonstrates the use of a number of advanced page layout features to produce an attractive and usable document inspired by the Tufte handout style and the use of Tufte's styles in RMarkdown documents [@xie2018]. The Tufte handout style is a style that Edward Tufte uses in his books and handouts. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography. Quarto[^1] supports most of the layout techniques that are used in the Tufte handout style for both HTML and LaTeX/PDF output.
+
+[^1]: To learn more, you can read more about [Quarto](https://www.quarto.org) or visit [Quarto's Github repository](https://www.github.com/quarto-dev/quarto-cli).
+
+``` yaml
+---
+title: "Using the Tufte Style"
+author: "John Smith"
+format:
+  html:
+    grid:
+      margin-width: 350px         # <1>
+  pdf: default
+reference-location: margin        # <2>
+citation-location: margin         # <2>
+---
+```
+
+1.  Increases the width of the margin to make more room for sidenotes and margin figures (HTML only).
+2.  Places footnotes and cited sources in the margin. Other layout options (for example placing a figure in the margin) will be set per element in examples below.
+
+These layout features are designed with two important goals in mind:
+
+1.  To produce both PDF and HTML output with similar styles from the same Quarto document;
+2.  To provide simple syntax to write elements of the Tufte style such as side notes and margin figures. If you'd like a figure placed in the margin, just set the option `fig-column: margin` for your code chunk, and we will take care of the details for you[^2].
+
+[^2]: You never need to think about `\begin{marginfigure}` or `<span class="marginfigure">`; the LaTeX and HTML code under the hood may be complicated, but you never need to learn or write such code.
+
+If you have any feature requests or find bugs in these capabilities, please do not hesitate to file them to <https://github.com/quarto-dev/quarto-cli/issues>.
+
+# Figures
+
+## Margin Figures
+
+Images and graphics play an integral role in Tufte's work. To place figures in the margin you can use the **Quarto** chunk option `column: margin`. For example:
+
+```{r}
+#| label: fig-margin
+#| fig-cap: "MPG vs HP, by transmission."
+#| column: margin
+#| message: false
+library(ggplot2)
+mtcars2 <- mtcars
+mtcars2$am <- factor(
+  mtcars$am, labels = c('automatic', 'manual')
+)
+ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point() + geom_smooth() +
+  theme(legend.position = 'bottom')
+```
+
+Note the use of the `fig-cap` chunk option to provide a figure caption. You can adjust the proportions of figures using the `fig-width` and `fig-height` chunk options. These are specified in inches, and will be automatically scaled down to fit within the handout margin.
+
+## Arbitrary Margin Content
+
+You can include anything in the margin by places the class `.column-margin` on the element. See an example on the right about the first fundamental theorem of calculus.
+
+::: column-margin
+We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:
+
+$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+:::
+
+## Full Width Figures
+
+You can arrange for figures to span across the entire page by using the chunk option `fig-column: page-right`.
+
+```{r}
+#| label: fig-fullwidth
+#| fig-cap: "A full width figure."
+#| fig-width: 11
+#| fig-height: 3
+#| fig-column: page-right
+#| warning: false
+ggplot(diamonds, aes(carat, price)) + geom_smooth() +
+  facet_grid(~ cut)
+```
+
+Other chunk options related to figures can still be used, such as `fig-width`, `fig-cap`, and so on. For full width figures, usually `fig-width` is large and `fig-height` is small. In the above example, the plot size is $11 \times 3$.
+
+## Arbitrary Full Width Content
+
+Any content can span to the full width of the page, simply place the element in a `div` and add the class `column-page-right`. For example, the following code will display its contents as full width.
+
+``` md
+::: {.fullwidth}
+Any _full width_ content here.
+:::
+```
+
+Below is an example:
+
+::: column-page-right
+*R is free software and comes with ABSOLUTELY NO WARRANTY.* You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see <https://www.gnu.org/licenses/>.
+:::
+
+## Main Column Figures
+
+Besides margin and full width figures, you can of course also include figures constrained to the main column. This is the default type of figures in the LaTeX/HTML output.
+
+```{r}
+#| label: fig-main
+#| fig-cap: "A figure in the main column."
+ggplot(diamonds, aes(cut, price)) + geom_boxplot()
+```
+
+## Margin Captions
+
+When you include a figure constrained to the main column, you can choose to place the figure's caption in the margin by using the `cap-location` chunk option. For example:
+
+```{r}
+#| label: fig-main-margin-cap
+#| fig-cap: "A figure with a longer caption. The figure appears in the main column, but the caption is placed in the margin. Captions can even contain elements like a citation such as @xie2018."
+#| cap-location: margin
+ggplot(diamonds, aes(cut, price)) + geom_boxplot()
+```
+
+# Sidenotes
+
+One of the most prominent and distinctive features of this style is the extensive use of sidenotes. There is a wide margin to provide ample room for sidenotes and small figures. Any use of a footnote will automatically be converted to a sidenote.
+
+[This is a span that has the class `column-margin` which places it in the margin without the sidenote mark.]{.column-margin} If you'd like to place ancillary information in the margin without the sidenote mark (the superscript number), you can use apply the `column-margin` class to the element.
+
+# References
+
+References can be displayed as margin notes for HTML output. For example, we can cite R here [@R-base].
+
+::: {.callout-note appearance="simple"}
+This feature depends upon `link-citations` to locate and place references in the margin. This is enabled by default, but if you disable `link-citations` then references in the HTML output will be placed at the end of the output document as they normally are.
+:::
+
+# Tables
+
+You can use the `kable()` function from the **knitr** package to format tables that integrate well with the rest of the Tufte handout style. The table captions are placed in the margin like figures in the HTML output.
+
+```{r}
+#| tbl-cap-location: margin
+knitr::kable(
+  mtcars[1:6, 1:6], caption = 'A subset of mtcars.'
+)
+```
+
+# Responsiveness
+
+The HTML page layout is responsive- as the page width shrinks, elements will automatically adjust their position. Elements that appear in the margins will move inline with the content and elements that span the body and margin will automatically span only the body.
+
+# More Examples
+
+The rest of this document consists of a few test cases to make sure everything still works well in slightly more complicated scenarios. First we generate two plots in one figure environment with the chunk option `fig-show: hold`:
+
+```{r}
+#| label: fig-two-together
+#| fig-cap: "Two plots in one figure environment."
+#| fig-show: hold
+#| warning: false
+#| cap-location: margin
+p <- ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point()
+p
+p + geom_smooth()
+```
+
+Then two plots in separate figure environments (the code is identical to the previous code chunk, but the chunk option is the default `fig-show: asis` now):
+
+```{r fig-two-separate, ref.label='fig-two-together', fig.cap=sprintf("Two plots in separate figure environments (the %s plot).", c("first", "second")), message=FALSE}
+#| cap-location: margin
+```
+
+You may have noticed that the two figures have different captions, and that is because we used a character vector of length 2 for the chunk option `fig.cap` (something like `fig.cap = c('first plot', 'second plot')`).
+
+::: {.callout-tip}
+## Using R within Chunk Options
+If you wish to use raw R expressions as part of the chunk options (like above), then you need to define those in the `tag=value` format within the curly brackets `{r label, tag=value}` instead of the `tag: value` YAML syntax on a new line starting with the hashpipe `#|`. The former approach is documented on [knitr's website](https://yihui.org/knitr/options/) while the latter is explained in [Quarto's documentation](https://quarto.org/docs/reference/cells/cells-knitr.html).
+:::
+
+Next we show multiple plots in margin figures. Similarly, two plots in the same figure environment in the margin:
+
+```{r}
+#| label: fig-margin-together
+#| fig-cap: "Two plots in one figure environment in the margin."
+#| fig-width: 3.5
+#| fig-height: 2
+#| fig-show: hold
+#| column: margin
+#| warning: false
+#| echo: false
+p
+p + geom_smooth(method = 'lm')
+```
+
+Then two plots from the same code chunk placed in different figure environments:
+
+```{r}
+#| echo: false
+knitr::kable(head(iris[,c(1,2,3,4)], 13))
+```
+
+```{r}
+#| label: fig-margin-separate-a
+#| fig-cap: "Two plots in separate figure environments in the margin"
+#| fig-width: 3.5
+#| fig-height: 2
+#| column: margin
+#| warning: false
+#| echo: false
+p
+p + geom_smooth(method = 'lm')
+```
+
+```{r}
+#| echo: false
+knitr::kable(head(iris[,c(1,2,3,4)], 11))
+```
+
+We blended some tables in the above code chunk only as *placeholders* to make sure there is enough vertical space among the margin figures, otherwise they will be stacked tightly together. For a practical document, you should not insert too many margin figures consecutively and make the margin crowded.
+
+You do not have to assign captions to figures. We show three figures with no captions below in the margin, in the main column, and in full width, respectively.
+
+```{r}
+#| fig-width: 3.5
+#| fig-height: 2
+#| column: margin
+# a boxplot of weight vs transmission; this figure
+# will be placed in the margin
+ggplot(mtcars2, aes(am, wt)) + geom_boxplot() +
+  coord_flip()
+```
+
+```{r}
+#| warning: false
+# a figure in the main column
+p <- ggplot(mtcars, aes(wt, hp)) + geom_point()
+p
+```
+
+```{r}
+#| fig-width: 11
+#| fig-height: 4
+#| column: page-right
+#| warning: false
+# a fullwidth figure
+p + geom_smooth(method = 'lm') + facet_grid(~ gear)
+```
+
+# Some Notes on Page Layout
+
+To see the Quarto markdown source of this example document, you may follow [this link to Github](https://raw.githubusercontent.com/quarto-dev/quarto-gallery/main/page-layout/tufte.qmd).
+An error occurred
+Please try again later
+Contact SupportClose
+Full-text Access 
+
+# El sort
+
+Once upon a midnight dreary, while I sorted, weak and weary,\
+Over many a strange and curious scatter plot of cellular lore—\
+While I nodded, nearly napping, suddenly there came a tapping,\
+As of something gently rapping, rapping at the fluidics core.\
+“’Tis some sample,” I did mutter, “tapping at the fluidics core—\
+            Only this and nothing more.”
+
+
+Ah, distinctly I fluoresced it, in the bleak lab I confessed it,\
+Each dim dot a dying ember wrought its ghost on the dot plot floor.\
+Eagerly I wished the morrow;—vainly I had sought to borrow\
+From my dyes a surcease of sorrow—sorrow for the lost Lenore—\
+For the rare and radiant signal whom the cytometrists name Lenore—\
+            Nameless here for evermore.
+
+And the silken, sad, uncertain pulsing of the sheath fluid’s curtain\
+Thrilled me—filled me with fantastic terrors never felt before;\
+So that now, to still the beating of my heart, I stood repeating\
+“’Tis some sample stream entreating entrance at the fluidics core—\
+Some late sample stream entreating entrance at the fluidics core;—\
+            This it is and nothing more.”
+
+Presently my soul grew stronger; hesitating then no longer,\
+“Sir,” said I, “or Madam, truly your forgiveness I implore;\
+But the fact is I was napping, and so faintly you came rapping,\
+And so gently you came tapping, tapping at the fluidics core,\
+That I scarce was sure I heard you”—here I opened wide the door;—\
+            Darkness there and nothing more.
+
+Deep into that darkness peering, long I sat there, doubting, fearing,\
+Dreaming dreams of phenotypes no mortal ever sorted for;\
+But the silence was unbroken, and the stillness gave no token,\
+And the only word there spoken was the whispered word, “Lenore?”\
+This I whispered, and an echo murmured back the word, “Lenore!”—\
+            Merely this and nothing more.
+
+Back into the chamber turning, all my soul within me burning,\
+Soon again I heard a tapping somewhat louder than before.\
+“Surely,” said I, “surely that is something at my window lattice;\
+Let me see, then, what thereat is, and this mystery explore—\
+Let my heart be still a moment and this mystery explore;—\
+            ’Tis a clog and nothing more!”
+
+I unlatched the flow cell shutter, when, with many a flirt and flutter,\
+In there streamed a ghastly Cluster from the noisy days of yore;\
+Not the least obeisance made it; not a minute was it gated,\
+But, with mien of lord or lady, perched above the fluidics core—\
+Perched upon the stark FSC Axis just above the core—\
+            Perched, and sat, and nothing more.
+
+Then this ebony Clump beguiling my sad fancy into smiling,\
+By the grim and stern decorum of the countenance it wore,\
+“Though thy crest be torn and shaven, thou,” I said, “art sure no craven,\
+Ghastly grim and ancient Cluster wandering from the Nightly shore—\
+Tell me what thy lordly stain is on the Night’s Cytometry shore!”\
+            Quoth the Cluster, “Gated Out.”
+
+Much I marvelled this ungainly mess to hear discourse so plainly,\
+Though its answer little meaning—little relevancy bore;\
+For we cannot help agreeing that no living human being\
+Ever yet was blessed with seeing data points above his door—\
+Clumps of artifact or debris perched on an axis o’er his door,\
+            With the name of “Gated Out.”
+
+But the Cluster, sitting lonely on that placid axis, spoke only\
+That one phrase, as if its soul in that one phrase it did outpour.\
+Nothing farther then it uttered—not a fluorochrome it fluttered—\
+Till I scarcely more than muttered “Other signals flew before—\
+On the morrow it will leave me, as my rare events before.”\
+            Then the Cluster said, “Gated Out.”
+
+Startled at the stillness broken by reply so aptly spoken,\
+“Doubtless,” said I, “what it utters is its only stock and store,\
+Caught from some unhappy master whom unmerciful Disaster\
+Followed fast and followed faster till his protocols he forswore—\
+Till the dirges of his Hope that melancholy burden bore\
+            Of ‘Never—Gated Out’.”
+
+But the Cluster still beguiling all my sad soul into smiling,\
+Straight I wheeled a cushioned seat in front of plot, and axis, and core;\
+Then, upon the velvet sinking, I betook myself to linking\
+Fancy unto fancy, thinking what this ominous clump of yore—\
+What this grim, ungainly, ghastly, gaunt, and ominous clump of yore\
+            Meant in croaking “Gated Out.”
+
+This I sat engaged in guessing, but no signal-strength expressing\
+To the clump whose fiery dots now burned into my bosom’s core;\
+This and more I sat divining, with my head at ease reclining\
+On the lab chair’s cushion lining that the lamplight gloated o’er,\
+But whose violet-stained lining with the light now gloating o’er,\
+            *She* shall press, ah, Gated Out!
+
+Then, methought, the air grew denser, perfumed from an unseen censer\
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.\
+“Wretch,” I cried, “thy God hath lent thee—by these fluorochromes he sent thee\
+Respite—respite and compensation from thy memories of Lenore;\
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”\
+            Quoth the Cluster, “Gated Out.”
+
+“Prophet!” said I, “thing of evil!—prophet still, if clump or devil!—\
+Whether Laser sent, or whether tempest tossed thee here ashore,\
+Desolate yet all undaunted, on this desert land enchanted—\
+On this lab by Horror haunted—tell me truly, I implore—\
+Is there—*is* there a bright signal?—tell me—tell me, I implore!”\
+            Quoth the Cluster, “Gated Out.”\
+
+“Prophet!” said I, “thing of evil!—prophet still, if clump or devil!\
+By that laser-light that bends above us—by that God we both adore—\
+Tell this soul with sorrow laden if, within the distant Aiden,\
+It shall clasp a sainted maiden, a PE-Cy7 stained Lenore—\
+Clasp a rare and radiant singlet whom the cytometrists name Lenore.”\
+            Quoth the Cluster, “Gated Out.”\
+
+“Be that phrase our sign of parting, clump or fiend!” I shrieked, upstarting—\
+“Get thee back into the tempest and the Night’s Cytometry shore!\
+Leave no dark event as a token of that lie thy soul hath spoken!\
+Leave my loneliness unbroken!—quit the axis o’er my core!\
+Take thy shape from out my plot, and take thy shadow from my floor!”\
+            Quoth the Cluster, “Gated Out.”\
+
+And the Cluster, never flitting, still is sitting, *still* is sitting\
+On the stark and pallid Axis just above the fluidics core;\
+And its dots have all the seeming of a demon’s that is screaming,\
+And the laser-light o’er-streaming throws its shadow on the floor;\
+And my soul from out that shadow that lies floating on the floor\
+            Shall be sorted—nevermore

@@ -1,0 +1,169 @@
+---
+title: 'Diferenciación de células 3T3-L1 a adipocitos'
+subtitle: UIEEN-PL-025
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Diana Villalpando Sánchez
+    email: dianis@omclab
+    orcid: 0000-0000-0000-0000
+    title: Starfleet Captain
+    affiliations: 
+      - name: Tuneado por
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2025-09
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+  docx: default
+---
+
+::: {.callout-note title="Propósito"}
+Diferenciar células 3T3-L1 a adipocitos maduros
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que realicen cultivo celular y que necesiten diferenciar células 3T3-L1 a adipocitos en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Hospital Infantil de México Federico Gómez
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+- 	Extraer del tanque de N líquido un criovial de células 3T3-L1. Esperar a que el criovial se descongele un 60%, y verterlo en un tubo con 5 mL de Medio de crecimiento (MC).
+	Centrifugar a 1500 rpm por 5 minutos.
+	Decantar el sobrenadante.
+	Agregar al tubo 5 mL de MC y re-suspender las células para transferirlas a su respectiva botella tratada. 
+	En el caso de utilizar una botella de 25cm2, no será necesario añadir más MC. En el caso de botellas de 75cm2, añadir 5mL adicionales de MC.
+	Incubar a 37ºC, 5 % CO₂ y 95 % humedad.
+	Una vez que las células presenten una confluencia mayor al 80%, será necesario cosecharlas.
+	Decantar el MC.
+	Lavar 2 veces la monocapa de células con 3 mL de PBS 1X. 
+	Agregar 5 mL de EDTA 2mM e incubar a 37°C por 10 minutos. 
+	Agitar la botella para separar bien las células.
+	Agregar 5 mL de MC para inactivar el EDTA 2mM.
+	Transferir a un tubo Falcon de 10mL.
+	Centrifugar a 1500 rpm por 5 minutos.
+	Decantar el sobrenadante, y re-suspender las células en 1mL de MC.
+	Tomar 10 μL de la suspensión celular para realizar el conteo celular por el método de hemocitometría. (Se sugiere realizar una dilución 1:10).
+	En función de la placa de cultivo tratada a utilizar, añadir: 
+
+	Incubar por aproximadamente 18 horas o hasta que se forme la monocapa de células.
+	Una vez formada la monocapa, retirar todo el medio y agregar Medio de diferenciación (MD) l, incubar por 4 días. 
+	Es importante revisar el cultivo cada 24 horas para realizar el cambio del MD correspondiente cuando resulte necesario.
+	Una vez transcurrido el tiempo, retirar el 80% del medio y agregar MD-II, incubar por 4 días.
+	Transcurrido el tiempo, retirar el 80% de MD-II y añadir MD-III, incubar por 4 días.
+	Terminado el tiempo de incubación con el MD-III, retirar el 80% del medio y agregar MC e incubar por 1 semana. 
+
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+La presencia de gotas de lípidos podrá ser observadas en las células a partir del día 8.
+Durante la diferenciación de las células se observará un cambio morfológico, aproximadamente en el día 12.
+Es importante revisar el cultivo cada 24 horas para realizar el cambio del MD correspondiente cuando resulte necesario.
+Durante el proceso de diferenciación no debe perderse más del 10% de células
+
+
+:::
+\newpage
+## Diagrama de Flujo
+
+![Figura 1. Diagrama de flujo](notebooks/images/adipos.png){width="100%"}
+
+\newpage
+
+## Anexos
+
+### Soluciones
+
+Preparación de medios.
+a)	Medio de crecimiento (MC)
+Opti-MEM + 5% SFB + antibiótico/antimicótico + l-glutamina.
+
+b)	Medios de diferenciación (MD)
+La siguiente tabla es descrita para cada mililitro (1 mL) de MD a preparar. Al MC se le adicionara los reactivos necesarios para preparar los medios de diferenciación:
+
+
+Volumen (1mL)	MD-I	MD-II	MD-III
+Dexametasona 25 μM	10 μL	10 μL	---
+IBMX 125 μM	4 μL	4 μL	---
+Insulina 300 UI/mL	0.3 μL	0.3 μL	0.3 μL
+Rosiglitazona 20 mM	---	1 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm)	---
+
+
+
+(@) Medio de crecimiento
+
+Medio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina
+
+(@) Medios de diferenciación (MD)
+
+Al medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación.
+La siguiente tabla es descrita para 3 mL de medio, es decir para un pozo.
+
+||MD-I|MD-II|MD-III
+-|-|-|-
+Dexamentasona|25 $\mu$M|30 $\mu$L|30 $\mu$L
+IBMX| 125 $\mu$M|	12 $\mu$L	|12 $\mu$L
+Insulina 300 UI/mL|	1 $\mu$L	|1 $\mu$L	|1 $\mu$L
+Rosiglitazona 20 mM	|3 $\mu$L^[de una dilución 1:10 (9$\mu$L de medio de crecimiento + 1$\mu$L de rosiglitazona 20 Mm)]| 3$\mu$L|3 $\mu$L
+
+: **medios de diferenciación** {#tbl-medios tbl-colwidths="[40,20,20,20]"}
+
+### Cantidad de células
+
+Placa de cultivo	Células	Medio de Crecimiento
+6 pozos	1x105 células / pozo	3 mL
+12 pozos 	5x104 células / pozo	2 mL
+24 pozos	5x104 células / pozo	1 mL
+48 pozos	5x104 células / pozo	1 mL
+
+
+## Documentos de referencia
+
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.

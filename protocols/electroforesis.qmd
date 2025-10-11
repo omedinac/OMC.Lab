@@ -1,0 +1,142 @@
+---
+title: 'Electroforesis de ácidos nucleicos'
+subtitle: UIEEN-PT-001
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Elaboró
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2020-04 . **Actualizaciones** 2025-09 / 2022-10
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+---
+
+::: {.callout-note title="Propósito"}
+Separar las moléculas de ADN de acuerdo con su peso molecular a través de geles de agarosa
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que necesiten separar moléculas de ADN a través de geles de agarosa en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Instituto Nacional de Salud Hospital Infantil de México Federico Gómez
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+- Determinar el porcentaje de gel a preparar en base al tamaño de la molécula de ADN a analizar (@tbl-gel).
+- Pesar la cantidad de agarosa UltraPure de Invitrogen requerida para la resolución deseada.
+- Disolver en 100ml de TAE 1X. Agitar.
+- Calentar la agarosa hasta que se disuelva por completo. Agregar 4µl de SYBR Safe 10,000X de Invitrogen.
+- Sellar completamente la cama para preparación de geles de agarosa con cinta adhesiva y posteriormente vaciar la agarosa en la cama. 
+- Colocar el peine y dejar que solidifique la agarosa. Una vez solidificado retirar la cinta adhesiva y el peine y colocar la cama dentro de la cámara de electroforesis. 
+- Agregar 200ml de TAE 1X (cubrir entre 0.5 o 1 cm por encima del gel).
+- Mezclar las muestras de interés con buffer de carga 6X DNA Loading Dye y colocar en cada pocillo cada una de las muestras.
+- Colocar el marcador de peso molecular (marcador de peso molecular + buffer de carga 6X DNA Loading Dye) en un pocillo.
+- Cerrar la cámara de electroforesis y conectar a la fuente de poder.
+- Encender la fuente de poder, seleccionar voltaje constante de 100V y migrar durante 20 minutos.
+- Analizar el gel en el fotodocumentador utilizando el programa SYBR Safe. 
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+- Asegúrese de que no queden burbujas atrapadas debajo de los peines y de ser así, eliminar antes de correr el gel.
+- Permitir al polvo de la agarosa hidratarse en la solución durante unos minutos antes de calentar: esto permite una disolución más sencilla, rápida y reduce la formación de espuma. 
+- Para prevenir el sobrecalentamiento de la agarosa, si se usa un microondas sacar el vaso de precipitados después de 1 minuto y mover cuidadosamente. Volver a colocar dentro del microondas y continuar 1 minuto más. Si se hierve demasiado tiempo puede causar hidrólisis y una fuerza de resolución del gel menor.
+
+
+:::
+
+## Diagrama de Flujo
+
+!
+[Figura 1.
+Diagrama de flujo](images/adipo.png){width="25%"}
+
+\newpage
+
+## Anexos
+
+### geles
+
+Tamaño (kb)	|Concentración
+-|-
+>2	|0.6%
+1-2|	0.8%
+0.5-1|	1%
+0.2-0.5	|1.5%
+<0.2	|2%
+
+: **Tamaño de ADN y porcentaje de gel** {#tbl-gel}
+
+### Reactivos y Soluciones
+
+(@) Reactivos
+- UltraPure Agarose de Invitrogen
+- SYBR SAFE
+- Buffer carga 6X DNA Loading Dye
+- Marcador de peso molecular
+- TAE 1X
+
+(@) TAE
+
+||1X	|50X
+-|-|-
+Tris|	40 mM	|242 g
+Ácido Acético|	20 mM|	57.1 mL
+Na~2~EDTA-2H~2~O	|1 mM	|18.61 g
+dH~2~O^[aforar a]	|	1 L|1 L
+
+: **Preparación de TAE** {#tbl-tae tbl-colwidths="[40,20,20,20]"}
+
+## Documentos de referencia
+
+1. Gründemann D., Schömig E. 1996. Protection of DNA During Preparative Agarose Gel Electrophoresis Against Damage Induced by Ultraviolet Light. Research Reports, 21(5):898-903. 
+1. Current Protocols in Molecular Biology, Appendix 2, A.2.5, Supplement 40, Frederick M. Ausubel et al. 2003.

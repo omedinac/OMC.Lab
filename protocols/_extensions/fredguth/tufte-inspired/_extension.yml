@@ -1,0 +1,36 @@
+title: Tufte-handout
+author: Fred Guth
+version: 1.0.0
+quarto-required: ">=1.5.0"
+contributes:
+  project:
+    type: manuscript
+    output-dir: _manuscript
+  formats:
+    html:
+      page-layout: full
+      reference-location: margin
+      title-block-style: none
+      css: styles.scss
+      number-sections: false
+      linkcolor: Maroon
+      backgroundcolor: FloralWhite
+      sidebarbackgroundcolor: FloralWhite
+      mainfont: "ETBembo"
+      toc: true
+      toc-location: left
+      toc-title: "Contents"
+      code-annotations: hover
+      default-image-extension: svg
+      filters:
+        - citing-html.lua
+
+    typst:
+      template-partials:
+        - definitions.typ
+        - typst-template.typ
+        - typst-show.typ
+
+      filters:
+        - tufte-inspired.lua
+      

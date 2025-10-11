@@ -6,226 +6,37 @@ highlight-style: pygments
 ---
 
 ::: {.callout-note collapse="true"}
-## Congelar células
+## Biología Celular
 
--   Cosechar las células^[Partir de células con una confluencia del 80-90%] y resuspender en 5ml de medio de cultivo.
-
--   Centrifugar a 1500rpm/5 minutos/4ºC.
-
--   Remover el sobrenadante y añadir 1 ml de medio crioprotector^[Congelar a una concentración de 10^6^-10^7^ células/ml].
-
--   Resuspender las células y pasar **inmediatamente** a hielo.
-
--   Guardar a -80°C/24 hrs y posteriormente almacenar en nitrógeno líquido.
+- [Criopreservación](protocols/freeze.qmd)
+- [Descongelar células](protocols/thaw.qmd)
+- Viabilidad celular
+- [Cultivo de adipocitos](protocols/adipocitos.qmd)
+- [Tinción rojo oleoso](protocols/red.qmd)
 :::
 
 ::: {.callout-note collapse="true"}
-## Descongelar células
+## Biología Molecular
 
--   Colocar un vial de células congeladas en baño maría a 37°C, mover
-    suavemente el vial hasta que las células se descongelen.
-
--   Transferir con una micropipeta el contenido a un tubo falcón 15ml y
-    añadir 9ml de medio de cultivo suplementado (glutamina,
-    antibióticos, 1% piruvato y 10% suero fetal bovino). Centrifugar a
-    1200rpm/5 minutos/4ºC (para lavar y quitar todo el DMSO).
-
--   Desechar sobrenadante y repite dos veces el proceso.
-
--   Resuspender las células en medio de cultivo y transferir a la
-    botella de cultivo.
-
--   Observar las células al microscopio invertido.
-
--   Incubar a 37°C con 5% de CO~2~ y 80% de humedad relativa.
-
--   Cambiar el medio de cultivo según el tipo celular.
+- [Electroforesis agarosa](protocols/electroforesis.qmd)
+- Electroforesis acrilamida
+- Transformación bacteriana
+- [PCR](protocols/pcr.qmd)
 :::
 
 ::: {.callout-note collapse="true"}
-## Viabilidad celular
+## Citometría
 
--   Limpiar el hemocitómetro con alcohol al 70%. Esperar a que esté
-    secos por completo y colocar el cubreobjetos en de la rejilla.
-
--   Mezclar 10$\mu$l de una suspensión celular uniforme con 90$\mu$l de
-    azul de tripano 0.4%. Incubar 2 min.
-
--   Colocar 10$\mu$l de la mezcla bajo el cubreobjetos y observar al
-    microscopio con una magnificación 40x.
-
--   Contar las células sin colorante presentes en los cuadrantes 1, 2, 4
-    y 5 del hemocitómetro (Fig. 1) sin considerar las células que toquen
-    las líneas.
-
--   Calcular concentración de células:
-
-$$células/ml = \frac{células * 10^{5}}{volúmen}$$
-
--   Calcular la viabilidad celular
-
-$$viabilidad = \frac{células}{total}*{100}$$
-
--   Limpiar el hemocitómetro con alcohol 70% y secar.
+- Viabilidad
+- [Superficie](protocols/facs.qmd)
+- Intracelular
+- CBA
+- Milliplex
 :::
 
 ::: {.callout-note collapse="true"}
 
-## LP intestinal
+## Modelos animales
 
--   Precalentar a 37°C solución de PBS 1X y Solución de Hanks-SFB (5%).
-
--   Eutanasiar a los ratones por dislocación cervical. Una vez muertos
-    los ratones, realizar una incisión abdominal por planos por piel y
-    peritoneo. Separar el intestino delgado del estómago y hacer un
-    corte en el píloro gástrico. Eliminar el ciego y continuar hasta el
-    recto.
-
--   Extraer cuidadosamente el intestino, retirar el tejido mesentérico
-    adyacente y las placas de Peyer.
-
--   Cortar el intestino longitudinal de extremo a extremo y colocarlo en
-    una bandeja con PBS 1X/37°C y agitar suavemente. Transferir a una
-    nueva bandeja y repetir dos veces el proceso.
-
--   Cortar el intestino en fragmentos de 0.5cm y colocar en un tubo
-    falcón (50ml): EDTA (2mM) en solución de Hanks-SFB (30ml). Agitar a
-    250 rpm/37°C/20 minutos.
-
--   Remover el tejido y repetir la incubación con soluciones frescas.
-
--   Cortar finamente el tejido en fragmentos de 1mm y agregar colagenasa
-    tipo IV (1mg/ml) y DNasa I (800$\mu$g) disueltas en solución de
-    Hanks-SFB (20ml). Poner en agitación continua 200rpm/37°C/10
-    minutos.
-
--   Pasar la solución por un colador celular de 100$\mu$m y colectar la
-    suspensión celular, agregar 20ml de solución de Hanks-SFB frío.
-    Centrifugar 1500 RPM/4°C/5 min.
-
--   Resuspender el botón celular y contar las células en la cámara de Neubauer.
-:::
-
-::: {.callout-note collapse="true"}
-
-## Transformación bacteriana
-
--   Mezclar 3$\mu$l del vector exógeno con un vial de bacterias competentes.
-
--   Incubar 30 minutos en hielo.
-
--   Incubar 60 segundos a 42ºC.
-
--   Incubar 2 minutos en hielo.
-
--   Añadir 200$\mu$l de medio SOC, e incubar 37°C/200rpm/1 h.
-
--   Plaquear en agar LB con antibiotico de selección.
-
--   Incubar 12-16 h a 37°C.
-:::
-
-::: {.callout-note collapse="true"}
-## Cytoflex
-
-- TBD
-:::
-
-::: {.callout-note collapse="true"}
-## Adipocitos
-
-- TBD
-:::
-
-::: {.callout-note collapse="true"}
-## Peritonitis
-
--   Disuelva 10 mg de zymosan de *Saccharomyces cerevisiae* (Sigma
-    Z4250) en 50 ml de PBS estéril y luego diluya 10 veces para obtener
-    una solución de trabajo de 20 mg/ml.
-
--   Autoclave a 121ºC durante 20 min.
-
--   Mantenga el zimosan esterilizado en autoclave en hielo.
-
--   Inyectar 0,5 ml de zymosan i.p. (10 mg/cavidad peritoneal del ratón;
-    mezcle zymosan inmediatamente antes de la inyección para garantizar
-    una suspensión uniforme) con una aguja 25G 5/8.
-
--   Esperar 4 h.
-
--   Sacrificar ratones por exposición a dióxido de carbono.
-
--   Realice una pequeña incisión (\~0,5 cm) a lo largo de la línea media
-    del abdomen que permita retirar la piel para exponerla el abdomen,
-    que luego se rocía con etanol al 70%.
-
--   Inyecte 3 ml de solución de lavado de PBS/EDTA 2 mM helada con una
-    jeringa y una aguja de 25G 5/8.
-
--   Masajee suavemente el abdomen del ratón con la longitud de una aguja
-    de 11⁄2 de 18G para asegurarse de que las células sueltas adheridos
-    a la pared peritoneal u otros órganos se desprenderán y quedarán
-    suspendidos en el líquido de lavado.
-
--   Use una aguja 18G 11⁄2 para extraer suave y lentamente el líquido de
-    lavado de la cavidad peritoneal. Transfiera el líquido a un tubo de
-    centrífuga de 15 ml y manténgalo en hielo. Es posible que no obtenga
-    los 3 ml debido a los volúmenes muertos en el peritoneo.
-
--   Transferir 200$\mu$l células a un tubo cónico de 15 mL, centrifugar
-    y desechar el sobrenadante.
-
--   Teñir las células con los anticuerpos apropiados (CD45-PerCP,
-    F4/80-PE/Cy7, Ly6G-APC) durante 15 min en hielo.
-
--   Lavar las células con tampón de tinción, seguido de resuspensión en
-    300$\mu$l de buffer de tinción. Agregar 30$\mu$l de perlas de conteo
-    (30,000 partículas)
-
--   Ejecutar en el flujo.
-
--   Conocemos el número total de cuentas, por lo que los números
-    absolutos de celdas se pueden calcular en relación con las cuentas.
-    Debe multiplicar 15 veces, ya que de 3 mL se utilizaron 200 $\mu$l
-    de exudado. (Número absoluto de celdas) = ​​(recuento de celdas) /
-    (recuento de perlas) X 30 000 X 15
-:::
-
-::: {.callout-note collapse="true"}
-## Electroforesis DNA
-
--   Determinar el porcentaje de gel a preparar en base al tamaño de la
-    molecula de ADN a analizar ([Tabla 1]).
-
--   Pesar la cantidad de agarosa requerida para la resolución deseada.
-
--   Disolver en 100ml de TAE 1X. Agitar.
-
--   Calentar la agarosa hasta que se disuelva por completo.
-
--   Agregar 4$\mu$l de SYBR Safe 10,000X.
-
--   Sellar completamente la base para preparación de geles de agarosa
-    con cinta adhesiva y posteriormente vaciar la agarosa.
-
--   Colocar el peine y dejar que solidifique la agarosa. Una vez
-    solidificado retirar la cinta adhesiva y el peine y colocar la base
-    dentro de la cámara de electroforesis.
-
--   Agregar 200ml de TAE 1X (cubrir entre 0.5 o 1cm por encima del gel).
-
--   Mezclar las muestras de interés con buffer de carga (6X) y colocar
-    cada una de las muestras en los pozos.
-
--   Colocar el marcador de peso molecular (marcador de peso molecular +
-    buffer de carga 6X) en un pozo.
-
--   Cerrar la cámara de electroforesis y conectar a la fuente de poder.
-
--   Encender la fuente de poder, seleccionar voltaje constante de 100V y
-    migrar durante 20 minutos.
-
--   Analizar el gel en el fotodocumentador utilizando el programa SYBR
-    safe/green (488nm).
+- Células de *lamina propria*
 :::

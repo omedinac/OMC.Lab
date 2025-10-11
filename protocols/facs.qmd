@@ -1,0 +1,142 @@
+---
+title: 'Tinción para citometría de flujo'
+subtitle: UIEEN-PT-001
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Diana Villalpando Sánchez
+    email: dianis@omclab
+    orcid: 0000-0000-0000-0000
+    title: Starfleet Captain
+    affiliations: 
+      - name: Tuneado por
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2020-04 . **Actualizaciones** 2025-09 / 2022-10
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+---
+
+::: {.callout-note title="Propósito"}
+Realizar una tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que deseen Realizar una tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Instituto Nacional de Salud Hospital Infantil de México Federico Gómez.
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+Tinción de superficie
+	Colocar 1 x10⁶ células en tubos para citometría de flujo. 
+	Centrifugar a 1500rpm / 5 minutos / 4°C. 
+	Re-suspender en 200µL de solución FACS (PBS 1X y SFB 2%).
+	Colocar anticuerpos de superficie titulados, incubar 30 minutos / obscuridad / 4ºC. 
+	Lavar con 1mL de solución FACS.
+ 
+
+	Centrifugar a 1500 rpm / 5 minutos / 4°C.
+	Adicionar 500 µL de solución fijadora (BioLegend) o en su defecto, 100 µL de paraformaldehído 4%. 
+	Incubar 20 minutos / obscuridad / 4ºC.
+	Lavar con 1mL de solución FACS.
+	Centrifugar 1500rpm / 5 minutos / 4°C.
+	Decantar el sobrenadante y re-suspender las células en 200µl de solución FACS.
+	Analizar la muestra inmediatamente o en los 2 días posteriores a la tinción. 
+	Conservar la muestra hasta realizar el análisis.
+
+Tinción intracelular
+	Realizar tinción de superficie.
+	Re-suspender las células en 1mL de buffer de permeabilización (BioLegend). 
+	Incubar 5 minutos / 4ºC.
+	Lavar con 1mL de buffer de permeabilización (BioLegend). 
+	Centrifugar 1500rpm / 5 minutos / 4°C.
+	Colocar anticuerpos intracelulares titulados. 
+	Incubar 30 minutos / obscuridad / 4ºC. 
+	Lavar con 1mL de buffer de permeabilización (BioLegend). 
+	Centrifugar 1500rpm / 5 minutos / 4°C.
+	Re-suspender el pellet en 200µL de solución FACS. 
+	Analizar la muestra inmediatamente o en los 2 días posteriores a la tinción. 
+	Conservar la muestra hasta realizar el análisis.
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+- 
+:::
+
+## Diagrama de Flujo
+
+![Figura 1. Diagrama de flujo](notebooks/images/facs.png){width="25%"}
+
+\newpage
+
+## Anexos
+
+### Reactivos y Soluciones
+
+(@) Reactivos
+- UltraPure Agarose de Invitrogen
+- SYBR SAFE
+- Buffer carga 6X DNA Loading Dye
+- Marcador de peso molecular
+- TAE 1X
+
+(@) TAE
+
+||1X	|50X
+-|-|-
+Tris|	40 mM	|242 g
+Ácido Acético|	20 mM|	57.1 mL
+Na~2~EDTA-2H~2~O	|1 mM	|18.61 g
+dH~2~O^[aforar a]	|	1 L|1 L
+
+: **Preparación de TAE** {#tbl-tae tbl-colwidths="[40,20,20,20]"}
+
+## Documentos de referencia
+
+Bushnell, T. Modern Flow Cytometry. 1–67 (Excyte, 2015).

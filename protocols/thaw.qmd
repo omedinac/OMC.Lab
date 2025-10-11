@@ -1,0 +1,137 @@
+---
+title: 'Descongelar celulas criopreservadas'
+subtitle: UIEEN-PT-001
+short-title: cultivo celular
+published: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+code-repo: "Laboratorio de Inmunometabolismo"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: Samantha Ysais Chong
+    email: samm@omclab
+    orcid: 0000-0000-0000-0000
+    title: Starfleet Lieutenant
+    affiliations: 
+      - name: Elaboró
+  - name: Oscar Medina Contreras
+    email: omedina@himfg.edu.mx
+    orcid: 0000-0002-4432-7780
+    title: Starfleet Command Admiral
+    affiliations: 
+      - name: Revisó
+  - name: Oscar Medina Contreras
+    affiliations: 
+      - name: Autorizó
+
+abstract: |
+thanks: |
+  Versión inicial 2020-04 . **Actualizaciones** 2025-09 / 2022-10
+additional-info: |
+  We have no known conflict of interest to disclose.
+#keywords:
+#  - Holothuroid; body wall proteins; collagen; bioactive peptides; small molecular weight peptides; wound healing *in vitro*
+date: today
+lang: es-MX
+bibliography: refs.bib
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-pdf: default
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+---
+
+::: {.callout-note title="Propósito"}
+Descongelar una línea celular manteniendo la viabilidad y condiciones de esterilidad para mantenerla in vitro en condiciones apropiadas para su crecimiento, propagación o almacenamiento para los fines que se requiera.
+:::
+
+::: {.callout-note title="Alcance"}
+Este procedimiento involucra a todo el personal técnico, científico y estudiantes que realicen cultivo celular y que deseen descongelar y cultivar una línea celular en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Instituto Nacional de Salud Hospital Infantil de México Federico Gómez
+:::
+
+::: {.callout-note title="Políticas de operación, normas y lineamientos"}
+Es responsabilidad de todo el personal científico, estudiantes y técnicos
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005
+:::
+
+\newpage
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+- 	Retirar el criovial del tanque de nitrógeno líquido 
+	Rápidamente colocar el criovial en baño maría a 37°C sin sumergir la tapa, mover ligeramente el vial hasta que se descongele parcialmente ~60%
+	Rociar y limpiar el criovial con etanol al 70% y transferir por inversión el contenido del vial a un tubo Falcon de 15 ml en el cual previamente se deben haber colocado 9 ml de medio de cultivo óptimo para la línea celular (suplementado).
+	Centrifugar a 1,500 rpm a 4°C por 5 min
+	Decantar el sobrenadante y resuspender gentilmente el pellet con 10 ml de medio de cultivo precalentado a 37°C en baño maría
+	Transferir la suspensión celular a una botella de cultivo seleccionada según los requerimientos de la línea celular. La botella debe ser correctamente rotulada con el nombre de la línea, número de pase celular, fecha y nombre de quien realiza el procedimiento
+	Observar las células al microscopio
+	Incubar a 37°C con 5% de CO2 y ~85-95% de humedad 
+	Continuar el cultivo celular según los requerimientos de cada línea y de la estrategia experimental
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Notas
+
+- el protocolo será llevado a cabo con técnica aséptica en campana de flujo laminar
+
+
+:::
+
+## Diagrama de Flujo
+
+![Figura 1. Diagrama de flujo](notebooks/images/thaw.png){width="25%"}
+
+\newpage
+
+## Anexos
+
+### geles
+
+Tamaño (kb)	|Concentración
+-|-
+>2	|0.6%
+1-2|	0.8%
+0.5-1|	1%
+0.2-0.5	|1.5%
+<0.2	|2%
+
+: **Tamaño de ADN y porcentaje de gel** {#tbl-gel}
+
+### Reactivos y Soluciones
+
+(@) Reactivos
+- UltraPure Agarose de Invitrogen
+- SYBR SAFE
+- Buffer carga 6X DNA Loading Dye
+- Marcador de peso molecular
+- TAE 1X
+
+(@) TAE
+
+||1X	|50X
+-|-|-
+Tris|	40 mM	|242 g
+Ácido Acético|	20 mM|	57.1 mL
+Na~2~EDTA-2H~2~O	|1 mM	|18.61 g
+dH~2~O^[aforar a]	|	1 L|1 L
+
+: **Preparación de TAE** {#tbl-tae tbl-colwidths="[40,20,20,20]"}
+
+## Documentos de referencia
+
+Animal Cell Culture Guide. (s. f.). ATCC. https://www.atcc.org/resources/culture-guides/animal-cell-culture-guide
+Thawing of frozen cell lines (2020) Sigma Aldrich; ECACC Laboratory Handbook 4° ed. https://www.sigmaaldrich.com/MX/es/technical-documents/protocol/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/thawing-of-frozen-cell-lines?srsltid=AfmBOorDbumsK7KL4YfndwpfPTM_xqbraqD5JZw2OI7F7cuWF3Rgpo7B
+Current Protocols in Molecular Biology, Appendix 3, F.12, Supplement 74, Frederick M. Ausubel et al. 2003.
