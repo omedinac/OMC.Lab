@@ -34,14 +34,13 @@ lang: es-MX
 bibliography: refs.bib
 title-block-banner: "#0047AB"
 title-block-banner-color: "#FFFFFF"
-format:
-  hikmah-pdf: default
-  hikmah-manuscript-pdf: default
-  typst:
-    toc: true
-    section-numbering: 1.1.a
-    columns: 2
-  docx: default
+#format:
+#  hikmah-pdf: default
+#  hikmah-manuscript-pdf: default
+#  typst:
+#    toc: true
+#    section-numbering: 1.1.a
+#    columns: 2
 ---
 
 ::: {.callout-note title="Propósito"}
