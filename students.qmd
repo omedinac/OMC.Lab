@@ -15,7 +15,7 @@ title: "Students"
 
 ![](res/lu.png){width="150"} [Lucero Nuncio Mora](https://www.instagram.com/omc_lab/)
 
-![](res/ale.png){width="150"} [Alejandra Ariadna Rueda Escalona](https://www.instagram.com/omc_lab/)
+![](res/ale.jpg){width="150"} [Alejandra Ariadna Rueda Escalona](https://www.instagram.com/omc_lab/)
 
 ![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
 
