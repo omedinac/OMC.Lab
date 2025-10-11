@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Medina-Castro Lab – OMC Lab</title>
+<title>A typesetting system to untangle the scientific writing process – OMC Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +20,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-6172778a27b0bfa6b3b3f65992e46a92.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-6172778a27b0bfa6b3b3f65992e46a92.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,8 +89,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -80,9 +129,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">OMC Lab</span>
     </a>
   </div>
@@ -93,23 +142,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./students.html"> 
+    <a class="nav-link" href="../students.html"> 
 <span class="menu-text">Students</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About Us</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./protocols.html"> 
+    <a class="nav-link" href="../protocols.html"> 
 <span class="menu-text">Protocols</span></a>
   </li>  
 </ul>
@@ -128,76 +177,85 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-intestinal-immune-system-in-cancer-and-immune-regulation" id="toc-the-intestinal-immune-system-in-cancer-and-immune-regulation" class="nav-link active" data-scroll-target="#the-intestinal-immune-system-in-cancer-and-immune-regulation">The intestinal immune system in cancer and immune regulation</a></li>
+  <li><a href="#paper-overview" id="toc-paper-overview" class="nav-link active" data-scroll-target="#paper-overview">Paper overview</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="protocols.pdf"><i class="bi bi-file-pdf"></i>Typst (ieee)</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Medina-Castro Lab</h1>
+<h1 class="title">A typesetting system to untangle the scientific writing process</h1>
 </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Martin Haug <a href="mailto:haug@typst.app" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Typst GmbH
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Laurenz Mädje <a href="mailto:maedje@typst.app" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Typst GmbH
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
-    
+      
   
     
   </div>
   
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    <p>The process of scientific writing is often tangled up with the intricacies of typesetting, leading to frustration and wasted time for researchers. In this paper, we introduce Typst, a new typesetting system designed specifically for scientific writing. Typst untangles the typesetting process, allowing researchers to compose papers faster. In a series of experiments we demonstrate that Typst offers several advantages, including faster document creation, simplified syntax, and increased ease-of-use.</p>
+  </div>
+</div>
 
 
 </header>
 
 
-<section id="the-intestinal-immune-system-in-cancer-and-immune-regulation" class="level3">
-<h3 class="anchored" data-anchor-id="the-intestinal-immune-system-in-cancer-and-immune-regulation">The intestinal immune system in cancer and immune regulation</h3>
-<p>Standing at the intersection of Nutrition, Proteomics, and Immunology, our lab studies mucosal regulation in cancer, inflammation, and immunity. Intestinal immune homeostasis is maintained by a fine balance between the pro- and anti-inflammatory responses to microbiota. An extensive network of antigen presenting cells and effector cells tightly regulate these responses. We focus primarily on 1) the role of nutrition on immune responses and 2) macrophages regulation of intestinal T cells and epithelial cells, in health and disease.</p>
-<p>Our group employs clinical interventions, immuno-proteomic, flow cytometry, proteomics and genomic methods, cell biology, biochemistry and <em>in vivo</em> models to reveal new intestinal immune regulation mechanisms.</p>
-<p>We combine our expertise to gain novel insight on basic research questions, and we aim for translating our findings into clinical applications and therapeutic interventions to promote human health.</p>
-<p>Our most recent papers are:</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span><a href="https://academic.oup.com/jjco/article/54/4/416/7492484">Quality of life but not cachexia definitions are associated with overall survival in women with cervical cancer: a STROBE-compliant cohort study</a>
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Luvián-Morales J, Delgadillo-González M, Castro-Eguiluz D, Oñate-Ocaña LF, Cetina-Pérez L<br>
-<em>Jpn J Clin Oncol</em> 54(4):416-423<br>
-doi 10.1093/jjco/hyae023, <a href="https://pubmed.ncbi.nlm.nih.gov/38146122/">PubMed</a></p>
-<p>Gut microbiota plays a crucial role in modulating immune responses, including effector response to infection and surveillance of tumors. This article summarizes the current scientific evidence on the effects of supplementation with prebiotics, probiotics, and synbiotics on high-risk human papillomavirus (HPV) infections, precancerous lesions, and various stages of cervical cancer development and treatment while also examining the underlying molecular pathways involved. Our findings indicate that a higher dietary fiber intake is associated with a reduced risk of HPV infection, while certain probiotics have shown promising results in clearing HPV-related lesions. Additionally, certain strains of probiotics, prebiotics such as inulin and fructo-oligosaccharides, and synbiotics decrease the frequency of gastrointestinal adverse effects in cervical cancer patients. These agents attain their results by modulating crucial metabolic pathways, including the reduction of inflammation and oxidative stress, promoting apoptosis, inhibiting cell proliferation, and suppressing the activity of oncogenes, thus attenuating tumorigenesis. We conclude that although further human studies are necessary, robust evidence in preclinical models demonstrates that prebiotics, probiotics, and synbiotics play an essential role in cervical cancer, from infection to carcinogenesis and its medical treatment. Consequently, we strongly recommend conducting high-quality clinical trials using these agents as adjuvants since they have proven safe.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span><a href="https://www.nature.com/articles/s41598-025-14787-2">HPV vaccination improves immune response in children with respiratory papillomatosis</a>
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Prieto-Islas MA, Godoy-Dahbura E, Villalpando-Sánchez DC, Cortés-Benavides C, Hernández-Cuellar E, Castro-Eguiluz D, Alvarez-Neri H, Medina-Contreras O<br>
-<em>Sci Rep</em> 15(1):29885<br>
-doi 10.1038/s41598-025-14787-2, <a href="https://pubmed.ncbi.nlm.nih.gov/40813785/">PubMed</a></p>
-<p>Recurrent respiratory papillomatosis (RRP) is a pathology characterized by the presence of neoplasm in the epithelium of the airways, where the larynx is the main affected organ. The cause of this disease is the low-risk Human Papillomavirus (HPV), where subtypes 6 and 11 are the most frequent. The only proven effective treatment is surgical resection of the lesions, and although there are adjunctive treatments to try to reduce the recurrence of neoplasms, it has not been proven that there is an effective alternative that achieves this effect. A proposal as adjuvant therapy is the HPV vaccine; although used in adults to treat the disease, the effect it has on immunological changes in a pediatric population with PRR has not been studied, so the objective of this work is to assess the efficacy of vaccination as an adjuvant treatment, by observing the immunological changes that are generated after vaccination, measuring the antibody titer as well as the cytokine profile present in the patients and relating it to the impact at the clinical in pediatric population. For this, blood samples and biopsies obtained by laryngeal surgery from 10 patients before and 6 months after completing the HPV vaccination scheme were compared. Viral load of the HPV6/11 serotypes was measured by qPCR, observing a decrease in copy number of both subtypes after vaccination. The antibody titer in the serum of the same patients was measured by ELISA, observing an increase in the amount of IgG antibodies without finding modifications in the IgM antibodies against HPV L1 protein. In addition, HPV vaccination was associated with a decrease in the immunosuppressive cytokine IL-10 in papilloma tissue and a significant increase in the pro-inflammatory cytokine TNFα in serum, suggesting a shift towards a Th1-mediated immune response. All these changes had an impact on the number of surgeries that were performed to remove the neoplasms, where there was a decrease in these during a six-month follow-up after vaccination. In conclusion, the vaccination as adjuvant therapy increased the number of IgG antibodies against the virus. It increased the amount of pro-inflammatory cytokines at the systemic level, reducing the viral load and the number of recurrences of papillomas.</p>
-</div>
-</div>
-<p><strong>Denisse Castro-Eguiluz</strong> is a researcher for México at the <a href="https://www.incan.salud.gob.mx">National Cancer Institute</a>, where she works on cervical cancer. <strong>Oscar Medina-Contreras</strong> is a medical sciences researcher at <a href="https://www.himfg.edu.mx/">Mexico Children’s Hospital</a>, where he works on mucosal immunology.</p>
+<p>Introduction</p>
+<p>Scientific writing is a crucial part of the research process, allowing researchers to share their findings with the wider scientific community. However, the process of typesetting scientific documents can often be a frustrating and time-consuming affair, particularly when using outdated tools such as LaTeX. Despite being over 30 years old, it remains a popular choice for scientific writing due to its power and flexibility. However, it also comes with a steep learning curve, complex syntax, and long compile times, leading to frustration and despair for many researchers. <span class="citation" data-cites="netwok2020">Astley and Morris (<a href="#ref-netwok2020" role="doc-biblioref">2020</a>)</span></p>
+<section id="paper-overview" class="level3">
+<h3 class="anchored" data-anchor-id="paper-overview">Paper overview</h3>
+<p>In this paper we introduce Typst, a new typesetting system designed to streamline the scientific writing process and provide researchers with a fast, efficient, and easy-to-use alternative to existing systems. Our goal is to shake up the status quo and offer researchers a better way to approach scientific writing.</p>
+<p>By leveraging advanced algorithms and a user-friendly interface, Typst offers several advantages over existing typesetting systems, including faster document creation, simplified syntax, and increased ease-of-use.</p>
+<p>To demonstrate the potential of Typst, we conducted a series of experiments comparing it to other popular typesetting systems, including LaTeX. Our findings suggest that Typst offers several benefits for scientific writing, particularly for novice users who may struggle with the complexities of LaTeX. Additionally, we demonstrate that Typst offers advanced features for experienced users, allowing for greater customization and flexibility in document creation.</p>
+<p>Overall, we believe that Typst represents a significant step forward in the field of scientific writing and typesetting, providing researchers with a valuable tool to streamline their workflow and focus on what really matters: their research. In the following sections, we will introduce Typst in more detail and provide evidence for its superiority over other typesetting systems in a variety of scenarios.</p>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus dictum leo, vel molestie felis hendrerit at. In diam nisl, rhoncus dapibus facilisis at, laoreet ac nunc. Sed vehicula metus id faucibus tempus. Etiam at laoreet orci, mattis efficitur sem. Aenean eu malesuada nisl. Mauris tempor pulvinar magna, eu tempus felis aliquet nec. In nec iaculis nisi. Fusce at arcu enim. In ipsum massa, pretium vitae pharetra in, vulputate vel felis.</p>
+<p><span class="math inline">\(a + b = gamma\)</span></p>
+<p>Mauris egestas laoreet aliquam. Integer non convallis risus. Ut eu felis ut augue ultricies tempus. Integer posuere lacinia ex, ac sollicitudin tortor tempus id. Morbi dictum elit at orci accumsan, vitae volutpat dui scelerisque. Pellentesque vitae lectus id nisl posuere placerat pharetra nec ligula. Donec laoreet ligula hendrerit velit tempus porttitor. Vivamus eleifend imperdiet magna quis pellentesque. Pellentesque blandit congue nisi ac ultricies. Sed velit ante, pretium nec facilisis ac, ultricies vitae orci. In hac habitasse platea dictumst. Phasellus massa mauris, tincidunt sed facilisis eu, venenatis a leo.</p>
+<p>Fusce id risus mauris. Morbi tincidunt interdum odio, a laoreet sem pulvinar condimentum. Integer suscipit lobortis quam vitae hendrerit. Duis nec convallis mi. Etiam cursus felis eget sem tincidunt, at vulputate urna mattis. Aenean nec libero condimentum, posuere tellus eget, ultrices dui. In quis magna ac metus facilisis porta. Integer et massa dignissim, tempus massa quis, feugiat ante. Aliquam a tortor ligula. Praesent aliquam, lorem id ullamcorper rutrum, nunc orci posuere nulla, id fermentum mi erat a justo. Sed ut sapien vulputate, elementum ante ac, maximus lorem. Phasellus metus est, ultricies et ipsum ac, volutpat lobortis turpis. Vestibulum accumsan elementum vehicula.</p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-netwok2020" class="csl-entry" role="listitem">
+Astley, Rick, and Linda Morris. 2020. <span>“At-Scale Impact of the <span>Net Wok</span>: A Culinarically Holistic Investigation of Distributed Dumplings.”</span> <em>Armenian Journal of Proceedings</em> 61: 192–219.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

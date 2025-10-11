@@ -11,7 +11,7 @@
     "href": "students.html",
     "title": "Students",
     "section": "",
-    "text": "We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!\n\n\n\n\n\n\nTipPostdoc\n\n\n\n Diana Villalpando\n\n\n\n\n\n\n\n\nTipPhD\n\n\n\n Lucero Nuncio Mora\n Alejandra Ariadna Rueda Escalona\n Albertana Jimenez-Pineda\n Samantha Ysais-Chong\n\n\n\n\n\n\n\n\nTipMSc\n\n\n\n Brenda Landa Esquivias\n Ashley García Yepes\n Brenda Hernández Martínez\n Arleth Garibay Oropeza\n\n\n\n\n\n\n\n\nTipUndergrad\n\n\n\n Aelinne Alejandra Pérez Martínez\n Ernesto Agusto Aguilar Alva"
+    "text": "We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!\n\n\n\n\n\n\nTipPostdoc\n\n\n\n Diana Villalpando\n\n\n\n\n\n\n\n\nTipPhD\n\n\n\n Lucero Nuncio Mora\n Alejandra Ariadna Rueda Escalona\n Albertana Jimenez-Pineda\n Samantha Ysais-Chong\n\n\n\n\n\n\n\n\nTipMSc\n\n\n\n Brenda Landa Esquivias\n Ashley García Yepes\n Brenda Hernández Martínez\n Arleth Garibay Oropeza\n\n\n\n\n\n\n\n\nTipUndergrad\n\n\n\n Aelinne Alejandra Pérez Martínez\n Ernesto Augusto Aguilar Alva"
   },
   {
     "objectID": "about.html",
@@ -32,7 +32,7 @@
     "href": "protocols.html",
     "title": "Protocols",
     "section": "",
-    "text": "NoteCongelar células\n\n\n\n\n\n\nCosechar las células1 y resuspender en 5ml de medio de cultivo.\nCentrifugar a 1500rpm/5 minutos/4ºC.\nRemover el sobrenadante y añadir 1 ml de medio crioprotector2.\nResuspender las células y pasar inmediatamente a hielo.\nGuardar a -80°C/24 hrs y posteriormente almacenar en nitrógeno líquido."
+    "text": "NoteBiología Celular\n\n\n\n\n\n\nCriopreservación\nDescongelar células\nViabilidad celular\nCultivo de adipocitos\nTinción rojo oleoso\n\n\n\n\n\n\n\n\n\n\nNoteBiología Molecular\n\n\n\n\n\n\nElectroforesis agarosa\nElectroforesis acrilamida\nTransformación bacteriana\nPCR\n\n\n\n\n\n\n\n\n\n\nNoteCitometría\n\n\n\n\n\n\nViabilidad\nSuperficie\nIntracelular\nCBA\nMilliplex\n\n\n\n\n\n\n\n\n\n\nNoteModelos animales\n\n\n\n\n\n\nCélulas de lamina propria"
   },
   {
     "objectID": "protocols.html#footnotes",
@@ -40,5 +40,334 @@
     "title": "Protocols",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nPartir de células con una confluencia del 80-90%↩︎\nCongelar a una concentración de 106-107 células/ml↩︎"
+  },
+  {
+    "objectID": "protocols/pcr.html",
+    "href": "protocols/pcr.html",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nConocer de manera cuantitativa la expresión de un gen o genes de interés de en una muestra de cDNA."
+  },
+  {
+    "objectID": "protocols/pcr.html#diagrama-de-flujo",
+    "href": "protocols/pcr.html#diagrama-de-flujo",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/pcr.html#anexos",
+    "href": "protocols/pcr.html#anexos",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Anexos",
+    "text": "Anexos\n\ngeles\nComponente Volumen final 10 µL SYBER green Master Mix qPCR 5 µL Primer Fw (10 mM) 1 µL Primer Rv (10 mM) 1 µL cDNA cbp &lt; 100ng Agua MiliQ cbp volumen total 10 µL\n: Tamaño de ADN y porcentaje de gel {#tbl-gel}\nPaso Temperatura Tiempo Ciclos Activación de la polimerasa 95°C 2 minutos - Desnaturalización Alineación y extensión 95°C 65°C 5 segundos 30 segundos 40\n\n\nReactivos y Soluciones\n\nReactivos\n\n\nqPCRBIO SyGreen Mix. Primer Fw 10 mM Primer Rv 10 mM Agua MiliQ\n\n\nTAE\n\n\n\n\nTabla 1: Preparación de TAE\n\n\n\n\n\n\n\n\n\n\n\n1X\n50X\n\n\n\n\nTris\n40 mM\n242 g\n\n\nÁcido Acético\n20 mM\n57.1 mL\n\n\nNa2EDTA-2H2O\n1 mM\n18.61 g\n\n\ndH2O1\n1 L\n1 L"
+  },
+  {
+    "objectID": "protocols/pcr.html#documentos-de-referencia",
+    "href": "protocols/pcr.html#documentos-de-referencia",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\n\nGründemann D., Schömig E. 1996. Protection of DNA During Preparative Agarose Gel Electrophoresis Against Damage Induced by Ultraviolet Light. Research Reports, 21(5):898-903.\nCurrent Protocols in Molecular Biology, Appendix 2, A.2.5, Supplement 40, Frederick M. Ausubel et al. 2003."
+  },
+  {
+    "objectID": "protocols/pcr.html#footnotes",
+    "href": "protocols/pcr.html#footnotes",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Notas",
+    "text": "Notas\n\n\naforar a↩︎"
+  },
+  {
+    "objectID": "protocols/skeleton.html",
+    "href": "protocols/skeleton.html",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nDiferenciar células 3T3-L1 a adipocitos maduros"
+  },
+  {
+    "objectID": "protocols/skeleton.html#diagrama-de-flujo",
+    "href": "protocols/skeleton.html#diagrama-de-flujo",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/skeleton.html#anexos",
+    "href": "protocols/skeleton.html#anexos",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Anexos",
+    "text": "Anexos\n\nSoluciones\nPreparación de medios. a) Medio de crecimiento (MC) Opti-MEM + 5% SFB + antibiótico/antimicótico + l-glutamina.\n\nMedios de diferenciación (MD) La siguiente tabla es descrita para cada mililitro (1 mL) de MD a preparar. Al MC se le adicionara los reactivos necesarios para preparar los medios de diferenciación:\n\nVolumen (1mL) MD-I MD-II MD-III Dexametasona 25 μM 10 μL 10 μL — IBMX 125 μM 4 μL 4 μL — Insulina 300 UI/mL 0.3 μL 0.3 μL 0.3 μL Rosiglitazona 20 mM — 1 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm) —\n\nMedio de crecimiento\n\nMedio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina\n\nMedios de diferenciación (MD)\n\nAl medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación. La siguiente tabla es descrita para 3 mL de medio, es decir para un pozo.\n\n\n\nTabla 1: medios de diferenciación\n\n\n\n\n\n\n\n\n\n\n\n\nMD-I\nMD-II\nMD-III\n\n\n\n\nDexamentasona\n25 \\(\\mu\\)M\n30 \\(\\mu\\)L\n30 \\(\\mu\\)L\n\n\nIBMX\n125 \\(\\mu\\)M\n12 \\(\\mu\\)L\n12 \\(\\mu\\)L\n\n\nInsulina 300 UI/mL\n1 \\(\\mu\\)L\n1 \\(\\mu\\)L\n1 \\(\\mu\\)L\n\n\nRosiglitazona 20 mM\n3 \\(\\mu\\)L1\n3\\(\\mu\\)L\n3 \\(\\mu\\)L\n\n\n\n1 de una dilución 1:10 (9\\(\\mu\\)L de medio de crecimiento + 1\\(\\mu\\)L de rosiglitazona 20 Mm)\n\n\n\n\nCantidad de células\nPlaca de cultivo Células Medio de Crecimiento 6 pozos 1x105 células / pozo 3 mL 12 pozos 5x104 células / pozo 2 mL 24 pozos 5x104 células / pozo 1 mL 48 pozos 5x104 células / pozo 1 mL"
+  },
+  {
+    "objectID": "protocols/skeleton.html#documentos-de-referencia",
+    "href": "protocols/skeleton.html#documentos-de-referencia",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\nZebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90. Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90."
+  },
+  {
+    "objectID": "protocols/skeleton.html#for-a-better-global-health-people-microbiota-planet",
+    "href": "protocols/skeleton.html#for-a-better-global-health-people-microbiota-planet",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "for a better Global Health “People-Microbiota-Planet”",
+    "text": "for a better Global Health “People-Microbiota-Planet”\nTo foster its commitment to improving health worldwide, the Biocodex Microbiota Foundation launched in 2021 the Henri Boulard Award.\nHenri Boulard is the famous French microbiologist who discovered the yeast Saccharomyces boulardii in the 1920s in Indochina and its virtues against diarrhoea. The Henri Boulard Award is dedicated to improving the human conditions related to microbiota.\nBecause Gut Microbiota is more and more considered an organ, it deserves to be protected. Some factors such as Diet, Life style, Drugs or Environmental may impact microbiota leading to clinical disorders or diseases.\nActions such as educational programs, water purification, farming projects may preserve the organ integrity and may avoid the disorders associated with microbiota dysfunction.\nThat is why the Henri Boulard Award wants to support 4 initiatives: 2 related to microbiota and human health, 1 to microbiota and antimicrobial resistance prevention and 1 to microbiota and environmental concerns from 3 geographical areas: Asia, Latin America and Middle East Africa."
+  },
+  {
+    "objectID": "protocols/skeleton.html#margin-figures",
+    "href": "protocols/skeleton.html#margin-figures",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Margin Figures",
+    "text": "Margin Figures\nImages and graphics play an integral role in Tufte’s work. To place figures in the margin you can use the Quarto chunk option column: margin. For example:\n\n```{r}\n#| label: fig-margin\n#| fig-cap: \"MPG vs HP, by transmission.\"\n#| column: margin\n#| message: false\nlibrary(ggplot2)\nmtcars2 &lt;- mtcars\nmtcars2$am &lt;- factor(\n  mtcars$am, labels = c('automatic', 'manual')\n)\nggplot(mtcars2, aes(hp, mpg, color = am)) +\n  geom_point() + geom_smooth() +\n  theme(legend.position = 'bottom')\n```\n\n\n\n\n\n\n\n\nFigura 1: MPG vs HP, by transmission.\n\n\n\n\nNote the use of the fig-cap chunk option to provide a figure caption. You can adjust the proportions of figures using the fig-width and fig-height chunk options. These are specified in inches, and will be automatically scaled down to fit within the handout margin."
+  },
+  {
+    "objectID": "protocols/skeleton.html#arbitrary-margin-content",
+    "href": "protocols/skeleton.html#arbitrary-margin-content",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Arbitrary Margin Content",
+    "text": "Arbitrary Margin Content\nYou can include anything in the margin by places the class .column-margin on the element. See an example on the right about the first fundamental theorem of calculus.\n\n\nWe know from the first fundamental theorem of calculus that for \\(x\\) in \\([a, b]\\):\n\\[\\frac{d}{dx}\\left( \\int_{a}^{x} f(u)\\,du\\right)=f(x).\\]"
+  },
+  {
+    "objectID": "protocols/skeleton.html#full-width-figures",
+    "href": "protocols/skeleton.html#full-width-figures",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Full Width Figures",
+    "text": "Full Width Figures\nYou can arrange for figures to span across the entire page by using the chunk option fig-column: page-right.\n\n```{r}\n#| label: fig-fullwidth\n#| fig-cap: \"A full width figure.\"\n#| fig-width: 11\n#| fig-height: 3\n#| fig-column: page-right\n#| warning: false\nggplot(diamonds, aes(carat, price)) + geom_smooth() +\n  facet_grid(~ cut)\n```\n\n\n\n\n\n\n\nFigura 2: A full width figure.\n\n\n\n\n\nOther chunk options related to figures can still be used, such as fig-width, fig-cap, and so on. For full width figures, usually fig-width is large and fig-height is small. In the above example, the plot size is \\(11 \\times 3\\)."
+  },
+  {
+    "objectID": "protocols/skeleton.html#arbitrary-full-width-content",
+    "href": "protocols/skeleton.html#arbitrary-full-width-content",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Arbitrary Full Width Content",
+    "text": "Arbitrary Full Width Content\nAny content can span to the full width of the page, simply place the element in a div and add the class column-page-right. For example, the following code will display its contents as full width.\n::: {.fullwidth}\nAny _full width_ content here.\n:::\nBelow is an example:\n\nR is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see https://www.gnu.org/licenses/."
+  },
+  {
+    "objectID": "protocols/skeleton.html#main-column-figures",
+    "href": "protocols/skeleton.html#main-column-figures",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Main Column Figures",
+    "text": "Main Column Figures\nBesides margin and full width figures, you can of course also include figures constrained to the main column. This is the default type of figures in the LaTeX/HTML output.\n\n```{r}\n#| label: fig-main\n#| fig-cap: \"A figure in the main column.\"\nggplot(diamonds, aes(cut, price)) + geom_boxplot()\n```\n\n\n\n\n\n\n\nFigura 3: A figure in the main column."
+  },
+  {
+    "objectID": "protocols/skeleton.html#margin-captions",
+    "href": "protocols/skeleton.html#margin-captions",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Margin Captions",
+    "text": "Margin Captions\nWhen you include a figure constrained to the main column, you can choose to place the figure’s caption in the margin by using the cap-location chunk option. For example:\n\n```{r}\n#| label: fig-main-margin-cap\n#| fig-cap: \"A figure with a longer caption. The figure appears in the main column, but the caption is placed in the margin. Captions can even contain elements like a citation such as @xie2018.\"\n#| cap-location: margin\nggplot(diamonds, aes(cut, price)) + geom_boxplot()\n```\n\n\n\n\n\n\n\nFigura 4: A figure with a longer caption. The figure appears in the main column, but the caption is placed in the margin. Captions can even contain elements like a citation such as @xie2018."
+  },
+  {
+    "objectID": "protocols/facs.html",
+    "href": "protocols/facs.html",
+    "title": "Tinción para citometría de flujo",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nRealizar una tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo"
+  },
+  {
+    "objectID": "protocols/facs.html#diagrama-de-flujo",
+    "href": "protocols/facs.html#diagrama-de-flujo",
+    "title": "Tinción para citometría de flujo",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/facs.html#anexos",
+    "href": "protocols/facs.html#anexos",
+    "title": "Tinción para citometría de flujo",
+    "section": "Anexos",
+    "text": "Anexos\n\nReactivos y Soluciones\n\nReactivos\n\n\nUltraPure Agarose de Invitrogen\nSYBR SAFE\nBuffer carga 6X DNA Loading Dye\nMarcador de peso molecular\nTAE 1X\n\n\nTAE\n\n\n\n\nTabla 1: Preparación de TAE\n\n\n\n\n\n\n\n\n\n\n\n1X\n50X\n\n\n\n\nTris\n40 mM\n242 g\n\n\nÁcido Acético\n20 mM\n57.1 mL\n\n\nNa2EDTA-2H2O\n1 mM\n18.61 g\n\n\ndH2O1\n1 L\n1 L"
+  },
+  {
+    "objectID": "protocols/facs.html#documentos-de-referencia",
+    "href": "protocols/facs.html#documentos-de-referencia",
+    "title": "Tinción para citometría de flujo",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\nBushnell, T. Modern Flow Cytometry. 1–67 (Excyte, 2015)."
+  },
+  {
+    "objectID": "protocols/facs.html#footnotes",
+    "href": "protocols/facs.html#footnotes",
+    "title": "Tinción para citometría de flujo",
+    "section": "Notas",
+    "text": "Notas\n\n\naforar a↩︎"
+  },
+  {
+    "objectID": "protocols/freeze.html",
+    "href": "protocols/freeze.html",
+    "title": "Criopreservación de células",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nMantener una línea celular en congelación en condiciones óptimas que garanticen su viabilidad, y esterilidad para su posterior uso in vitro en cultivo celular."
+  },
+  {
+    "objectID": "protocols/freeze.html#diagrama-de-flujo",
+    "href": "protocols/freeze.html#diagrama-de-flujo",
+    "title": "Criopreservación de células",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/freeze.html#anexos",
+    "href": "protocols/freeze.html#anexos",
+    "title": "Criopreservación de células",
+    "section": "Anexos",
+    "text": "Anexos\n\nReactivos y Soluciones\n\nMedio crioprotector\n\n: 90% medio de cultivo, 10% DMSO (dimetilsulfóxido)"
+  },
+  {
+    "objectID": "protocols/freeze.html#documentos-de-referencia",
+    "href": "protocols/freeze.html#documentos-de-referencia",
+    "title": "Criopreservación de células",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\nCryogenic Storage of Animal Cells. (s. f.) ATCC. https://www.atcc.org/resources/technical-documents/cryogenic-storage-of-animal-cells Freezing protocol. (s.f.) Cytion. https://www.cytion.com/Knowledge-Hub/Cell-Culture-Techniques/Freezing-Protocol/ Current Protocols in Molecular Biology, Appendix 3, F.12, Supplement 74, Frederick M. Ausubel et al. 2003."
+  },
+  {
+    "objectID": "protocols/thaw.html",
+    "href": "protocols/thaw.html",
+    "title": "Descongelar celulas criopreservadas",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nDescongelar una línea celular manteniendo la viabilidad y condiciones de esterilidad para mantenerla in vitro en condiciones apropiadas para su crecimiento, propagación o almacenamiento para los fines que se requiera."
+  },
+  {
+    "objectID": "protocols/thaw.html#diagrama-de-flujo",
+    "href": "protocols/thaw.html#diagrama-de-flujo",
+    "title": "Descongelar celulas criopreservadas",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/thaw.html#anexos",
+    "href": "protocols/thaw.html#anexos",
+    "title": "Descongelar celulas criopreservadas",
+    "section": "Anexos",
+    "text": "Anexos\n\ngeles\n\n\n\nTabla 1: Tamaño de ADN y porcentaje de gel\n\n\n\n\n\nTamaño (kb)\nConcentración\n\n\n\n\n&gt;2\n0.6%\n\n\n1-2\n0.8%\n\n\n0.5-1\n1%\n\n\n0.2-0.5\n1.5%\n\n\n&lt;0.2\n2%\n\n\n\n\n\n\n\n\nReactivos y Soluciones\n\nReactivos\n\n\nUltraPure Agarose de Invitrogen\nSYBR SAFE\nBuffer carga 6X DNA Loading Dye\nMarcador de peso molecular\nTAE 1X\n\n\nTAE\n\n\n\n\nTabla 2: Preparación de TAE\n\n\n\n\n\n\n\n\n\n\n\n1X\n50X\n\n\n\n\nTris\n40 mM\n242 g\n\n\nÁcido Acético\n20 mM\n57.1 mL\n\n\nNa2EDTA-2H2O\n1 mM\n18.61 g\n\n\ndH2O1\n1 L\n1 L"
+  },
+  {
+    "objectID": "protocols/thaw.html#documentos-de-referencia",
+    "href": "protocols/thaw.html#documentos-de-referencia",
+    "title": "Descongelar celulas criopreservadas",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\nAnimal Cell Culture Guide. (s. f.). ATCC. https://www.atcc.org/resources/culture-guides/animal-cell-culture-guide Thawing of frozen cell lines (2020) Sigma Aldrich; ECACC Laboratory Handbook 4° ed. https://www.sigmaaldrich.com/MX/es/technical-documents/protocol/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/thawing-of-frozen-cell-lines?srsltid=AfmBOorDbumsK7KL4YfndwpfPTM_xqbraqD5JZw2OI7F7cuWF3Rgpo7B Current Protocols in Molecular Biology, Appendix 3, F.12, Supplement 74, Frederick M. Ausubel et al. 2003."
+  },
+  {
+    "objectID": "protocols/thaw.html#footnotes",
+    "href": "protocols/thaw.html#footnotes",
+    "title": "Descongelar celulas criopreservadas",
+    "section": "Notas",
+    "text": "Notas\n\n\naforar a↩︎"
+  },
+  {
+    "objectID": "protocols/adipocitos.html",
+    "href": "protocols/adipocitos.html",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nDiferenciar células 3T3-L1 a adipocitos maduros"
+  },
+  {
+    "objectID": "protocols/adipocitos.html#diagrama-de-flujo",
+    "href": "protocols/adipocitos.html#diagrama-de-flujo",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/adipocitos.html#anexos",
+    "href": "protocols/adipocitos.html#anexos",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Anexos",
+    "text": "Anexos\n\nSoluciones\nPreparación de medios. a) Medio de crecimiento (MC) Opti-MEM + 5% SFB + antibiótico/antimicótico + l-glutamina.\n\nMedios de diferenciación (MD) La siguiente tabla es descrita para cada mililitro (1 mL) de MD a preparar. Al MC se le adicionara los reactivos necesarios para preparar los medios de diferenciación:\n\nVolumen (1mL) MD-I MD-II MD-III Dexametasona 25 μM 10 μL 10 μL — IBMX 125 μM 4 μL 4 μL — Insulina 300 UI/mL 0.3 μL 0.3 μL 0.3 μL Rosiglitazona 20 mM — 1 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm) —\n\nMedio de crecimiento\n\nMedio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina\n\nMedios de diferenciación (MD)\n\nAl medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación. La siguiente tabla es descrita para 3 mL de medio, es decir para un pozo.\n\n\n\nTabla 1: medios de diferenciación\n\n\n\n\n\n\n\n\n\n\n\n\nMD-I\nMD-II\nMD-III\n\n\n\n\nDexamentasona\n25 \\(\\mu\\)M\n30 \\(\\mu\\)L\n30 \\(\\mu\\)L\n\n\nIBMX\n125 \\(\\mu\\)M\n12 \\(\\mu\\)L\n12 \\(\\mu\\)L\n\n\nInsulina 300 UI/mL\n1 \\(\\mu\\)L\n1 \\(\\mu\\)L\n1 \\(\\mu\\)L\n\n\nRosiglitazona 20 mM\n3 \\(\\mu\\)L1\n3\\(\\mu\\)L\n3 \\(\\mu\\)L\n\n\n\n\n\n\n\n\nCantidad de células\nPlaca de cultivo Células Medio de Crecimiento 6 pozos 1x105 células / pozo 3 mL 12 pozos 5x104 células / pozo 2 mL 24 pozos 5x104 células / pozo 1 mL 48 pozos 5x104 células / pozo 1 mL"
+  },
+  {
+    "objectID": "protocols/adipocitos.html#documentos-de-referencia",
+    "href": "protocols/adipocitos.html#documentos-de-referencia",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\nZebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90. Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90."
+  },
+  {
+    "objectID": "protocols/adipocitos.html#footnotes",
+    "href": "protocols/adipocitos.html#footnotes",
+    "title": "Diferenciación de células 3T3-L1 a adipocitos",
+    "section": "Notas",
+    "text": "Notas\n\n\nde una dilución 1:10 (9\\(\\mu\\)L de medio de crecimiento + 1\\(\\mu\\)L de rosiglitazona 20 Mm)↩︎"
+  },
+  {
+    "objectID": "protocols/electroforesis.html",
+    "href": "protocols/electroforesis.html",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nSeparar las moléculas de ADN de acuerdo con su peso molecular a través de geles de agarosa"
+  },
+  {
+    "objectID": "protocols/electroforesis.html#diagrama-de-flujo",
+    "href": "protocols/electroforesis.html#diagrama-de-flujo",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n! Figura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/electroforesis.html#anexos",
+    "href": "protocols/electroforesis.html#anexos",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Anexos",
+    "text": "Anexos\n\ngeles\n\n\n\nTabla 1: Tamaño de ADN y porcentaje de gel\n\n\n\n\n\nTamaño (kb)\nConcentración\n\n\n\n\n&gt;2\n0.6%\n\n\n1-2\n0.8%\n\n\n0.5-1\n1%\n\n\n0.2-0.5\n1.5%\n\n\n&lt;0.2\n2%\n\n\n\n\n\n\n\n\nReactivos y Soluciones\n\nReactivos\n\n\nUltraPure Agarose de Invitrogen\nSYBR SAFE\nBuffer carga 6X DNA Loading Dye\nMarcador de peso molecular\nTAE 1X\n\n\nTAE\n\n\n\n\nTabla 2: Preparación de TAE\n\n\n\n\n\n\n\n\n\n\n\n1X\n50X\n\n\n\n\nTris\n40 mM\n242 g\n\n\nÁcido Acético\n20 mM\n57.1 mL\n\n\nNa2EDTA-2H2O\n1 mM\n18.61 g\n\n\ndH2O1\n1 L\n1 L"
+  },
+  {
+    "objectID": "protocols/electroforesis.html#documentos-de-referencia",
+    "href": "protocols/electroforesis.html#documentos-de-referencia",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\n\nGründemann D., Schömig E. 1996. Protection of DNA During Preparative Agarose Gel Electrophoresis Against Damage Induced by Ultraviolet Light. Research Reports, 21(5):898-903.\nCurrent Protocols in Molecular Biology, Appendix 2, A.2.5, Supplement 40, Frederick M. Ausubel et al. 2003."
+  },
+  {
+    "objectID": "protocols/electroforesis.html#footnotes",
+    "href": "protocols/electroforesis.html#footnotes",
+    "title": "Electroforesis de ácidos nucleicos",
+    "section": "Notas",
+    "text": "Notas\n\n\naforar a↩︎"
+  },
+  {
+    "objectID": "protocols/red.html",
+    "href": "protocols/red.html",
+    "title": "Tinción de gotas de lípidos de adipocitos con rojo oleoso",
+    "section": "",
+    "text": "NotaPropósito\n\n\n\nTeñir gotas de lípidos de adipocitos con rojo oleoso"
+  },
+  {
+    "objectID": "protocols/red.html#diagrama-de-flujo",
+    "href": "protocols/red.html#diagrama-de-flujo",
+    "title": "Tinción de gotas de lípidos de adipocitos con rojo oleoso",
+    "section": "Diagrama de Flujo",
+    "text": "Diagrama de Flujo\n\n\n\nFigura 1. Diagrama de flujo"
+  },
+  {
+    "objectID": "protocols/red.html#anexos",
+    "href": "protocols/red.html#anexos",
+    "title": "Tinción de gotas de lípidos de adipocitos con rojo oleoso",
+    "section": "Anexos",
+    "text": "Anexos\n\ngeles\nPlaca de cultivo Volumen 6 pozos 700 μL 12 pozos 500 μL 24 pozos 400 μL 48 pozos 300 μL\n: Tamaño de ADN y porcentaje de gel {#tbl-gel}\n\n\nReactivos y Soluciones\n\nReactivos\n\n\nUltraPure Agarose de Invitrogen\nSYBR SAFE\nBuffer carga 6X DNA Loading Dye\nMarcador de peso molecular\nTAE 1X\n\n\nTAE\n\n\n\n\nTabla 1: Preparación de TAE\n\n\n\n\n\n\n\n\n\n\n\n1X\n50X\n\n\n\n\nTris\n40 mM\n242 g\n\n\nÁcido Acético\n20 mM\n57.1 mL\n\n\nNa2EDTA-2H2O\n1 mM\n18.61 g\n\n\ndH2O1\n1 L\n1 L"
+  },
+  {
+    "objectID": "protocols/red.html#documentos-de-referencia",
+    "href": "protocols/red.html#documentos-de-referencia",
+    "title": "Tinción de gotas de lípidos de adipocitos con rojo oleoso",
+    "section": "Documentos de referencia",
+    "text": "Documentos de referencia\n\nGründemann D., Schömig E. 1996. Protection of DNA During Preparative Agarose Gel Electrophoresis Against Damage Induced by Ultraviolet Light. Research Reports, 21(5):898-903.\nCurrent Protocols in Molecular Biology, Appendix 2, A.2.5, Supplement 40, Frederick M. Ausubel et al. 2003."
+  },
+  {
+    "objectID": "protocols/red.html#footnotes",
+    "href": "protocols/red.html#footnotes",
+    "title": "Tinción de gotas de lípidos de adipocitos con rojo oleoso",
+    "section": "Notas",
+    "text": "Notas\n\n\naforar a↩︎"
+  },
+  {
+    "objectID": "protocols/protocols.html",
+    "href": "protocols/protocols.html",
+    "title": "A typesetting system to untangle the scientific writing process",
+    "section": "",
+    "text": "Introduction\nScientific writing is a crucial part of the research process, allowing researchers to share their findings with the wider scientific community. However, the process of typesetting scientific documents can often be a frustrating and time-consuming affair, particularly when using outdated tools such as LaTeX. Despite being over 30 years old, it remains a popular choice for scientific writing due to its power and flexibility. However, it also comes with a steep learning curve, complex syntax, and long compile times, leading to frustration and despair for many researchers. Astley and Morris (2020)"
+  },
+  {
+    "objectID": "protocols/protocols.html#methods",
+    "href": "protocols/protocols.html#methods",
+    "title": "A typesetting system to untangle the scientific writing process",
+    "section": "Methods",
+    "text": "Methods\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus dictum leo, vel molestie felis hendrerit at. In diam nisl, rhoncus dapibus facilisis at, laoreet ac nunc. Sed vehicula metus id faucibus tempus. Etiam at laoreet orci, mattis efficitur sem. Aenean eu malesuada nisl. Mauris tempor pulvinar magna, eu tempus felis aliquet nec. In nec iaculis nisi. Fusce at arcu enim. In ipsum massa, pretium vitae pharetra in, vulputate vel felis.\n\\(a + b = gamma\\)\nMauris egestas laoreet aliquam. Integer non convallis risus. Ut eu felis ut augue ultricies tempus. Integer posuere lacinia ex, ac sollicitudin tortor tempus id. Morbi dictum elit at orci accumsan, vitae volutpat dui scelerisque. Pellentesque vitae lectus id nisl posuere placerat pharetra nec ligula. Donec laoreet ligula hendrerit velit tempus porttitor. Vivamus eleifend imperdiet magna quis pellentesque. Pellentesque blandit congue nisi ac ultricies. Sed velit ante, pretium nec facilisis ac, ultricies vitae orci. In hac habitasse platea dictumst. Phasellus massa mauris, tincidunt sed facilisis eu, venenatis a leo.\nFusce id risus mauris. Morbi tincidunt interdum odio, a laoreet sem pulvinar condimentum. Integer suscipit lobortis quam vitae hendrerit. Duis nec convallis mi. Etiam cursus felis eget sem tincidunt, at vulputate urna mattis. Aenean nec libero condimentum, posuere tellus eget, ultrices dui. In quis magna ac metus facilisis porta. Integer et massa dignissim, tempus massa quis, feugiat ante. Aliquam a tortor ligula. Praesent aliquam, lorem id ullamcorper rutrum, nunc orci posuere nulla, id fermentum mi erat a justo. Sed ut sapien vulputate, elementum ante ac, maximus lorem. Phasellus metus est, ultricies et ipsum ac, volutpat lobortis turpis. Vestibulum accumsan elementum vehicula."
   }
 ]

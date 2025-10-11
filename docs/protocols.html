@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.2">
+<meta name="generator" content="quarto-1.9.3">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-6681e838faa398caa2afb8ac814a50f0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-9afeeeff54d5564c9d9d0f579ac08acc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-1c6de2e58bfac5d03891dd4f715ec63e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -69,35 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -183,18 +154,18 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Congelar células
+<span class="screen-reader-only">Note</span>Biología Celular
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>Cosechar las células<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> y resuspender en 5ml de medio de cultivo.</p></li>
-<li><p>Centrifugar a 1500rpm/5 minutos/4ºC.</p></li>
-<li><p>Remover el sobrenadante y añadir 1 ml de medio crioprotector<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p></li>
-<li><p>Resuspender las células y pasar <strong>inmediatamente</strong> a hielo.</p></li>
-<li><p>Guardar a -80°C/24 hrs y posteriormente almacenar en nitrógeno líquido.</p></li>
+<li><a href="./protocols/freeze.pdf">Criopreservación</a></li>
+<li><a href="./protocols/thaw.pdf">Descongelar células</a></li>
+<li>Viabilidad celular</li>
+<li><a href="./protocols/adipocitos.pdf">Cultivo de adipocitos</a></li>
+<li><a href="./protocols/red.pdf">Tinción rojo oleoso</a></li>
 </ul>
 </div>
 </div>
@@ -205,20 +176,17 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Descongelar células
+<span class="screen-reader-only">Note</span>Biología Molecular
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>Colocar un vial de células congeladas en baño maría a 37°C, mover suavemente el vial hasta que las células se descongelen.</p></li>
-<li><p>Transferir con una micropipeta el contenido a un tubo falcón 15ml y añadir 9ml de medio de cultivo suplementado (glutamina, antibióticos, 1% piruvato y 10% suero fetal bovino). Centrifugar a 1200rpm/5 minutos/4ºC (para lavar y quitar todo el DMSO).</p></li>
-<li><p>Desechar sobrenadante y repite dos veces el proceso.</p></li>
-<li><p>Resuspender las células en medio de cultivo y transferir a la botella de cultivo.</p></li>
-<li><p>Observar las células al microscopio invertido.</p></li>
-<li><p>Incubar a 37°C con 5% de CO<sub>2</sub> y 80% de humedad relativa.</p></li>
-<li><p>Cambiar el medio de cultivo según el tipo celular.</p></li>
+<li><a href="./protocols/electroforesis.pdf">Electroforesis agarosa</a></li>
+<li>Electroforesis acrilamida</li>
+<li>Transformación bacteriana</li>
+<li><a href="./protocols/pcr.pdf">PCR</a></li>
 </ul>
 </div>
 </div>
@@ -229,26 +197,18 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Viabilidad celular
+<span class="screen-reader-only">Note</span>Citometría
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>Limpiar el hemocitómetro con alcohol al 70%. Esperar a que esté secos por completo y colocar el cubreobjetos en de la rejilla.</p></li>
-<li><p>Mezclar 10<span class="math inline">\(\mu\)</span>l de una suspensión celular uniforme con 90<span class="math inline">\(\mu\)</span>l de azul de tripano 0.4%. Incubar 2 min.</p></li>
-<li><p>Colocar 10<span class="math inline">\(\mu\)</span>l de la mezcla bajo el cubreobjetos y observar al microscopio con una magnificación 40x.</p></li>
-<li><p>Contar las células sin colorante presentes en los cuadrantes 1, 2, 4 y 5 del hemocitómetro (Fig. 1) sin considerar las células que toquen las líneas.</p></li>
-<li><p>Calcular concentración de células:</p></li>
-</ul>
-<p><span class="math display">\[células/ml = \frac{células * 10^{5}}{volúmen}\]</span></p>
-<ul>
-<li>Calcular la viabilidad celular</li>
-</ul>
-<p><span class="math display">\[viabilidad = \frac{células}{total}*{100}\]</span></p>
-<ul>
-<li>Limpiar el hemocitómetro con alcohol 70% y secar.</li>
+<li>Viabilidad</li>
+<li><a href="./protocols/facs.pdf">Superficie</a></li>
+<li>Intracelular</li>
+<li>CBA</li>
+<li>Milliplex</li>
 </ul>
 </div>
 </div>
@@ -259,144 +219,14 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>LP intestinal
+<span class="screen-reader-only">Note</span>Modelos animales
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
-<li><p>Precalentar a 37°C solución de PBS 1X y Solución de Hanks-SFB (5%).</p></li>
-<li><p>Eutanasiar a los ratones por dislocación cervical. Una vez muertos los ratones, realizar una incisión abdominal por planos por piel y peritoneo. Separar el intestino delgado del estómago y hacer un corte en el píloro gástrico. Eliminar el ciego y continuar hasta el recto.</p></li>
-<li><p>Extraer cuidadosamente el intestino, retirar el tejido mesentérico adyacente y las placas de Peyer.</p></li>
-<li><p>Cortar el intestino longitudinal de extremo a extremo y colocarlo en una bandeja con PBS 1X/37°C y agitar suavemente. Transferir a una nueva bandeja y repetir dos veces el proceso.</p></li>
-<li><p>Cortar el intestino en fragmentos de 0.5cm y colocar en un tubo falcón (50ml): EDTA (2mM) en solución de Hanks-SFB (30ml). Agitar a 250 rpm/37°C/20 minutos.</p></li>
-<li><p>Remover el tejido y repetir la incubación con soluciones frescas.</p></li>
-<li><p>Cortar finamente el tejido en fragmentos de 1mm y agregar colagenasa tipo IV (1mg/ml) y DNasa I (800<span class="math inline">\(\mu\)</span>g) disueltas en solución de Hanks-SFB (20ml). Poner en agitación continua 200rpm/37°C/10 minutos.</p></li>
-<li><p>Pasar la solución por un colador celular de 100<span class="math inline">\(\mu\)</span>m y colectar la suspensión celular, agregar 20ml de solución de Hanks-SFB frío. Centrifugar 1500 RPM/4°C/5 min.</p></li>
-<li><p>Resuspender el botón celular y contar las células en la cámara de Neubauer.</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Transformación bacteriana
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li><p>Mezclar 3<span class="math inline">\(\mu\)</span>l del vector exógeno con un vial de bacterias competentes.</p></li>
-<li><p>Incubar 30 minutos en hielo.</p></li>
-<li><p>Incubar 60 segundos a 42ºC.</p></li>
-<li><p>Incubar 2 minutos en hielo.</p></li>
-<li><p>Añadir 200<span class="math inline">\(\mu\)</span>l de medio SOC, e incubar 37°C/200rpm/1 h.</p></li>
-<li><p>Plaquear en agar LB con antibiotico de selección.</p></li>
-<li><p>Incubar 12-16 h a 37°C.</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Cytoflex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-6" class="callout-6-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li>TBD</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Adipocitos
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-7" class="callout-7-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li>TBD</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Peritonitis
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-8" class="callout-8-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li><p>Disuelva 10 mg de zymosan de <em>Saccharomyces cerevisiae</em> (Sigma Z4250) en 50 ml de PBS estéril y luego diluya 10 veces para obtener una solución de trabajo de 20 mg/ml.</p></li>
-<li><p>Autoclave a 121ºC durante 20 min.</p></li>
-<li><p>Mantenga el zimosan esterilizado en autoclave en hielo.</p></li>
-<li><p>Inyectar 0,5 ml de zymosan i.p. (10 mg/cavidad peritoneal del ratón; mezcle zymosan inmediatamente antes de la inyección para garantizar una suspensión uniforme) con una aguja 25G 5/8.</p></li>
-<li><p>Esperar 4 h.</p></li>
-<li><p>Sacrificar ratones por exposición a dióxido de carbono.</p></li>
-<li><p>Realice una pequeña incisión (~0,5 cm) a lo largo de la línea media del abdomen que permita retirar la piel para exponerla el abdomen, que luego se rocía con etanol al 70%.</p></li>
-<li><p>Inyecte 3 ml de solución de lavado de PBS/EDTA 2 mM helada con una jeringa y una aguja de 25G 5/8.</p></li>
-<li><p>Masajee suavemente el abdomen del ratón con la longitud de una aguja de 11⁄2 de 18G para asegurarse de que las células sueltas adheridos a la pared peritoneal u otros órganos se desprenderán y quedarán suspendidos en el líquido de lavado.</p></li>
-<li><p>Use una aguja 18G 11⁄2 para extraer suave y lentamente el líquido de lavado de la cavidad peritoneal. Transfiera el líquido a un tubo de centrífuga de 15 ml y manténgalo en hielo. Es posible que no obtenga los 3 ml debido a los volúmenes muertos en el peritoneo.</p></li>
-<li><p>Transferir 200<span class="math inline">\(\mu\)</span>l células a un tubo cónico de 15 mL, centrifugar y desechar el sobrenadante.</p></li>
-<li><p>Teñir las células con los anticuerpos apropiados (CD45-PerCP, F4/80-PE/Cy7, Ly6G-APC) durante 15 min en hielo.</p></li>
-<li><p>Lavar las células con tampón de tinción, seguido de resuspensión en 300<span class="math inline">\(\mu\)</span>l de buffer de tinción. Agregar 30<span class="math inline">\(\mu\)</span>l de perlas de conteo (30,000 partículas)</p></li>
-<li><p>Ejecutar en el flujo.</p></li>
-<li><p>Conocemos el número total de cuentas, por lo que los números absolutos de celdas se pueden calcular en relación con las cuentas. Debe multiplicar 15 veces, ya que de 3 mL se utilizaron 200 <span class="math inline">\(\mu\)</span>l de exudado. (Número absoluto de celdas) = ​​(recuento de celdas) / (recuento de perlas) X 30 000 X 15</p></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Electroforesis DNA
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-9" class="callout-9-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li><p>Determinar el porcentaje de gel a preparar en base al tamaño de la molecula de ADN a analizar ([Tabla 1]).</p></li>
-<li><p>Pesar la cantidad de agarosa requerida para la resolución deseada.</p></li>
-<li><p>Disolver en 100ml de TAE 1X. Agitar.</p></li>
-<li><p>Calentar la agarosa hasta que se disuelva por completo.</p></li>
-<li><p>Agregar 4<span class="math inline">\(\mu\)</span>l de SYBR Safe 10,000X.</p></li>
-<li><p>Sellar completamente la base para preparación de geles de agarosa con cinta adhesiva y posteriormente vaciar la agarosa.</p></li>
-<li><p>Colocar el peine y dejar que solidifique la agarosa. Una vez solidificado retirar la cinta adhesiva y el peine y colocar la base dentro de la cámara de electroforesis.</p></li>
-<li><p>Agregar 200ml de TAE 1X (cubrir entre 0.5 o 1cm por encima del gel).</p></li>
-<li><p>Mezclar las muestras de interés con buffer de carga (6X) y colocar cada una de las muestras en los pozos.</p></li>
-<li><p>Colocar el marcador de peso molecular (marcador de peso molecular + buffer de carga 6X) en un pozo.</p></li>
-<li><p>Cerrar la cámara de electroforesis y conectar a la fuente de poder.</p></li>
-<li><p>Encender la fuente de poder, seleccionar voltaje constante de 100V y migrar durante 20 minutos.</p></li>
-<li><p>Analizar el gel en el fotodocumentador utilizando el programa SYBR safe/green (488nm).</p></li>
+<li>Células de <em>lamina propria</em></li>
 </ul>
 </div>
 </div>
@@ -404,14 +234,7 @@ window.Quarto = {
 
 
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Partir de células con una confluencia del 80-90%<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Congelar a una concentración de 10<sup>6</sup>-10<sup>7</sup> células/ml<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
