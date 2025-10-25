@@ -37,16 +37,16 @@ Recurrent respiratory papillomatosis (RRP) is a pathology characterized by the p
 :::
 
 ::: {.callout-note collapse="true"}
-## Isthmin1 upregulation in the intestinal microenvironment during Salmonella typhimurium infection: identification and characterization of Isthmin1-producing cells
+## Isthmin1 upregulation in the intestinal microenvironment during *Salmonella typhimurium* infection: identification and characterization of Isthmin1-producing cells
 
 Gustavo Alberto Jaimes-Ortega GA, Angeles-Floriano T, Rivera-Torruco G, Almanza-Pérez JC, Xicohtencatl-Cortes J, Hernandez-Cuellar E, Medina-Contreras O, Cruz-Córdova A, Valle-Rios, Ricardo\
 [*Microorganisms* 13(6), 1280](https://link.springer.com/article/10.1007/s00253-024-13380-3)
 
-Isthmin1 (ISM1) is a constitutively secreted cytokine produced by barrier tissues and different immune cell types. Importantly, ISM1 is also expressed by cells with a hematopoietic stem cell phenotype in the lung and plays a role during hematopoiesis. Under inflammatory conditions, ISM1 levels are also altered. Given that the intestine is one of the tissues with the highest ISM1 gene expression, in this work, we characterized the immunophenotype of ISM1-producing cells in the small intestine of uninfected or Salmonella Typhimurium-infected mice. We found a variety of ISM1+-expressing cells, including CD45+ cells, EpCAM+ cells, and, importantly, we also found different subsets of cells carrying hematopoietic stem cell markers (LSKs) expressing ISM1, and their frequency was perturbed during infection. Finally, we also found that isthmin1 is secreted into the intestinal lumen, and its concentration was increased during S. Typhimurium infection. Our findings suggest that increased luminal ISM1 secretion during mucosal infection may serve as a potential novel biomarker of pathogen-mediated inflammation.
+Isthmin1 (ISM1) is a constitutively secreted cytokine produced by barrier tissues and different immune cell types. Importantly, ISM1 is also expressed by cells with a hematopoietic stem cell phenotype in the lung and plays a role during hematopoiesis. Under inflammatory conditions, ISM1 levels are also altered. Given that the intestine is one of the tissues with the highest ISM1 gene expression, in this work, we characterized the immunophenotype of ISM1-producing cells in the small intestine of uninfected or *Salmonella typhimurium*-infected mice. We found a variety of ISM1^+^-expressing cells, including CD45+ cells, EpCAM+ cells, and, importantly, we also found different subsets of cells carrying hematopoietic stem cell markers (LSKs) expressing ISM1, and their frequency was perturbed during infection. Finally, we also found that isthmin1 is secreted into the intestinal lumen, and its concentration was increased during S. Typhimurium infection. Our findings suggest that increased luminal ISM1 secretion during mucosal infection may serve as a potential novel biomarker of pathogen-mediated inflammation.
 :::
 
 ::: {.callout-note collapse="true"}
-## Persistent stimulation of human mesenchymal stem/stromal cells with TNF$\alpha$ and IFN$\gamma$ affects the release of large eExtracellular vesicles with immunoregulatory phenotype
+## Persistent stimulation of human mesenchymal stem/stromal cells with TNF$\alpha$ and IFN$\gamma$ affects the release of large extracellular vesicles with immunoregulatory phenotype
 
 Castro-Manrreza M, Romano LE, López-García L, Medina-Contreras O, Montesinos J\
 [*Stem Cells Dev* 34(13-14), 291-303](https://www.liebertpub.com/doi/10.1089/scd.2025.0064)
@@ -55,7 +55,7 @@ Mesenchymal stem/stromal cells (MSCs) possess immunoregulatory capacity, which i
 :::
 
 ::: {.callout-note collapse="true"}
-## A Lambda-evo (λevo) phage platform for Zika virus EDIII protein displayed
+## A Lambda-evo ($\lambda$evo) phage platform for Zika virus EDIII protein displayed
 
 Negrete-Méndez H, Valencia-Toxqui G, Martínez-Peñafiel E, Medina-Contreras O, Fernández-Ramírez F, Morales-Ríos E, Navarro-González LJ, Torres-Flores JM, Kameyama L\
 [*Appl Microbiol Biotechnol* 109(8), 1–20](https://link.springer.com/article/10.1007/s00253-024-13380-3)
@@ -231,7 +231,7 @@ Purpose: The aim of this trial was to evaluate the safety and efficacy of a trab
 :::
 
 ::: {.callout-note collapse="true"}
-## Editorial: Women in mucosal immunity\]
+## Editorial: Women in mucosal immunity\
 
 Bose T, Medina-Contreras O, Fernández C, Finotto S\
 [*Front Immunol* 14, 1282709](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1282709/full)

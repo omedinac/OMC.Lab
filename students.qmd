@@ -31,7 +31,7 @@ title: "Students"
 
 ![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
 
-![](res/omclab.jpg){width="150"} [Arleth Garibay Oropeza](https://www.instagram.com/omc_lab/)
+![](res/arleth.png){width="150"} [Arleth Garibay Oropeza](https://www.instagram.com/omc_lab/)
 :::
 
 ::: callout-tip
