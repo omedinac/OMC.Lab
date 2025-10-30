@@ -7,39 +7,41 @@ title: "Students"
 ::: callout-tip
 ## Postdoc
 
-![](res/diana.png){width="150"} [Diana Villalpando](https://www.linkedin.com/in/diana-villalpando-7a2626148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACOwFuoBbBMsMRvT2ga6_CoNKoHdye6b508&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BGLSCXG2qSMmbjU1mPxYyHg%3D%3D)
+![](res/diana.png){width="150"} [Dianis](https://www.linkedin.com/in/diana-villalpando-7a2626148)
 :::
 
 ::: callout-tip
 ## PhD
 
-![](res/lu.png){width="150"} [Lucero Nuncio Mora](https://www.instagram.com/omc_lab/)
+![](res/lu.png){width="150"} [Lu](https://www.instagram.com/omc_lab/)
 
-![](res/ale.jpg){width="150"} [Alejandra Ariadna Rueda Escalona](https://www.instagram.com/omc_lab/)
+![](res/ale.jpg){width="150"} [Ale](students/ale.qmd)
 
-![](res/bety.png){width="150"} [Albertana Jimenez-Pineda](https://loop.frontiersin.org/people/1956319/overview)
+![](res/sam.png){width="150"} [Samm](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 
-![](res/sam.png){width="150"} [Samantha Ysais-Chong](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
+![](res/bety.png){width="150"} [Bety](https://loop.frontiersin.org/people/1956319/overview)
+
 :::
 
 ::: callout-tip
 ## MSc
 
-![](res/brendaland.png){width="150"} [Brenda Landa Esquivias](https://www.instagram.com/omc_lab/)
+![](res/arleth.png){width="150"} [Arleth](https://www.instagram.com/omc_lab/)
 
-![](res/ashley.png){width="150"} [Ashley García Yepes](https://www.instagram.com/omc_lab/)
+![](res/brendaland.png){width="150"} [Brenda](students/brenda.qmd)
 
-![](res/bren.png){width="150"} [Brenda Hernández Martínez](https://www.instagram.com/himfogram/)
+![](res/ashley.png){width="150"} [Ashley](https://www.instagram.com/omc_lab/)
 
-![](res/arleth.png){width="150"} [Arleth Garibay Oropeza](https://www.instagram.com/omc_lab/)
+![](res/bren.png){width="150"} [Bren](https://www.instagram.com/himfogram/)
+
 :::
 
 ::: callout-tip
 ## Undergrad
 
-![](res/aelinne.png){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.)
+![](res/omclab.jpg){width="150"} [Ernesto](https://www.instagram.com/omc_lab/)<!--. Estancia Estudiantil, Universidad Nacional Autónoma de México-->
 
-![](res/omclab.jpg){width="150"} [Ernesto Augusto Aguilar Alva](https://www.instagram.com/omc_lab/)
+![](res/fer.png){width="150"} [Fer](http://www.)<!--. Licenciatura en Nutrición, Universidad Autónoma de Occidente-->
 
 :::
 
@@ -47,37 +49,39 @@ title: "Students"
 ::: callout-tip
 ## Former
 
-![](res/fer.png){width="150"} [Luisa Fernanda Palazuelos Altamirano](http://www.)
+-   [ ] Felipe Ángeles Castro-Martínez. Doctorado en Fisiología Celular, CINVESTAV
+-   [ ] ![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman, PhD](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman). Doctorado en Ciencias Químico Biológicas, Instituto Politécnico Nacional
+-   [ ] Julissa Luvian Morales. Doctorado en Ciencias Medicas, Universidad Nacional Autónoma de México
+-   [ ] Laura Denise Manzanares-Meza. Doctorado en Biomedicina Molecular, CINVESTAV
 
-![](res/clau.png){width="150"} [Claudia I Gutierrez-Roman, PhD](https://www.researchgate.net/profile/Claudia-Gutierrez-Roman)
+---
 
-![](res/yanen.jpg){width="150"} [Yanen Z Rios Lozano, MSc](https://www.instagram.com/dra.yanen.rios?igsh=Y29oazMwMzRieDlw)
+-   [ ] Celic Amairani Cisneros Sánchez. Maestría en Nutrición Clínica, Universidad Anáhuac México Norte
+-   [ ] Merari Delgadillo González
+-   [ ] Sara Itzel Miguel-Suarez. Maestría en Inmunología, Instituto Politécnico Nacional
+-   [ ] Miguel Ángel Prieto-Islas. Maestría en Ciencias Químico Biológicas, Instituto Politécnico Nacional
+-   [ ] ![](res/yanen.jpg){width="150"} [Yanen Z Rios Lozano, MSc](https://www.instagram.com/dra.yanen.rios?igsh=Y29oazMwMzRieDlw). Maestría en Biomedicina Molecular, CINVESTAV
 
--   [ ] Laura D Manzanares-Meza\
--   [ ] Felipe A Castro-Martínez\
--   [ ] Julissa Luvian Morales\
-- [ ] Amairani
--   [ ] Miguel A Prieto-Islas\
--   [ ] Merari Delgadillo González\
--   [ ] Sara I Miguel-Suarez\
--   [ ] Nelly X Álvarez Martínez\
--   [ ] Maria D Vazquez Martinez\
--   [ ] Valeria C Campuzano Espinal\
--   [ ] Eunice Amezcua Arroyo\
--   [ ] Yereth Torres Damian\
--   [ ] Sandra N Garduño Vergara\
--   [ ] Cristian Avila Mijangos\
--   [ ] Daniel Calderon Loeza\
--   [ ] Abril J Armenta Manjarrez\
--   [ ] Josue Zambrano Carrasco\
--   [ ] Carolina A Martinez Mendiola\
--   [ ] Fernando A Diaz Sanchez\
--   [ ] Raquel Camacho Millan\
--   [ ] Sandra L Gonzalez Lopez\
--   [ ] Rubi Escobar Resendiz\
--   [ ] Bibiana Fabian Mora
-- [Yes](http://www.)
-- [Nico](http://www.)
+---
+
+-   [ ] Nelly Xiadani Álvarez Martínez. Servicio Social en Investigación, Secretaría de Salud
+-   [ ] Eunice Amezcua Arroyo. Prácticas Pofesionales, Universidad Tecnológica de Morelia
+-   [ ] Abril J Armenta Manjarrez. Verano de la Investigación Científica, Universidad Autónoma
+-   [ ] Yesica Lizeth Cabrera. Instituto Tecnológico de Tecámac
+-   [ ] Raquel Camacho Millan. Universidad Autónoma de Sinaloa
+-   [ ] Valeria C Campuzano Espinal. Prácticas Pofesionales, Universidad Tecnológica de Morelia
+-   [ ] Sandra N Garduño Vergara. Servicio Social en Investigación, Universidad Nacional Autónoma de México
+-   [ ] Cristian Avila Mijangos. Universidad Autónoma Metropolitana
+-   [ ] Daniel Calderon Loeza. Prácticas Pofesionales, Universidad Tecnológica de Morelia
+-   [ ] Fernando A Diaz Sanchez. Universidad Autónoma de Yucatán
+-   [ ] Rubi Escobar Resendiz. Universidad Autónoma de Yucatán
+-   [ ] Bibiana Fabian Mora. Benemérita Universidad de Puebla
+-   [ ] Sandra L Gonzalez Lopez. Universidad Autónoma de Aguascalientes
+-   [ ] ![](res/aelinne.png){width="150"} [Aelinne Alejandra Pérez Martínez](http://www.). Estancia Estudiantil, Universidad Nacional Autónoma de México
+-   [ ] Nicolás Santillán Servín. Instituto Tecnológico de Tecámac
+-   [ ] Yereth Torres Damian. Servicio Social en Investigación, Universidad Nacional Autónoma de México
+-   [ ] Maria Daniela Vazquez Martinez. Prácticas Pofesionales, Universidad Tecnológica de Morelia
+-   [ ] Josue Zambrano Carrasco
 :::
-
+	
 -->

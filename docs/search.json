@@ -11,7 +11,7 @@
     "href": "students.html",
     "title": "Students",
     "section": "",
-    "text": "We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!\n\n\n\n\n\n\nTipPostdoc\n\n\n\n Diana Villalpando\n\n\n\n\n\n\n\n\nTipPhD\n\n\n\n Lucero Nuncio Mora\n Alejandra Ariadna Rueda Escalona\n Albertana Jimenez-Pineda\n Samantha Ysais-Chong\n\n\n\n\n\n\n\n\nTipMSc\n\n\n\n Brenda Landa Esquivias\n Ashley García Yepes\n Brenda Hernández Martínez\n Arleth Garibay Oropeza\n\n\n\n\n\n\n\n\nTipUndergrad\n\n\n\n Aelinne Alejandra Pérez Martínez\n Ernesto Augusto Aguilar Alva"
+    "text": "We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!\n\n\n\n\n\n\nTipPostdoc\n\n\n\n Dianis\n\n\n\n\n\n\n\n\nTipPhD\n\n\n\n Lu\n Ale\n Samm\n Bety\n\n\n\n\n\n\n\n\nTipMSc\n\n\n\n Arleth\n Brenda\n Ashley\n Bren\n\n\n\n\n\n\n\n\nTipUndergrad\n\n\n\n Ernesto\n Fer"
   },
   {
     "objectID": "about.html",
@@ -369,5 +369,19 @@
     "title": "A typesetting system to untangle the scientific writing process",
     "section": "Methods",
     "text": "Methods\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus dictum leo, vel molestie felis hendrerit at. In diam nisl, rhoncus dapibus facilisis at, laoreet ac nunc. Sed vehicula metus id faucibus tempus. Etiam at laoreet orci, mattis efficitur sem. Aenean eu malesuada nisl. Mauris tempor pulvinar magna, eu tempus felis aliquet nec. In nec iaculis nisi. Fusce at arcu enim. In ipsum massa, pretium vitae pharetra in, vulputate vel felis.\n\\(a + b = gamma\\)\nMauris egestas laoreet aliquam. Integer non convallis risus. Ut eu felis ut augue ultricies tempus. Integer posuere lacinia ex, ac sollicitudin tortor tempus id. Morbi dictum elit at orci accumsan, vitae volutpat dui scelerisque. Pellentesque vitae lectus id nisl posuere placerat pharetra nec ligula. Donec laoreet ligula hendrerit velit tempus porttitor. Vivamus eleifend imperdiet magna quis pellentesque. Pellentesque blandit congue nisi ac ultricies. Sed velit ante, pretium nec facilisis ac, ultricies vitae orci. In hac habitasse platea dictumst. Phasellus massa mauris, tincidunt sed facilisis eu, venenatis a leo.\nFusce id risus mauris. Morbi tincidunt interdum odio, a laoreet sem pulvinar condimentum. Integer suscipit lobortis quam vitae hendrerit. Duis nec convallis mi. Etiam cursus felis eget sem tincidunt, at vulputate urna mattis. Aenean nec libero condimentum, posuere tellus eget, ultrices dui. In quis magna ac metus facilisis porta. Integer et massa dignissim, tempus massa quis, feugiat ante. Aliquam a tortor ligula. Praesent aliquam, lorem id ullamcorper rutrum, nunc orci posuere nulla, id fermentum mi erat a justo. Sed ut sapien vulputate, elementum ante ac, maximus lorem. Phasellus metus est, ultricies et ipsum ac, volutpat lobortis turpis. Vestibulum accumsan elementum vehicula."
+  },
+  {
+    "objectID": "students/ale.html",
+    "href": "students/ale.html",
+    "title": "Ariadna Alejandra Rueda Escalona",
+    "section": "",
+    "text": "Maestría en Ciencias Médicas\nUniversidad Anáhuac México Norte\nIG"
+  },
+  {
+    "objectID": "students/brenda.html",
+    "href": "students/brenda.html",
+    "title": "Brenda Landa Esquivias",
+    "section": "",
+    "text": "Maestría en Nutrición Clínica\nUniversidad Anáhuac México Norte\nIG\nProveedoa de cajeta"
   }
 ]
