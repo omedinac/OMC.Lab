@@ -14,7 +14,7 @@ title: "Students"
 ## PhD
 ::: {.columns}
 ::: {.column}
-![](res/lu.png){width="150"} [Lu](https://www.instagram.com/omc_lab/)
+![](res/lu.png){width="150"} [Lu](https://www.researchgate.net/profile/Lucero-Nuncio-Mora)
 
 ![](res/ale.jpg){width="150"} [Ale](students/ale.qmd)
 :::
