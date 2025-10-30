@@ -194,11 +194,6 @@ ggplot(mtcars2, aes(hp, mpg, color = am)) +
 ```
 
 
-page 1
-
-{{< pagebreak >}}
-
-page 2
 
 
 

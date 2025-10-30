@@ -2,13 +2,12 @@
 title: "Students"
 ---
 
-#### We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!
-
 ::: callout-tip
 ## Postdoc
 
 ![](res/diana.png){width="150"} [Dianis](https://www.linkedin.com/in/diana-villalpando-7a2626148)
 :::
+
 
 :::: callout-tip
 ## PhD
@@ -26,6 +25,10 @@ title: "Students"
 :::
 :::
 ::::
+
+::: {.column-margin}
+***We are always looking for enthusiastic, motivated and talented people, at all career stages, to join our team!***
+:::
 
 :::: callout-tip
 ## MSc
