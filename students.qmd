@@ -10,40 +10,52 @@ title: "Students"
 ![](res/diana.png){width="150"} [Dianis](https://www.linkedin.com/in/diana-villalpando-7a2626148)
 :::
 
-::: callout-tip
+:::: callout-tip
 ## PhD
-
+::: {.columns}
+::: {.column}
 ![](res/lu.png){width="150"} [Lu](https://www.instagram.com/omc_lab/)
 
 ![](res/ale.jpg){width="150"} [Ale](students/ale.qmd)
+:::
 
+::: {.column}
 ![](res/sam.png){width="150"} [Samm](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 
 ![](res/bety.png){width="150"} [Bety](https://loop.frontiersin.org/people/1956319/overview)
-
 :::
+:::
+::::
 
-::: callout-tip
+:::: callout-tip
 ## MSc
-
+::: {.columns}
+::: {.column}
 ![](res/arleth.png){width="150"} [Arleth](https://www.instagram.com/omc_lab/)
 
 ![](res/brendaland.png){width="150"} [Brenda](students/brenda.qmd)
+:::
 
+::: {.column}
 ![](res/ashley.png){width="150"} [Ashley](https://www.instagram.com/omc_lab/)
 
 ![](res/bren.png){width="150"} [Bren](https://www.instagram.com/himfogram/)
-
 :::
+:::
+::::
 
-::: callout-tip
+:::: callout-tip
 ## Undergrad
-
+::: {.columns}
+::: {.column}
 ![](res/omclab.jpg){width="150"} [Ernesto](https://www.instagram.com/omc_lab/)<!--. Estancia Estudiantil, Universidad Nacional Autónoma de México-->
-
-![](res/fer.png){width="150"} [Fer](http://www.)<!--. Licenciatura en Nutrición, Universidad Autónoma de Occidente-->
-
 :::
+
+::: {.column}
+![](res/fer.png){width="150"} [Fer](http://www.)<!--. Licenciatura en Nutrición, Universidad Autónoma de Occidente-->
+:::
+:::
+::::
 
 <!--
 ::: callout-tip
