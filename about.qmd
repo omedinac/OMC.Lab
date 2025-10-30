@@ -16,6 +16,15 @@ Dr. Castro research focuses on the effect of nutrition in ameliorating cervical 
 
 Dr. Castro received her bachelor’s degree in Nutrition from Universidad Ibero. She earned a Ph.D. in Immunology at the Biological Sciences National School, advised by Vianney Ortiz-Navarrete.
 
+```{r}
+#| echo: false
+library(leaflet)
+m = leaflet() %>% addTiles()
+
+
+m %>% addPopups(-99.15865366867729, 19.287279635730872, 'Here is the <b>Castro lab</b>, INCan')
+```
+
 # Oscar Medina-Contreras
 
 # ![Oscar Medina Contreras](res/omc.JPG){width="200"}
@@ -29,3 +38,12 @@ Dr. Oscar Medina Contreras is a Medical Sciences Researcher at Mexico Children's
 Dr. Medina's research focuses on the role of intestinal immune cells in the regulation of experimental models of Crohn’s disease and ulcerative colitis, and has been supported by the National Council for Science and Technology (CONACYT), and the Crohn’s and Colitis Foundation of America. Dr. Medina is a grant reviewer for several funding agencies, including CONACYT. He has published more than 50 peer-reviewed studies with over 1600 cites, and has served on the editorial board of Gene Reports and Mediators of Inflammation. He is a member of the Mexican Academy of Sciences, the Society for Mucosal Immunology, the Mexican Society for Immunology, <!--the American Association of Immunologists, the American Society for Investigative Pathology,--> and the National Research System.
 
 Dr. Medina received his bachelor’s degree in Biology from State of Mexico Autonomous University. He earned a Ph.D. in Molecular Biomedicine at the Center for Research and Advanced Studies, advised by Vianney Ortiz-Navarrete, and did postdoctoral training in the Department of Pediatrics and the Department of Pathology and Laboratory Medicine at Emory University, under the mentorship of Tim Denning and Charles Parkos.
+
+```{r}
+#| echo: false
+library(leaflet)
+m = leaflet() %>% addTiles()
+
+
+m %>% addPopups(-99.152942, 19.411332, 'Here is the <b>OMC lab</b>, HIMFG')
+```
