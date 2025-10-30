@@ -3,14 +3,14 @@ title: "Students"
 ---
 
 ::: callout-tip
-## Postdoc
+# Postdoc
 
 ![](res/diana.png){width="150"} [Dianis](https://www.linkedin.com/in/diana-villalpando-7a2626148)
 :::
 
 
 :::: callout-tip
-## PhD
+# PhD
 ::: {.columns}
 ::: {.column}
 ![](res/lu.png){width="150"} [Lu](https://www.researchgate.net/profile/Lucero-Nuncio-Mora)
@@ -31,7 +31,7 @@ title: "Students"
 :::
 
 :::: callout-tip
-## MSc
+# MSc
 ::: {.columns}
 ::: {.column}
 ![](res/arleth.png){width="150"} [Arleth](https://www.instagram.com/omc_lab/)
@@ -48,7 +48,7 @@ title: "Students"
 ::::
 
 :::: callout-tip
-## Undergrad
+# Undergrad
 ::: {.columns}
 ::: {.column}
 ![](res/omclab.jpg){width="150"} [Ernesto](https://www.instagram.com/omc_lab/)<!--. Estancia Estudiantil, Universidad Nacional Autónoma de México-->
