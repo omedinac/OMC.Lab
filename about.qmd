@@ -4,7 +4,10 @@ title: "About Us"
 
 # Denisse Castro-Eguiluz
 
-# ![Denisse Castro Eguiluz](res/den.jpeg){width="200"}
+::: {.column-margin dy=-6em} 
+
+![Denisse Castro Eguiluz](res/den.jpeg){width="200"}
+:::
 
 |  |  |  |||
 |----|----|----|----|----|----|----|
@@ -27,7 +30,10 @@ m %>% addPopups(-99.15865366867729, 19.287279635730872, 'Here is the <b>Castro l
 
 # Oscar Medina-Contreras
 
-# ![Oscar Medina Contreras](res/omc.JPG){width="200"}
+::: {.column-margin dy=-6em}
+
+![Oscar Medina Contreras](res/omc.JPG){width="200"}
+:::
 
 |  |  |  |  |
 |:--:|:--:|:--:|:--:|
@@ -47,3 +53,4 @@ m = leaflet() %>% addTiles()
 
 m %>% addPopups(-99.152942, 19.411332, 'Here is the <b>OMC lab</b>, HIMFG')
 ```
+

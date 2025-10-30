@@ -1,10 +1,10 @@
 ---
-title: "Modulation of the intestinal inflammation"
-subtitle: "Using isobad and macrophages"
+title: "code"
+subtitle: "markdown layout"
 # shorttitle: "Handout Layout"
 documenttype: Handout
 abstract: |
-  This manuscript showcases our currrent findings on the anti-inflammatory properties of sea cucumber extracts *in vitro* and *in vivo*, by emulating colitis or psoriasis.
+  This showcases
 
 author: 
   - name: "Oscar Medina Contreras"
@@ -29,35 +29,6 @@ geometry:
   - marginparsep=.25in
   - marginparwidth=2.25in
 ---
-
-
-# Introduction
-
-Inflammation is a natural defense response from the host to tissue injury. It is a highly coordinated serial of events that involves different types cells and the release of anti-inflammatory mediators. The release of these mediators is an important step to stop inflammation in order to begin the process of healing. However, when inflammatory response is uncontrolled chronic inflammation resulted. Chronic inflammation is related with an array of health disorders such as cancer among other pathologies. From here the importance to search for bioactive molecules that could turn off proinflammatory genes or  turn on the anti-inflammatory ones  helping healing of the tissue or suppressing cancer cell growth. Natural sources have been and will continue to be a source of bioactive substances including anti-inflammatory ones. Marine organism including invertebrates have been screened looking for anti-inflammatory substances.
-
-## Sea cucumber
-
-Sea cucumber are benthic marine invertebrates belonging to the class Holothuroidea. They are found in all seas of the globe. Sea cucumbers are consumed mostly in Asian countries not only because their nutritional composition but also as folk medicine. The part of the body of the animal that is consumed to obtain nutrients and the biological effects is the body wall.
-
-::: {.column-margin dy=-4cm}
-
-![*Isostichopus badionotus*](/Images/isobad.png){width=75%}
-
-:::
-
-In the last 20 years research has been carried out to elucidate the bioactive molecules from sea cucumbers as well as their in vivo effect. Among the biological activities that have been evaluated we have the antimicrobial, anticoagulant, antithrombotic, antioxidant, anti-hypertensive, antitumor , anti-inflammatory and wound healing.  Glycosaminoglycans, saponins, triterpenes glycosides, saponins, lectins , sphingolipids and peptides among others  molecules have been  found in the body wall of different species of sea cucumbers. 
-
-In the Peninsula of Yucatan are found three principal species of sea cucumber: Holothuria floridana, Isostichopus multifudus and Isostichopus badionotus. The later one is highly demanded in the Asian market. There are scientific information that demonstrated that I. badionotus possess biological activities such an anticoagulant, anti-hypertensive, antitrombotic and antimalarial activity. There few information about its anti-inflammatory and wound healing effects.
-
-Our group of work have been isolated molecules form the body wall of I. badionotus.  Among the molecules we have obtained glycosaminoglycans, sphingolipids, saponins and peptides. Some of them have been tested in vivo models such as: in a rodent model (Wistar rats) testing the hypocholesterolemic effect of its consume; in the Hen’s egg test- chorio-allantoic membrane assay and; in the acute ear mice model using 12-0- tetradecanoylphorbol ester (TPA) . The results indicated that sea cucumber possess molecules that exhibit hypocholesterolemic effect (Olivera et al  Plos one 2013), topical anti-inflammatory response down regulated pro-inflammatory gens such as NfK beta TNF alpha, IL-1 β and IL-6 and further more, some crude extracts and isolates possess wound healing activity (article with major revision by Scientific Reports).
-
-*Isostichopus badionotus*, also known as the chocolate chip cucumber or the cookie dough sea cucumber, is a species of sea cucumber, that belongs to the family Stichopodidae. It is found in shallow waters of the tropical and subtropical Atlantic Ocean, from Florida to Brazil.  It has a cylindrical body that can reach up to 50 cm in length and 5 cm in diameter.  It is brown or reddish-brown in color, with darker spots and patches. It has tube feet on its ventral surface and around its mouth, which it uses for locomotion and feeding. It feeds on organic matter and detritus on the sea floor, and can expel its internal organs as a defense mechanism. It is an important source of food^[it is harvested for human consumption and for the production of *beche-de-mer*, a dried product used in Asian cuisine and medicine] and income for many coastal communities.
-
-<!--typography[^2] 
-
-[^2]: OMC lab website: [omclab.org](https://www.omclab.org)-->
-
-However the mechanism of these activities are not complete elucidated. In order to do it we need to carry on in vitro analysis  that support our observations in vivo.  The general aim is to evaluate the anti-inflammatory activity of the extracts and isolates of the body wall of sea cucumber in vitro  using different approaches:
 
 # Usage
 
@@ -92,72 +63,6 @@ Any _full width_ content here.
 :::
 
 
-# Peptides
-
-**name**|**sequence**|mass|
--|-|-
-LOC1|RGFDGPEGPRG|1144.19 g/mol
-LOC2|GFDGPEGPRG|988.01 g/mol
-LOC3|AQGARGDAAGARGANGPAG|1553.59 g/mol
-
-- LOC1
-RGFDGPEGPRG
-1144.19 g/mol
-
-- LOC2
-GFDGPEGPRG
-988.01 g/mol
-
-- LOC3
-AQGARGDAAGARGANGPAG
-1553.59 g/mol
-
-1. Test 300$\mu$g/ml as stock concentration
-1. Graph colitis DSS
-
-# Compounds
-
-1. The animal is deskinned and processed to obtain soluble protein[pepsin breaks down collagen]{.note}. Then it is fractioned by HPLC using a 80% acetonitrile gradient. Peak 2 is hydrolyzed with alcalase in PBS ph 7.4, ultrafiltrated in a <3kDa membrane, and then goes to flash chromatography. Finally, the sample is dialyzed in water and dryed.
-
-1. Se quita la piel y el interior del animal. La pared celular y los musculos se procesan para obtener las diferentes fracciones.
-Pared --> Proteína soluble --> 0-70 --> pico 1, pico 2 (papaina, hplc, ultrafiltración (cortes <1kDa, >1kDa, <3kDa, >3kDa), flash) **pico 2 es activo**
-Pared --> Proteína insoluble --> Colágeno --> pico 1, pico 2 (digestión con alcalasa/papaina, ultrafiltración (cortes de <1kDa, 1kDa, <3kDa, >3kDa)) --> flash (pico 1, pico 2, pico 3) **pico 2 es activo**
-
-1. Último lote de muestras [04.05.23]{.note arguments="numbered: false"}
-
-- Pico 2 colágeno <3kDa [ultrafiltrado, flash] *clave 1* **31mg**[mayor actividad]{.note}
-- Hidrolizado pepino (pico 1 y pico 2) <3kDa [ultrafiltrado tubo amicon] *clave 3* **40mg**[mayor actividad]{.note}
-- Pico 2 de pepino hidrolizado [flash] *proviene de clave 3* **Xmg**
-- Hidrolizado pepino <3kDa [papaina, ultrafiltrado amicon grande] *clave2+4* **210mg**
-- Pico 2 de pepino hidrolizado *proviene de clave 2+4* **8mg**
-- 0-70 silvestre **223mg**
-- 0-70 cultivo **275mg**
-- Colágeno <3kDa [digerido con papaína] **138mg**
-
-# Estimulación
-
-**compuesto**|**concentración**||
--|-|-
-0-70|10mg/ml|100X
-Clave 1|10mg/ml|100X
-Clave 2+4|10mg/ml|100X
-
-HaCaT cells
-
-CaCo2 cells
-
-C2BB1e cells
-
-# Acknowledgements {.unlisted}
-
-Thanks to the Quarto and Typst teams for these wonderful tools.  This format is made possible by [Quarto's](https://github.com/quarto-dev/quarto-cli/discussions?discussions_q=author%3Afredguth) and [Typst's](https://discord.gg/2uDybryKPe) communities. Special thanks to:
-
-- Mickaël Canouil (`@denny`);
-- Gordon Woodhull (`@dianis`);
-- Charles Teague (`@bren`);
-- Raniere Silva (`@chuck`); and
-- Christophe Dervieux (`@vu`)
-- `@ronen`
 
 
 :::{.column-body-outset}
