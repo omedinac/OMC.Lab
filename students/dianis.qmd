@@ -1,5 +1,6 @@
 ---
 title: "Diana Villalpando Sánchez"
+subtitle: "Starfleet Captain"
 format: html
 ---
 
