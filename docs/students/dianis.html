@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es-MX" xml:lang="es-MX"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Diana Villalpando Sánchez">
-<meta name="author" content="Oscar Medina Contreras">
-<meta name="author" content="Oscar Medina Contreras">
 
-<title>Tinción para citometría de flujo – OMC Lab</title>
+<title>Diana Villalpando Sánchez – OMC Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -58,36 +55,19 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No se han encontrado resultados",
-    "search-matching-documents-text": "documentos encontrados",
-    "search-copy-link-title": "Copiar el enlace en la búsqueda",
-    "search-hide-matches-text": "Ocultar resultados adicionales",
-    "search-more-match-text": "resultado adicional en este documento",
-    "search-more-matches-text": "resultados adicionales en este documento",
-    "search-clear-button-title": "Borrar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Buscar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
-<style>
-
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: #FFFFFF;
-      }
-
-      .quarto-title-block .quarto-title-banner {
-        color: #FFFFFF;
-background: #0047AB;
-      }
-</style>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -96,7 +76,7 @@ background: #0047AB;
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -104,8 +84,8 @@ background: #0047AB;
     <span class="navbar-title">OMC Lab</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Buscar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -138,247 +118,52 @@ background: #0047AB;
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Tinción para citometría de flujo</h1>
-            <p class="subtitle lead">UIEEN-PT-001</p>
-                      </div>
-  </div>
-    
-  <div class="quarto-title-meta-author">
-    <div class="quarto-title-meta-heading">Autores/as</div>
-    <div class="quarto-title-meta-heading">Afiliaciones</div>
-    
-      <div class="quarto-title-meta-contents">
-      <p class="author">Diana Villalpando Sánchez <a href="mailto:dianis@omclab" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-    </div>
-    <div class="quarto-title-meta-contents">
-          <p class="affiliation">
-              Tuneado por
-            </p>
-        </div>
-      <div class="quarto-title-meta-contents">
-      <p class="author">Oscar Medina Contreras <a href="mailto:omedina@himfg.edu.mx" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-4432-7780" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-    </div>
-    <div class="quarto-title-meta-contents">
-          <p class="affiliation">
-              Revisó
-            </p>
-        </div>
-      <div class="quarto-title-meta-contents">
-      <p class="author">Oscar Medina Contreras </p>
-    </div>
-    <div class="quarto-title-meta-contents">
-          <p class="affiliation">
-              Autorizó
-            </p>
-        </div>
-    </div>
-
-  <div class="quarto-title-meta">
-
-        
-      <div>
-      <div class="quarto-title-meta-heading">Fecha de publicación</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">31 de octubre de 2025</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">En esta página</h2>
-   
-  <ul>
-  <li><a href="#descripción-del-protocolo" id="toc-descripción-del-protocolo" class="nav-link active" data-scroll-target="#descripción-del-protocolo">Descripción del Protocolo</a>
-  <ul class="collapse">
-  <li><a href="#diagrama-de-flujo" id="toc-diagrama-de-flujo" class="nav-link" data-scroll-target="#diagrama-de-flujo">Diagrama de Flujo</a></li>
-  <li><a href="#anexos" id="toc-anexos" class="nav-link" data-scroll-target="#anexos">Anexos</a>
-  <ul class="collapse">
-  <li><a href="#reactivos-y-soluciones" id="toc-reactivos-y-soluciones" class="nav-link" data-scroll-target="#reactivos-y-soluciones">Reactivos y Soluciones</a></li>
-  </ul></li>
-  <li><a href="#documentos-de-referencia" id="toc-documentos-de-referencia" class="nav-link" data-scroll-target="#documentos-de-referencia">Documentos de referencia</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Diana Villalpando Sánchez</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<div class="callout callout-style-default callout-note callout-titled" title="Propósito">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Nota</span>Propósito
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Realizar una tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled" title="Alcance">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Nota</span>Alcance
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Este procedimiento involucra a todo el personal técnico, científico y estudiantes que deseen Realizar una tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo en la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Instituto Nacional de Salud Hospital Infantil de México Federico Gómez.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled" title="Políticas de operación, normas y lineamientos">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Nota</span>Políticas de operación, normas y lineamientos
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Es responsabilidad de todo el personal científico, estudiantes y técnicos adscritos a la Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar seguimiento a este procedimiento. Los residuos de tipo CRETI (Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán eliminar con base en su clasificación y especificaciones de manejo según la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus características intrínsecas y su toxicidad al ambiente según la NOM-052- SEMARNAT-2005</p>
-</div>
-</div>
-<section id="descripción-del-protocolo" class="level1">
-<h1>Descripción del Protocolo</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Nota</span>Pasos
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Tinción de superficie  Colocar 1 x10⁶ células en tubos para citometría de flujo.  Centrifugar a 1500rpm / 5 minutos / 4°C.  Re-suspender en 200µL de solución FACS (PBS 1X y SFB 2%).  Colocar anticuerpos de superficie titulados, incubar 30 minutos / obscuridad / 4ºC.  Lavar con 1mL de solución FACS.  </p>
-<p> Centrifugar a 1500 rpm / 5 minutos / 4°C.  Adicionar 500 µL de solución fijadora (BioLegend) o en su defecto, 100 µL de paraformaldehído 4%.  Incubar 20 minutos / obscuridad / 4ºC.  Lavar con 1mL de solución FACS.  Centrifugar 1500rpm / 5 minutos / 4°C.  Decantar el sobrenadante y re-suspender las células en 200µl de solución FACS.  Analizar la muestra inmediatamente o en los 2 días posteriores a la tinción.  Conservar la muestra hasta realizar el análisis.</p>
-<p>Tinción intracelular  Realizar tinción de superficie.  Re-suspender las células en 1mL de buffer de permeabilización (BioLegend).  Incubar 5 minutos / 4ºC.  Lavar con 1mL de buffer de permeabilización (BioLegend).  Centrifugar 1500rpm / 5 minutos / 4°C.  Colocar anticuerpos intracelulares titulados.  Incubar 30 minutos / obscuridad / 4ºC.  Lavar con 1mL de buffer de permeabilización (BioLegend).  Centrifugar 1500rpm / 5 minutos / 4°C.  Re-suspender el pellet en 200µL de solución FACS.  Analizar la muestra inmediatamente o en los 2 días posteriores a la tinción.  Conservar la muestra hasta realizar el análisis.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-caution callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Precaución</span>Notas
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li></li>
-</ul>
-</div>
-</div>
-</div>
-<section id="diagrama-de-flujo" class="level2">
-<h2 class="anchored" data-anchor-id="diagrama-de-flujo">Diagrama de Flujo</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="notebooks/images/facs.png" class="img-fluid figure-img" style="width:25.0%"></p>
-<figcaption>Figura 1. Diagrama de flujo</figcaption>
-</figure>
-</div>
-</section>
-<section id="anexos" class="level2">
-<h2 class="anchored" data-anchor-id="anexos">Anexos</h2>
-<section id="reactivos-y-soluciones" class="level3">
-<h3 class="anchored" data-anchor-id="reactivos-y-soluciones">Reactivos y Soluciones</h3>
-<ol class="example" type="1">
-<li>Reactivos</li>
-</ol>
-<ul>
-<li>UltraPure Agarose de Invitrogen</li>
-<li>SYBR SAFE</li>
-<li>Buffer carga 6X DNA Loading Dye</li>
-<li>Marcador de peso molecular</li>
-<li>TAE 1X</li>
-</ul>
-<ol start="2" class="example" type="1">
-<li>TAE</li>
-</ol>
-<div id="tbl-tae" class="quarto-float quarto-figure quarto-figure-center anchored" data-tbl-colwidths="[40,20,20,20]">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-tae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabla&nbsp;1: <strong>Preparación de TAE</strong>
-</figcaption>
-<div aria-describedby="tbl-tae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+</header>
+
+
 <table class="caption-top table">
-<colgroup>
-<col style="width: 40%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>1X</th>
-<th>50X</th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
-<td>Tris</td>
-<td>40 mM</td>
-<td>242 g</td>
-</tr>
-<tr class="even">
-<td>Ácido Acético</td>
-<td>20 mM</td>
-<td>57.1 mL</td>
-</tr>
-<tr class="odd">
-<td>Na<sub>2</sub>EDTA-2H<sub>2</sub>O</td>
-<td>1 mM</td>
-<td>18.61 g</td>
-</tr>
-<tr class="even">
-<td>dH<sub>2</sub>O<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></td>
-<td>1 L</td>
-<td>1 L</td>
+<td><a href="mailto:diana@omclab.org">email</a></td>
+<td><a href="https://orcid.org/">ORCiD</a></td>
+<td><a href="https://www.linkedin.com/in/diana-villalpando-sánchez-phd-7a2626148/">LinkedIn</a></td>
+<td><a href="https://www.researchgate.net/profile/Diana-Villalpando">RG</a></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-</div>
-</section>
-</section>
-<section id="documentos-de-referencia" class="level2">
-<h2 class="anchored" data-anchor-id="documentos-de-referencia">Documentos de referencia</h2>
-<p>Bushnell, T. Modern Flow Cytometry. 1–67 (Excyte, 2015).</p>
+<p>Diana is a Postdoctoral Fellow in the Inmunometabolism Laboratory at Mexico Children’s Hospital. Her research focuses in the immune responses during obesity and in adipocytes development. She is interested in flow cytometry and science communication. She is member of the <a href="https://conacyt.mx/sistema-nacional-de-investigadores/">National Research System</a> (SNII-C), the Mexican Society for Immunology, and the Society for Mucosal Immunology. Diana earned her Ph.D.&nbsp;in Immunology at the Biological Sciences National School.</p>
 
 
-</section>
-</section>
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas</h2>
-
-<ol>
-<li id="fn1"><p>aforar a<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -404,12 +189,12 @@ Tabla&nbsp;1: <strong>Preparación de TAE</strong>
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copiado");
+      button.setAttribute("title", "Copied!");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copiado");
+        button.setAttribute("data-bs-title", "Copied!");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

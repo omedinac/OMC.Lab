@@ -404,5 +404,12 @@
     "title": "code",
     "section": "",
     "text": "Any content can span to the full width of the page, simply place the element in a div and add the class column-page-right. For example, the following code will display its contents as full width.\n::: {.fullwidth}\nAny _full width_ content here.\n:::"
+  },
+  {
+    "objectID": "students/dianis.html",
+    "href": "students/dianis.html",
+    "title": "Diana Villalpando Sánchez",
+    "section": "",
+    "text": "email\nORCiD\nLinkedIn\nRG\n\n\n\n\n\n\nDiana is a Postdoctoral Fellow in the Inmunometabolism Laboratory at Mexico Children’s Hospital. Her research focuses in the immune responses during obesity and in adipocytes development. She is interested in flow cytometry and science communication. She is member of the National Research System (SNII-C), the Mexican Society for Immunology, and the Society for Mucosal Immunology. Diana earned her Ph.D. in Immunology at the Biological Sciences National School."
   }
 ]

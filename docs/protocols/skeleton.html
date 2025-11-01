@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es-MX" xml:lang="es-MX"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.3">
+<meta name="generator" content="quarto-1.9.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -882,10 +882,19 @@ function configurePlugins(quartoSearchOptions) {
         window.aa &&
         window["@algolia/autocomplete-plugin-algolia-insights"]
       ) {
+        // Check if cookie consent is enabled from search options
+        const cookieConsentEnabled = algoliaOptions["cookie-consent-enabled"] || false;
+
+        // Generate random session token only when cookies are disabled
+        const userToken = cookieConsentEnabled ? undefined : Array.from(Array(20), () =>
+          Math.floor(Math.random() * 36).toString(36)
+        ).join("");
+
         window.aa("init", {
           appId,
           apiKey,
-          useCookie: true,
+          useCookie: cookieConsentEnabled,
+          userToken: userToken,
         });
 
         const { createAlgoliaInsightsPlugin } =
@@ -4031,8 +4040,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">OMC Lab</span>
     </a>
@@ -4115,7 +4122,7 @@ window.Quarto = {
       <div>
       <div class="quarto-title-meta-heading">Fecha de publicación</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">11 de octubre de 2025</p>
+        <p class="date">31 de octubre de 2025</p>
       </div>
     </div>
     
