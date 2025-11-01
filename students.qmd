@@ -5,7 +5,7 @@ title: "Students"
 ::: callout-tip
 # Postdoc
 
-![](res/diana.png){width="150"} [Dianis](https://www.linkedin.com/in/diana-villalpando-7a2626148)
+![](res/diana.png){width="150"} [Dianis](students/dianis.qmd)
 :::
 
 
