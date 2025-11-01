@@ -35,9 +35,9 @@ m %>% addPopups(-99.15865366867729, 19.287279635730872, 'Here is the <b>Castro l
 ![Oscar Medina Contreras](res/omc.JPG){width="200"}
 :::
 
-|  |  |  |  |
-|:--:|:--:|:--:|:--:|
-| [email](mailto:omedina@himfg.edu.mx) | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) |  [IG](https://www.instagram.com/omc_lab/) |
+|  |  |  |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| [email](mailto:omedina@himfg.edu.mx) | [ORCiD](https://orcid.org/0000-0002-4432-7780) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56013615300) |  [IG](https://www.instagram.com/omc_lab/) |[appointments](https://calendar.app.google/hkxLCktvfEHdX8n27)|
 
 Dr. Oscar Medina Contreras is a Medical Sciences Researcher at Mexico Children's Hospital, a National Institute of Health, in the Immunology & Proteomics Laboratory and the Epidemiology, Endocrinology & Nutrition Research Unit. Before joining Mexico Children's Hospital, he was a research associate in the Institute for Biomedical Sciences' Center for Inflammation, Immunity & Infection at Georgia State University.
 
