@@ -1,0 +1,10 @@
+---
+title: "Diana Villalpando Sánchez"
+format: html
+---
+
+|  |  |  |||
+|----|----|----|----|----|----|----|
+| [email](mailto:diana@omclab.org) | [ORCiD](https://orcid.org/) | [LinkedIn](https://www.linkedin.com/in/diana-villalpando-sánchez-phd-7a2626148/)| [RG](https://www.researchgate.net/profile/Diana-Villalpando)|
+
+Diana is a Postdoctoral Fellow in the Inmunometabolism Laboratory at Mexico Children's Hospital. Her research focuses in the immune responses during obesity and in adipocytes development. She is interested in flow cytometry and science communication. She is member of the [National Research System](https://conacyt.mx/sistema-nacional-de-investigadores/) (SNII-C), the Mexican Society for Immunology, and the Society for Mucosal Immunology. Diana earned her Ph.D. in Immunology at the Biological Sciences National School.
