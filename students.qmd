@@ -62,45 +62,45 @@ title: "Students"
 ::: callout-tip
 ## Former
 
--   [ ] Laura Denise Manzanares-Meza, CINVESTAV
--   [ ] Felipe Ángeles Castro-Martínez, CINVESTAV
+-   [ ] Laura D Manzanares-Meza, CINVESTAV
+-   [ ] Felipe Á Castro-Martínez, CINVESTAV
 -   [ ] Claudia I Gutierrez-Roman, Instituto Politécnico Nacional
 -   [ ] Julissa Luvian Morales, Universidad Nacional Autónoma de México
 -   [ ] Albertana Jiménez Pineda, Instituto Politécnico Nacional
 
 ---
 
--   [ ] Yanen Z Rios Lozano, CINVESTAVe
--   [ ] Celic Amairani Cisneros Sánchez, Universidad Anáhuac México Norte
+-   [ ] Yanen Z Rios Lozano, CINVESTAV
+-   [ ] Celic A Cisneros Sánchez, Universidad Anáhuac México Norte
 -   [ ] Merari Delgadillo González
--   [ ] Sara Itzel Miguel-Suarez, Instituto Politécnico Nacional
--   [ ] Miguel Ángel Prieto-Islas, Instituto Politécnico Nacional
+-   [ ] Sara I Miguel-Suarez, Instituto Politécnico Nacional
+-   [ ] Miguel Á Prieto-Islas, Instituto Politécnico Nacional
 -   [ ] Brenda Hernández Martínez, Instituto Politécnico Nacional
 
 ---
 
--   [ ] Nelly Xiadani Álvarez Martínez, Secretaría de Salud
+-   [ ] Nelly X Álvarez Martínez, Secretaría de Salud
 -   [ ] Eunice Amezcua Arroyo, Universidad Tecnológica de Morelia
--   [ ] Abril Janeth Armenta Manjarrez, Universidad Autónoma de Sinaloa
--   [ ] Kenya Giselle De La Cruz Cuevas, Universidad Juárez Autónoma de Tabasco
--   [ ] Yesica Lizeth Cabrera, Instituto Tecnológico de Tecámac
--   [ ] Valeria Citlali Campuzano Espinal, Universidad Tecnológica de Morelia
--   [ ] Sandra Noemí Garduño Vergara, Universidad Nacional Autónoma de México
+-   [ ] Abril J Armenta Manjarrez, Universidad Autónoma de Sinaloa
+-   [ ] Kenya G De La Cruz Cuevas, Universidad Juárez Autónoma de Tabasco
+-   [ ] Yesica L Cabrera, Instituto Tecnológico de Tecámac
+-   [ ] Valeria C Campuzano Espinal, Universidad Tecnológica de Morelia
+-   [ ] Sandra N Garduño Vergara, Universidad Nacional Autónoma de México
 -   [ ] Cristian Avila Mijangos, Universidad Autónoma Metropolitana
 -   [ ] Daniel Calderon Loeza, Universidad Michoacana San Nicolas de Hidalgo
 -   [ ] Fernando A Diaz Sanchez, Universidad Autónoma de Yucatán
 -   [ ] Rubi Escobar Resendiz, Universidad Autónoma del Estado de Morelos
 -   [ ] Camila Ramírez Padilla, Universidad Nacional Autónoma de México
 -   [ ] Bibiana Fabian Mora, Benemérita Universidad de Puebla
--   [ ] Sandra Leticia Gonzalez Lopez, Universidad Autónoma de Aguascalientes
+-   [ ] Sandra L Gonzalez Lopez, Universidad Autónoma de Aguascalientes
 -   [ ] Nicolás Santillán Servín, Instituto Tecnológico de Tecámac
 -   [ ] Yereth Torres Damian, Universidad Nacional Autónoma de México
--   [ ] Maria Daniela Vazquez Martinez, Universidad Tecnológica de Morelia
+-   [ ] Maria D Vazquez Martinez, Universidad Tecnológica de Morelia
 -   [ ] Josue Zambrano Carrasco, Benemerita Universidad Autonoma De Puebla
 -   [ ] Guadalupe Aguirre Pérez, Universidad Simón Bolivar
 -   [ ] Michelle Avendaño Vega, Universidad Simón Bolivar
--   [ ] Aelinne Alejandra Pérez Martínez, Universidad Nacional Autónoma de México
--   [ ] Luisa Fernanda Palazuelos Altamirano, Universidad Autónoma de Occidente
--   [ ] Ernesto Agusto Aguilar Alva, Universidad Nacional Autónoma de México
--   [ ] Diego Humberto Gómez Picazo, Universidad de Valle de México
+-   [ ] Aelinne A Pérez Martínez, Universidad Nacional Autónoma de México
+-   [ ] Luisa F Palazuelos Altamirano, Universidad Autónoma de Occidente
+-   [ ] Ernesto A Aguilar Alva, Universidad Nacional Autónoma de México
+-   [ ] Diego Hu Gómez Picazo, Universidad de Valle de México
 :::
