@@ -10,6 +10,15 @@ title: "Publications"
 -->
 
 ::: {.callout-note collapse="true"}
+## Colitogenic Environment Suppresses Notch/Mechanistic Target of Rapamycin-Mediated Epithelial Proliferation to Promote Goblet Cell Differentiation in the Colon
+
+De la Torre-Baez R, Vizcarra-Soto M, Valdez-Palomares F, Díaz-González DM, Hernández-González A, Silva-Olivares A, Betanzos A, Encarnación-Garcia MR, Escobar-Sánchez ML, Torres-Ramírez N, Baay-Guzman GJ, Medina-Contreras O, Noriega LG, Nava P\
+[*Am J Pathol* epub ahead of print( ), 1-20](https://ajp.amjpathol.org/article/S0002-9440(26)00005-2/abstract)
+
+Epithelial barrier dysfunction is a hallmark of inflammatory bowel diseases; however, the mechanisms underlying such impairment remain incompletely understood. In the present study, a dextran sulfate sodium-induced colitis model was used to investigate how the inflammatory environment damages the intestinal mucosa. The results demonstrated that colitogenic ambiance enhances intestinal epithelial cell death, delays epithelial cell proliferation, and exacerbates mucosal erosion. Unexpectedly, this work identified a previously unrecognized role for Notch signaling in mediating these effects. Specifically, the colitogenic milieu reduces Notch/mechanistic target of rapamycin complex 1 (mTORC1)-mediated intestinal epithelial cell proliferation to promote goblet cell differentiation. Chemical activation of Notch signaling stimulated intestinal epithelial cell proliferation and reduced goblet cell differentiation in the colitic mucosa, further aggravating mucosal damage. Conversely, inhibition of Notch or mTORC1 signaling during mucosal repair reduced intestinal epithelial cell proliferation and enhanced goblet cell differentiation, corroborating the implication of Notch and mTORC1 signaling in both processes. Collectively, these findings uncover a context-dependent role for the Notch-mechanistic target of rapamycin axis in regulating intestinal epithelial cell proliferation and differentiation in the colitic mucosa and suggest that its targeted modulation may hold therapeutic potential in inflammatory bowel diseases.
+:::
+
+::: {.callout-note collapse="true"}
 ## Sea cucumber (*Isostichopus badionotus*): bioactivity and wound healing capacity *in vitro* of small peptide isolates from digests of whole-body wall or purified collagen
 
 Olivera-Castillo L, Grant G, Medina-Contreras O, Cruz-López H, Carrillo-Cocom L, Cruz-Córdova A, Segura-Cadiz F, Fernández-Velasco DA, Rodríguez-Morales S, Cauich-Rodríguez JV, Moo-Puc RE, Puerto-Castillo C, Moo-Pech GJ, Uuh-Narvaez JJ, Olvera-Novoa, MA, Rodriguez-Canul R\
