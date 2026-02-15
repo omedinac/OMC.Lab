@@ -3,10 +3,13 @@ title: "Ariadna Alejandra Rueda Escalona"
 format: html
 ---
 
-Maestría en Ciencias Médicas
+Maestría en Ciencias Médicas, Universidad Anáhuac México Norte
 
-Universidad Anáhuac México Norte
+::: {.column-margin dy=-6em} 
 
-[IG](https://www.instagram.com/omc_lab/)
+![Ale](){width="200"}
+:::
 
-
+|  |  |
+|----|----|
+| [Instagram](https://www.instagram.com/omc_lab/) | |
