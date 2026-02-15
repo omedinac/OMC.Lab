@@ -3,10 +3,17 @@ title: "Brenda Landa Esquivias"
 format: html
 ---
 
-Maestría en Nutrición Clínica
+Maestría en Nutrición Clínica, Universidad Anáhuac México Norte
 
-Universidad Anáhuac México Norte
+- influencer en proceso
+- proveedora de cajeta
+- pierde todo
 
-[IG](https://www.instagram.com/omc_lab/)
+::: {.column-margin dy=-6em} 
 
-Proveedora de cajeta
+![Brenda](){width="200"}
+:::
+
+|  |  |
+|----|----|
+| [Instagram](https://www.instagram.com/brenland_/) | [Tik Tok](https://) |
