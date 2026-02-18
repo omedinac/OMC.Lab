@@ -13,7 +13,7 @@ title: "About Us"
 |----|----|----|----|----|----|----|
 | [email](mailto:adcastro@secihti.mx) | [ORCiD](https://orcid.org/0000-0001-6873-122X) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193099819) | [Scholar](https://scholar.google.com/citations?hl=en&user=JgIAFVkAAAAJ=en)|
 
-Dr. Denisse Castro Eguiluz is a Researcher for Mexico (IxM) at the National Cancer Institute, in the MICAELA program.
+Dr. Denisse Castro Eguiluz is a Researcher for Mexico (IxM) at the National Cancer Institute.
 
 Dr. Castro research focuses on the effect of nutrition in ameliorating cervical cancer and local inflammation. She has published more than 30 peer-reviewed studies. She is member of the [National Research System](https://conacyt.mx/sistema-nacional-de-investigadores/), the Mexican Society for Immunology, and the American Dietetic Association.
 
