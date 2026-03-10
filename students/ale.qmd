@@ -1,5 +1,6 @@
 ---
-title: "Ariadna Alejandra Rueda Escalona"
+title: Ariadna Alejandra Rueda Escalona
+subtitle: Grad Student
 format: html
 ---
 
@@ -7,7 +8,7 @@ Maestría en Ciencias Médicas, Universidad Anáhuac México Norte
 
 ::: {.column-margin dy=-6em} 
 
-![Ale](){width="200"}
+![Ale](res/ale.jpg){width="200"}
 :::
 
 |  |  |

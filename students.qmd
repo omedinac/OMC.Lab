@@ -21,7 +21,7 @@ title: "Students"
 ::: {.column}
 ![](res/sam.png){width="150"} [Samm](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 
-![](res/bren.png){width="150"} [Bren](https://www.instagram.com/omc_lab/)
+![](res/bren.png){width="150"} [Bren](students/bren.qmd)
 
 :::
 :::

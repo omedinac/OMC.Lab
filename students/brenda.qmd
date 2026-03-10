@@ -1,5 +1,6 @@
 ---
-title: "Brenda Landa Esquivias"
+title: Brenda Landa Esquivias
+subtitle: Grad Student
 format: html
 ---
 
@@ -11,7 +12,7 @@ Maestría en Nutrición Clínica, Universidad Anáhuac México Norte
 
 ::: {.column-margin dy=-6em} 
 
-![Brenda](){width="200"}
+![Brenda](res/brendaland.png){width="200"}
 :::
 
 |  |  |

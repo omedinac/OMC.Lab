@@ -1,0 +1,16 @@
+---
+title: Brenda Hernández Martínez
+subtitle: Grad Student
+format: html
+---
+
+Doctorado en Ciencias con especialidad en Fisiología Celular, Biofísica y Neurociencias, CINVESTAV
+
+::: {.column-margin dy=-6em} 
+
+![Bren](res/bren.png){width="200"}
+:::
+
+|  |  |
+|----|----|
+| [Instagram](https://www.instagram.com/omc_lab/) | |

@@ -1,8 +1,13 @@
 ---
-title: "Diana Villalpando Sánchez"
-subtitle: "Starfleet Captain"
+title: Diana Villalpando Sánchez
+subtitle: Postdoctoral Fellow
 format: html
 ---
+
+::: {.column-margin dy=-6em} 
+
+![Dianis](res/diana.png){width="200"}
+:::
 
 |  |  |  |||
 |----|----|----|----|----|----|----|

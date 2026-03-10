@@ -12,7 +12,7 @@ title: "Publications"
 :::
 
 ::: {.callout-note collapse="true"}
-## Sea Cucumber (Isostichopus badionotus): Bioactivity and Wound Healing Capacity In Vitro of Small Peptide Isolates from Digests of Whole-Body Wall or Purified Collagen
+## Sea Cucumber (*Isostichopus badionotus*): Bioactivity and Wound Healing Capacity In Vitro of Small Peptide Isolates from Digests of Whole-Body Wall or Purified Collagen
 **Authors:** Olivera-Castillo L, Grant G, Medina-Contreras O, Cruz-López H, Carrillo-Cocom L, Cruz-Córdova A, Segura-Cadiz F, Fernández-Velasco DA, Rodríguez-Morales S, Cauich-Rodríguez JV, Moo-Puc RE, Puerto-Castillo C, Moo-Pech GJ, Uuh-Narvaez JJ, Olvera-Novoa MA, Rodriguez-Canul R
 
 **Citation:** Mar Drugs 23(11)
