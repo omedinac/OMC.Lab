@@ -21,6 +21,8 @@ title: "Students"
 ::: {.column}
 ![](res/sam.png){width="150"} [Samm](https://mx.linkedin.com/in/samantha-ysais-chong-036935213)
 
+![](res/bren.png){width="150"} [Bren](https://www.instagram.com/omc_lab/)
+
 :::
 :::
 ::::
@@ -46,8 +48,6 @@ title: "Students"
 :::
 ::::
 
-<!--
-![](res/pau.png){width="150"} [Pau](https://www.instagram.com/omc_lab/)
 :::: callout-tip
 # Undergrad
 ::: {.columns}
@@ -104,5 +104,5 @@ title: "Students"
 -   [ ] Aelinne A Pérez Martínez, Universidad Nacional Autónoma de México
 -   [ ] Luisa F Palazuelos Altamirano, Universidad Autónoma de Occidente
 -   [ ] Ernesto A Aguilar Alva, Universidad Nacional Autónoma de México
--   [ ] Diego Hu Gómez Picazo, Universidad de Valle de México
+-   [ ] Diego Gómez Picazo, Universidad de Valle de México
 :::
