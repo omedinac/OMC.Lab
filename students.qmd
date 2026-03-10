@@ -40,24 +40,24 @@ title: "Students"
 
 ::: {.column}
 ![](res/ashley.png){width="150"} [Ashley](https://www.instagram.com/omc_lab/)
+
+![](res/omclab.jpg){width="150"} [Pau](https://www.instagram.com/omc_lab/)
 :::
 :::
 ::::
 
-<!--
 :::: callout-tip
 # Undergrad
 ::: {.columns}
 ::: {.column}
-![](res/omclab.jpg){width="150"} [Ernesto](https://www.instagram.com/omc_lab/). Estancia Estudiantil, Universidad Nacional Autónoma de México
+![](res/omclab.jpg){width="150"} [Ernesto](https://www.instagram.com/omc_lab/)
 :::
 
 ::: {.column}
-![](res/fer.png){width="150"} [Fer](http://www.). Licenciatura en Nutrición, Universidad Autónoma de Occidente
+![](res/omclab.jpg){width="150"} [Aelinne](http://www.)
 :::
 :::
 ::::
--->
 
 ::: callout-tip
 ## Former
