@@ -46,6 +46,8 @@ title: "Students"
 :::
 ::::
 
+<!--
+![](res/pau.png){width="150"} [Pau](https://www.instagram.com/omc_lab/)
 :::: callout-tip
 # Undergrad
 ::: {.columns}
