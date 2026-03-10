@@ -56,7 +56,7 @@ title: "Students"
 :::
 
 ::: {.column}
-![](res/omclab.jpg){width="150"} [Aelinne](http://www.)
+![](res/aelinne.png){width="150"} [Aelinne](http://www.)
 :::
 :::
 ::::
@@ -101,8 +101,12 @@ title: "Students"
 -   [ ] Josue Zambrano Carrasco, Benemerita Universidad Autonoma De Puebla
 -   [ ] Guadalupe Aguirre Pérez, Universidad Simón Bolivar
 -   [ ] Michelle Avendaño Vega, Universidad Simón Bolivar
--   [ ] Aelinne A Pérez Martínez, Universidad Nacional Autónoma de México
 -   [ ] Luisa F Palazuelos Altamirano, Universidad Autónoma de Occidente
--   [ ] Ernesto A Aguilar Alva, Universidad Nacional Autónoma de México
 -   [ ] Diego Gómez Picazo, Universidad de Valle de México
 :::
+
+<!--
+-   [ ] Ernesto A Aguilar Alva, Universidad Nacional Autónoma de México
+
+-   [ ] Aelinne A Pérez Martínez, Universidad Nacional Autónoma de México
+-->
