@@ -8,7 +8,7 @@ listing:
     date-format: long
     fields: [image, title, author, reading-time]
     include:
-      author: 'Brenda Landa Esquivias'
+      author: 'Brenda Landa'
 ---
 
 ::: {.member-profile}
@@ -21,10 +21,15 @@ listing:
 
 **Position:** MSc student at Universidad Anáhuac México Norte
 
-- MSc in Clinical Nutrition
-- influencer en proceso
-- proveedora de cajeta
-- pierde todo
+
+::: {.callout-note}
+# self description
+Clinical Nutritionist and Master’s Candidate in Clinical Nutrition, focused on Oncology Nutrition and Body Composition Research at Instituto Nacional de Cancerología (INCan), Mexico.
+:::
+
+I am a nutrition professional interested in the interaction between metabolism, inflammation, skeletal muscle, and cancer outcomes. My current work focuses on women with endometrial cancer, evaluating how nutrition and physical activity interventions may influence muscle mass, functionality, and circulating exerkines before surgery.
+
+My long-term goal is to continue into doctoral training and contribute to the advancement of nutrition in oncology.
 
 ## Research Projects
 

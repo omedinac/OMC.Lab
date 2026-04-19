@@ -5,7 +5,7 @@ project:
 #  pre-render: scripts/generate_members.R
 
 website:
-  title: "OMC Lab"
+  title: "Castro-Medina Lab"
   favicon: images/logo-bpewg.svg
   description: "The Medina-Castro Laboratory is a network of scholars doing research in the field of Immunology"
   navbar:
