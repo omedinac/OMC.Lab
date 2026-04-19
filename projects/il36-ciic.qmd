@@ -4,15 +4,14 @@ subtitle: "The Immune Regulation"
 author:
   - name: "Nicte Figueroa"
     affiliation: "Universidad de Guanajuato"
-    url: /members/zsuzsanna-szeredi.qmd
+    url: /404.qmd
   - name: "Oscar Medina-Contreras"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
 date: 2022-03-10
 description: "This doctoral research project studies inflammation in metabolic diseases"
 categories:
-  - European Union
-  - PhD Project
+  - Metabolism
   - Ongoing Project
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true

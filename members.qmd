@@ -12,13 +12,13 @@ Postdoctoral Researcher
 ::: {.member-card}
 ![](images/members/sam.png){.member-photo}
 
-[**Samantha Ysais**](members/404.qmd)  
+[**Samantha Ysais**](404.qmd)  
 PhD Student
 :::
 ::: {.member-card}
 ![](images/members/lu.png){.member-photo}
 
-[**Lucero Nuncio**](members/404.qmd)  
+[**Lucero Nuncio**](404.qmd)  
 PhD Student
 :::
 ::: {.member-card}
@@ -36,7 +36,7 @@ MSc candidate
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**Ashley**](members/404.qmd)  
+[**Ashley Garcia**](404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -48,7 +48,7 @@ MSc Student
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**Paulina Zaldivar**](members/404.qmd)  
+[**Paulina Zaldivar**](404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -60,13 +60,13 @@ Postdoctoral Researcher
 ::: {.member-card}
 ![](images/members/den.jpeg){.member-photo}
 
-[**Denisse Castro**](members/404.qmd)  
+[**Denisse Castro**](404.qmd)  
 Researcher at National Cancer Institute
 :::
 ::: {.member-card}
 ![](images/members/omc.jpg){.member-photo}
 
-[**Oscar Medina**](members/404.qmd)  
+[**Oscar Medina**](404.qmd)  
 Professor at Hospital Infantil de Mexico
 :::
 :::
@@ -77,13 +77,13 @@ Professor at Hospital Infantil de Mexico
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**Laura Manzanares**](members/404.qmd)  
+[**Laura Manzanares**](404.qmd)  
 Postdoctoral Fellow at Rochester University
 :::
 ::: {.member-card}
 ![](images/members/clau.png){.member-photo}
 
-[**Claudia Gutierrez**](members/404.qmd)  
+[**Claudia Gutierrez**](404.qmd)  
 Algology Department, HGM
 :::
 :::
