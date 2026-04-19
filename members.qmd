@@ -24,14 +24,14 @@ PhD Student
 ::: {.member-card}
 ![](images/members/bren.png){.member-photo}
 
-[**Brenda Hernandez**](members/brenda-hernandez.qmd)  
+[**Brenda Hernandez**](members/404.qmd)  
 PhD Student
 :::
 ::: {.member-card}
 ![](images/members/ale.jpg){.member-photo}
 
-[**Alejandra Rueda**](members/alejandra-rueda.qmd)  
-MSc candidate
+[**Alejandra Rueda**](members/404.qmd)  
+MSc Candidate
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
@@ -42,7 +42,7 @@ MSc Student
 ::: {.member-card}
 ![](images/members/brendaland.png){.member-photo}
 
-[**Brenda Landa**](members/brenda-landa.qmd)  
+[**Brenda Landa**](members/404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -54,8 +54,8 @@ MSc Student
 ::: {.member-card}
 ![](images/members/arleth.png){.member-photo}
 
-[**Arleth Garibay**](members/diana-villalpando.qmd)  
-Postdoctoral Researcher
+[**Arleth Garibay**](members/404.qmd)  
+MSc Student
 :::
 ::: {.member-card}
 ![](images/members/den.jpeg){.member-photo}
@@ -67,7 +67,7 @@ Researcher at National Cancer Institute
 ![](images/members/omc.jpg){.member-photo}
 
 [**Oscar Medina**](404.qmd)  
-Professor at Hospital Infantil de Mexico
+Researcher at Hospital Infantil de Mexico
 :::
 :::
 

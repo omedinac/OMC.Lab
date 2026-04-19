@@ -1,12 +1,12 @@
 ## 2026
 
-1: De la Torre-Baez R, Vizcarra-Soto M, Valdez-Palomares F, Díaz-González DM,
+De la Torre-Baez R, Vizcarra-Soto M, Valdez-Palomares F, Díaz-González DM,
 Hernández-González A, Silva-Olivares A, Betanzos A, Encarnación-Garcia MR,
 Escobar-Sánchez ML, Torres-Ramírez N, Baay-Guzman GJ, Medina-Contreras O,
 Noriega LG, Nava P. Colitogenic Environment Suppresses Notch/Mechanistic Target
 of Rapamycin-Mediated Epithelial Proliferation to Promote Goblet Cell
-Differentiation in the Colon. Am J Pathol. 2026 Apr;196(4):900-919. doi:
-10.1016/j.ajpath.2025.12.011. Epub 2026 Jan 15. PMID: 41547478.
+Differentiation in the Colon. *Am J Pathol*. 2026; 196(4):900-919. doi:
+10.1016/j.ajpath.2025.12.011.
 
 ## 2025
 
@@ -16,12 +16,11 @@ Cauich-Rodríguez JV, Moo-Puc RE, Puerto-Castillo C, Moo-Pech GJ, Uuh-Narvaez JJ
 Olvera-Novoa MA, Rodriguez-Canul R. Sea Cucumber <i>(Isostichopus
 badionotus</i>): Bioactivity and Wound Healing Capacity In Vitro of Small
 Peptide Isolates from Digests of Whole-Body Wall or Purified Collagen. Mar
-Drugs. 2025 Oct 22;23(11):411. doi: 10.3390/md23110411. PMID: 41295379; PMCID:
-PMC12653620.
+Drugs. 2025 Oct 22;23(11):411. doi: 10.3390/md23110411.
 
 3: Hernández-Cuellar E, Tsuchiya K, Medina-Contreras O, Valle-Ríos R. The Role
 of Inflammasomes in LPS and Gram-Negative Bacterial Sepsis. J Clin Med. 2025 Oct
-9;14(19):7102. doi: 10.3390/jcm14197102. PMID: 41096182; PMCID: PMC12525411.
+9;14(19):7102. doi: 10.3390/jcm14197102.
 
 4: Prieto-Islas MA, Godoy-Dahbura E, Villalpando-Sánchez DC, Cortés-Benavides C,
 Hernández-Cuellar E, Castro-Eguiluz D, Alvarez-Neri H, Medina-Contreras O. HPV
