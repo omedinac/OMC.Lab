@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+
 #  pre-render: scripts/generate_members.R
 
 website:
