@@ -1,0 +1,74 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/chiquitunel_26.html",
+      "/news/paper01.html",
+      "/news/paper02.html",
+      "/projects/metabolism-sectei.html"
+    ]
+  },
+  {
+    "listing": "/members/alejandra-rueda.html",
+    "items": []
+  },
+  {
+    "listing": "/members/clement-fontan.html",
+    "items": []
+  },
+  {
+    "listing": "/members/zsuzsanna-szeredi.html",
+    "items": []
+  },
+  {
+    "listing": "/members/tom-duterme.html",
+    "items": []
+  },
+  {
+    "listing": "/members/ariane-gemander.html",
+    "items": []
+  },
+  {
+    "listing": "/members/diana-villalpando.html",
+    "items": []
+  },
+  {
+    "listing": "/members/zoe-evrard.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/chiquitunel_26.html",
+      "/news/paper01.html",
+      "/news/paper02.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/metabolism-sectei.html",
+      "/projects/il36-secihti.html"
+    ]
+  },
+  {
+    "listing": "/members/aurelien-goutsmedt.html",
+    "items": []
+  },
+  {
+    "listing": "/members/oscar-medina.html",
+    "items": []
+  },
+  {
+    "listing": "/members/denisse-castro.html",
+    "items": []
+  },
+  {
+    "listing": "/members/brenda-hernandez.html",
+    "items": []
+  },
+  {
+    "listing": "/members/brenda-landa.html",
+    "items": []
+  }
+]

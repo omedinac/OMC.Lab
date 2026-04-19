@@ -1,0 +1,89 @@
+---
+title: "Members"
+---
+
+::: {.member-grid}
+::: {.member-card}
+![](images/members/diana.png){.member-photo}
+
+[**Diana Villalpando**](members/diana-villalpando.qmd)  
+Postdoctoral Researcher
+:::
+::: {.member-card}
+![](images/members/sam.png){.member-photo}
+
+[**Samantha Ysais**](members/404.qmd)  
+PhD Student
+:::
+::: {.member-card}
+![](images/members/lu.png){.member-photo}
+
+[**Lucero Nuncio**](members/404.qmd)  
+PhD Student
+:::
+::: {.member-card}
+![](images/members/bren.png){.member-photo}
+
+[**Brenda Hernandez**](members/brenda-hernandez.qmd)  
+PhD Student
+:::
+::: {.member-card}
+![](images/members/ale.jpg){.member-photo}
+
+[**Alejandra Rueda**](members/alejandra-rueda.qmd)  
+MSc candidate
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Ashley**](members/404.qmd)  
+MSc Student
+:::
+::: {.member-card}
+![](images/members/brendaland.png){.member-photo}
+
+[**Brenda Landa**](members/brenda-landa.qmd)  
+MSc Student
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Paulina Zaldivar**](members/404.qmd)  
+MSc Student
+:::
+::: {.member-card}
+![](images/members/arleth.png){.member-photo}
+
+[**Arleth Garibay**](members/diana-villalpando.qmd)  
+Postdoctoral Researcher
+:::
+::: {.member-card}
+![](images/members/den.jpeg){.member-photo}
+
+[**Denisse Castro**](members/404.qmd)  
+Researcher at National Cancer Institute
+:::
+::: {.member-card}
+![](images/members/omc.jpg){.member-photo}
+
+[**Oscar Medina**](members/404.qmd)  
+Professor at Hospital Infantil de Mexico
+:::
+:::
+
+# Former
+
+::: {.member-grid}
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Laura Manzanares**](members/404.qmd)  
+Postdoctoral Fellow at Rochester University
+:::
+::: {.member-card}
+![](images/members/clau.png){.member-photo}
+
+[**Claudia Gutierrez**](members/404.qmd)  
+Algology Department, HGM
+:::
+:::

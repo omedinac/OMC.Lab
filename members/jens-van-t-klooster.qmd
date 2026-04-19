@@ -1,0 +1,20 @@
+---
+title: "Jens van't Klooster"
+---
+
+::: {.member-profile}
+![](https://ui-avatars.com/api/?name=Jens%20van%27t%20Klooster&background=593196&color=FFFFFF&size=256&rounded=true){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.jensvantklooster.com" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/website.svg" alt="Website" /></a>
+<a class="social-link" href="https://www.linkedin.com/in/jens-van-t-klooster-35762b260/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="LinkedIn" /></a>
+<a class="social-link" href="https://bsky.app/profile/jvtk.bsky.social" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Bluesky" /></a>
+<a class="social-link" href="mailto:j.m.vantklooster@uva.nl" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** Associate Professor at University of Amsterdam
+
+I am a political economist whose work focuses on the politics of financial governance, with a specific focus on the environmental impact of the financial system
+
+
+

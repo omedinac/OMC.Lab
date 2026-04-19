@@ -1,0 +1,34 @@
+---
+title: "Céleste Bonnamy"
+---
+
+::: {.member-profile}
+![](//images/members/celeste-bonnamy.jpeg){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.linkedin.com/in/c%C3%A9leste-bonnamy-98468091/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="LinkedIn" /></a>
+<a class="social-link" href="https://bsky.app/profile/celestebny.bsky.social" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Bluesky" /></a>
+<a class="social-link" href="https://scholar.google.be/citations?user=jsEJKTgAAAAJ&hl=fr" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/google-scholar.svg" alt="Google Scholar" /></a>
+<a class="social-link" href="mailto:celeste.bonnamy@sciencespo-lille.eu" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** Associate Professor at Sciences Po Lille
+
+I am a political scientist specializing in the sociology of European public action. My research lies at the intersection of European studies and international political economy, and focuses on the governance of digital technologies, the political economy of digital capitalism, and the EU’s regulatory strategies.
+
+
+## Publications
+
+Bonnamy, Céleste. (2026). [Democracy Versus Diplomacy? The Involvement of External Actors in Trilogue Negotiations](https://doi.org/10.1111/jcms.13772). *JCMS: Journal of Common Market Studies*, 64(2): 603--622.
+
+Bonnamy, Céleste. (2024). [From Liberalisation to Regulation: Managerial Political Work in the European Digital Copyright Policy (2014–2019)](https://doi.org/10.1080/13501763.2023.2287227). *Journal of European Public Policy*, 11(31): 3891--3913.
+
+Bonnamy, Céleste. (2024). [“The Commission Is Always Ready to Help”: The Ambiguous Relationship Between the European Commission and the Council Presidency in the Ordinary Legislative Procedure](https://doi.org/10.1007/978-3-031-44788-4_8). *EU Council Presidencies in Times of Crises*, Cham: Springer Nature Switzerland, 193--207.
+
+Bonnamy, Céleste. (2021). [Market, Culture, and Open-Access. European Copyright and the Renewal of a Historical Clash of Values in the Digital Age](https://doi.org/10.4324/9781003153863-5). *Value Politics in the European Union*, London: Routledge, 58--77.
+
+Bonnamy, Céleste. (2017). [L’Écrivain et le Marché unique:La mobilisation des représentants d’écrivains français face au projet de réforme européenne du droit d’auteur (2014-2016)](https://doi.org/10.3917/poeu.056.0078). *Politique européenne*, 56(2): 78--101.
+
+Bonnamy, Céleste, Clément Perarnaud. (2024). [Introduction. EU Digital Policies and Politics: Unpacking the European Approach to Regulate the “Digital”](https://doi.org/10.3917/poeu.081.0008). *Politique européenne*, N° 81(3): 8--27.
+
+Bonnamy, Céleste, Juliette Dupont. (2022). Chapter 7 Framing Activism in the EP: The Politicization of Visa Code and Copyright Reforms. *The Politicization of the European Union. From Processes to Consequences.*, Bruxelles: Éditions de l'Université de Bruxelles.

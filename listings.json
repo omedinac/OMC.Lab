@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-03-11-call-for-papers-workshop.html",
+      "/news/2026-01-30-programme-workshop.html",
+      "/news/2025-05-23-programme-workshop.html",
+      "/news/2025-02-03-programme-workshop.html",
+      "/news/2024-05-29-programme-workshop.html",
+      "/news/2024-01-31-programme-workshop.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/2026-03-11-call-for-papers-workshop.html",
+      "/news/2026-01-30-programme-workshop.html",
+      "/news/2025-05-23-programme-workshop.html",
+      "/news/2025-02-03-programme-workshop.html",
+      "/news/2024-05-29-programme-workshop.html",
+      "/news/2024-01-31-programme-workshop.html"
+    ]
+  }
+]

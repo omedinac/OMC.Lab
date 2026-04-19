@@ -1,0 +1,127 @@
+/* css styles */
+.member-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	gap: 1.5rem;
+}
+
+.member-card {
+	padding: 1.25rem;
+	border: 1px solid #e6eefb;
+	border-radius: 1rem;
+	background: #ffffff;
+	text-align: center;
+	box-shadow: 0 6px 16px rgba(12, 35, 64, 0.08);
+}
+
+.member-photo {
+	width: 180px;
+	height: 180px;
+	object-fit: cover;
+	border-radius: 999px;
+	margin: 0 auto 0.75rem;
+	display: block;
+	border: 4px solid #593196;
+}
+
+.member-profile {
+	text-align: center;
+	margin-bottom: 1.5rem;
+}
+
+.member-links {
+	display: flex;
+	justify-content: center;
+	gap: 0.75rem;
+	margin-top: 0.75rem;
+}
+
+.member-links-empty {
+	color: #6c757d;
+	font-size: 0.95rem;
+}
+
+.social-link {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 40px;
+	height: 40px;
+	border-radius: 1100px;
+	border: 1px solid #593196;
+	background: #ffffff;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.social-link:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 10px rgba(12, 35, 64, 0.12);
+}
+
+.social-icon {
+	width: 20px;
+	height: 20px;
+}
+
+.error-page {
+	max-width: 720px;
+	margin: 4rem auto;
+	padding: 2rem;
+	text-align: center;
+	border: 1px solid #e6eefb;
+	border-radius: 1rem;
+	background: #ffffff;
+	box-shadow: 0 6px 16px rgba(12, 35, 64, 0.08);
+}
+
+.error-page h1 {
+	margin-bottom: 1rem;
+}
+
+.error-page p {
+	margin-bottom: 1rem;
+}
+
+.announcement-icon {
+	display: inline-block;
+	width: 1.2em;
+	height: 1.2em;
+	margin-right: 0.4em;
+	margin-top: -0.15em;
+	vertical-align: middle;
+	background-color: var(--bs-primary);
+	-webkit-mask: url('images/icons/calendar-date-fill.svg') no-repeat center / contain;
+	mask: url('images/icons/calendar-date-fill.svg') no-repeat center / contain;
+}
+
+/* Dedicated Ecopo callout */
+.ecopo-callout {
+	position: relative;
+	margin: 1.25rem 0;
+	padding: 1rem 1.25rem 1rem 3rem;
+	border: 1px solid rgba(89, 49, 150, 0.25);
+	border-left: 6px solid #593196;
+	border-radius: 0.75rem;
+	background: rgba(89, 49, 150, 0.06);
+}
+
+.ecopo-callout::before {
+	content: "i";
+	position: absolute;
+	left: 1rem;
+	top: 1rem;
+	width: 1.3rem;
+	height: 1.3rem;
+	border-radius: 999px;
+	background: #593196;
+	color: #ffffff;
+	font-weight: 700;
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	line-height: 1.3rem;
+	text-align: center;
+}
+
+.ecopo-callout p:last-child {
+	margin-bottom: 0;
+}

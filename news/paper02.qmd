@@ -1,0 +1,15 @@
+---
+title: "Quality of life but not cachexia definitions are associated with overall survival in women with cervical cancer: a STROBE-compliant cohort study"
+author: Luvián-Morales J, Delgadillo-González M, Castro-Eguiluz D, Oñate-Ocaña LF, Cetina-Pérez L
+date: 2024-04-06
+categories: "Publicaciones"
+image: jjco.png
+---
+
+::: callout-important
+## *Jpn J Clin Oncol* 54(4):416-423
+
+Gut microbiota plays a crucial role in modulating immune responses, including effector response to infection and surveillance of tumors. This article summarizes the current scientific evidence on the effects of supplementation with prebiotics, probiotics, and synbiotics on high-risk human papillomavirus (HPV) infections, precancerous lesions, and various stages of cervical cancer development and treatment while also examining the underlying molecular pathways involved. Our findings indicate that a higher dietary fiber intake is associated with a reduced risk of HPV infection, while certain probiotics have shown promising results in clearing HPV-related lesions. Additionally, certain strains of probiotics, prebiotics such as inulin and fructo-oligosaccharides, and synbiotics decrease the frequency of gastrointestinal adverse effects in cervical cancer patients. These agents attain their results by modulating crucial metabolic pathways, including the reduction of inflammation and oxidative stress, promoting apoptosis, inhibiting cell proliferation, and suppressing the activity of oncogenes, thus attenuating tumorigenesis. We conclude that although further human studies are necessary, robust evidence in preclinical models demonstrates that prebiotics, probiotics, and synbiotics play an essential role in cervical cancer, from infection to carcinogenesis and its medical treatment. Consequently, we strongly recommend conducting high-quality clinical trials using these agents as adjuvants since they have proven safe.
+:::
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38146122/)

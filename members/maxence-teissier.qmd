@@ -1,0 +1,17 @@
+---
+title: "Maxence Teissier"
+---
+
+::: {.member-profile}
+![](https://ui-avatars.com/api/?name=Maxence%20Teissier&background=593196&color=FFFFFF&size=256&rounded=true){.member-photo}
+<div class="member-links">
+<a class="social-link" href="mailto:maxence.teissier@uclouvain.be" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** PhD applicant
+
+I am a socio-economist working on inflation measurement, particularly underlying inflation, and its role in monetary policy and central banking. My research studies the social and political foundations of macroeconomic indicators and the role they play in policy decisions.
+
+
+

@@ -1,0 +1,37 @@
+---
+title: "Papel de las citocinas IL-36 en la regulación de la respuesta inmune en mucosa intestinal"
+author:
+  - name: "Oscar Medina-Contreras"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2024-03-10
+description: "LPS/ATP stimulation induces cytokine relocalization to the plasma membrane, and conventional secretion blockade triggers no IL-36g accumulation within the cell."
+
+categories:
+  - Mucosal Immunology
+  - Inflammation
+  - Past Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/36.png
+draft: false
+---
+
+Mucosal innate immunity functions as the rst line of defense against invading
+pathogens. Members of the IL-1 family are key cytokines upregulated in the
+in amed mucosa. In ammatory cytokines are regulated by limiting their
+function and availability through their activation and secretion mechanisms.
+IL-1 cytokines secretion is affected by the lack of a signal peptide on their
+sequence, which prevents them from accessing the conventional protein
+secretion pathway; thus, they use unconventional protein secretion
+pathways. Here we show in mouse macrophages that LPS/ATP stimulation
+induces cytokine relocalization to the plasma membrane, and conventional
+secretion blockade using monensin or Brefeldin A triggers no IL-36$\gamma$
+accumulation within the cell. *In silico* modeling indicates IL-36$\gamma$ can pass
+through both the P2X7R and Gasdermin D pores, and both IL-36$\gamma$, P2X7R
+and Gasdermin D mRNA are upregulated in in ammation; further, experimental
+blockade of these receptors’ limits IL-36$\gamma$ release. Our results demonstrate that
+IL-36$\gamma$ is secreted mainly by an unconventional pathway through membrane
+pores formed by P2X7R and Gasdermin D.
+
+This research axis was conceived as an open and evolving space for 

@@ -1,0 +1,57 @@
+project:
+  type: website
+#  pre-render: scripts/generate_members.R
+
+website:
+  title: "OMC Lab"
+  favicon: images/logo-bpewg.svg
+  description: "The Medina-Castro Laboratory is a network of scholars doing research in the field of Immunology"
+  navbar:
+    logo: images/logo-bpewg.svg
+    logo-alt: "Research Group in Mexico"
+    pinned: true
+    right:
+      - href: index.qmd
+        text: About
+      - href: members.qmd
+        text: Members
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: news.qmd
+        text: News
+      - href: events.qmd
+        text: Events
+  page-footer:
+   right: 
+    - text: "by omc lab"
+      href: https://omclab.org
+    - text: "& "
+   center:
+    - text: '<img src="/images/icons/codeberg.svg" alt="Codeberg" style="height:1em; vertical-align:middle; margin-right:0.5em"> View source code'
+      href: https://codeberg.org/
+    - text: "Report an issue"
+      href: (mailto:)
+  announcement: 
+    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> The OMC lab is pleased to invite you to the Hospital Infantil de Mexico annual chiquitunel on 20-21 April 2026, at Hospital Infantil de México (see details [here](/news/chiquitunel_26.qmd))"
+    dismissable: true
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      - yeti # pulse lumen cerulean spacelab yeti 
+    grid:
+      body-width: 1200px
+      margin-width: 200px
+      gutter-width: 1.5rem
+    css: styles.css
+    toc: true
+
+bibliography: publications.bib
+
+filters:
+  - auto-dark
+
+

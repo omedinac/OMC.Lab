@@ -1,0 +1,164 @@
+{
+  "404.qmd": {
+    "404.html": "6fa0408f"
+  },
+  "events.qmd": {
+    "events.html": "944044b9"
+  },
+  "index.qmd": {
+    "index.html": "96a7479f"
+  },
+  "members.qmd": {
+    "members.html": "167ccf33"
+  },
+  "members/ariane-gemander.qmd": {
+    "ariane-gemander.html": "8e1fc501"
+  },
+  "members/aurelien-goutsmedt.qmd": {
+    "aurelien-goutsmedt.html": "4a5f6dd8"
+  },
+  "members/celeste-bonnamy.qmd": {
+    "celeste-bonnamy.html": "d1900eb5"
+  },
+  "members/clement-fontan.qmd": {
+    "clement-fontan.html": "0aec0f98"
+  },
+  "members/jens-van-t-klooster.qmd": {
+    "jens-van-t-klooster.html": "14683e33"
+  },
+  "members/mattia-lupi.qmd": {
+    "mattia-lupi.html": "369a7b88"
+  },
+  "members/tom-duterme.qmd": {
+    "tom-duterme.html": "ea4094a4"
+  },
+  "members/zoe-evrard.qmd": {
+    "zoe-evrard.html": "57193062"
+  },
+  "news.qmd": {
+    "news.html": "dadcf677"
+  },
+  "news/2024-01-31-programme-workshop.qmd": {
+    "2024-01-31-programme-workshop.html": "3d85e0db"
+  },
+  "news/2024-05-29-programme-workshop.qmd": {
+    "2024-05-29-programme-workshop.html": "9ae5c778"
+  },
+  "news/2025-02-03-programme-workshop.qmd": {
+    "2025-02-03-programme-workshop.html": "43f68bc4"
+  },
+  "news/2025-05-23-programme-workshop.qmd": {
+    "2025-05-23-programme-workshop.html": "659bb1f3"
+  },
+  "news/2026-01-30-programme-workshop.qmd": {
+    "2026-01-30-programme-workshop.html": "02feb3c0"
+  },
+  "news/2026-03-11-call-for-papers-workshop.qmd": {
+    "2026-03-11-call-for-papers-workshop.html": "111e8c17"
+  },
+  "publications.qmd": {
+    "publications.html": "60ed04fa"
+  },
+  "projects/excavating-academia-policy.qmd": {
+    "excavating-academia-policy.html": "498b3ad7"
+  },
+  "projects.qmd": {
+    "projects.html": "6fa50154"
+  },
+  "members/zsuzsanna-szeredi.qmd": {
+    "zsuzsanna-szeredi.html": "4f1380df"
+  },
+  "members/jerome-deyris.qmd": {
+    "jerome-deyris.html": "4e2213c7"
+  },
+  "members/santiago-dierckx.qmd": {
+    "santiago-dierckx.html": "ab20e66b"
+  },
+  "members/ruben-kremers.qmd": {
+    "ruben-kremers.html": "079ae5d8"
+  },
+  "members/damien-piron.qmd": {
+    "damien-piron.html": "9b41233e"
+  },
+  "members/maxence-teissier.qmd": {
+    "maxence-teissier.html": "c20b908b"
+  },
+  "projects/political-economy-eu-finances.qmd": {
+    "political-economy-eu-finances.html": "57d5d5e5"
+  },
+  "members/tiago-moreira-ramalho.qmd": {
+    "tiago-moreira-ramalho.html": "139a3fe6"
+  },
+  "projects/belgium_neoliberalism.qmd": {
+    "belgium_neoliberalism.html": "5784c5f5"
+  },
+  "members/dimitri-zurstrassen.qmd": {
+    "dimitri-zurstrassen.html": "13630156"
+  },
+  "news/chiquitunel_26.qmd": {
+    "chiquitunel_26.html": "3a4283bb"
+  },
+  "news/2025-05-23-paper.qmd": {
+    "2025-05-23-paper.html": "4e9242df"
+  },
+  "news/2025-05-23-2026-programme-workshop.qmd": {
+    "2025-05-23-2026-programme-workshop.html": "48dc9542"
+  },
+  "members/brenda.qmd": {
+    "brenda.html": "b576709c"
+  },
+  "members/bren.qmd": {
+    "bren.html": "11dc48e0"
+  },
+  "members/diana-villalpando.qmd": {
+    "diana-villalpando.html": "96d7e4ee"
+  },
+  "members/dianis.qmd": {
+    "dianis.html": "ee5863c5"
+  },
+  "members/ale.qmd": {
+    "ale.html": "4dade1e4"
+  },
+  "projects/metabolism.qmd": {
+    "metabolism.html": "f2b76ee1"
+  },
+  "about.qmd": {
+    "about.html": "e916c284"
+  },
+  "members/omc.qmd": {
+    "omc.html": "39276c76"
+  },
+  "members/alejandra-rueda.qmd": {
+    "alejandra-rueda.html": "ad1d6bcb"
+  },
+  "members/brenda-hernandez.qmd": {
+    "brenda-hernandez.html": "044e7150"
+  },
+  "members/denny.qmd": {
+    "denny.html": "05129d39"
+  },
+  "members/brenda-landa.qmd": {
+    "brenda-landa.html": "6d38bd8b"
+  },
+  "news/paper02.qmd": {
+    "paper02.html": "36614cde"
+  },
+  "news/paper01.qmd": {
+    "paper01.html": "26dc3e59"
+  },
+  "members/oscar-medina.qmd": {
+    "oscar-medina.html": "6ca70f1d"
+  },
+  "members/denisse-castro.qmd": {
+    "denisse-castro.html": "714f54f4"
+  },
+  "projects/il36-ciic.qmd": {
+    "il36-ciic.html": "fbdb9d09"
+  },
+  "projects/metabolism-sectei.qmd": {
+    "metabolism-sectei.html": "e7a124f1"
+  },
+  "projects/il36-secihti.qmd": {
+    "il36-secihti.html": "dd014563"
+  }
+}

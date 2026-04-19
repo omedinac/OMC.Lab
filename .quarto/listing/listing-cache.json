@@ -1,0 +1,58 @@
+{
+  "listingMap": {
+    "members/zoe-evrard.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/ariane-gemander.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/aurelien-goutsmedt.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/clement-fontan.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/tom-duterme.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/zsuzsanna-szeredi.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/damien-piron.qmd": [
+      "../projects/*.qmd"
+    ],
+    "index.qmd": [
+      "news/*.qmd",
+      "projects/*.qmd"
+    ],
+    "news.qmd": [
+      "news/*.qmd"
+    ],
+    "projects.qmd": [
+      "projects/*.qmd",
+      "B3049D40",
+      "404.qmd"
+    ],
+    "members/diana-villalpando.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/omc.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/alejandra-rueda.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/brenda-hernandez.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/brenda-landa.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/oscar-medina.qmd": [
+      "../projects/*.qmd"
+    ],
+    "members/denisse-castro.qmd": [
+      "../projects/*.qmd"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+---
+title: "404 — Page not found"
+toc: false
+page-layout: full
+---
+
+::: {.error-page}
+# Sorry, this page does not exist.
+
+The link may be outdated, or the page may have moved.
+
+[Go to the homepage](/index.html)
+
+[Browse members](/members.html)
+:::

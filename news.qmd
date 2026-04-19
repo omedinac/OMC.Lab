@@ -1,0 +1,13 @@
+---
+title: "News"
+listing:
+  - id: news
+    contents: news/*.qmd
+    sort: "date desc"
+    type: default
+    categories: true
+    date-format: long
+---
+
+::: {#news}
+:::

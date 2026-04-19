@@ -1,0 +1,68 @@
+---
+title: "Efecto de los metabolitos del microbioma intestinal en la resistencia a la insulina en pacientes pediátricos con obesidad y sarcopenia"
+subtitle: "Immmunological Analysis"
+author:
+  - name: "Oscar Medina-Contreras"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+  - name: "Diana Villalpando"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/diana-villalpando.qmd
+  - name: "Paulina Zaldivar"
+    affiliation: "Universidad Anahuac Mexico"
+    url: /members/404.qmd
+  - name: "Arleth Garibay"
+    affiliation: "Universidad Anahuac Mexico"
+    url: /members/404.qmd
+date: 2025-03-10
+description: "This research project evaluathes the association between microbiota metabolites and insilin resistance in pediatric obesity"
+categories:
+  - Metabolism
+  - MSc Project
+  - Ongoing Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/scientisation.png
+draft: false
+---
+<!--
+::: {.ecopo-callout}
+See the project original page on the Rebuilding Macroeconomics website: <https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline>
+:::
+-->
+## Project Summary
+
+La obesidad afecta mayoritariamente a los grupos poblacionales más vulnerables, relacionándose directamente con el desarrollo económico del país, algunos grupos etarios, étnicos y estratos socioeconómicos; por lo que, los efectos a largo plazo de la obesidad se vislumbran potencialmente más perjudiciales que los ocasionados por otras pandemias. El escenario mundial de la obesidad infantil también resulta desalentador, ya que más de 390 millones de niños en edades entre 5 y 18 años presentan sobrepeso, y de ellos, 160 millones padece obesidad. Esto significa que en México 3 de cada 10 niños vive con obesidad. 
+El aumento de peso durante la infancia altera la estructura y función orgánica, por lo que la obesidad se ha asociado con el desarrollo de comorbilidades a mediano y largo plazo, entre las que se enlistan la resistencia a la insulina (RI), diabetes mellitus tipo 2 (DM2), síndrome metabólico, esteatosis hepática, enfermedad coronaria, asma, apnea obstructiva del sueño, complicaciones ortopédicas, depresión y baja autoestima. 
+El aumento de la obesidad en niños, junto con la disminución de masa y fuerza muscular (sarcopenia), constituyen un desafío para la salud pública, dada su asociación con alteraciones metabólicas e inflamatorias desde edades tempranas.
+
+## Project Team
+
+The project involved six other scholars in philosophy, history of economics, and political sciences:
+
+- [Diana Villalpando](/members/diana-villalpando.qmd) (Hospital Infantil de México Federico Gómez, México), postdoctoral fellow in the project
+- [Paulina Zaldivar](/members/404.qmd) (Universidad Anahuac, México)
+- [Brenda Landa](/members/brenda-landa.qmd) (Universidad Anahuac, México)
+- [Arleth Garibay](/members/404.qmd) (Universidad Anahuac, México)
+- [Jenny Vilchis](https://www.himfg.edu.mx) (Hospital Infantil de México Federico Gómez, México)
+
+At different stages of the project, we also received technical support from the Epidemiology, Endocrinology & Nutrition research Unit.
+<!--
+## Project Outputs
+
+A first paper, published in *History of Political Economy* [@acosta2024] explores the evolution of economic research at the Bank of England (BoE) from the 1970s to the early 2000s. It examines the role of the Economics Division in shaping policy decisions, drawing on archival materials and interviews with former staff.
+
+::: {.ecopo-callout}
+See also Béatrice Cherrier's related blog post on Rebuilding Macroeconomics: <https://www.rebuildingmacroeconomics.ac.uk/post/excavating-the-academia-policy-pipeline-the-history-of-economic-research-at-the-bank-of-england>
+:::
+
+A second paper was published in the *Journal of Economic Methodology* [@goutsmedt2025]. It used the BoE as a case study to analyse constraints faced by macroeconometric modellers, from early models to the 2008-2009 financial crisis.
+
+This work also inspired a spin-off project on the **scientisation** of central banks, which deconstructs the concept into three distinct processes:
+
+- **Policymaking scientisation**: the integration of scientific knowledge and expertise into policymaking;
+- **Contributory scientisation**: central banks’ contributions to academic research;
+- **Legitimizing scientisation**: the use of scientific knowledge to bolster central banks’ authority.
+
+The findings are featured in [a special section](https://www.cambridge.org/core/journals/finance-and-society/issue/20878EB1238725278474C99DBB046598) in *Finance and Society* [@goutsmedt2025a], including a paper specifically the scientisation of the BoE [@goutsmedt2025b].
+-->

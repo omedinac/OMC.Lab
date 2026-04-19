@@ -1,0 +1,72 @@
+---
+title: "Aurélien Goutsmedt"
+listing:
+  - id: projects
+    contents: ../projects/*.qmd
+    type: default
+    sort: "date desc"
+    date-format: long
+    fields: [image, title, author, reading-time]
+    include:
+      author: 'Aurélien Goutsmedt'
+---
+
+::: {.member-profile}
+![](//images/members/aurelien-goutsmedt.jpg){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.aurelien-goutsmedt.com" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/website.svg" alt="Website" /></a>
+<a class="social-link" href="https://www.linkedin.com/in/aur%C3%A9lien-goutsmedt-661156199/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="LinkedIn" /></a>
+<a class="social-link" href="https://bsky.app/profile/aurelien-goutsmedt.com" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Bluesky" /></a>
+<a class="social-link" href="https://scholar.google.com/citations?user=TNvsGHYAAAAJ&hl" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/google-scholar.svg" alt="Google Scholar" /></a>
+<a class="social-link" href="mailto:aurelien.goutsmedt@uclouvain.be" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** Postdoctoral Researcher at UCLouvain and Assistant Professor at ICHEC Brussels
+
+I’m a historian of economics and political economist studying how economic ideas, expertise, and policies have evolved since the 1970s—particularly during stagflation. My research focuses on central banks: how they produce, use, and debate economic knowledge. I also analyze the political economy of inflation, examining how competing narratives shape policy decisions. I develop open-source tools: network analysis and natural language processing softwares and apps, and open databases.
+
+## Research Projects
+
+::: {#projects}
+:::
+
+## Publications
+
+Acosta, Juan, Beatrice Cherrier, François Claveau, Clément Fontan, Aurélien Goutsmedt, Francesco Sergi. (2024). [Six Decades of Economic Research at the Bank of England](https://doi.org/10.1215/00182702-10956544). *History of Political Economy*, 56(1): 1--40. [[Preprint](https://hal.science/hal-03919394)]
+
+Chassonnery-Zaigouche, Cléo, Aurélien Goutsmedt. (2025). [Modelling Intervention: Barbara Bergmann’s Micro-to-Macro Simulation Projects](https://doi.org/10.1080/09672567.2024.2433971). *European Journal for the History of Economic Thought*, 32(3): 342--362. [[Preprint](https://osf.io/preprints/socarxiv/ynmbe/)]
+
+Fontan, Clément, Aurélien Goutsmedt. (2025). [Capital, Labor, and Technocratic Neutrality: The ECB and Inflation Monsters (2010–2025)](https://shs.cairn.info/revue-mouvements-2025-2-page-24?tab = texte-integral). *Mouvements*, 120(2): 24--33.
+
+Goutsmedt, Aurélien. (2022). [How the Phillips Curve Shaped Full Employment Policy in the 1970s: The Debates on the Humphrey-Hawkins Act](https://read.dukeupress.edu/hope/article-abstract/54/4/619/300514/How-the-Phillips-Curve-Shaped-Full-Employment?redirectedFrom = fulltext). *History of Political Economy*, 54(2): 619--653. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/humphrey-hawkins.pdf)]
+
+Goutsmedt, Aurélien. (2021). [From the Stagflation to the Great Inflation: Explaining the US Economy of the 1970s](https://www.cairn.info/revue-d-economie-politique-2021-3-page-557.htm?ref = doi). *Revue d'Economie Politique*, 131(3): 557--582. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/stagflation-great-inflation.pdf)]
+
+Goutsmedt, Aurélien. (2018). [Thomas Sargent Face à Robert Lucas : Une Autre Ambition Pour La Nouvelle Economie Classique](https://journals.openedition.org/oeconomia/5605). *OEconomia - History, Methodology, Philosophy*, 8(2): 211--241. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/sargent-vs-lucas.pdf)]
+
+Goutsmedt, Aurélien, Alexandre Truc. (2023). [An Independent European Macroeconomics? A History of European Macroeconomics through the Lens of the European Economic Review](https://doi.org/10.1016/j.euroecorev.2023.104559). *European Economic Review*, 158. [[Preprint](https://hal.science/hal-04181833)]
+
+Goutsmedt, Aurélien, Clément Fontan. (2025). [La BCE Face à Ses Monstres : Les Transformations Du Cadrage de La Stabilité Des Prix (1998-2023)](https://dial.uclouvain.be/pr/boreal/object/boreal:306437). *Revue Française D'histoire Économique*, 23. [[Preprint](https://dial.uclouvain.be/pr/boreal/en/object/boreal\%3A306437/datastreams)]
+
+Goutsmedt, Aurélien, Clément Fontan. (2024). [The ECB and the Inflation Monsters: Strategic Framing and the Responsibility Imperative (1998-2023)](https://doi.org/10.1080/13501763.2023.2281583). *Journal of European Public Policy*, 31(4): 999--1025. [[Preprint](https://hal.science/hal-04181849)]
+
+Goutsmedt, Aurélien, Danielle Guizzo, Francesco Sergi. (2019). [An Agenda without a Plan. Robert E. Lucas’s Trajectory through the Public Debate](https://journals.openedition.org/oeconomia/5605). *OEconomia - History, Methodology, Philosophy*, 9(2): 289--314. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/lucas-agenda.pdf)]
+
+Goutsmedt, Aurélien, Erich Pinzón-Fuchs, Matthieu Renault, Francesco Sergi. (2019). [Reacting to the Lucas Critique: The Keynesians' Pragmatic Replies](https://read.dukeupress.edu/hope/article-abstract/51/3/535/137809/Reacting-to-the-Lucas-CritiqueThe-Keynesians?redirectedFrom = fulltext). *History of Political Economy*, 51(3): 533--556. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/lucas-critique.pdf)]
+
+Goutsmedt, Aurélien, Francesco Sergi. (2025). [Redefining Scientization: Central Banks Between Science and Politics](https://doi.org/10.1017/fas.2025.7). *Finance and Society*, 11(2): 209--229. [[Preprint](https://osf.io/preprints/socarxiv/dxvfp\_v1)]
+
+Goutsmedt, Aurélien, Francesco Sergi, Béatrice Cherrier, François Claveau, Clément Fontan, Juan Acosta. (2025). [To Change or Not to Change: The Evolution of Forecasting Models at the Bank of England](https://doi.org/10.1080/1350178X.2024.2303113). *Journal of Economic Methodology*, 32(2): 66--86. [[Preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:270921)]
+
+Goutsmedt, Aurélien, Francesco Sergi, François Claveau, Clément Fontan. (2025). [Not a Steamroller, a 3D Process: Scientization at the Bank of England](https://doi.org/10.1017/fas.2025.8). *Finance and Society*, 11(2): 231--252. [[Preprint](https://osf.io/preprints/socarxiv/jzwdt\_v2)]
+
+Goutsmedt, Aurélien, François Claveau, Catherine Herfeld. (2023). [Quantitative and Computational Approaches in the Social Studies of Economics](https://journals.openedition.org/oeconomia/15799). *OEconomia - History, Methodology, Philosophy*, 13(2): 147--161. [[Preprint](https://hal.science/hal-04250536)]
+
+Goutsmedt, Aurélien, Goulven Rubin. (2018). [Robert J. Gordon and the Introduction of the Natural Rate Hypothesis in the Keynesian Framework](https://www.torrossa.com/fr/resources/an/4461050?digital = true). *History of Economic Ideas*, 26(3): 157--187. [[Preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:270867)]
+
+Goutsmedt, Aurélien, Juan Carlos Acosta, Francesco Sergi. (2026). [Economists, Economic Knowledge, and Central Banks](https://osf.io/preprints/socarxiv/acymv_v1). Cambridge (UK): Cambridge University Press, Cambridge Elements, Forthcoming 2026. [[Preprint](https://osf.io/preprints/socarxiv/acymv\_v1)]
+
+Goutsmedt, Aurélien, Matthieu Renault, Francesco Sergi. (2021). [European Economics and the Early Years of the International Seminar on Macroeconomics](https://www.cairn.info/revue-d-economie-politique-2021-4-page-693.htm). *Revue d'Economie Politique*, 131(4): 693--722. [[Preprint](https://aurelien-goutsmedt.com/media/pdf/isom.pdf)]
+
+Sergi, Francesco, Béatrice Cherrier, Aurélien Saidi, Pedro Garcia Duarte, Aurélien Goutsmedt, Matthieu Renault, Juan Carlos Acosta. (2026). A History of Macroeconomics. Cambridge (UK): Cambridge University Press, Forthcoming 2026. [[Preprint](https://agoutsmedt.thegood.cloud/s/jgZHWcDFxbYMGWi)]

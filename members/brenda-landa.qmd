@@ -1,0 +1,35 @@
+---
+title: "Brenda Landa"
+listing:
+  - id: projects
+    contents: ../projects/*.qmd
+    type: default
+    sort: "date desc"
+    date-format: long
+    fields: [image, title, author, reading-time]
+    include:
+      author: 'Brenda Landa Esquivias'
+---
+
+::: {.member-profile}
+![](//images/members/brendaland.png){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.researchgate.net/profile/Diana-Villalpando" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/website.svg" alt="Website" /></a>
+<a class="social-link" href="https://mx.linkedin.com/in/diana-villalpando-s%C3%A1nchez-phd-7a2626148" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="LinkedIn" /></a>
+<a class="social-link" href="https://scholar.google.com/citations?user=QQyrLO4AAAAJ&hl=es" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/google-scholar.svg" alt="Google Scholar" /></a>
+<a class="social-link" href="mailto:diana@omclab.org" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** Postdoctoral Fellow at Hospital Infantil de México
+
+I am a Postdoctoral Fellow
+
+## Research Projects
+
+::: {#projects}
+:::
+
+## Publications
+
+Villalpando-Sánchez DC, Barajas-Medina CA, Alvarez-Aguilar C, López-Ortiz G, Romero-Henríquez LF, Gómez-García A. (2024). [Advanced Oxidative Protein Products Had a Diagnostic Accuracy for Identifying Chronic Kidney Disease in Adult Population](https://doi.org/10.3390/metabo14010037). *Metabolites*, 14(1):37

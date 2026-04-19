@@ -1,0 +1,15 @@
+---
+title: "Projects"
+listing:
+  - id: projects
+    contents: projects/*.qmd
+    sort: "date desc"
+    type: default
+    categories: true
+    date-format: long
+---
+
+This page gathers ongoing and completed research projects by members of the Castro and Medina research groups.
+
+::: {#projects}
+:::
