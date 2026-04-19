@@ -21,9 +21,10 @@ listing:
 </div>
 :::
 
-**Position:** Postdoctoral Fellow at Hospital Infantil de México
+**Position:** MSc candidate at Universidad Anáhuac México Norte
 
-I am a Postdoctoral Fellow
+- MSc in Medical Sciences
+- Grandmother of 雪だるま
 
 ## Research Projects
 
@@ -31,5 +32,3 @@ I am a Postdoctoral Fellow
 :::
 
 ## Publications
-
-Villalpando-Sánchez DC, Barajas-Medina CA, Alvarez-Aguilar C, López-Ortiz G, Romero-Henríquez LF, Gómez-García A. (2024). [Advanced Oxidative Protein Products Had a Diagnostic Accuracy for Identifying Chronic Kidney Disease in Adult Population](https://doi.org/10.3390/metabo14010037). *Metabolites*, 14(1):37

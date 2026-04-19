@@ -1,5 +1,5 @@
 ---
-title: "The Medina-Castro Lab"
+title: "The Castro-Medina Lab"
 listing:
   - id: latest-news
     contents: news/*.qmd

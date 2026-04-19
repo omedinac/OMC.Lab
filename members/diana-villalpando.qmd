@@ -8,7 +8,7 @@ listing:
     date-format: long
     fields: [image, title, author, reading-time]
     include:
-      author: 'Diana Carolina Villalpando Sanchez'
+      author: 'Diana Villalpando'
 ---
 
 ::: {.member-profile}

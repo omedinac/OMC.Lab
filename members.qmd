@@ -24,13 +24,13 @@ PhD Student
 ::: {.member-card}
 ![](images/members/bren.png){.member-photo}
 
-[**Brenda Hernandez**](members/404.qmd)  
+[**Brenda Hernandez**](members/brenda-hernandez.qmd)  
 PhD Student
 :::
 ::: {.member-card}
 ![](images/members/ale.jpg){.member-photo}
 
-[**Alejandra Rueda**](members/404.qmd)  
+[**Alejandra Rueda**](members/alejandra-rueda.qmd)  
 MSc Candidate
 :::
 ::: {.member-card}
@@ -42,7 +42,7 @@ MSc Student
 ::: {.member-card}
 ![](images/members/brendaland.png){.member-photo}
 
-[**Brenda Landa**](members/404.qmd)  
+[**Brenda Landa**](members/brenda-landa.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -58,6 +58,18 @@ MSc Student
 MSc Student
 :::
 ::: {.member-card}
+![](images/members/aelinne.png){.member-photo}
+
+[**Aelinne Perez**](members/404.qmd)  
+BSc Student
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Ernesto Aguilar**](members/404.qmd)  
+BSc Student
+:::
+::: {.member-card}
 ![](images/members/den.jpeg){.member-photo}
 
 [**Denisse Castro**](404.qmd)  
@@ -66,7 +78,7 @@ Researcher at National Cancer Institute
 ::: {.member-card}
 ![](images/members/omc.jpg){.member-photo}
 
-[**Oscar Medina**](404.qmd)  
+[**Oscar Medina**](members/oscar-medina.qmd)  
 Researcher at Hospital Infantil de Mexico
 :::
 :::
@@ -84,6 +96,186 @@ Postdoctoral Fellow at Rochester University
 ![](images/members/clau.png){.member-photo}
 
 [**Claudia Gutierrez**](404.qmd)  
-Algology Department, HGM
+Escuela Nacional de Ciencias Biológicas
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Yanen Rios**](404.qmd)  
+CINVESTAV
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Felipe Castro**](404.qmd)  
+CINVESTAV
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Julissa Luvian**](404.qmd)  
+Universidad Nacional Autónoma de México
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Albertana Jiménez**](404.qmd)  
+Escuela Nacional de Medicina y Homeopatia
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Merari Delgadillo**](404.qmd)  
+...
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Sara Miguel**](404.qmd)  
+Escuela Nacional de Ciencias Biológicas
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Miguel Prieto**](404.qmd)  
+Escuela Nacional de Ciencias Biológicas
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Celic Cisneros**](404.qmd)  
+Universidad Anáhuac México
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Nelly Álvarez**](404.qmd)  
+Secretaría de Salud
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Eunice Amezcua**](404.qmd)  
+Universidad Tecnológica de Morelia
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Abril Armenta**](404.qmd)  
+Universidad Autónoma de Sinaloa
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Kenya De La Cruz**](404.qmd)  
+Universidad Juárez Autónoma de Tabasco
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Yesica Cabrera**](404.qmd)  
+Instituto Tecnológico de Tecámac
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Valeria Campuzano**](404.qmd)  
+Universidad Tecnológica de Morelia
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Sandra Garduño**](404.qmd)  
+Universidad Nacional Autónoma de México
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Cristian Avila**](404.qmd)  
+Universidad Autónoma Metropolitana
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Daniel Calderon**](404.qmd)  
+Universidad Michoacana San Nicolas de Hidalgo
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Fernando Diaz**](404.qmd)  
+Universidad Autónoma de Yucatán
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Rubi Escobar**](404.qmd)  
+Universidad Autónoma del Estado de Morelos
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Camila Ramírez**](404.qmd)  
+Universidad Nacional Autónoma de México
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Bibiana Fabian**](404.qmd)  
+Benemérita Universidad de Puebla
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Sandra L Gonzalez**](404.qmd)  
+Universidad Autónoma de Aguascalientes
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Nicolás Santillán**](404.qmd)  
+Instituto Tecnológico de Tecámac
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Yereth Torres**](404.qmd)  
+Universidad Nacional Autónoma de México
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Daniela Vazquez**](404.qmd)  
+Universidad Tecnológica de Morelia
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Josue Zambrano**](404.qmd)  
+Benemerita Universidad Autonoma De Puebla
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Guadalupe Aguirre**](404.qmd)  
+Universidad Simón Bolivar
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Michelle Avendaño**](404.qmd)  
+Universidad Simón Bolivar
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Fernanda Palazuelos**](404.qmd)  
+Universidad Autónoma de Occidente
+:::
+::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**Diego Gómez**](404.qmd)  
+Universidad de Valle de México
 :::
 :::

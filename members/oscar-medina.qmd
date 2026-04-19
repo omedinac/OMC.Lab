@@ -8,7 +8,7 @@ listing:
     date-format: long
     fields: [image, title, author, reading-time]
     include:
-      author: 'Oscar Medina Contreras'
+      author: 'Oscar Medina'
 ---
 
 ::: {.member-profile}
@@ -22,9 +22,9 @@ listing:
 </div>
 :::
 
-**Position:** Professor at UcLouvain
+**Position:** Medical Sciences Researcher at Hospital Infantil de México
 
-I am a Medical Sciences Researcher at the Mexico Children’s Hospital, a National Institute of Health, where I work within the Immunology & Proteomics Laboratory and the Epidemiology, Endocrinology & Nutrition Research Unit. My current role follows my time as a research associate at Georgia State University’s Center for Inflammation, Immunity & Infection.
+I am the head of the **Immunometabolism laboratory**, in the Epidemiology, Endocrinology & Nutrition research unit.
 
 My research primarily focuses on how intestinal immune cells regulate experimental models of Crohn’s disease and ulcerative colitis. Throughout my career, my research has been supported by prestigious organizations, including the National Council for Science and Technology and the Crohn’s and Colitis Foundation of America. 
 

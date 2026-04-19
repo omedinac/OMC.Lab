@@ -5,7 +5,7 @@ author:
   - name: "Nicte Figueroa"
     affiliation: "Universidad de Guanajuato"
     url: /404.qmd
-  - name: "Oscar Medina-Contreras"
+  - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
 date: 2022-03-10

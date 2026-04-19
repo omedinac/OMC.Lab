@@ -132,168 +132,156 @@ function in locally advanced cervical cancer patients with renal dysfunction.
 
 ## 2023
 
-21: Hernández-Cuellar E, Tsuchiya K, Valle-Ríos R, Medina-Contreras O.
+Hernández-Cuellar E, Tsuchiya K, Valle-Ríos R, Medina-Contreras O.
 Differences in Biofilm Formation by Methicillin-Resistant and Methicillin-
-Susceptible <i>Staphylococcus aureus</i> Strains. Diseases. 2023 Nov
+Susceptible <i>Staphylococcus aureus</i> Strains. *Diseases*. 2023 Nov
 5;11(4):160. [doi]https://doi.org/10.3390/diseases11040160. PMID: 37987271; PMCID: PMC10660471.
 
-22: Bose T, Medina-Contreras O, Fernandez C, Finotto S. Editorial: Women in
-mucosal immunity. Front Immunol. 2023 Oct 3;14:1282709. [doi]https://doi.org/
+Bose T, Medina-Contreras O, Fernandez C, Finotto S. Editorial: Women in
+mucosal immunity. *Front Immunol*. 2023 Oct 3;14:1282709. [doi]https://doi.org/
 10.3389/fimmu.2023.1282709. PMID: 37854596; PMCID: PMC10580084.
 
-23: Gutiérrez-Román CI, Meléndez Camargo ME, García Rojas CC, Jimenez Olvera M,
+Gutiérrez-Román CI, Meléndez Camargo ME, García Rojas CC, Jimenez Olvera M,
 Gutiérrez Román SH, Medina-Contreras O. Rapid and Efficient Enrichment of Mouse
-Spinal Cord Microglia. J Vis Exp. 2023 Sep 22;(199). [doi]https://doi.org/10.3791/65961. PMID:
+Spinal Cord Microglia. *J Vis Exp*. 2023 Sep 22;(199). [doi]https://doi.org/10.3791/65961. PMID:
 37811962.
 
-24: Angeles-Floriano T, Sanjuan-Méndez A, Rivera-Torruco G, Parra-Ortega I,
+Angeles-Floriano T, Sanjuan-Méndez A, Rivera-Torruco G, Parra-Ortega I,
 Lopez-Martinez B, Martinez-Castro J, Marin-Santiago S, Alcántara-Hernández C,
 Martínez-Martínez A, Márquez-González H, Klünder-Klünder M, Olivar-López V,
 Zaragoza-Ojeda M, Arenas-Huertero F, Torres-Aguilar H, Medina-Contreras O,
 Zlotnik A, Valle-Rios R. Leukocyte surface expression of the endoplasmic
-reticulum chaperone GRP78 is increased in severe COVID-19. J Leukoc Biol. 2023
+reticulum chaperone GRP78 is increased in severe COVID-19. *J Leukoc Biol*. 2023
 Jan 10;113(1):1-10. [doi]https://doi.org/10.1093/jleuko/qiac017. PMID: 36822163.
 
-25: Castellanos-Martínez R, León-Vega II, Guerrero-Fonseca IM, Vargas-Robles H,
+Castellanos-Martínez R, León-Vega II, Guerrero-Fonseca IM, Vargas-Robles H,
 Jiménez-Camacho KE, Hernández-Galicia G, Ortiz-Navarrete VF, Rottner K, Medina-
 Contreras O, Schnoor M. T cell functions and organ infiltration by leukemic T
-cells require cortactin. J Leukoc Biol. 2023 Mar 1;113(3):315-325. [doi]https://doi.org/
+cells require cortactin. *J Leukoc Biol*. 2023 Mar 1;113(3):315-325. [doi]https://doi.org/
 10.1093/jleuko/qiad001. Erratum in: J Leukoc Biol. 2023 Oct 26;114(5):513. [doi]https://doi.org/
 10.1093/jleuko/qiad105. PMID: 36808495.
 
-26: Torres-Arroyo A, Martínez-Aguilar J, Castillo-Villanueva A, Zárate-Mondragón
+Torres-Arroyo A, Martínez-Aguilar J, Castillo-Villanueva A, Zárate-Mondragón
 F, Cervantes-Bustamante R, Patiño-López G, Medina-Contreras O, Espinosa-Padilla
 SE, Valencia-Rojas S, Romero-Guzmán L, Oria-Hernández J, Reyes-Vivas H.
-Corrigendum to "Immunoproteomics of cow's milk allergy in Mexican pediatric
-patients". J Proteomics. 2023 Mar 15;274:104819. [doi]https://doi.org/
-10.1016/j.jprot.2023.104819. Epub 2023 Jan 13. Erratum for: J Proteomics. 2023
-Feb 20;273:104809. [doi]https://doi.org/10.1016/j.jprot.2022.104809. PMID: 36642679.
-
-27: Torres-Arroyo A, Martínez-Aguilar J, Castillo-Villanueva A, Zárate-Mondragón
-F, Cervantes-Bustamante R, Patiño-López G, Medina-Contreras O, Espinosa-Padilla
-SE, Valencia-Rojas S, Romero-Guzmán L, Oria-Hernández J, Reyes-Vivas H.
-Immunoproteomics of cow's milk allergy in Mexican pediatric patients. J
-Proteomics. 2023 Feb 20;273:104809. [doi]https://doi.org/10.1016/j.jprot.2022.104809. Epub 2022
+Immunoproteomics of cow's milk allergy in Mexican pediatric patients. *J Proteomics*. 2023 Feb 20;273:104809. [doi]https://doi.org/10.1016/j.jprot.2022.104809. Epub 2022
 Dec 29. Erratum in: J Proteomics. 2023 Mar 15;274:104819. [doi]https://doi.org/
 10.1016/j.jprot.2023.104819. PMID: 36587729.
 
-28: Luvián-Morales J, Castillo-Aguilar J, Delgadillo-González M, Cisneros-
+Luvián-Morales J, Castillo-Aguilar J, Delgadillo-González M, Cisneros-
 Sánchez A, Bosch-Gutiérrez J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF.
 Validation of the QLQ-CAX24 instrument in cervical cancer and its association
-with cachexia classifications. Jpn J Clin Oncol. 2023 Mar 30;53(4):304-312. [doi]https://doi.org/
+with cachexia classifications. *Jpn J Clin Oncol*. 2023 Mar 30;53(4):304-312. [doi]https://doi.org/
 10.1093/jjco/hyac199. PMID: 36579766.
 
 ## 2022
 
-29: Arango-Bravo EA, Cetina-Pérez LDC, Galicia-Carmona T, Castro-Eguiluz D,
+Arango-Bravo EA, Cetina-Pérez LDC, Galicia-Carmona T, Castro-Eguiluz D,
 Gallardo-Rincón D, Cruz-Bautista I, Duenas-Gonzalez A. The health system and
-access to treatment in patients with cervical cancer in Mexico. Front Oncol.
+access to treatment in patients with cervical cancer in Mexico. *Front Oncol*.
 2022 Nov 30;12:1028291. [doi]https://doi.org/10.3389/fonc.2022.1028291. PMID: 36530977; PMCID:
 PMC9748554.
 
-30: Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F,
+Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F,
 Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-
 Contreras O. IL-36γ is secreted through an unconventional pathway using the
-Gasdermin D and P2X7R membrane pores. Front Immunol. 2022 Aug 18;13:979749. [doi]https://doi.org/
+Gasdermin D and P2X7R membrane pores. *Front Immunol*. 2022 Aug 18;13:979749. [doi]https://doi.org/
 10.3389/fimmu.2022.979749. PMID: 36059446; PMCID: PMC9434278.
 
-31: Avila-Bonilla RG, López-Sandoval Á, Soto-Sánchez J, Marchat LA, Rivera G,
+Avila-Bonilla RG, López-Sandoval Á, Soto-Sánchez J, Marchat LA, Rivera G,
 Medina-Contreras O, Ramírez-Moreno E. Proteomic and Functional Analysis of the
-Effects of Quinoxaline Derivatives on <i>Entamoeba histolytica</i>. Front Cell
-Infect Microbiol. 2022 Jun 27;12:887647. [doi]https://doi.org/10.3389/fcimb.2022.887647. PMID:
+Effects of Quinoxaline Derivatives on <i>Entamoeba histolytica</i>. *Front Cell Infect Microbiol*. 2022 Jun 27;12:887647. [doi]https://doi.org/10.3389/fcimb.2022.887647. PMID:
 35832378; PMCID: PMC9271875.
 
-32: Gallardo-Rincón D, Montes-Servín E, Alamilla-García G, Montes-Servín E,
+Gallardo-Rincón D, Montes-Servín E, Alamilla-García G, Montes-Servín E,
 Bahena-González A, Cetina-Pérez L, Morales Vásquez F, Cano-Blanco C, Coronel-
 Martínez J, González-Ibarra E, Espinosa-Romero R, María Alvarez-Gómez R,
 Pedroza-Torres A, Castro-Eguiluz D. Clinical Benefits of Olaparib in Mexican
-Ovarian Cancer Patients With Founder Mutation <i>BRCA1</i>-Del ex9-12. Front
-Genet. 2022 Jun 6;13:863956. [doi]https://doi.org/10.3389/fgene.2022.863956. PMID: 35734436;
+Ovarian Cancer Patients With Founder Mutation <i>BRCA1</i>-Del ex9-12. *Front Genet*. 2022 Jun 6;13:863956. [doi]https://doi.org/10.3389/fgene.2022.863956. PMID: 35734436;
 PMCID: PMC9207274.
 
-33: Aparicio-Bautista DI, Chávez-Valenzuela D, Ambriz-Álvarez G, Córdova-Fraga
+Aparicio-Bautista DI, Chávez-Valenzuela D, Ambriz-Álvarez G, Córdova-Fraga
 T, Reyes-Grajeda JP, Medina-Contreras Ó, Rodríguez-Cruz F, García-Sierra F,
 Zúñiga-Sánchez P, Gutiérrez-Gutiérrez AM, Arellanes-Robledo J, Basurto-Islas G.
 An Extremely Low-Frequency Vortex Magnetic Field Modifies Protein Expression,
 Rearranges the Cytoskeleton, and Induces Apoptosis of a Human Neuroblastoma Cell
-Line. Bioelectromagnetics. 2022 May;43(4):225-244. [doi]https://doi.org/10.1002/bem.22400. Epub
+Line. *Bioelectromagnetics*. 2022 May;43(4):225-244. [doi]https://doi.org/10.1002/bem.22400. Epub
 2022 Apr 19. PMID: 35437793.
 
-34: Rivera-Torruco G, Martínez-Mendiola CA, Angeles-Floriano T, Jaimes-Ortega
+Rivera-Torruco G, Martínez-Mendiola CA, Angeles-Floriano T, Jaimes-Ortega
 GA, Maravillas-Montero JL, García-Contreras R, González Y, Juárez E, Nava P,
 Ortiz-Navarrete V, Medina-Contreras O, Licona-Limón P, Valle-Rios R. Isthmin 1
 is Expressed by Progenitor-Like Cells in the Lung: Phenotypical Analysis of
 Isthmin 1<sup>+</sup> Hematopoietic Stem-Like Cells in Homeostasis and during
-Infection. J Immunol Res. 2022 Apr 1;2022:2909487. [doi]https://doi.org/10.1155/2022/2909487.
+Infection. *J Immunol Res*. 2022 Apr 1;2022:2909487. [doi]https://doi.org/10.1155/2022/2909487.
 PMID: 35402623; PMCID: PMC8993550.
 
-35: Rodea GE, González-Villalobos E, Medina-Contreras O, Castelán-Sánchez HG,
+Rodea GE, González-Villalobos E, Medina-Contreras O, Castelán-Sánchez HG,
 Aguilar-Rodea P, Velázquez-Guadarrama N, Hernández-Chiñas U, Eslava-Campos CA,
 Balcázar JL, Molina-López J. Genomic characterization of two bacteriophages
 (vB_EcoS-phiEc3 and vB_EcoS-phiEc4) belonging to the genus Kagunavirus with
-lytic activity against uropathogenic Escherichia coli. Microb Pathog. 2022
+lytic activity against uropathogenic Escherichia coli. *Microb Pathog*. 2022
 Apr;165:105494. [doi]https://doi.org/10.1016/j.micpath.2022.105494. Epub 2022 Mar 18. PMID:
 35314281.
 
-36: Pérez-Martín AR, Castro-Eguiluz D, Cetina-Pérez L, Velasco-Torres Y, Bahena-
+Pérez-Martín AR, Castro-Eguiluz D, Cetina-Pérez L, Velasco-Torres Y, Bahena-
 González A, Montes-Servín E, González-Ibarra E, Espinosa-Romero R, Gallardo-
 Rincón D. Impact of metabolic syndrome on the risk of endometrial cancer and the
-role of lifestyle in prevention. Bosn J Basic Med Sci. 2022 Jul
+role of lifestyle in prevention. *Bosn J Basic Med Sci*. 2022 Jul
 29;22(4):499-510. [doi]https://doi.org/10.17305/bjbms.2021.6963. PMID: 35276057; PMCID:
 PMC9392984.
 
-37: Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O. Interleukin-1
-Receptor-Like 2: One Receptor, Three Agonists, and Many Implications. J
-Interferon Cytokine Res. 2022 Feb;42(2):49-61. [doi]https://doi.org/10.1089/jir.2021.0173. PMID:
+Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O. Interleukin-1
+Receptor-Like 2: One Receptor, Three Agonists, and Many Implications. *J Interferon Cytokine Res*. 2022 Feb;42(2):49-61. [doi]https://doi.org/10.1089/jir.2021.0173. PMID:
 35171706.
 
-41: Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG,
+Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG,
 Jiménez-Pineda A, Reyes-López CA, Cerecedo D. Differentially expressed proteins
-in platelets derived from patients with hypertension. J Hum Hypertens. 2022
+in platelets derived from patients with hypertension. *J Hum Hypertens*. 2022
 Jul;36(7):640-650. [doi]https://doi.org/10.1038/s41371-021-00555-y. Epub 2021 Jul 3. PMID:
 34218268; PMCID: PMC8254060.
 
 ## 2021
 
-38: Arango Bravo E, Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Flores E,
+Arango Bravo E, Carmona T, Castro-Eguiluz D, Gallardo-Rincón D, Flores E,
 Cetina-Pérez LDC. Treatment of Locally Advanced Cervical Cancer With Kidney
-Failure and Comorbidities. Oncology (Williston Park). 2021 Nov
+Failure and Comorbidities. *Oncology*. 2021 Nov
 16;35(11):741-745. [doi]https://doi.org/10.46883/ONC.2021.3511.0741. PMID: 35088975.
 
-39: Brau-Figueroa H, Arango-Bravo E, Castro-Eguiluz D, Galicia-Carmona T, Lugo-
+Brau-Figueroa H, Arango-Bravo E, Castro-Eguiluz D, Galicia-Carmona T, Lugo-
 Alferez LA, Cruz-Bautista I, Jiménez-Lima R, Cetina-Pérez L. Effectiveness of
 Concomitant Chemoradiotherapy with Gemcitabine in Locally Advanced Cervical
-Cancer Patients with Comorbidities. Cancer Res Treat. 2022 Apr;54(2):554-562.
+Cancer Patients with Comorbidities. *Cancer Res Treat*. 2022 Apr;54(2):554-562.
 [doi]https://doi.org/10.4143/crt.2021.375. Epub 2021 Aug 10. PMID: 34384015; PMCID: PMC9016315.
 
-40: Luvián-Morales J, Flores-Cisneros L, Jiménez-Lima R, Alarcón-Barrios S,
+Luvián-Morales J, Flores-Cisneros L, Jiménez-Lima R, Alarcón-Barrios S,
 Salazar-Mendoza J, Castro-Eguiluz D, Cetina-Pérez L, Oñate-Ocaña LF. Validation
 of the QLQ-CX24 questionnaire for the assessment of quality of life in Mexican
-women with cervical cancer. Int J Gynecol Cancer. 2021 Sep;31(9):1228-1235. [doi]https://doi.org/
+women with cervical cancer. *Int J Gynecol Cancer*. 2021 Sep;31(9):1228-1235. [doi]https://doi.org/
 10.1136/ijgc-2021-002720. Epub 2021 Aug 5. PMID: 34353855.
 
-42: Castro-Martínez F, Encarnación-García MDR, Candelario-Martinez A, Medina-
+Castro-Martínez F, Encarnación-García MDR, Candelario-Martinez A, Medina-
 Contreras O, Patiño-Lopez G, Schnoor M, Nava P. Evaluation and Quantification of
-Micro Epithelial Gaps in the Colonic Mucosa using Immunofluorescence Staining. J
-Vis Exp. 2021 Jun 11;(172). [doi]https://doi.org/10.3791/62204. PMID: 34180884.
+Micro Epithelial Gaps in the Colonic Mucosa using Immunofluorescence Staining. *J
+Vis Exp*. 2021 Jun 11;(172). [doi]https://doi.org/10.3791/62204. PMID: 34180884.
 
-43: Martín-Hernández R, Rodríguez-Canul R, Kantún-Moreno N, Olvera-Novoa MA,
+Martín-Hernández R, Rodríguez-Canul R, Kantún-Moreno N, Olvera-Novoa MA,
 Medina-Contreras O, Garikoitz-Legarda C, Triviño JC, Zamora-Briseño JA, May-
 Solis V, Poot-Salazar A, Pérez-Vega JA, Gil-Zamorano J, Grant G, Dávalos A,
 Olivera-Castillo L. Comparative Transcriptomes of the Body Wall of Wild and
-Farmed Sea Cucumber <i>Isostichopus badionotus</i>. Int J Mol Sci. 2021 Apr
+Farmed Sea Cucumber <i>Isostichopus badionotus</i>. *Int J Mol Sci*. 2021 Apr
 9;22(8):3882. [doi]https://doi.org/10.3390/ijms22083882. PMID: 33918680; PMCID: PMC8070510.
 
-44: Galicia-Carmona T, Arango-Bravo E, Serrano-Olvera JA, Flores-de La Torre C,
+Galicia-Carmona T, Arango-Bravo E, Serrano-Olvera JA, Flores-de La Torre C,
 Cruz-Esquivel I, Villalobos-Valencia R, Morán-Mendoza A, Castro-Eguiluz D,
 Cetina-Pérez L. ADXS11-001 LM-LLO as specific immunotherapy in cervical cancer.
-Hum Vaccin Immunother. 2021 Aug 3;17(8):2617-2625. [doi]https://doi.org/
+*Hum Vaccin Immunother*. 2021 Aug 3;17(8):2617-2625. [doi]https://doi.org/
 10.1080/21645515.2021.1893036. Epub 2021 Apr 1. PMID: 33793380; PMCID:
 PMC8475562.
 
-45: Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L,
+Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L,
 Castro-Eguiluz D. Functional foods modulating inflammation and metabolism in
-chronic diseases: a systematic review. Crit Rev Food Sci Nutr.
+chronic diseases: a systematic review. *Crit Rev Food Sci Nutr*.
 2022;62(16):4371-4392. [doi]https://doi.org/10.1080/10408398.2021.1875189. Epub 2021 Jan 28.
 PMID: 33506690.
 

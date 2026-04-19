@@ -2,7 +2,7 @@
 title: "Efecto de los metabolitos del microbioma intestinal en la resistencia a la insulina en pacientes pediátricos con obesidad y sarcopenia"
 subtitle: "Immmunological Analysis"
 author:
-  - name: "Oscar Medina-Contreras"
+  - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
   - name: "Diana Villalpando"
