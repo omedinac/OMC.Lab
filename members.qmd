@@ -72,7 +72,7 @@ BSc Student
 ::: {.member-card}
 ![](images/members/den.jpeg){.member-photo}
 
-[**Denisse Castro**](404.qmd)  
+[**Denisse Castro**](denisse-castro.qmd)  
 Researcher at National Cancer Institute
 :::
 ::: {.member-card}

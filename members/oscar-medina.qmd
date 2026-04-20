@@ -22,7 +22,12 @@ listing:
 </div>
 :::
 
-**Position:** Medical Sciences Researcher at Hospital Infantil de México
+
+::: {.callout-important}
+# Position
+
+Medical Sciences Researcher at Hospital Infantil de México, a National Health Institute
+:::
 
 I am the head of the **Immunometabolism laboratory** in the Epidemiology, Endocrinology & Nutrition research unit.
 
