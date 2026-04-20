@@ -2,7 +2,7 @@
 title: "Chiquitunel 2026"
 date: 2026-04-20
 categories: "Difusión"
-image: chiqui.png
+image: chiqui.jpg
 ---
 
 La DIRECCIÓN DE INVESTIGACIÓN te invita a un viaje alucinante donde tú eres el protagonista.

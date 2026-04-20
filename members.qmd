@@ -22,7 +22,7 @@ PhD Student
 PhD Student
 :::
 ::: {.member-card}
-![](images/members/bren.png){.member-photo}
+![](images/members/bren.jpeg){.member-photo}
 
 [**Brenda Hernandez**](members/brenda-hernandez.qmd)  
 PhD Student
@@ -34,7 +34,7 @@ PhD Student
 MSc Candidate
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/ashley.png){.member-photo}
 
 [**Ashley Garcia**](404.qmd)  
 MSc Student
@@ -46,7 +46,7 @@ MSc Student
 MSc Student
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/pau.jpeg){.member-photo}
 
 [**Paulina Zaldivar**](404.qmd)  
 MSc Student
@@ -99,7 +99,7 @@ Postdoctoral Fellow at Rochester University
 Escuela Nacional de Ciencias Biológicas
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/yanen.jpg){.member-photo}
 
 [**Yanen Rios**](404.qmd)  
 CINVESTAV
@@ -117,7 +117,7 @@ CINVESTAV
 Universidad Nacional Autónoma de México
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/bety.png){.member-photo}
 
 [**Albertana Jiménez**](404.qmd)  
 Escuela Nacional de Medicina y Homeopatia
@@ -129,7 +129,7 @@ Escuela Nacional de Medicina y Homeopatia
 ...
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/sara.png){.member-photo}
 
 [**Sara Miguel**](404.qmd)  
 Escuela Nacional de Ciencias Biológicas
@@ -213,7 +213,7 @@ Universidad Autónoma de Yucatán
 Universidad Autónoma del Estado de Morelos
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/camis.png){.member-photo}
 
 [**Camila Ramírez**](404.qmd)  
 Universidad Nacional Autónoma de México
@@ -267,7 +267,7 @@ Universidad Simón Bolivar
 Universidad Simón Bolivar
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/fer.png){.member-photo}
 
 [**Fernanda Palazuelos**](404.qmd)  
 Universidad Autónoma de Occidente
