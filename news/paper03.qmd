@@ -1,0 +1,29 @@
+---
+title: "Comparison of two instruments to assess the impact of cachexia on quality of life in women with cervical cancer"
+author: Luvián-Morales J, Galvan-Cota LD, Galvan-Cota LD, Castro-Eguiluz D, Oñate-Ocaña LF
+date: 2026-04-22
+categories: "Publicaciones"
+image: nutcan.png
+---
+
+::: callout-important
+## *Nutrition and Cancer* AOP:1-13
+
+Cancer-associated cachexia (CAC) is common in cervical cancer (CC) patients. This condition
+affects the Health-related quality of life (HRQL). This study aims to assess the impact of CAC
+on HRQL, comparing the Quality of Life Questionnaire (QLQ) QLQ-C30/QLQ-CAX24 and the
+Functional assessment of anorexia/cachexia therapy (FAACT) instruments. A cohort of CC
+patients answered the QLQ-C30/QLQ-CAX24 and the FAACT instruments between October
+2020 and October 2021. The psychometric/clinimetric characteristics of the instruments were
+compared. 244 CC patients were included in the study. Correlations between scales ranged
+from 0.008 to 0.81. The summary score of QLQ-C30 correlated well with the FAACT total score
+(r=0.684) and the FAACT Physical Well-being subscale (r=0.81). The correlation with five
+nutritional parameters and prognostic indices was poor (r < 0.364). Most symptom scales of
+the QLQ-CAX24 presented a floor effect, and those of the FAACT did not. The Nausea/vomiting
+score of the QLQ-C30, and the Loss of control and Forced to eat scales of the QLQ-CAX24 were
+independently associated with overall survival. The QLQ-C30/QLQ-CAX24 and FAACT
+instruments differ substantially, but some scales are comparable. We propose an algorithm to
+select the appropriate instrument to asses HRQL for a research protocol.
+:::
+
+[doi](https://doi.org/10.1080/01635581.2026.2658765)
