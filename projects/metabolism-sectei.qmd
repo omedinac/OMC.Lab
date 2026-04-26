@@ -27,7 +27,7 @@ draft: false
 ---
 <!--
 ::: {.ecopo-callout}
-See the project original page on the Rebuilding Macroeconomics website: <https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline>
+See the project original page on the website: <https://www.>
 :::
 -->
 ## Project Summary
