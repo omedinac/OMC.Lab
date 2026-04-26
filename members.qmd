@@ -52,7 +52,7 @@ MSc Student
 MSc Student
 :::
 ::: {.member-card}
-![](images/members/omclab.png){.member-photo}
+![](images/members/omclab.jpg){.member-photo}
 
 [**Aelinne Perez**](members/404.qmd)  
 BSc Student
@@ -66,7 +66,7 @@ BSc Student
 ::: {.member-card}
 ![](images/members/den.jpeg){.member-photo}
 
-[**Denisse Castro**](denisse-castro.qmd)  
+[**Denisse Castro**](members/denisse-castro.qmd)  
 Researcher at National Cancer Institute
 :::
 ::: {.member-card}
