@@ -54,11 +54,13 @@ MSc Student
 ::: {.member-card}
 ![](images/members/arleth.png){.member-photo}
 
+<!--
 [**Arleth Garibay**](members/404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
 ![](images/members/aelinne.png){.member-photo}
+-->
 
 [**Aelinne Perez**](members/404.qmd)  
 BSc Student
