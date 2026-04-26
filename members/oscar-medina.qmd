@@ -12,7 +12,7 @@ listing:
 ---
 
 ::: {.member-profile}
-![](//images/members/omc.JPG){.member-photo}
+![](//images/members/omc.png){.member-photo}
 <div class="member-links">
 <a class="social-link" href="https://orcid.org/0000-0002-4432-7780" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/website.svg" alt="ORCID" /></a>
 <a class="social-link" href="https://www.scopus.com/authid/detail.uri?authorId=56013615300" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="Scopus" /></a>
