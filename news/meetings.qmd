@@ -1,0 +1,50 @@
+---
+title: "Meetings 2026"
+date: 2026-05-01
+categories: "Meetings"
+#image: chiqui.jpg
+---
+
+
+::: {.callout-note}
+# ESPEN 2026
+
+Effects Of Curcumin Supplementation On P53 Levels In Tumor Cells And Clinical Outcomes In Patients With Locally Advanced Cervical Cancer
+:::
+
+::: {.callout-note}
+# ESPEN 2026
+
+Impact Of Combined Physical Activity And Dietary Intervention Versus Diet Alone On Skeletal Muscle Mass And Strength In Endometrial Cancer Patients
+:::
+
+::: {.callout-note}
+# ICO 2026
+
+Microbial TLR Ligands Induce IL-36γ Expression in Adipocytes In Vitro
+:::
+
+::: {.callout-note}
+# ICO 2026
+
+The IL-36 Axis in Metainflammation: An Imbalance of Agonists and Antagonists Links Obesity, Type 2 Diabetes, and Hypertension
+:::
+
+::: {.callout-note}
+# ICO 2026
+
+Early Prediction of Insulin Resistance in Childhood Obesity Through Proinflammatory Cytokine Profiling
+:::
+
+::: {.callout-note}
+# ICO 2026
+
+Reengineering Leptin Therapy: BCH2 mutant leptin for obesity and its comorbidities-an approach to an enteral delivery platform
+:::
+
+::: {.callout-note}
+# ICO 2026
+
+Pregestational Overweight and Obesity Alter Late-Pregnancy Gut Microbiota: Distinct Microbial Signatures in the OBESO Cohort
+
+:::

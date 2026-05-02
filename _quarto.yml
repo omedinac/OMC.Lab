@@ -35,10 +35,10 @@ website:
       href: https://codeberg.org/
     - text: "Report an issue"
       href: (mailto:)
-  #announcement: 
-  #  content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> The OMC lab is pleased to invite you to the Hospital Infantil de Mexico annual chiquitunel on 20-21 April 2026, at Hospital Infantil de México (see details [here](/news/chiquitunel_26.qmd))"
-  #  dismissable: true
-  #  position: below-navbar
+  announcement: 
+    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany and the the International Congress on Obesity (ICO 2026) in Mexico City (see details [here](/news/meetings.qmd))"
+    dismissable: true
+    position: below-navbar
 
 format:
   html:

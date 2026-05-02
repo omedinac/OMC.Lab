@@ -163,5 +163,11 @@
   },
   "news/paper03.qmd": {
     "paper03.html": "b275d571"
+  },
+  "news/meetings.qmd": {
+    "meetings.html": "ed6e9299"
+  },
+  "news/meeting_26-1.qmd": {
+    "meeting_26-1.html": "5b74633e"
   }
 }

@@ -1,0 +1,20 @@
+---
+title: "Reengineering Leptin Therapy: BCH2 mutant leptin for obesity and its comorbidities-an approach to an enteral delivery platform"
+subtitle: "ICO 2026"
+author:
+  - name: "Samantha Ysais"
+    affiliation: "IPN"
+    url: /404.qmd
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2026-05-01
+description: "This research project studies..."
+categories:
+  - Metabolism
+  - Meeting
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+#image: /images/projects/eu_finance.png
+draft: false
+---
