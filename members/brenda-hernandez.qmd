@@ -1,0 +1,29 @@
+---
+title: "Brenda Hernández"
+listing:
+  - id: projects
+    contents: ../projects/*.qmd
+    type: default
+    sort: "date desc"
+    date-format: long
+    fields: [image, title, author, reading-time]
+    include:
+      author: 'Brenda Hernández Martínez'
+---
+
+::: {.member-profile}
+![](//images/members/bren.png){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.instagram.com/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Instagram" /></a>
+<a class="social-link" href="mailto:brenda@omclab.org" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+</div>
+:::
+
+**Position:** PhD student at CINVESTAV
+
+## Research Projects
+
+::: {#projects}
+:::
+
+## Publications

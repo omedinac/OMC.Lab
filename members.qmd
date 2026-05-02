@@ -34,6 +34,12 @@ PhD Student
 MSc Candidate
 :::
 ::: {.member-card}
+![](images/members/omclab.jpg){.member-photo}
+
+[**coco**](members/404.qmd)  
+MSc Student
+:::
+::: {.member-card}
 ![](images/members/ashley.png){.member-photo}
 
 [**Ashley Garcia**](404.qmd)  
@@ -52,7 +58,7 @@ MSc Student
 MSc Student
 :::
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/aelinne.png){.member-photo}
 
 [**Aelinne Perez**](members/404.qmd)  
 BSc Student
