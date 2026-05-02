@@ -16,5 +16,5 @@ categories:
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 #image: /images/projects/eu_finance.png
-draft: false
+draft: true
 ---
