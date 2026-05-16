@@ -176,14 +176,13 @@ with cachexia classifications. *Jpn J Clin Oncol*. 2023 Mar 30;53(4):304-312. [d
 Arango-Bravo EA, Cetina-Pérez LDC, Galicia-Carmona T, Castro-Eguiluz D,
 Gallardo-Rincón D, Cruz-Bautista I, Duenas-Gonzalez A. The health system and
 access to treatment in patients with cervical cancer in Mexico. *Front Oncol*.
-2022 Nov 30;12:1028291. [doi]https://doi.org/10.3389/fonc.2022.1028291. PMID: 36530977; PMCID:
-PMC9748554.
+2022 Nov 30;12:1028291. [doi](https://doi.org/10.3389/fonc.2022.1028291)
 
 Manzanares-Meza LD, Gutiérrez-Román CI, Jiménez-Pineda A, Castro-Martínez F,
 Patiño-López G, Rodríguez-Arellano E, Valle-Rios R, Ortíz-Navarrete VF, Medina-
 Contreras O. IL-36γ is secreted through an unconventional pathway using the
-Gasdermin D and P2X7R membrane pores. *Front Immunol*. 2022 Aug 18;13:979749. [doi]https://doi.org/
-10.3389/fimmu.2022.979749. PMID: 36059446; PMCID: PMC9434278.
+Gasdermin D and P2X7R membrane pores. *Front Immunol*. 2022 Aug 18;13:979749. [doi](https://doi.org/
+10.3389/fimmu.2022.979749)
 
 Avila-Bonilla RG, López-Sandoval Á, Soto-Sánchez J, Marchat LA, Rivera G,
 Medina-Contreras O, Ramírez-Moreno E. Proteomic and Functional Analysis of the
@@ -229,8 +228,7 @@ role of lifestyle in prevention. *Bosn J Basic Med Sci*. 2022 Jul
 PMC9392984.
 
 Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O. Interleukin-1
-Receptor-Like 2: One Receptor, Three Agonists, and Many Implications. *J Interferon Cytokine Res*. 2022 Feb;42(2):49-61. [doi]https://doi.org/10.1089/jir.2021.0173. PMID:
-35171706.
+Receptor-Like 2: One Receptor, Three Agonists, and Many Implications. *J Interferon Cytokine Res*. 2022 Feb;42(2):49-61. [doi](https://doi.org/10.1089/jir.2021.0173)
 
 Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG,
 Jiménez-Pineda A, Reyes-López CA, Cerecedo D. Differentially expressed proteins

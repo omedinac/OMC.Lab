@@ -1,0 +1,19 @@
+---
+title: "Metabolic diversity of the gut microbiota as a predictor of treatment success in leukemia"
+subtitle: "The Immune Regulation"
+author:
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2022-03-10
+description: "This doctoral research project studies inflammation in metabolic diseases"
+categories:
+  - Inflammation
+  - Cancer
+  - Microbiota
+  - Ongoing Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/eu_finance.png
+draft: true
+---

@@ -1,10 +1,7 @@
 ---
-title: "Efecto de los metabolitos del microbioma intestinal en la resistencia a la insulina en pacientes pediátricos con obesidad y sarcopenia"
+title: "Effect of gut microbiome metabolites on insulin resistance in pediatric patients with obesity and sarcopenia"
 subtitle: "Immmunological Analysis"
 author:
-  - name: "Oscar Medina"
-    affiliation: "Hospital Infantil de Mexico"
-    url: /members/oscar-medina.qmd
   - name: "Diana Villalpando"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/diana-villalpando.qmd
@@ -14,11 +11,13 @@ author:
   - name: "Arleth Garibay"
     affiliation: "Universidad Anahuac Mexico"
     url: /members/404.qmd
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
 date: 2025-03-10
 description: "This research project evaluathes the association between microbiota metabolites and insilin resistance in pediatric obesity"
 categories:
   - Metabolism
-  - MSc Project
   - Ongoing Project
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
@@ -32,13 +31,13 @@ See the project original page on the website: <https://www.>
 -->
 ## Project Summary
 
-La obesidad afecta mayoritariamente a los grupos poblacionales más vulnerables, relacionándose directamente con el desarrollo económico del país, algunos grupos etarios, étnicos y estratos socioeconómicos; por lo que, los efectos a largo plazo de la obesidad se vislumbran potencialmente más perjudiciales que los ocasionados por otras pandemias. El escenario mundial de la obesidad infantil también resulta desalentador, ya que más de 390 millones de niños en edades entre 5 y 18 años presentan sobrepeso, y de ellos, 160 millones padece obesidad. Esto significa que en México 3 de cada 10 niños vive con obesidad. 
-El aumento de peso durante la infancia altera la estructura y función orgánica, por lo que la obesidad se ha asociado con el desarrollo de comorbilidades a mediano y largo plazo, entre las que se enlistan la resistencia a la insulina (RI), diabetes mellitus tipo 2 (DM2), síndrome metabólico, esteatosis hepática, enfermedad coronaria, asma, apnea obstructiva del sueño, complicaciones ortopédicas, depresión y baja autoestima. 
-El aumento de la obesidad en niños, junto con la disminución de masa y fuerza muscular (sarcopenia), constituyen un desafío para la salud pública, dada su asociación con alteraciones metabólicas e inflamatorias desde edades tempranas.
+Obesity primarily affects the most vulnerable population groups, directly related to a country's economic development, certain age groups, ethnicities, and socioeconomic strata; therefore, the long-term effects of obesity appear potentially more harmful than those caused by other pandemics. The global scenario of childhood obesity is also discouraging, as more than 390 million children between the ages of 5 and 18 are overweight, and of these, 160 million suffer from obesity. This means that in Mexico, 3 out of every 10 children live with obesity.
+
+Weight gain during childhood alters organic structure and function, which is why obesity has been associated with the development of medium- and long-term comorbidities, including insulin resistance (IR), type 2 diabetes mellitus (T2DM), metabolic syndrome, hepatic steatosis, coronary artery disease, asthma, obstructive sleep apnea, orthopedic complications, depression, and low self-esteem. The rise in childhood obesity, along with the decline in muscle mass and strength (sarcopenia), poses a public health challenge, given its association with metabolic and inflammatory disorders from an early age.
 
 ## Project Team
 
-The project involved six other scholars in philosophy, history of economics, and political sciences:
+The project involved other scholars in immunolgy, metabolism, and data sciences:
 
 - [Diana Villalpando](/members/diana-villalpando.qmd) (Hospital Infantil de México Federico Gómez, México), postdoctoral fellow in the project
 - [Paulina Zaldivar](/members/404.qmd) (Universidad Anahuac, México)

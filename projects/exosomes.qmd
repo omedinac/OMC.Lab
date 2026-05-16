@@ -1,0 +1,23 @@
+---
+title: "Determination of differences in immunophenotype and function of exosomes and microvesicles released by mesenchymal stem cells activated with proinflammatory cytokines: potential use as immunosuppressive therapy"
+subtitle: "The Immune Regulation"
+author:
+  - name: "Marta Castro"
+    affiliation: "Universidad de Guanajuato"
+    url: 
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2022-03-10
+description: "This doctoral research project studies inflammation"
+categories:
+  - Inflammation
+  - Cancer
+  - Ongoing Project
+  - Collab
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/eu_finance.png
+draft: true
+---
+

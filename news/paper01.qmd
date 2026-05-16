@@ -2,7 +2,7 @@
 title: "HPV vaccination improves immune response in children with respiratory papillomatosis"
 author: Prieto-Islas MA, Godoy-Dahbura E, Villalpando-Sánchez DC, Cortés-Benavides C, Hernández-Cuellar E, Castro-Eguiluz D, Alvarez-Neri H, Medina-Contreras O
 date: 2025-08-14
-categories: "Publicaciones"
+categories: "Papers"
 image: scirep.png
 ---
 

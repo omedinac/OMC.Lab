@@ -2,7 +2,7 @@
 title: "Comparison of two instruments to assess the impact of cachexia on quality of life in women with cervical cancer"
 author: Luvián-Morales J, Galvan-Cota LD, Galvan-Cota LD, Castro-Eguiluz D, Oñate-Ocaña LF
 date: 2026-04-22
-categories: "Publicaciones"
+categories: "Papers"
 image: nutcan.png
 ---
 

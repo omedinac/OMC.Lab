@@ -1,0 +1,21 @@
+---
+title: "Effect of leptin on modulating inflammation in obesity"
+subtitle: "The Immune Regulation"
+author:
+  - name: "Samantha Ysais"
+    affiliation: "Escuela Nacional de Medicina y Homeopatía"
+    url: /404.qmd
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2022-03-10
+description: "This doctoral research project studies inflammation in metabolic diseases"
+categories:
+  - Metabolism
+  - Ongoing Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/eu_finance.png
+draft: true
+---
+

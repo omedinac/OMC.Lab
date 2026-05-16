@@ -1,0 +1,20 @@
+---
+title: "Role of the interferon-gamma receptor in mouse intestinal epithelial cells"
+subtitle: "The Immune Regulation"
+author:
+  - name: "Brenda Hernandez"
+    affiliation: "CINVESTAV"
+    url: /members/brenda-hernandez.qmd
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2022-03-10
+description: "This doctoral research project studies inflammation in metabolic diseases"
+categories:
+  - Mucosal Immunology
+  - Ongoing Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/eu_finance.png
+draft: true
+---

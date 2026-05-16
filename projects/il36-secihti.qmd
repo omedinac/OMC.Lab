@@ -1,6 +1,9 @@
 ---
-title: "Papel de las citocinas IL-36 en la regulación de la respuesta inmune en mucosa intestinal"
+title: "Role of IL-36 cytokines in the regulation of the immune response in intestinal mucosa"
 author:
+  - name: "Laura Manzanares"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /404.qmd
   - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
@@ -34,4 +37,16 @@ blockade of these receptors’ limits IL-36$\gamma$ release. Our results demonst
 IL-36$\gamma$ is secreted mainly by an unconventional pathway through membrane
 pores formed by P2X7R and Gasdermin D.
 
-This research axis was conceived as an open and evolving space for 
+This research axis was conceived as an open and evolving space for the role of IL-36 in intestinal inflammation.
+
+## Project Outputs
+
+A first paper, published in *J Interferon Cytokine Res* [@manzanares2022] explores the importance of the axis IL-36-IL-1RL2 in the development of several inflammation-related diseases and the healing process. It suggests that IL-1RL2 ligands have specific roles depending on the tissue or cell source.
+
+::: {.ecopo-callout}
+See also David L Woodland's related comment in a blog post on EurekAlert!: <https://www.eurekalert.org/news-releases/944598>
+:::
+
+A second paper was published in *Frontiers in Immunology* [@manzanares2022]. It shows in mouse macrophages that LPS/ATP stimulation induces cytokine relocalization to the plasma membrane, and conventional secretion blockade using monensin or Brefeldin A triggers no IL-36γ accumulation within the cell, demonstrating that IL-36γ is secreted mainly by an unconventional pathway through membrane pores formed by P2X7R and Gasdermin D..
+
+This work also inspired a spin-off project on the **metabolic** role of IL-36.

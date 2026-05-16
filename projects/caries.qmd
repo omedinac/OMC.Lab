@@ -1,0 +1,22 @@
+---
+title: "Microbiota in caries with stevia"
+subtitle: "The Immune Regulation"
+author:
+  - name: "America Miranda"
+    affiliation: "Hospital Infantil de Mexico"
+  - name: "Carolina Barajas"
+    affiliation: "Hospital Infantil de Mexico"
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2022-03-10
+description: "This doctoral research project studies inflammation in metabolic diseases"
+categories:
+  - Microbiota
+  - Ongoing Project
+  - Collab
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/eu_finance.png
+draft: true
+---

@@ -1,10 +1,10 @@
 ---
-title: "Participación de la familia de la IL-36 en las enfermedades metabólicas"
+title: "Role of the IL-36 family in metabolic diseases"
 subtitle: "The Immune Regulation"
 author:
   - name: "Nicte Figueroa"
     affiliation: "Universidad de Guanajuato"
-    url: /404.qmd
+    url: https://www.ugto.mx/noticias/quehacer-institucional/101-investigacion/17362-dra-nicte-figueroa-impulsora-de-vocaciones-cientificas
   - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
@@ -13,10 +13,11 @@ description: "This doctoral research project studies inflammation in metabolic d
 categories:
   - Metabolism
   - Ongoing Project
+  - Collab
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 image: /images/projects/eu_finance.png
 draft: true
 ---
 
-This doctoral research project studies Las alteraciones relacionadas con el sistema inmunológico en enfermedades metabólicas han sido ampliamente estudiadas en los últimos años, y se ha logrado esclarecer algunas determinantes de relevancia biomédica que relacionan fenómenos inflamatorios con el progreso y deterioro de la salud en sujetos con enfermedades metabólicas como obesidad, diabetes mellitus tipo 2 o hipertensión arterial. La producción y expresión de interleucinas, proteínas que regulan el funcionamiento del sistema inmunológico, durante los estadios de las enfermedades metabólicas se ven alteradas provocando un estado de activación constante del sistema inmunológico, evento conocido como inflamación crónica de bajo grado y se ha convertido en una de las características principales de las enfermedades metabólicas. A la fecha se conoce de las implicaciones de varias interleucinas, como la IL-1ß y el TNF-, sin embargo, la participación de nuevas moléculas, como las IL-36, aún no han sido estudiadas. En los últimos años las interleucinas (IL-)36 han cobrado relevancia biomédica por su papel en las enfermedades inflamatorias, por tal motivo su estudio se ha centrado principalmente en las enfermedades como psoriasis, artritis y cáncer; sin embargo, poco se sabe de su participación en enfermedades metabólicas, tales como la obesidad, diabetes mellitus tipo 2 e hipertensión arterial. Para ello se han de cuantificar mediante ELISA los niveles séricos de IL-36, IL-36ß e IL-36 y el antagonista IL-36Ra en individuos sanos (eutróficos), con obesidad, diabetes mellitus tipo 2, e  hipertensión para evaluar sus concentraciones y la posible relación con diferentes variables metabólicas y pro-inflamatorias relacionadas con la resistencia a la insulina, inflamación crónica y deterioro a la salud de los pacientes, para así establecer el papel de estas moléculas en el desarrollo, diagnóstico y seguimiento de estas condiciones.
+This doctoral research project studies alterations related to the immune system in metabolic diseases. These alterations have been extensively studied in recent years, and some biomedically relevant determinants have been clarified, linking inflammatory phenomena to the progression and deterioration of health in subjects with metabolic diseases such as obesity, type 2 diabetes mellitus, or hypertension. The production and expression of interleukins, proteins that regulate the functioning of the immune system, are altered during the stages of metabolic diseases, causing a state of constant activation of the immune system. This event, known as chronic low-grade inflammation, has become one of the main characteristics of metabolic diseases. To date, the implications of several interleukins, such as IL-1β and TNF-α, are known; however, the role of new molecules, such as IL-36, has not yet been studied. In recent years, interleukins (IL-)36 have gained biomedical relevance due to their role in inflammatory diseases. Consequently, their study has focused primarily on diseases such as psoriasis, arthritis, and cancer. However, little is known about their involvement in metabolic diseases, such as obesity, type 2 diabetes mellitus, and hypertension. Therefore, serum levels of IL-36α, IL-36β, and IL-36γ, as well as the antagonist IL-36Ra, must be quantified using ELISA in healthy (eutrophic) individuals, as well as those with obesity, type 2 diabetes mellitus, and hypertension. This will allow for the evaluation of their concentrations and their potential relationship with various metabolic and pro-inflammatory variables related to insulin resistance, chronic inflammation, and the deterioration of patients' health, thus establishing the role of these molecules in the development, diagnosis, and monitoring of these conditions.

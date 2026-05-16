@@ -2,7 +2,7 @@
 title: "Quality of life but not cachexia definitions are associated with overall survival in women with cervical cancer: a STROBE-compliant cohort study"
 author: Luvián-Morales J, Delgadillo-González M, Castro-Eguiluz D, Oñate-Ocaña LF, Cetina-Pérez L
 date: 2024-04-06
-categories: "Publicaciones"
+categories: "Papers"
 image: jjco.png
 ---
 

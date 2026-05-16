@@ -169,5 +169,26 @@
   },
   "news/meeting_26-1.qmd": {
     "meeting_26-1.html": "5b74633e"
+  },
+  "projects/dai.qmd": {
+    "dai.html": "836e6d08"
+  },
+  "projects/exosomes.qmd": {
+    "exosomes.html": "385c6e9a"
+  },
+  "projects/leukemia.qmd": {
+    "leukemia.html": "e14cce9f"
+  },
+  "projects/cart.qmd": {
+    "cart.html": "691bf271"
+  },
+  "projects/caries.qmd": {
+    "caries.html": "f50ecd9c"
+  },
+  "projects/leptin.qmd": {
+    "leptin.html": "3678ed08"
+  },
+  "projects/ifng.qmd": {
+    "ifng.html": "d3949301"
   }
 }
