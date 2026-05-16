@@ -29,13 +29,13 @@
     "listing": "/projects.html",
     "items": [
       "/projects/metabolism-sectei.html",
-      "/projects/il36-secihti.html"
+      "/projects/il36-secihti.html",
+      "/projects/il36-ciic.html"
     ]
   },
   {
     "listing": "/news.html",
     "items": [
-      "/news/meeting_26-1.html",
       "/news/meetings.html",
       "/news/paper03.html",
       "/news/paper01.html",

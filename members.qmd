@@ -36,7 +36,7 @@ MSc Candidate
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**coco**](members/404.qmd)  
+[**coco**](404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -60,13 +60,13 @@ MSc Student
 ::: {.member-card}
 ![](images/members/aelinne.png){.member-photo}
 
-[**Aelinne Perez**](members/404.qmd)  
+[**Aelinne Perez**](404.qmd)  
 BSc Student
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**Ernesto Aguilar**](members/404.qmd)  
+[**Ernesto Aguilar**](404.qmd)  
 BSc Student
 :::
 ::: {.member-card}
@@ -81,13 +81,19 @@ Researcher at National Cancer Institute
 [**Oscar Medina**](members/oscar-medina.qmd)  
 Researcher at Hospital Infantil de Mexico
 :::
+::: {.member-card}
+![](images/members/fubuki.jpeg){.member-photo}
+
+[**Fubuki**](members/fubuki.qmd)  
+limited-edition prototype
+:::
 :::
 
 # Former
 
 ::: {.member-grid}
 ::: {.member-card}
-![](images/members/omclab.jpg){.member-photo}
+![](images/members/lau.png){.member-photo}
 
 [**Laura Manzanares**](404.qmd)  
 Postdoctoral Fellow at Rochester University
@@ -96,25 +102,25 @@ Postdoctoral Fellow at Rochester University
 ![](images/members/clau.png){.member-photo}
 
 [**Claudia Gutierrez**](404.qmd)  
-Escuela Nacional de Ciencias Biológicas
+Algologist
 :::
 ::: {.member-card}
 ![](images/members/yanen.jpg){.member-photo}
 
 [**Yanen Rios**](404.qmd)  
-CINVESTAV
+Geneticist
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
 [**Felipe Castro**](404.qmd)  
-CINVESTAV
+Postdoctoral Fellow at National Institutes of Health
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
 [**Julissa Luvian**](404.qmd)  
-Universidad Nacional Autónoma de México
+Researcher at Mexico´s National Cancer Institute
 :::
 ::: {.member-card}
 ![](images/members/bety.png){.member-photo}
@@ -126,7 +132,7 @@ Escuela Nacional de Medicina y Homeopatia
 ![](images/members/omclab.jpg){.member-photo}
 
 [**Merari Delgadillo**](404.qmd)  
-...
+Universidad Nacional Autónoma de México
 :::
 ::: {.member-card}
 ![](images/members/sara.png){.member-photo}
@@ -186,7 +192,7 @@ Universidad Tecnológica de Morelia
 ![](images/members/omclab.jpg){.member-photo}
 
 [**Sandra Garduño**](404.qmd)  
-Universidad Nacional Autónoma de México
+CTR Foundation
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
@@ -227,7 +233,7 @@ Benemérita Universidad de Puebla
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}
 
-[**Sandra L Gonzalez**](404.qmd)  
+[**Sandra Gonzalez**](404.qmd)  
 Universidad Autónoma de Aguascalientes
 :::
 ::: {.member-card}

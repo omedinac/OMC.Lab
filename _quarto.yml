@@ -9,7 +9,7 @@ website:
   favicon: images/logo-bpewg.svg
   description: "The Medina-Castro Laboratory is a network of scholars doing research in the field of Immunology"
   navbar:
-    logo: images/logo-bpewg.svg
+    logo: images/mcl.png
     logo-alt: "Research Group in Mexico"
     pinned: true
     right:

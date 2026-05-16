@@ -8,23 +8,22 @@ listing:
     date-format: long
     fields: [image, title, author, reading-time]
     include:
-      author: 'Ariadna Alejandra Rueda Escalona'
+      author: 'Alejandra Rueda'
 ---
 
 ::: {.member-profile}
-![](//images/members/ale.jpg){.member-photo}
+![](/images/members/ale.png){.member-photo}
 <div class="member-links">
-<a class="social-link" href="https://www.researchgate.net/profile/Diana-Villalpando" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/website.svg" alt="Website" /></a>
-<a class="social-link" href="https://mx.linkedin.com/in/diana-villalpando-s%C3%A1nchez-phd-7a2626148" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/linkedin.svg" alt="LinkedIn" /></a>
-<a class="social-link" href="https://scholar.google.com/citations?user=QQyrLO4AAAAJ&hl=es" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/google-scholar.svg" alt="Google Scholar" /></a>
-<a class="social-link" href="mailto:diana@omclab.org" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+<a class="Tik-Tok" href="https://www.tiktok.com/@ale.rue5" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/tik-tok.svg" alt="tiktok" /></a>
 </div>
 :::
 
-**Position:** MSc candidate at Universidad Anáhuac México Norte
 
-- MSc in Medical Sciences
-- Grandmother of 雪だるま
+::: {.callout-important}
+# Position
+
+MSc Candidate at Universidad Anahuac Mexico
+:::
 
 ## Research Projects
 
@@ -32,3 +31,4 @@ listing:
 :::
 
 ## Publications
+

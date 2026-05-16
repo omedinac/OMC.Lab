@@ -14,8 +14,8 @@ listing:
 ::: {.member-profile}
 ![](//images/members/brendaland.png){.member-photo}
 <div class="member-links">
-<a class="social-link" href="https://www.instagram.com/brenland_/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Instagram" /></a>
-<a class="social-link" href="mailto:brenda@omclab.org" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+<a class="social-link" href="https://www.instagram.com/brenland_/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/instagram.svg" alt="Instagram" /></a>
+<a class="Tik-Tok" href="https://www.tiktok.com/@brenland" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/tik-tok.svg" alt="tiktok" /></a>
 </div>
 :::
 

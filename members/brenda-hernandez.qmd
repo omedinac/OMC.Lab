@@ -1,5 +1,5 @@
 ---
-title: "Brenda Hernández"
+title: "Brenda Hernandez"
 listing:
   - id: projects
     contents: ../projects/*.qmd
@@ -8,18 +8,17 @@ listing:
     date-format: long
     fields: [image, title, author, reading-time]
     include:
-      author: 'Brenda Hernández Martínez'
+      author: 'Brenda Hernandez'
 ---
 
 ::: {.member-profile}
-![](//images/members/bren.png){.member-photo}
+![](//images/members/bren.jpeg){.member-photo}
 <div class="member-links">
-<a class="social-link" href="https://www.instagram.com/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Instagram" /></a>
-<a class="social-link" href="mailto:brenda@omclab.org" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/email.svg" alt="Email" /></a>
+<a class="Instagram" href="https://www.instagram.com/corazon_astral/" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/instagram.svg" alt="Instagram" /></a>
 </div>
 :::
 
-**Position:** PhD student at CINVESTAV
+**Position:** PhD student at the Department of Physiology, Biophysics, and Neurosciences ---CINVESTAV
 
 ## Research Projects
 
@@ -27,3 +26,4 @@ listing:
 :::
 
 ## Publications
+
