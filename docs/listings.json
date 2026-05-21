@@ -2,11 +2,20 @@
   {
     "listing": "/index.html",
     "items": [
+      "/news/meeting_26-1.html",
       "/news/meetings.html",
       "/news/paper03.html",
       "/news/paper01.html",
       "/news/paper02.html",
-      "/projects/metabolism-sectei.html"
+      "/projects/metabolism-sectei.html",
+      "/projects/caries.html",
+      "/projects/cart.html",
+      "/projects/dai.html",
+      "/projects/exosomes.html",
+      "/projects/ifng.html",
+      "/projects/il36-ciic.html",
+      "/projects/leptin.html",
+      "/projects/leukemia.html"
     ]
   },
   {
@@ -68,6 +77,8 @@
   },
   {
     "listing": "/members/brenda-landa.html",
-    "items": []
+    "items": [
+      "/projects/dai.html"
+    ]
   }
 ]

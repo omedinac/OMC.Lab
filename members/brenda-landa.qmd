@@ -22,6 +22,14 @@ listing:
 **Position:** MSc student at Universidad Anáhuac México Norte
 
 
+::: {.callout-important}
+# *I am so excited*! 
+
+«As you can [see](https://vt.tiktok.com/ZSxDNjMxr/), my poster was officially accepted for ESPEN 2026»
+
+:::
+
+
 ::: {.callout-note}
 # self description
 Clinical Nutritionist and Master’s Candidate in Clinical Nutrition, focused on Oncology Nutrition and Body Composition Research at Instituto Nacional de Cancerología (INCan), Mexico.
