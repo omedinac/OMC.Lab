@@ -21,7 +21,15 @@ listing:
 </div>
 :::
 
-**Position:** Associate Editor. El Infocito
+::: {.callout-important}
+# *I am so excited*! 
+
+Awardee to the Access Grant ---Imaging 4 All funding programme---, to support a scientific research visit to Northwestern University Feinberg School of Medicine, Chicago, USA.
+
+*Financed by the Wellcome Trust (UK) and administered by Global Biolmaging - European Molecular Biology Laboratory, EMBL (Germany)*.
+:::
+
+**Associate Editor**. El Infocito
 
 ![](/images/editora.png){width="500"}
 
