@@ -1,0 +1,97 @@
+---
+title: "*lamina propria*"
+date: 2024-06-17
+author:
+  name: Oscar Medina Contreras
+  id: omc
+  orcid: 0000-0002-4432-7780
+  email: omedina@himfg.edu.mx
+  url: www.omclab.org
+  affiliation: 
+    - name: Hospital Infantil de México
+      city: Ciudad de Mexico
+      state: CDMX
+      url: www.himfg.edu.mx
+lang: es-MX
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+---
+
+# Aislamiento de células de *lamina propria* intestinal
+
+`UIEEN-PL-013` <kbd>BIOLOGÍA CELULAR</kbd>
+
+### Propósito
+
+Obtener células de lámina propia de intestino de ratón para su análisis posterior [@Geem2012].
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Precalentar a 37°C solución de PBS 1X y Solución de Hanks-SFB (5%).
+
+-   Eutanasiar a los ratones por dislocación cervical. Una vez muertos los ratones, realizar una incisión abdominal por planos por piel y peritoneo. Separar el intestino delgado del estómago y hacer un corte en el píloro gástrico. Eliminar el ciego y continuar hasta el recto.
+
+-   Extraer cuidadosamente el intestino, retirar el tejido mesentérico adyacente y las placas de Peyer.
+
+-   Cortar el intestino longitudinal de extremo a extremo y colocarlo en una bandeja con PBS 1X/37°C y agitar suavemente. Transferir a una nueva bandeja y repetir dos veces el proceso.
+
+-   Cortar el intestino en fragmentos de 0.5cm y colocar en un tubo falcón (50ml): EDTA (2mM) en solución de Hanks-SFB (30ml). Agitar a 250 rpm/37°C/20 minutos.
+
+-   Remover el tejido y repetir la incubación con soluciones frescas.
+
+-   Cortar finamente el tejido en fragmentos de 1mm y agregar colagenasa tipo IV (1mg/ml) y DNasa I (800$\mu$g) disueltas en solución de Hanks-SFB (20ml). Poner en agitación continua 200rpm/37°C/10 minutos.
+
+-   Pasar la solución por un colador celular de 100$\mu$m y colectar la suspensión celular, agregar 20ml de solución de Hanks-SFB frío. Centrifugar 1500 RPM/4°C/5 min.
+
+-   Resuspender el botón celular y contar las células en la cámara de Neubauer.
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+-   Es importante mantener las soluciones a 37ºC.
+:::
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+#### Solución de Hanks
+
+| Header 1             | Header 2    |
+|----------------------|-------------|
+| HBSS                 | 4.75g       |
+| Bicarbonato de sodio | 0.17g       |
+| HEPES                | 1.2g        |
+| SFB                  | 25ml        |
+| H~2~O                | Aforar a 1L |
+
+</details>
+
+<details>
+
+<summary>Reactivos</summary>
+
+<p style="color:blue;">
+
+HBSS *Sigma H2387*
+
+</p>
+
+</details>
+
+t2
+
+### Documentos de [-@sec-ref]

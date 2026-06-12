@@ -1,0 +1,31 @@
+---
+title: "Hospital General Montemorelos"
+subtitle: "Investigación"
+author:
+  - name: "Oscar Medina"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /members/oscar-medina.qmd
+date: 2026-12-31
+description: "This research collaboration evaluates ..."
+categories:
+  - Collaborations
+  - Future Project
+#bibliography: ../ecopo_working_group_publications.bib
+toc: true
+image: /images/projects/montemorelos.jpg
+draft: false
+---
+<!--
+::: {.ecopo-callout}
+See the project original page on the website: <https://www.>
+:::
+-->
+## Project Summary
+
+...
+
+## Project Team
+
+The project involves:
+
+- [Dirección de Investigación](/members/brenda-landa.qmd) (Hospital General Montemorelos, Nuevo león)

@@ -1,6 +1,8 @@
 ## 2026
 
-Luvián-Morales J, Galvan-Cota LD, Galvan-Cota LD, Castro-Eguiluz D, Oñate-Ocaña LF. Comparison of Two Instruments to Assess the Impact of Cachexia on Quality of Life in Women with Cervical Cancer. *Nutrition and Cancer*. 2026; AOP:1–13. [doi](https://doi.org/10.1080/01635581.2026.2658765)
+Luvian-Morales J, Rueda-Escalona AA, Delgadillo-González M, Cetina-Pérez LC, Villalpando-Sánchez DC, Gómez-Jiménez AM, Rodríguez-Moreno MI, Medina-Contreras O, [Castro-Eguiluz D]{.mark}. Benefits of an anti-inflammatory diet compared to a low-residue diet during concurrent chemoradiation therapy for patients with locally advanced cervical cancer: A randomized clinical trial. *Front Nutr*. 2026; AOP:1–32. [doi](https://doi.org/10.3389/fnut.2026.1835417)
+
+Luvián-Morales J, Galvan-Cota LD, Galvan-Cota LD, Castro-Eguiluz D, Oñate-Ocaña LF. Comparison of Two Instruments to Assess the Impact of Cachexia on Quality of Life in Women with Cervical Cancer. *Nutr Cancer*. 2026; AOP:1–13. [doi](https://doi.org/10.1080/01635581.2026.2658765)
 
 De la Torre-Baez R, Vizcarra-Soto M, Valdez-Palomares F, Díaz-González DM,
 Hernández-González A, Silva-Olivares A, Betanzos A, Encarnación-Garcia MR,
@@ -24,7 +26,7 @@ of Inflammasomes in LPS and Gram-Negative Bacterial Sepsis. *J Clin Med*. 2025 O
 9;14(19):7102. [doi](https://doi.org/10.3390/jcm14197102)
 
 Prieto-Islas MA, Godoy-Dahbura E, Villalpando-Sánchez DC, Cortés-Benavides C,
-Hernández-Cuellar E, Castro-Eguiluz D, Alvarez-Neri H, Medina-Contreras O. HPV
+Hernández-Cuellar E, Castro-Eguiluz D, Alvarez-Neri H, [Medina-Contreras O]{.mark}. HPV
 vaccination improves immune response in children with respiratory
 papillomatosis. *Sci Rep*. 2025 Aug 14;15(1):29885. [doi](https://doi.org/
 10.1038/s41598-025-14787-2)
@@ -227,7 +229,7 @@ role of lifestyle in prevention. *Bosn J Basic Med Sci*. 2022 Jul
 29;22(4):499-510. [doi]https://doi.org/10.17305/bjbms.2021.6963. PMID: 35276057; PMCID:
 PMC9392984.
 
-Manzanares-Meza LD, Valle-Rios R, Medina-Contreras O. Interleukin-1
+Manzanares-Meza LD, Valle-Rios R, [Medina-Contreras O]{.mark}. Interleukin-1
 Receptor-Like 2: One Receptor, Three Agonists, and Many Implications. *J Interferon Cytokine Res*. 2022 Feb;42(2):49-61. [doi](https://doi.org/10.1089/jir.2021.0173)
 
 Armenta-Medina Y, Martínez-Vieyra I, Medina-Contreras O, Benitez-Cardoza CG,
@@ -275,14 +277,14 @@ Cetina-Pérez L. ADXS11-001 LM-LLO as specific immunotherapy in cervical cancer.
 PMC8475562.
 
 Luvián-Morales J, Varela-Castillo FO, Flores-Cisneros L, Cetina-Pérez L,
-Castro-Eguiluz D. Functional foods modulating inflammation and metabolism in
+[Castro-Eguiluz D]{.mark}. Functional foods modulating inflammation and metabolism in
 chronic diseases: a systematic review. *Crit Rev Food Sci Nutr*.
 2022;62(16):4371-4392. [doi]https://doi.org/10.1080/10408398.2021.1875189. Epub 2021 Jan 28.
 PMID: 33506690.
 
 ## 2020
 
-46: Mancilla-Rojano J, Ochoa SA, Reyes-Grajeda JP, Flores V, Medina-Contreras O,
+Mancilla-Rojano J, Ochoa SA, Reyes-Grajeda JP, Flores V, Medina-Contreras O,
 Espinosa-Mazariego K, Parra-Ortega I, Rosa-Zamboni D, Castellanos-Cruz MDC,
 Arellano-Galindo J, Cevallos MA, Hernández-Castro R, Xicohtencatl-Cortes J,
 Cruz-Córdova A. Molecular Epidemiology of <i>Acinetobacter
@@ -290,39 +292,39 @@ calcoaceticus</i>-<i>Acinetobacter baumannii</i> Complex Isolated From Children
 at the Hospital Infantil de México Federico Gómez. Front Microbiol. 2020 Oct
 15;11:576673. [doi]https://doi.org/10.3389/fmicb.2020.576673. PMID: 33178158; PMCID: PMC7593844.
 
-47: Ngo VL, Abo H, Kuczma M, Szurek E, Moore N, Medina-Contreras O, Nusrat A,
+Ngo VL, Abo H, Kuczma M, Szurek E, Moore N, Medina-Contreras O, Nusrat A,
 Merlin D, Gewirtz AT, Ignatowicz L, Denning TL. IL-36R signaling integrates
 innate and adaptive immune-mediated protection against enteropathogenic
 bacteria. Proc Natl Acad Sci U S A. 2020 Nov 3;117(44):27540-27548. [doi]https://doi.org/
 10.1073/pnas.2004484117. Epub 2020 Oct 21. PMID: 33087566; PMCID: PMC7959549.
 
-48: Castro-Eguiluz D, Barquet-Muñoz SA, Arteaga-Gómez AC, Salcedo Hernández RA,
+[Castro-Eguiluz D]{.mark}, Barquet-Muñoz SA, Arteaga-Gómez AC, Salcedo Hernández RA,
 Rodríguez-Trejo A, Gallardo-Rincón D, Serrano-Olvera JA, Aranda-Flores C.
-THERAPEUTIC USE OF HUMAN PAPILLOMAVIRUS VACCINES IN CERVICAL LESIONS. Rev Invest
+Therapeutic Use Of Human Papillomavirus Vaccines In Cervical Lesions. Rev Invest
 Clin. 2020;72(4):239-249. [doi]https://doi.org/10.24875/RIC.20000059. PMID: 33064708.
 
-49: Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L,
-Sánchez-López MS, Soto-Lugo JH, Castro-Eguiluz D. IMMUNONUTRITION IN CERVICAL
+Medina-Contreras O, Luvián-Morales J, Valdez-Palomares F, Flores-Cisneros L,
+Sánchez-López MS, Soto-Lugo JH, [Castro-Eguiluz D]{.mark}. IMMUNONUTRITION IN CERVICAL
 CANCER: IMMUNE RESPONSE MODULATION BY DIET. Rev Invest Clin. 2020;72(4):219-230.
 [doi]https://doi.org/10.24875/RIC.20000062. PMID: 33064687.
 
-50: Cetina-Pérez L, Castro-Eguiluz D. CONSENSUS REPORT ON THE PREVENTION,
-DIAGNOSIS, AND TREATMENT OF CERVICAL CANCER - A PERSPECTIVE FROM THE IMMUNE
-SYSTEM TOWARD IMMUNOTHERAPY. Rev Invest Clin. 2020;72(4):185-187. [doi]https://doi.org/
+Cetina-Pérez L, [Castro-Eguiluz D]{.mark}. Consensus Report On The Prevention,
+Diagnosis, And Treatment Of Cervical Cancer - A Perspective From The Immune
+System Toward Immunotherapy. Rev Invest Clin. 2020;72(4):185-187. [doi]https://doi.org/
 10.24875/RIC.20000129. PMID: 33064681.
 
-51: Manzanares-Meza LD, Medina-Contreras O. SARS-CoV-2 and influenza: a
+Manzanares-Meza LD, [Medina-Contreras O]{.mark}. SARS-CoV-2 and influenza: a
 comparative overview and treatment implications. Bol Med Hosp Infant Mex.
 2020;77(5):262-273. English. [doi]https://doi.org/10.24875/BMHIM.20000183. PMID: 33064680.
 
-52: Alarcón-Sánchez BR, Guerrero-Escalera D, Rosas-Madrigal S, Ivette Aparicio-
+Alarcón-Sánchez BR, Guerrero-Escalera D, Rosas-Madrigal S, Ivette Aparicio-
 Bautista D, Reyes-Gordillo K, Lakshman MR, Ortiz-Fernández A, Quezada H, Medina-
 Contreras Ó, Villa-Treviño S, Isael Pérez-Carreón J, Arellanes-Robledo J.
 Nucleoredoxin interaction with flightless-I/actin complex is differentially
 altered in alcoholic liver disease. Basic Clin Pharmacol Toxicol. 2020
 Nov;127(5):389-404. [doi]https://doi.org/10.1111/bcpt.13451. Epub 2020 Jun 29. PMID: 32524749.
 
-53: Olivera-Castillo L, Grant G, Kantún-Moreno N, Barrera-Pérez HA, Montero J,
+Olivera-Castillo L, Grant G, Kantún-Moreno N, Barrera-Pérez HA, Montero J,
 Olvera-Novoa MA, Carrillo-Cocom LM, Acevedo JJ, Puerto-Castillo C, May Solís V,
 Pérez-Vega JA, Gil-Zamorano J, Hernández-Garibay E, Fernández-Herrera MA, Pérez-
 Tapia M, Medina-Contreras O, Villanueva-Toledo JR, Rodriguez-Canul R, Dávalos A.
@@ -331,7 +333,7 @@ badionotus</i> Has Potent Anti-Inflammatory Properties In Vitro and In Vivo.
 Nutrients. 2020 Jun 6;12(6):1698. [doi]https://doi.org/10.3390/nu12061698. PMID: 32517205;
 PMCID: PMC7352476.
 
-54: Alvarez-Herrera S, Escamilla R, Medina-Contreras O, Saracco R, Flores Y,
+Alvarez-Herrera S, Escamilla R, Medina-Contreras O, Saracco R, Flores Y,
 Hurtado-Alvarado G, Maldonado-García JL, Becerril-Villanueva E, Pérez-Sánchez G,
 Pavón L. Immunoendocrine Peripheral Effects Induced by Atypical Antipsychotics.
 Front Endocrinol (Lausanne). 2020 Apr 21;11:195. [doi]https://doi.org/10.3389/fendo.2020.00195.
@@ -339,19 +341,19 @@ PMID: 32373066; PMCID: PMC7186385.
 
 ## 2019
 
-55: Vásquez-Procopio J, Osorio B, Cortés-Martínez L, Hernández-Hernández F,
+Vásquez-Procopio J, Osorio B, Cortés-Martínez L, Hernández-Hernández F,
 Medina-Contreras O, Ríos-Castro E, Comjean A, Li F, Hu Y, Mohr S, Perrimon N,
 Missirlis F. Intestinal response to dietary manganese depletion in Drosophila.
 Metallomics. 2020 Feb 1;12(2):218-240. [doi]https://doi.org/10.1039/c9mt00218a. Epub 2019 Dec 4.
 PMID: 31799578.
 
-56: Calleja LF, Belmont-Díaz JA, Medina-Contreras O, Quezada H, Yoval-Sánchez B,
+Calleja LF, Belmont-Díaz JA, Medina-Contreras O, Quezada H, Yoval-Sánchez B,
 Campos-García J, Rodríguez-Zavala JS. Omeprazole as a potent activator of human
 cytosolic aldehyde dehydrogenase ALDH1A1. Biochim Biophys Acta Gen Subj. 2020
 Jan;1864(1):129451. [doi]https://doi.org/10.1016/j.bbagen.2019.129451. Epub 2019 Oct 31. PMID:
 31678145.
 
-57: Cérbulo-Vázquez A, Arriaga-Pizano L, Cruz-Cureño G, Boscó-Gárate I, Ferat-
+Cérbulo-Vázquez A, Arriaga-Pizano L, Cruz-Cureño G, Boscó-Gárate I, Ferat-
 Osorio E, Pastelin-Palacios R, Figueroa-Damian R, Castro-Eguiluz D, Mancilla-
 Ramirez J, Isibasi A, López-Macías C. Medical Outcomes in Women Who Became
 Pregnant after Vaccination with a Virus-Like Particle Experimental Vaccine
@@ -359,33 +361,33 @@ against Influenza A (H1N1) 2009 Virus Tested during 2009 Pandemic Outbreak.
 Viruses. 2019 Sep 17;11(9):868. [doi]https://doi.org/10.3390/v11090868. PMID: 31533277; PMCID:
 PMC6783846.
 
-58: Jiménez-Osorio AS, Aguilar-Lucio AO, Cárdenas-Hernández H, Musalem-Younes C,
+Jiménez-Osorio AS, Aguilar-Lucio AO, Cárdenas-Hernández H, Musalem-Younes C,
 Solares-Tlapechco J, Costa-Urrutia P, Medina-Contreras O, Granados J, Rodríguez-
 Arellano ME. Polymorphisms in Adipokines in Mexican Children with Obesity. Int J
 Endocrinol. 2019 Jul 1;2019:4764751. [doi]https://doi.org/10.1155/2019/4764751. PMID: 31354816;
 PMCID: PMC6634012.
 
-59: Sánchez M, Castro-Eguiluz D, Luvián-Morales J, Jiménez-Lima R, Aguilar-Ponce
+Sánchez M, Castro-Eguiluz D, Luvián-Morales J, Jiménez-Lima R, Aguilar-Ponce
 JL, Isla-Ortiz D, Cetina L. Deterioration of nutritional status of patients with
 locally advanced cervical cancer during treatment with concomitant
 chemoradiotherapy. J Hum Nutr Diet. 2019 Aug;32(4):480-491. [doi]https://doi.org/
 10.1111/jhn.12649. Epub 2019 Apr 1. PMID: 30938007.
 
-60: Costa-Urrutia P, Vizuet-Gámez A, Ramirez-Alcántara M, Guillen-González MÁ,
+Costa-Urrutia P, Vizuet-Gámez A, Ramirez-Alcántara M, Guillen-González MÁ,
 Medina-Contreras O, Valdes-Moreno M, Musalem-Younes C, Solares-Tlapechco J,
 Granados J, Franco-Trecu V, Rodriguez-Arellano ME. Obesity measured as percent
 body fat, relationship with body mass index, and percentile curves for Mexican
 pediatric population. PLoS One. 2019 Feb 25;14(2):e0212792. [doi]https://doi.org/
 10.1371/journal.pone.0212792. PMID: 30802270; PMCID: PMC6388924.
 
-61: Jiménez-Osorio AS, Musalem-Younes C, Cárdenas-Hernández H, Solares-Tlapechco
+Jiménez-Osorio AS, Musalem-Younes C, Cárdenas-Hernández H, Solares-Tlapechco
 J, Costa-Urrutia P, Medina-Contreras O, Granados J, López-Saucedo C, Estrada-
 Garcia T, Rodríguez-Arellano ME. Common Polymorphisms Linked to Obesity and
 Cardiovascular Disease in Europeans and Asians are Associated with Type 2
 Diabetes in Mexican Mestizos. Medicina (Kaunas). 2019 Feb 5;55(2):40. [doi]https://doi.org/
 10.3390/medicina55020040. PMID: 30764545; PMCID: PMC6410269.
 
-62: Piedra-Quintero ZL, Serrano C, Villegas-Sepúlveda N, Maravillas-Montero JL,
+Piedra-Quintero ZL, Serrano C, Villegas-Sepúlveda N, Maravillas-Montero JL,
 Romero-Ramírez S, Shibayama M, Medina-Contreras O, Nava P, Santos-Argumedo L.
 Myosin 1F Regulates M1-Polarization by Stimulating Intercellular Adhesion in
 Macrophages. Front Immunol. 2019 Jan 10;9:3118. [doi]https://doi.org/10.3389/fimmu.2018.03118.
@@ -393,13 +395,13 @@ PMID: 30687322; PMCID: PMC6335276.
 
 ## 2018
 
-63: Antonio-Herrera L, Badillo-Godinez O, Medina-Contreras O, Tepale-Segura A,
+Antonio-Herrera L, Badillo-Godinez O, Medina-Contreras O, Tepale-Segura A,
 García-Lozano A, Gutierrez-Xicotencatl L, Soldevila G, Esquivel-Guadarrama FR,
 Idoyaga J, Bonifaz LC. The Nontoxic Cholera B Subunit Is a Potent Adjuvant for
 Intradermal DC-Targeted Vaccination. Front Immunol. 2018 Sep 27;9:2212. [doi]https://doi.org/
 10.3389/fimmu.2018.02212. PMID: 30319653; PMCID: PMC6171476.
 
-64: Serralde-Zúñiga A, Castro-Eguiluz D, Aguilar-Ponce JL, Peña-Ruiz AA, Castro-
+Serralde-Zúñiga A, Castro-Eguiluz D, Aguilar-Ponce JL, Peña-Ruiz AA, Castro-
 Gutiérrez JV, Rivera-Rivera S, Aranda-Flores C, Casique-Pérez V, Alarcón-Barrios
 SE, de la Garza-Salazar J, Sánchez-López M, Dueñas-González A. Epidemiological
 Data on the Nutritional Status of Cancer Patients Receiving Treatment with
@@ -407,26 +409,26 @@ Concomitant Chemoradiotherapy, Radiotherapy or Sequential Chemoradiotherapy to
 the Abdominopelvic Area. Rev Invest Clin. 2018;70(3):117-120. [doi]https://doi.org/
 10.24875/RIC.18002523. PMID: 29943775.
 
-65: Flores-Cisneros L, Castro-Eguiluz D, Reyes-Barretero DY, Jaimes E, Cano-
+Flores-Cisneros L, Castro-Eguiluz D, Reyes-Barretero DY, Jaimes E, Cano-
 Blanco C, Avendaño-Pérez C, Carbajal-López B, Sánchez-López M, Mota-García A,
 Gallardo-Rincón D, Inzunza-Soto M, Hernandez-Quintero C, Cetina-Pérez L. Effects
 of Dietary Components During and After Concomitant Chemoradiotherapy,
 Radiotherapy, or Sequential Chemoradiotherapy to the Abdominopelvic Area. Rev
 Invest Clin. 2018;70(3):126-129. [doi]https://doi.org/10.24875/RIC.18002525. PMID: 29943774.
 
-66: Castro-Eguiluz D, Leyva-Islas JA, Luvian-Morales J, Martínez-Roque V,
+[Castro-Eguiluz D]{.mark}, Leyva-Islas JA, Luvian-Morales J, Martínez-Roque V,
 Sánchez-López M, Trejo-Durán G, Jiménez-Lima R, Leyva-Rendón FJ. Nutrient
 Recommendations for Cancer Patients Treated with Pelvic Radiotherapy, with or
 without Comorbidities. Rev Invest Clin. 2018;70(3):130-135. [doi]https://doi.org/
 10.24875/RIC.18002526. PMID: 29943773.
 
-67: Castillo-Martínez L, Castro-Eguiluz D, Copca-Mendoza ET, Pérez-Camargo DA,
+Castillo-Martínez L, Castro-Eguiluz D, Copca-Mendoza ET, Pérez-Camargo DA,
 Reyes-Torres CA, Ávila EA, López-Córdova G, Fuentes-Hernández MR, Cetina-Pérez
 L, Milke-García MDP. Nutritional Assessment Tools for the Identification of
 Malnutrition and Nutritional Risk Associated with Cancer Treatment. Rev Invest
 Clin. 2018;70(3):121-125. [doi]https://doi.org/10.24875/RIC.18002524. PMID: 29943772.
 
-68: Cetina-Pérez L, Serrano-Olvera A, Flores-Cisneros L, Jiménez-Lima R,
+Cetina-Pérez L, Serrano-Olvera A, Flores-Cisneros L, Jiménez-Lima R,
 Alvarado-Silva C, Díaz-Romero MDC, Morales-Vásquez F, Muñoz-González DE, Mota-
 García A, Chávez-Fierro OA, Jaramillo-Manzur SC, de la Garza-Salazar J, Castro-
 Eguiluz D, Meneses-García A. Epidemiological Profile, Gastrointestinal Toxicity,
@@ -434,24 +436,24 @@ and Treatment of Pelvic Cancers in Patients Managed with Radiotherapy to the
 Abdominal Pelvic Area. Rev Invest Clin. 2018;70(3):112-116. [doi]https://doi.org/
 10.24875/RIC.18002528. PMID: 29943771.
 
-69: Cetina-Pérez L, Castro-Eguiluz D, Oñate-Ocaña LF. Nutrition in Patients with
+Cetina-Pérez L, Castro-Eguiluz D, Oñate-Ocaña LF. Nutrition in Patients with
 Cancer Treated with Chemo-radiotherapy to the Abdominopelvic Area. A consensus
 report. Rev Invest Clin. 2018;70(3):109-111. [doi]https://doi.org/10.24875/RIC.18002521. PMID:
 29943770.
 
-70: Serna-Thomé G, Castro-Eguiluz D, Fuchs-Tarlovsky V, Sánchez-López M,
+Serna-Thomé G, Castro-Eguiluz D, Fuchs-Tarlovsky V, Sánchez-López M,
 Delgado-Olivares L, Coronel-Martínez J, Molina-Trinidad EM, de la Torre M,
 Cetina-Pérez L. Use of Functional Foods and Oral Supplements as Adjuvants in
 Cancer Treatment. Rev Invest Clin. 2018;70(3):136-146. [doi]https://doi.org/
 10.24875/RIC.18002527. PMID: 29943769.
 
-71: Villagomez FR, Medina-Contreras O, Cerna-Cortes JF, Patino-Lopez G. The role
+Villagomez FR, Medina-Contreras O, Cerna-Cortes JF, Patino-Lopez G. The role
 of the oncogenic Rab35 in cancer invasion, metastasis, and immune evasion,
 especially in leukemia. Small GTPases. 2020 Sep;11(5):334-345. [doi]https://doi.org/
 10.1080/21541248.2018.1463895. Epub 2018 May 28. PMID: 29781368; PMCID:
 PMC7549652.
 
-72: Ngo VL, Abo H, Maxim E, Harusato A, Geem D, Medina-Contreras O, Merlin D,
+Ngo VL, Abo H, Maxim E, Harusato A, Geem D, Medina-Contreras O, Merlin D,
 Gewirtz AT, Nusrat A, Denning TL. A cytokine network involving IL-36γ, IL-23,
 and IL-22 promotes antimicrobial defense and recovery from intestinal barrier
 damage. Proc Natl Acad Sci U S A. 2018 May 29;115(22):E5076-E5085. [doi]https://doi.org/
@@ -459,7 +461,7 @@ damage. Proc Natl Acad Sci U S A. 2018 May 29;115(22):E5076-E5085. [doi]https://
 
 ## 2017
 
-Manzanares-Meza LD, Gutiérrez-Román CI, Medina-Contreras O. MALDI imaging:
+Manzanares-Meza LD, Gutiérrez-Román CI, [Medina-Contreras O]{.mark}. MALDI imaging:
 beyond classic diagnosis. Bol Med Hosp Infant Mex. 2017 May-Jun;74(3):212-218.
 [doi](https://doi.org/10.1016/j.bmhimx.2017.03.004)
 
@@ -488,7 +490,7 @@ Navarrete V, Villegas-Sepúlveda N, Parkos C, Nusrat A, Nava P. 14-3-3 Proteins
 regulate Akt Thr308 phosphorylation in intestinal epithelial cells. Cell Death
 Differ. 2016 Jun;23(6):1060-72. [doi]h(ttps://doi.org/10.1038/cdd.2015.163)
 
-Medina-Contreras O, Harusato A, Nishio H, Flannigan KL, Ngo V, Leoni G,
+[Medina-Contreras O]{.mark}, Harusato A, Nishio H, Flannigan KL, Ngo V, Leoni G,
 Neumann PA, Geem D, Lili LN, Ramadas RA, Chassaing B, Gewirtz AT, Kohlmeier JE,
 Parkos CA, Towne JE, Nusrat A, Denning TL. Cutting Edge: IL-36 Receptor Promotes
 Resolution of Intestinal Damage. J Immunol. 2016 Jan 1;196(1):34-8. [doi](https://doi.org/
@@ -531,7 +533,7 @@ pyroptosis in favor of its survival. Microb Pathog. 2012 Jun;52(6):367-74. [doi]
 
 ## 2011
 
-Medina-Contreras O, Geem D, Laur O, Williams IR, Lira SA, Nusrat A, Parkos
+[Medina-Contreras O]{.mark}, Geem D, Laur O, Williams IR, Lira SA, Nusrat A, Parkos
 CA, Denning TL. CX3CR1 regulates intestinal macrophage homeostasis, bacterial
 translocation, and colitogenic Th17 responses in mice. J Clin Invest. 2011
 Dec;121(12):4787-95. [doi](https://doi.org/10.1172/JCI59150)
@@ -550,7 +552,7 @@ Medina-Contreras O, Granados G, Chávez-Munguía B, Juaristi E, Ortiz-Navarrete 
 González-Mariscal L. CRTAM: A molecule involved in epithelial cell adhesion. J
 Cell Biochem. 2010 Sep 1;111(1):111-22. [doi](https://doi.org/10.1002/jcb.22673)
 
-Medina-Contreras O, Soldevila G, Patiño-Lopez G, Canche-Pool E, Valle-Rios
+[Medina-Contreras O]{.mark}, Soldevila G, Patiño-Lopez G, Canche-Pool E, Valle-Rios
 R, Ortiz-Navarrete V. Role of CRTAM during mouse early T lymphocytes
 development. Dev Comp Immunol. 2010 Feb;34(2):196-202. [doi](https://doi.org/
 10.1016/j.dci.2009.09.009)
@@ -563,7 +565,7 @@ CRTAM gene promoter: AP-1 transcription factor control its expression in human T
 CD8 lymphocytes. Mol Immunol. 2009 Oct;46(16):3379-87. [doi](https://doi.org/
 10.1016/j.molimm.2009.07.016)
 
-Castro-Eguiluz D, Pelayo R, Rosales-Garcia V, Rosales-Reyes R, Alpuche-
+[Castro-Eguiluz D]{.mark}, Pelayo R, Rosales-Garcia V, Rosales-Reyes R, Alpuche-
 Aranda C, Ortiz-Navarrete V. B cell precursors are targets for Salmonella
 infection. Microb Pathog. 2009 Jul;47(1):52-6. [doi](https://doi.org/
 10.1016/j.micpath.2009.04.005)

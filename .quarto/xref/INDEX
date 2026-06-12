@@ -190,5 +190,87 @@
   },
   "projects/ifng.qmd": {
     "ifng.html": "d3949301"
+  },
+  "protocols/thaw.qmd": {
+    "thaw.html": "fad85874",
+    "thaw.tex": "872b1735"
+  },
+  "protocols/sop/total_prot.qmd": {
+    "total_prot.html": "4657774c"
+  },
+  "protocols/sop/transfection.qmd": {
+    "transfection.html": "f55d7652"
+  },
+  "protocols/sop/cytoflex.qmd": {
+    "cytoflex.html": "18f4900a"
+  },
+  "protocols/sop/gel_dna.qmd": {
+    "gel_dna.html": "f4d559ac"
+  },
+  "protocols/sop/viability.qmd": {
+    "viability.html": "5cfb2d70"
+  },
+  "protocols/sop/adipocytes.qmd": {
+    "adipocytes.html": "49ab8ead"
+  },
+  "protocols/sop/cell_freeze.qmd": {
+    "cell_freeze.html": "2171e23d"
+  },
+  "protocols/sop/dna_restriction.qmd": {
+    "dna_restriction.html": "f5002540"
+  },
+  "protocols/sop/facs.qmd": {
+    "facs.html": "53f057c2"
+  },
+  "protocols/sop/bacteria_transformation.qmd": {
+    "bacteria_transformation.html": "e8c52cd7"
+  },
+  "protocols/sop/lung_cells.qmd": {
+    "lung_cells.html": "25103a55"
+  },
+  "protocols/sop/oil.qmd": {
+    "oil.html": "f4153f13"
+  },
+  "protocols/sop/competents.qmd": {
+    "competents.html": "cb9007f5"
+  },
+  "protocols/sop/tumor_organoids.qmd": {
+    "tumor_organoids.html": "803db894"
+  },
+  "protocols/sop/dna_electrophoresis.qmd": {
+    "dna_electrophoresis.html": "fd9078df"
+  },
+  "protocols/sop/binder.qmd": {
+    "binder.html": "983069ab"
+  },
+  "protocols/sop/explants.qmd": {
+    "explants.html": "c01fee50"
+  },
+  "protocols/sop/peritonitis.qmd": {
+    "peritonitis.html": "241a883f"
+  },
+  "protocols/sop/flow.qmd": {
+    "flow.html": "eec77fef"
+  },
+  "protocols/sop/gut_lp.qmd": {
+    "gut_lp.html": "a94fc48e"
+  },
+  "protocols/sop/wound.qmd": {
+    "wound.html": "4cf016b2"
+  },
+  "protocols/sop/bacterial_tranlocation.qmd": {
+    "bacterial_tranlocation.html": "334843ce"
+  },
+  "protocols/bioseguridad.qmd": {
+    "bioseguridad.html": "b6ac5cc6"
+  },
+  "news/paper04.qmd": {
+    "paper04.html": "fe3f0d26"
+  },
+  "projects/montemorelos.qmd": {
+    "montemorelos.html": "f5e8d646"
+  },
+  "projects/.montemorelos.qmd": {
+    ".montemorelos.html": "4dab2bb6"
   }
 }

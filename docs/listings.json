@@ -2,20 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/news/meeting_26-1.html",
+      "/news/paper04.html",
       "/news/meetings.html",
       "/news/paper03.html",
       "/news/paper01.html",
       "/news/paper02.html",
-      "/projects/metabolism-sectei.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/dai.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/il36-ciic.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/metabolism-sectei.html"
     ]
   },
   {
@@ -36,20 +28,13 @@
     "listing": "/projects.html",
     "items": [
       "/projects/metabolism-sectei.html",
-      "/projects/il36-secihti.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/dai.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/il36-ciic.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/il36-secihti.html"
     ]
   },
   {
     "listing": "/news.html",
     "items": [
+      "/news/paper04.html",
       "/news/meetings.html",
       "/news/paper03.html",
       "/news/paper01.html",

@@ -1,0 +1,81 @@
+# Tinción de gotas de lípidos en adipocitos con rojo oleoso
+
+`UIEEN-PL-025` <kbd>CULTIVO CELULAR</kbd>
+
+### Propósito
+
+Tinción de gotas de lípidos de adipocitos con rojo oleoso.
+
+### Alcance
+
+Este procedimiento involucra a todo el personal técnico, científico y
+estudiantes que necesiten teñir las gotas de lípidos de adipocitos con rojo oleoso en la
+`Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Hospital Infantil de México Federico Gómez`.
+
+### Políticas de operación, normas y lineamientos
+
+Es responsabilidad de todo el personal técnico, científico y estudiantes
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005.
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+- Retirar el medio a las células.
+-	Agregar por las paredes del pozo 1 mL de PBS 1X estéril a las células, realizar movimientos circulares y tenues, para eliminar el medio. Repetir este paso 2 veces más.
+- Retirar el PBS 1X y agregar 700 μL de paraformaldehído (PAF) al 4%, incubar a temperatura ambiente por 20 min.
+-	Eliminar el PAF con la pipeta y realizar 3 lavados con PBS 1X, ya descritos anteriormente.
+-	Agregar 500 μL de rojo oleoso a la monocapa e incubar a temperatura ambiente por 1 hora.
+-	Retirar el rojo oleoso y realizar 3 lavados con PBS 1X.
+-	Observar al microscopio.
+
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+- La adición y eliminación de los reactivos se realizará por las paredes del pozo, para evitar el desprendimiento de la monocapa de células.
+- Para los lavados, los movimientos no deberán ser vigorosos porque puede provocar el desprendimiento de la monocapa de células.
+- Los volúmenes que se mencionan en el procedimiento es para el tamaño de un pozo de placa 6 pozos, estos volúmenes se pueden adecuar de acuerdo al tamaño del pozo en donde se esté realizando la tinción.
+:::
+
+### Diagrama de Flujo
+
+![Figura 1.
+Diagrama de flujo](images/oil.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+Preparación de medios.
+a)	Medio de crecimiento
+
+Medio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina
+
+b)	Medios de diferenciación(MD)
+La siguiente tabla es descrita para 3 Ml de m, es decir para un pozo.
+Al medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación
+
+	MD-I	MD-II	MD-III
+Dexamentasona 25 μM	30 μL	30 μL	---
+IBMX 125 μM	12 μL	12 μL	---
+Insulina 300 UI/mL	1 μL	1 μL	1 μL
+Rosiglitazona 20 mM	---	3 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm) 	---
+
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.

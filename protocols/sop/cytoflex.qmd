@@ -1,0 +1,84 @@
+---
+title: Cytoflex LX
+date: 2024-06-17
+author:
+  name: Oscar Medina Contreras
+  id: omc
+  orcid: 0000-0002-4432-7780
+  email: omedina@himfg.edu.mx
+  url: www.omclab.org
+  affiliation: 
+    - name: Hospital Infantil de México
+      city: Ciudad de Mexico
+      state: CDMX
+      url: www.himfg.edu.mx
+lang: es-MX
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+---
+
+# Uso del citómetro de flujo Cytoflex LX
+
+`UIEEN-PL-015` <kbd>FACS</kbd>
+
+### Propósito
+
+<!--@START_MENU_TOKEN@-->
+
+Texto<!--@END_MENU_TOKEN@-->
+
+### Alcance
+
+Este procedimiento involucra a todo el personal técnico, científico y
+estudiantes que <!--@START_MENU_TOKEN@-->Texto<!--@END_MENU_TOKEN@--> en
+la
+`Unidad de Investigación Epidemiológica en Endocrinología y Nutrición del Hospital Infantil de México Federico Gómez`.
+
+### Políticas de operación, normas y lineamientos
+
+Es responsabilidad de todo el personal técnico, científico y estudiantes
+adscritos a la Unidad de Investigación Epidemiológica en Endocrinología
+y Nutrición del Hospital Infantil de México Federico Gómez conocer y dar
+seguimiento a este procedimiento. Los residuos de tipo CRETI
+(Corrosivas, Reactivas, Explosivas, Toxicas e Inflamables) se deberán
+eliminar con base en su clasificación y especificaciones de manejo según
+la Norma Oficial Mexicana NOM-087-ECOL-SSA1-2002; así como sus
+características intrínsecas y su toxicidad al ambiente según la NOM-052-
+SEMARNAT-2005.
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   <!--@START_MENU_TOKEN@-->
+
+    Lista<!--@END_MENU_TOKEN@-->
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+:::
+
+```         
+@cite 10.1002/9780470089941.et0702s10
+```
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+

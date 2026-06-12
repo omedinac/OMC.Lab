@@ -1,0 +1,82 @@
+---
+title: 'congelar células'
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Mantener un cultivo celular *in vitro* en condiciones apropiadas para su crecimiento, propagación o almacenamiento para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+# Descripción del Protocolo
+
+::: callout-note
+## Pasos
+
+-   Cosechar las células^[Partir de células con una confluencia del 80-90%] y resuspender en 5ml de medio de cultivo.
+
+-   Centrifugar a 1500rpm/5 minutos/4ºC.
+
+-   Remover el sobrenadante y añadir 1 ml de medio crioprotector^[Congelar a una concentración de 10^6^-10^7^ células/ml].
+
+-   Resuspender las células y pasar **inmediatamente** a hielo.
+
+-   Guardar a -80°C/24 hrs y posteriormente almacenar en nitrógeno líquido.
+:::
+
+## Diagrama de Flujo
+
+![pasos a seguir](img/imagen.png){width="50%"}
+
+## Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+#### Medio crioprotector
+
+| Reactivo | Volúmen  | Concentración |
+|----------|----------|---------------|
+| SFB^[suero fetal bovino] | 45ml | 90% |
+| DMSO^[dimetilsulfóxido] | 5ml | 10% |
+
+</details>
+
+<details open>
+
+<summary>Material</summary>
+
+- Tubos falcon 50 ml
+- Pipeta serológica 10 ml
+
+</details>
+
+## Notas
+
+*---debe ser un proceso rápido para tener buena viabilidad---*

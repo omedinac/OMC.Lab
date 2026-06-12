@@ -15,7 +15,7 @@ author:
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
 date: 2025-03-10
-description: "This research project evaluathes the association between microbiota metabolites and insilin resistance in pediatric obesity"
+description: "This research project evaluates the association between microbiota metabolites and insulin resistance in pediatric obesity"
 categories:
   - Metabolism
   - Ongoing Project
