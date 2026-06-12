@@ -1,5 +1,6 @@
 ---
-title: "Meetings 2026"
+title: "ESPEN 2026"
+author: Rueda-Escalona AA, Landa-Esquivias B, Ysais-Chong S, Villalpando-Sánchez DC, Medina-Contreras O, Castro-Eguiluz D
 date: 2026-05-01
 categories: "Meetings"
 image: ico.png
@@ -7,6 +8,7 @@ image: ico.png
 
 <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="10344792" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="ESPEN 2026" href="//www.tickcounter.com/">ESPEN 2026</a>
 
+<!--
 ::: {.callout-note}
 # ESPEN 2026
 
@@ -18,9 +20,11 @@ Effects Of Curcumin Supplementation On P53 Levels In Tumor Cells And Clinical Ou
 
 Impact Of Combined Physical Activity And Dietary Intervention Versus Diet Alone On Skeletal Muscle Mass And Strength In Endometrial Cancer Patients
 :::
+-->
 
 <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="10344776" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="ICO 2026" href="//www.tickcounter.com/">ICO 2026</a>
 
+<!--
 ::: {.callout-note}
 # ICO 2026
 
@@ -51,3 +55,5 @@ Early Prediction of Insulin Resistance in Childhood Obesity Through Proinflammat
 Pregestational Overweight and Obesity Alter Late-Pregnancy Gut Microbiota: Distinct Microbial Signatures in the OBESO Cohort
 
 :::
+-->
+
