@@ -1,6 +1,6 @@
 ---
-title: "Microbiota in caries with stevia"
-subtitle: "The Immune Regulation"
+title: "Unidad de Investigación Epidemiológica en Endocrinología y Nutrición"
+
 author:
   - name: "America Miranda"
     affiliation: "Hospital Infantil de Mexico"
@@ -14,9 +14,11 @@ description: "This doctoral research project studies inflammation in metabolic d
 categories:
   - Microbiota
   - Ongoing Project
-  - Collab
+  - Collaborations
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 image: /images/projects/eu_finance.png
 draft: true
 ---
+
+# Microbiota in caries with stevia

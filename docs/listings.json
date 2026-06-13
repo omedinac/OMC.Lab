@@ -12,9 +12,9 @@
       "/projects/metabolism-sectei.html",
       "/projects/caries.html",
       "/projects/cart.html",
+      "/projects/ciic.html",
       "/projects/exosomes.html",
       "/projects/ifng.html",
-      "/projects/il36-ciic.html",
       "/projects/leptin.html",
       "/projects/leukemia.html"
     ]
@@ -40,14 +40,15 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/montemorelos.html",
       "/projects/dai.html",
       "/projects/metabolism-sectei.html",
       "/projects/il36-secihti.html",
       "/projects/caries.html",
       "/projects/cart.html",
+      "/projects/ciic.html",
       "/projects/exosomes.html",
       "/projects/ifng.html",
-      "/projects/il36-ciic.html",
       "/projects/leptin.html",
       "/projects/leukemia.html"
     ]
@@ -66,15 +67,9 @@
   {
     "listing": "/members/oscar-medina.html",
     "items": [
+      "/projects/montemorelos.html",
       "/projects/metabolism-sectei.html",
-      "/projects/il36-secihti.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/il36-ciic.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/il36-secihti.html"
     ]
   },
   {

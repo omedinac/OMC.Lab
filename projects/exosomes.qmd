@@ -1,9 +1,9 @@
 ---
-title: "Determination of differences in immunophenotype and function of exosomes and microvesicles released by mesenchymal stem cells activated with proinflammatory cytokines: potential use as immunosuppressive therapy"
+title: "FES - Zaragoza"
 subtitle: "The Immune Regulation"
 author:
   - name: "Marta Castro"
-    affiliation: "Universidad de Guanajuato"
+    affiliation: "Universidad Nacional Autónoma de México"
     url: 
   - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
@@ -14,10 +14,11 @@ categories:
   - Inflammation
   - Cancer
   - Ongoing Project
-  - Collab
+  - Collaborations
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 image: /images/projects/eu_finance.png
 draft: true
 ---
 
+# Determination of differences in immunophenotype and function of exosomes and microvesicles released by mesenchymal stem cells activated with proinflammatory cytokines: potential use as immunosuppressive therapy

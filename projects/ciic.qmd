@@ -1,6 +1,6 @@
 ---
-title: "Role of the IL-36 family in metabolic diseases"
-subtitle: "The Immune Regulation"
+title: "División de Ciencias de la Salud"
+
 author:
   - name: "Nicte Figueroa"
     affiliation: "Universidad de Guanajuato"
@@ -9,11 +9,11 @@ author:
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
 date: 2022-03-10
-description: "This doctoral research project studies inflammation in metabolic diseases"
+description: "This research collaboration studies the role of the IL-36 family in inflammation in metabolic diseases"
 categories:
   - Metabolism
   - Ongoing Project
-  - Collab
+  - Collaborations
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 image: /images/projects/eu_finance.png

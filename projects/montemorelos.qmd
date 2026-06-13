@@ -1,20 +1,25 @@
 ---
-title: "Hospital General Montemorelos"
-subtitle: "Investigación"
+title: "Dirección de Investigación"
+
 author:
+  - name: "Hilda Beatriz Gómez Robledo"
+    affiliation: "Hospital General Montemorelos"
+    url: /404.qmd
   - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd
 date: 2026-12-31
 description: "This research collaboration evaluates ..."
 categories:
-  - Collaborations
+  - Metabolism
   - Future Project
+  - Collaborations
 #bibliography: ../ecopo_working_group_publications.bib
 toc: true
 image: /images/projects/montemorelos.jpg
-draft: false
+draft: true
 ---
+
 <!--
 ::: {.ecopo-callout}
 See the project original page on the website: <https://www.>
