@@ -1,0 +1,41 @@
+---
+title: "ICO 2026"
+author: Ysais-Chong S, Villalpando-Sánchez DC, Castro-Eguiluz D, Medina-Contreras O
+date: 2026-07-17
+categories: "Meetings"
+image: ico.png
+---
+
+<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="10344776" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="ICO 2026" href="//www.tickcounter.com/">ICO 2026</a>
+
+::: {.callout-note}
+# Oral
+
+Reengineering Leptin therapy: BCH2 mutant leptin for obesity and its comorbidities-an approach to an enteral delivery platform
+:::
+
+::: {.callout-note}
+# Poster
+
+Microbial TLR ligands induce IL-36γ expression in adipocytes *in vitro*
+:::
+
+::: {.callout-note}
+# Poster
+
+The IL-36 axis in metainflammation: an imbalance of agonists and antagonists links obesity, type 2 diabetes, and hypertension
+:::
+
+::: {.callout-note}
+# Poster
+
+Early prediction of insulin resistance in childhood obesity through proinflammatory cytokine profiling
+:::
+
+::: {.callout-note}
+# Poster
+
+Pregestational overweight and obesity alter late-pregnancy gut microbiota: distinct microbial signatures in the OBESO cohort
+:::
+
+

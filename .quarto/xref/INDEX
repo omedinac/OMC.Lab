@@ -345,5 +345,20 @@
   },
   "protocols/bacterial_tranlocation.qmd": {
     "bacterial_tranlocation.html": "8e6bdf95"
+  },
+  "news/ico26.qmd": {
+    "ico26.html": "2faf6533"
+  },
+  "news/meetings copy.qmd": {
+    "meetings copy.html": "f1c186b5"
+  },
+  "news/meetings copy 4.qmd": {
+    "meetings copy 4.html": "0a931a0f"
+  },
+  "news/meetings copy 3.qmd": {
+    "meetings copy 3.html": "f640a004"
+  },
+  "news/espen26.qmd": {
+    "espen26.html": "1a3d03f6"
   }
 }

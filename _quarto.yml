@@ -36,7 +36,7 @@ website:
     - text: "Report an issue"
       href: (mailto:)
   announcement: 
-    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany, and the International Congress on Obesity (ICO 2026) in Mexico City (see details [here](/news/meetings.qmd))"
+    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany, and the International Congress on Obesity (ICO 2026) in Mexico City (see details [here](/news/ico26.qmd) and [here](/news/espen26.qmd))"
     dismissable: true
     position: below-navbar
 
