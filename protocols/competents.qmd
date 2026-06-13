@@ -1,0 +1,128 @@
+---
+title: "Bacterias competentes"
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Picar una colonia de bacterias, cepas TOP10 o DH5$\alpha$, y colocar
+    en 15ml de caldo LB (Luria-Bertani) sin antibiótico.
+
+-   Incubar a 37°C/200rpm/12-16 hrs.
+
+-   Transferir 10ml del crecimiento bacteriano a 200ml de caldo LB
+    estéril sin antibiótico.
+
+-   Incubar a 37°C/200rpm y medir la densidad óptica a 600nm cada hora.
+
+-   Una vez llegado a una densidad óptica de 0.6 colocar el cultivo
+    bacteriano en tubos falcón de 50ml fríos.
+
+-   Centrifugar a 5000rpm/30 minutos/4°C.
+
+-   Desechar el sobrenadante y resuspender las bacterias en 10ml de
+    CaCl~2~ 0.1M frio.
+
+-   Centrifugar 10 minutos/5000rpm/4°C.
+
+-   Desechar el sobrenadante y resuspender las bacterias en 10ml de
+    CaCl~2~ 0.1M frio.
+
+-   Incubar una hora en hielo.
+
+-   Centrifugar 5000rpm/10 minutos/4°C y eliminar el sobrenadante.
+
+-   Añadir 2ml de CaCl~2~ y 20% glicerol frío.
+
+-   Incubar 5 minutos en hielo.
+
+-   Preparar alícuotas de 100$\mu$l.
+
+-   Congelar inmediatamente en nitrógeno líquido.
+
+-   Almacenar a -70°C.
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+-   Todo debe realizarse bajo el mechero en condiciones de esterilidad.
+
+-   Todos los reactivos e insumos utilizados deben de ser estériles.
+:::
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+#### CaCl~2~
+
+| Header 1 | Header 2 |
+|----------|----------|
+| CaCl~2~  | 11.098g  |
+| H~2~O    | 100ml    |
+
+Ajustar pH a 7.5 y esterilizar
+
+</details>
+
+<details>
+
+<summary>Reactivos</summary>
+
+<br>
+
+<p style="color:blue;">
+
+CaCl~2~ *Sigma*
+
+</p>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+@Ramos2014 Manual de "pENTR™ Directional TOPO Cloning Kits" life
+technologies Current Protocols in Molecular Biology, Section 1.2.1,
+Supplement 59. Frederick M. Ausubel et al. 2003.
+
+

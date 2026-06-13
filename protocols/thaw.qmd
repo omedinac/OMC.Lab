@@ -1,5 +1,5 @@
 ---
-title: 'congelar células'
+title: 'descongelar células'
 subtitle: 'Laboratorio de Inmunometabolismo'
 
 author:

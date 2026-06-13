@@ -1,0 +1,77 @@
+---
+title: 'Enzimas de Restricción'
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Utilizar enzimas de restricción para cortar en un sitio especifico del ADN de interés.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   En un microtubo estéril agregar: Buffer de Enzima (10X) 2$\mu$l BSA
+    acetilado 10$\mu$g/$\mu$l 0.2$\mu$l ADN 1$\mu$g/$\mu$l 1$\mu$l
+    Enzima de restricción 1 U H~2~O Volumen final 20$\mu$l
+
+-   Centrifugar por unos segundos. Incubar a 37 °C 1-4hrs.
+
+-   Analizar en gel de agarosa.
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+-   Este ensayo se ha probado para un volumen de sustrato de ADN
+    0.2-1.5$\mu$g, usando un exceso de enzima 2-10 veces sobre la
+    cantidad ADN usado. Si se usa un contenido grande de DNA o enzima,
+    se pueden obtener resultados erróneos.
+:::
+
+```         
+@cite Manual de HindIII. Promega Corporation
+```
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+

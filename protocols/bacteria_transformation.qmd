@@ -1,0 +1,72 @@
+---
+title: 'Transformación'
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Mantener un cultivo celular *in vitro* en condiciones apropiadas para su crecimiento, propagación o almacenamiento para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Mezclar 3$\mu$l del vector exógeno con un vial de bacterias
+    competentes.
+
+-   Incubar 30 minutos en hielo.
+
+-   Incubar 60 segundos a 42ºC.
+
+-   Incubar 2 minutos en hielo.
+
+-   Añadir 200$\mu$l de medio SOC, e incubar 37°C/200rpm/1hr.
+
+-   Plaquear en agar LB con antibiotico de selección.
+
+-   Incubar 12-16hrs a 37°C.
+:::
+
+@cite Manual de "pENTR™ Directional TOPO Cloning Kits" de Invitrogen.
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+

@@ -1,0 +1,13 @@
+---
+title: "Protocols"
+listing:
+  - id: news
+    contents: protocols/*.qmd
+    sort: "date desc"
+    type: default
+    categories: true
+    date-format: long
+---
+
+::: {#protocols}
+:::

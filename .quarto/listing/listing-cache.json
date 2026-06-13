@@ -53,6 +53,9 @@
     ],
     "members/denisse-castro.qmd": [
       "../projects/*.qmd"
+    ],
+    "protocols.qmd": [
+      "protocols/*.qmd"
     ]
   }
 }

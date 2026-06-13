@@ -1,0 +1,68 @@
+---
+title: Obtención de células linfoides de pulmón
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Eutanasiar a los ratones (BALB/C o C57BL6) mediante dislocación
+    cervical.
+-   Perfundir los pulmones con PBS 1X, removerlos y colocarlos en PBS 1X
+    / SFB (5%).
+-   Disgregar el tejido con RPMI, SFB al 2%, colagenasa (1mg/ml) y DNasa
+    I (1mg/ml).
+-   Mantener en agitación a 250 rpm por 11 minutos a 37°C.
+-   Pasar las células por una membrana de nylon de 40-70$\mu$m de
+    diámetro, recolectar y lavar con PBS1X.
+-   Eliminar los eritrocitos con solución de lisis eritrocitario por 5
+    minutos/37°C.
+-   Lavar las células con PBS1X 1500 RPM /4°C / 5 minutos y resuspender
+    las células en PBS1x (2ml; frio).
+:::
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]

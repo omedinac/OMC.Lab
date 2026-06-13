@@ -1,0 +1,68 @@
+---
+title: Cytoflex LX
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   <!--@START_MENU_TOKEN@-->
+
+    Lista<!--@END_MENU_TOKEN@-->
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+:::
+
+```         
+@cite 10.1002/9780470089941.et0702s10
+```
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+

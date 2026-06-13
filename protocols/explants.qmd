@@ -1,0 +1,89 @@
+---
+title: "Citocinas en explantes"
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Eutanizar el raton
+-   Extraer el intestino en esterilidad
+-   Cortar fragmentos de 5mm
+-   Colocar en placa de 96 pozos de fondo plano con RPMI 10% SFB
+-   Re-estimular con anti CD3/CD28 o Iono/PMA
+
+a)  Sobrenadante
+    -   Cultivar 12h a 37ºC
+    -   Colectar el medio de cultivo
+    -   Cuantificar por ELISA o congelar
+b)  Intracelular
+    -   Colocar medio fresco al explante
+    -   Agregar 5 µg/ml Brefeldina A
+    -   Cultivar 5h a 37ºC
+    -   Recuperar el tejido y homogenizar en RIPA
+    -   Centrifugar 5’ a 13,000 rpm
+    -   Colectar el sobrenadante
+    -   Cuantificar por ELISA o congelar
+:::
+
+-   
+
+<details>
+
+<summary>**Notas**</summary>
+
+</details>
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+\newpage
+
+## actualizaciones
+
+| versión   |         | :Elaboró:              | Revisó                 |
+|-----------|---------|------------------------|------------------------|
+| `2025.01` | inicial | Oscar Medina Contreras | Oscar Medina Contreras |

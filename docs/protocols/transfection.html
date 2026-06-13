@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-MX" xml:lang="es-MX"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="omclab">
+
+<title>Transfección – Castro-Medina Lab</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/logo-bpewg.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-b856dee10e21950d696b022d144bb914.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1c75ab45614b0532d400100aefeb28d1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/quarto-auto-dark-mode-1.0.0/auto-dark-mode.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #FFFFFF;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #FFFFFF;
+background: #0047AB;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/mcl.png" alt="Research Group in Mexico" class="navbar-logo light-content">
+    <img src="../images/mcl.png" alt="Research Group in Mexico" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Castro-Medina Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../members.html"> 
+<span class="menu-text">Members</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../protocols.html"> 
+<span class="menu-text">Protocols</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <div id="quarto-announcement" data-announcement-id="35be499425fe7c6a601e2afb61b818a5" class="alert alert-primary hidden"><div class="quarto-announcement-content">
+<p><span class="announcement-icon" aria-hidden="true"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany, and the International Congress on Obesity (ICO 2026) in Mexico City (see details <a href="../news/meetings.html">here</a>)</p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Transfección</h1>
+            <p class="subtitle lead">Laboratorio de Inmunometabolismo</p>
+                                <div class="quarto-categories">
+                <div class="quarto-category">CULTIVO CELULAR</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Autor/a</div>
+      <div class="quarto-title-meta-contents">
+               <p>omclab <a href="mailto:omedina@himfg.edu.mx" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Fecha de publicación</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">13 de junio de 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  <div>
+    <div class="abstract">
+      <div class="block-title">Resumen</div>
+      <p>Extraer células linfoides de pulmón de ratón para los fines que se requiera.</p>
+    </div>
+  </div>
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#descripción-del-protocolo" id="toc-descripción-del-protocolo" class="nav-link active" data-scroll-target="#descripción-del-protocolo">Descripción del Protocolo</a></li>
+  <li><a href="#diagrama-de-flujo" id="toc-diagrama-de-flujo" class="nav-link" data-scroll-target="#diagrama-de-flujo">Diagrama de Flujo</a></li>
+  <li><a href="#anexos" id="toc-anexos" class="nav-link" data-scroll-target="#anexos">Anexos</a></li>
+  <li><a href="#documentos-de--sec-ref" id="toc-documentos-de--sec-ref" class="nav-link" data-scroll-target="#documentos-de--sec-ref">Documentos de <strong>?@sec-ref</strong></a></li>
+  <li><a href="#actualizaciones" id="toc-actualizaciones" class="nav-link" data-scroll-target="#actualizaciones">actualizaciones</a></li>
+  <li><a href="#sirna" id="toc-sirna" class="nav-link" data-scroll-target="#sirna">siRNA</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Otros formatos</h2><ul><li><a href="transfection.pdf"><i class="bi bi-file-pdf"></i>PDF (fancy-doc)</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<div style="page-break-after: always;"></div>
+<section id="descripción-del-protocolo" class="level3">
+<h3 class="anchored" data-anchor-id="descripción-del-protocolo">Descripción del Protocolo</h3>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Pasos
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Immortalized human keratinocytes (HaCat) were cultured in DMEM/Hams F12 medium supplemented with bicarbonate, an antibiotic-antimycotic, and 10% FBS (GIBCO), at pH 7.2. Cells were sown in treated culture plates (75 cm2) (Nest), and cultured at 37 °C in a 5% CO2 . Medium was changed every third day. When the keratinocytes were 80% confluent in the culture plate, they were harvested for the assays. Cell harvest was done by extracting medium with a sterile pipette, washing with PBS (pH 7.2), extracting the buffer and adding 3 ml 0.05% trypsin EDTA. The plate was incubated at 37 °C for 4 mins to activate the enzyme and disrupt cell-cell and cell-matrix interactions. Cell detachment was confirmed with an inverted microscope. Because FBS inhibits trypsin-EDTA and therefore its activity, 5 ml medium was added to the box. The total volume in the plate was recovered and placed in a 15 ml tube (Nest). After centrifuging at 1500 rpm for 5 mins, the supernatant was removed and 1 ml medium added. The tube was mixed gently to disperse the cells. Cell counts were done using 10 µl of this mixture in a manual hemocytometer and expressed as cells in 1 ml. Based on the cell counts, calculations were done of the amount of medium (ml) required per ml cell-containing medium, considering the number of cells to be sown in each well and well volume (ml).</p></li>
+<li><p>For the assay, a keratinocyte density of 5 x 104 cells in 300 µl medium per well was used . This was placed in each well of treated 48-well plates (Nest), the plate was incubated and growth monitored until 80% confluence was attained. This was achieved 24 h after sowing, at which time the wound was made in the cells. The culture medium was removed from each well and two washes done using 300 µl fresh, sterile PBS 1X 7.2. During the second wash, a scratch wound was made in the cells using a 1 ml pipette tip (blue) by applying enough force to disrupt the cells without damaging the plastic. The PBS 1X pH 7.2 was removed and a third wash done to remove as much debris as possible, after which PBS was placed over the cells.</p></li>
+<li><p>Quantification of cell wound healing in the presence of the peptide fractions was done by adding them to the wounded cells and monitoring the healing process. A negative control (medium alone) and positive control (10 ng/mL EGF; GIBCO) were used. Fractions ( hidrolized collagen minor of 3 kDa and peak 2 ) were dissolved in culture medium (12% DMEM/HAMS) at a 3.5 mg/ml concentration. The PBS in the well was removed, and the fractions and controls added to the wells. Six replicates were done per control and per fraction. The plates were incubated at 37 °C and 5% CO2. The healing process was monitored at 24 after wound induction (time zero, 0 h), and the experiment stopped when any of the controls or fractions exhibited 90% healing. Images were taken at 0 and 24 by placing a plate under an inverted, phase-contrast microscope (10X) equipped with a digital camera. A positive control was added into the in vitro assay ,rh-fgf-b (thermo Fisher) as well as control without wound and a control of wound with only media.</p></li>
+<li><p>Using the images, healing rate was measured using the Tscratch software (Gebäck, Zurich, Switzerland).14 Images were analyzed per condition, per time point, and means and standard deviations calculated. A Student’s t-test was applied to analyze the results; significance was set at P&lt;0.05.</p></li>
+</ul>
+</div>
+</div>
+<ul>
+<li></li>
+</ul>
+<details>
+<summary>
+<strong>Notas</strong>
+</summary>
+<ul>
+<li>Pico 2 menor de 3 kDa Se pesaron 3.5 mg/ml (mililitros de medio) Al final en 300<span class="math inline">\(\mu\)</span>l debe haber una concentración de 0.2 mg /ml</li>
+</ul>
+<p>V1C1=V2C2 V1= [No pozos x 300][0.2 mg/ml (C2)] 3.5 mg /ml (C1)</p>
+<p>V2 = (Número de pozos x 300<span class="math inline">\(\mu\)</span>l medio)</p>
+<ul>
+<li>Condiciones
+<ul>
+<li>Control sin herida</li>
+<li>Control con herida y solo medio</li>
+<li>Control + Factor crecimiento (3<span class="math inline">\(\mu\)</span>l/ml de medio) rh-fgf-b thermo Fisher. Puesto que no teníamos otro factor</li>
+<li>Muestras: pico 2 proveniente de col hidrolizado menor de 3 kDa, colágeno hidrolizado menor de 3 kda</li>
+</ul></li>
+</ul>
+</details>
+</section>
+<section id="diagrama-de-flujo" class="level3">
+<h3 class="anchored" data-anchor-id="diagrama-de-flujo">Diagrama de Flujo</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.omclab.org/images/R.png" class="img-fluid figure-img" style="width:25.0%"></p>
+<figcaption>Figura</figcaption>
+</figure>
+</div>
+</section>
+<section id="anexos" class="level3">
+<h3 class="anchored" data-anchor-id="anexos">Anexos</h3>
+<details open="">
+<summary>
+Material
+</summary>
+<ul>
+<li>Mouse Macrophage Nucleofector Kit<br>
+(Lonza, Cat# VPA-1009, 25 Reactions)</li>
+<li>Mission esiRNA Mouse F11r<br>
+(Sigma, Cat# EMU082531-50UG, 200 ng/µL, 250 uL)</li>
+<li>siRNA Universal Negative control #1<br>
+(Sigma, Cat#SIC001-5x1NMOL, 1nmole/tube, MW 13,317 g/mole)<br>
+dissolve in 66.6 µL H2O to make 200 ng/µL solution.</li>
+</ul>
+</details>
+</section>
+<section id="documentos-de--sec-ref" class="level3">
+<h3 class="anchored" data-anchor-id="documentos-de--sec-ref">Documentos de <strong>?@sec-ref</strong></h3>
+<p><span class="citation" data-cites="cite">(<a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a>)</span> 10.1002/9780470089941.et0702s10</p>
+</section>
+<section id="actualizaciones" class="level2">
+<h2 class="anchored" data-anchor-id="actualizaciones">actualizaciones</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 14%">
+<col style="width: 21%">
+<col style="width: 32%">
+<col style="width: 32%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>versión</th>
+<th></th>
+<th>Elaboró</th>
+<th>Revisó</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>2023.04</code></td>
+<td>inicial</td>
+<td>Oscar Medina Contreras</td>
+<td>Oscar Medina Contreras</td>
+</tr>
+<tr class="even">
+<td><code>2024.01</code></td>
+<td>actualización</td>
+<td>Oscar Medina Contreras</td>
+<td>Oscar Medina Contreras</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="sirna" class="level2">
+<h2 class="anchored" data-anchor-id="sirna">siRNA</h2>
+<p>Macrophage<br>
+&nbsp;siRNA &nbsp;protocol Feb 12, 2012 Wooki Kim</p>
+<ol type="1">
+<li>Prepare 12-well plates by filling appropriate number of wells with 1.5 ml culture medium (RPMI+10% heat inactivated FBS+penicillin/streptomycin) and pre-incubate/equilibrate plates in a humidified 37°C/5% CO2 incubator</li>
+<li>Harvest bone marrow cells from either WT or JAM-A KO mice in PBS and determine cell concentration.</li>
+<li><ol start="4" type="1">
+<li>Adjust cell concentration at 1 x 106 cell/mL Centrifuge 1 mL of cell suspension (1 x 106 cells per sample) at 200x g for 5 minutes at room temperature.</li>
+</ol></li>
+<li>Discard supernatant completely.</li>
+<li>Resuspend the cell pellet carefully in 100 μl room temperature Nucleofector® Solution per sample.</li>
+<li>Avoid storing the cell suspension longer than 15 minutes in Mouse Macrophage Nucleofector® Solution, as this reduces cell viability and gene transfer efficiency</li>
+<li>Transfer cells into a provided cuvette (sample must cover the bottom of the cuvette without air bubbles).</li>
+<li>Input 10 µL of siRNA (or scrambled control) directly into the cuvette.</li>
+<li>Close the cuvette with the cap</li>
+<li>Select the Nucleofector® Program Y-001 (Whitehead 455C)</li>
+<li>Insert the cuvette with cell/DNA suspension into the Nucleofector® Cuvette Holder and apply the selected program</li>
+<li>Take the cuvette out of the holder once the program is finished (transfection occurs in a blink!).</li>
+<li>Add 400 μl of the pre-equilibrated culture medium to the cuvette and gently transfer the sample into the 12-well plate (final volume of 2 ml media per well). Use the supplied pipettes and avoid repeated aspiration of the sample</li>
+<li>incubate the cells in humidified 37°C/5% CO2 incubator for 8 hr.</li>
+<li>Aliquot 150 µL cell suspension into round bottomed 96-well plates, and add 50 µL zymosan suspension (40 µg/mL).</li>
+<li>Incubate additional 20 hr and harvest supernatant by centrifuge.</li>
+<li>Determine cytokine/chemokine production by ELISA kits.</li>
+</ol>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://codeberg.org/">
+<p><img src="../images/icons/codeberg.svg" alt="Codeberg" style="height:1em; vertical-align:middle; margin-right:0.5em"> View source code</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../(mailto:)">
+<p>Report an issue</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://omclab.org">
+<p>by omc lab</p>
+</a>
+  </li>  
+    <li class="nav-item">
+ &amp; 
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

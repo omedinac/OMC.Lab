@@ -73,5 +73,32 @@
     "items": [
       "/projects/dai.html"
     ]
+  },
+  {
+    "listing": "/protocols.html",
+    "items": [
+      "/protocols/gut_lp.html",
+      "/protocols/adipocytes.html",
+      "/protocols/bacterial_tranlocation.html",
+      "/protocols/competents.html",
+      "/protocols/cytoflex.html",
+      "/protocols/dna_electrophoresis.html",
+      "/protocols/dna_restriction.html",
+      "/protocols/explants.html",
+      "/protocols/flow.html",
+      "/protocols/lung_cells.html",
+      "/protocols/oil.html",
+      "/protocols/peritonitis.html",
+      "/protocols/total_prot.html",
+      "/protocols/transfection.html",
+      "/protocols/viability.html",
+      "/protocols/tumor_organoids.html",
+      "/protocols/gel_dna.html",
+      "/protocols/facs.html",
+      "/protocols/wound.html",
+      "/protocols/bacteria_transformation.html",
+      "/protocols/thaw.html",
+      "/protocols/cell_freeze.html"
+    ]
   }
 ]

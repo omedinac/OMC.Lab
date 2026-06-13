@@ -272,5 +272,75 @@
   },
   "projects/.montemorelos.qmd": {
     ".montemorelos.html": "4dab2bb6"
+  },
+  "protocols/sop/bioseguridad.qmd": {
+    "bioseguridad.html": "359e21da"
+  },
+  "protocols.qmd": {
+    "protocols.html": "a25ebe71"
+  },
+  "protocols/total_prot.qmd": {
+    "total_prot.html": "39a75989"
+  },
+  "protocols/transfection.qmd": {
+    "transfection.html": "e6e9d9dc"
+  },
+  "protocols/cytoflex.qmd": {
+    "cytoflex.html": "6ec96576"
+  },
+  "protocols/gel_dna.qmd": {
+    "gel_dna.html": "95ba837d"
+  },
+  "protocols/viability.qmd": {
+    "viability.html": "7b58dbb5"
+  },
+  "protocols/adipocytes.qmd": {
+    "adipocytes.html": "a2ea37ed"
+  },
+  "protocols/cell_freeze.qmd": {
+    "cell_freeze.html": "952ed07b"
+  },
+  "protocols/dna_restriction.qmd": {
+    "dna_restriction.html": "c6222ac9"
+  },
+  "protocols/facs.qmd": {
+    "facs.html": "b09ff14a"
+  },
+  "protocols/bacteria_transformation.qmd": {
+    "bacteria_transformation.html": "f785f2f6"
+  },
+  "protocols/lung_cells.qmd": {
+    "lung_cells.html": "492af898"
+  },
+  "protocols/oil.qmd": {
+    "oil.html": "a04cfcb5"
+  },
+  "protocols/competents.qmd": {
+    "competents.html": "f86ba7ab"
+  },
+  "protocols/tumor_organoids.qmd": {
+    "tumor_organoids.html": "3a43bccc"
+  },
+  "protocols/dna_electrophoresis.qmd": {
+    "dna_electrophoresis.html": "507ffc4e"
+  },
+  "protocols/explants.qmd": {
+    "explants.html": "d8ed56a5"
+  },
+  "protocols/peritonitis.qmd": {
+    "peritonitis.html": "40d58150"
+  },
+  "protocols/flow.qmd": {
+    "flow.html": "3042264c"
+  },
+  "protocols/gut_lp.qmd": {
+    "gut_lp.html": "7bc6b921",
+    "gut_lp.tex": "d0da43aa"
+  },
+  "protocols/wound.qmd": {
+    "wound.html": "333e8710"
+  },
+  "protocols/bacterial_tranlocation.qmd": {
+    "bacterial_tranlocation.html": "8e6bdf95"
   }
 }

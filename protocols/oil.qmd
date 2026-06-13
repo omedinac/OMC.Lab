@@ -1,0 +1,91 @@
+---
+title: Tinción de gotas de lípidos en adipocitos con rojo oleoso
+
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+- Retirar el medio a las células.
+-	Agregar por las paredes del pozo 1 mL de PBS 1X estéril a las células, realizar movimientos circulares y tenues, para eliminar el medio. Repetir este paso 2 veces más.
+- Retirar el PBS 1X y agregar 700 μL de paraformaldehído (PAF) al 4%, incubar a temperatura ambiente por 20 min.
+-	Eliminar el PAF con la pipeta y realizar 3 lavados con PBS 1X, ya descritos anteriormente.
+-	Agregar 500 μL de rojo oleoso a la monocapa e incubar a temperatura ambiente por 1 hora.
+-	Retirar el rojo oleoso y realizar 3 lavados con PBS 1X.
+-	Observar al microscopio.
+
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+- La adición y eliminación de los reactivos se realizará por las paredes del pozo, para evitar el desprendimiento de la monocapa de células.
+- Para los lavados, los movimientos no deberán ser vigorosos porque puede provocar el desprendimiento de la monocapa de células.
+- Los volúmenes que se mencionan en el procedimiento es para el tamaño de un pozo de placa 6 pozos, estos volúmenes se pueden adecuar de acuerdo al tamaño del pozo en donde se esté realizando la tinción.
+:::
+
+### Diagrama de Flujo
+
+![Figura 1.
+Diagrama de flujo](images/oil.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+Preparación de medios.
+a)	Medio de crecimiento
+
+Medio DMEM + 10% SFB + antibiótico/antimicótico + l-glutamina
+
+b)	Medios de diferenciación(MD)
+La siguiente tabla es descrita para 3 Ml de m, es decir para un pozo.
+Al medio de crecimiento se le adicionara los reactivos necesarios para preparar los medios de diferenciación
+
+	MD-I	MD-II	MD-III
+Dexamentasona 25 μM	30 μL	30 μL	---
+IBMX 125 μM	12 μL	12 μL	---
+Insulina 300 UI/mL	1 μL	1 μL	1 μL
+Rosiglitazona 20 mM	---	3 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de rosiglitazona 20 Mm) 	---
+
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry. 2012;425(1):88-90.

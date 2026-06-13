@@ -1,0 +1,150 @@
+---
+title: Electroforesis DNA
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Determinar el porcentaje de gel a preparar en base al tamaño de la
+    molecula de ADN a analizar ([Tabla 1]).
+
+-   Pesar la cantidad de agarosa requerida para la resolución deseada.
+
+-   Disolver en 100ml de TAE 1X. Agitar.
+
+-   Calentar la agarosa hasta que se disuelva por completo.
+
+-   Agregar 4$\mu$l de SYBR Safe 10,000X.
+
+-   Sellar completamente la base para preparación de geles de agarosa
+    con cinta adhesiva y posteriormente vaciar la agarosa.
+
+-   Colocar el peine y dejar que solidifique la agarosa. Una vez
+    solidificado retirar la cinta adhesiva y el peine y colocar la base
+    dentro de la cámara de electroforesis.
+
+-   Agregar 200ml de TAE 1X (cubrir entre 0.5 o 1cm por encima del gel).
+
+-   Mezclar las muestras de interés con buffer de carga (6X) y colocar
+    cada una de las muestras en los pozos.
+
+-   Colocar el marcador de peso molecular (marcador de peso molecular +
+    buffer de carga 6X) en un pozo.
+
+-   Cerrar la cámara de electroforesis y conectar a la fuente de poder.
+
+-   Encender la fuente de poder, seleccionar voltaje constante de 100V y
+    migrar durante 20 minutos.
+
+-   Analizar el gel en el fotodocumentador utilizando el programa SYBR
+    safe/green (488nm).
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+-   Asegúrese de que no queden burbujas atrapadas debajo de los peines y
+    de ser así, eliminar antes de correr el gel.
+
+-   Permitir a la agarosa en polvo hidratarse en la solución durante
+    unos minutos antes de calentar: esto permite una disolución más
+    sencilla, rápida y reduce la formación de espuma.
+
+-   Para prevenir el sobrecalentamiento de la agarosa, si se usa un
+    microondas sacar el vaso de precipitados después de 1 minuto y mover
+    cuidadosamente. Volver a colocar dentro del microondas y continuar 1
+    minuto más. Si se hierve demasiado tiempo puede causar hidrólisis y
+    una menor fuerza de resolución del gel.
+:::
+
+```         
+@cite 10.1002/9780470089941.et0702s10
+```
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+##### Tabla 1
+
+| Tamaño  | Concentración |
+|---------|---------------|
+| \>2kb   | 0.6%          |
+| 1-2     | 0.8%          |
+| 0.5-1   | 1%            |
+| 0.2-0.5 | 1.5%          |
+| \<0.2   | 2%            |
+
+: **Tamaño de ADN y porcentaje de gel**
+
+<details open>
+
+<summary>Soluciones</summary>
+
+#### Preparación de TAE
+
+| Reactivo      | Concentración |
+|---------------|---------------|
+| Tris          | 40mM          |
+| Ácido Acético | 20mM          |
+| Na~2~EDTA     | 1mM           |
+| H~2~O         | aforar a 1L   |
+
+</details>
+
+<details>
+
+<summary>Reactivos</summary>
+
+<br>
+
+<p style="color:blue;">
+
+UltraPure Agarose *Thermo*\
+SYBR Safe *Thermo*\
+Buffer carga 6X *Promega*\
+Marcador de peso molecular *Thermo*\
+TAE 1X *S*
+
+</p>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+

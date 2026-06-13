@@ -1,0 +1,90 @@
+---
+title: Conteo y viabilidad celular
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: |
+  Extraer células linfoides de pulmón de ratón para los fines que se requiera.
+categories: [CULTIVO CELULAR]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   Limpiar el hemocitómetro con alcohol al 70%. Esperar a que esté
+    secos por completo y colocar el cubreobjetos en de la rejilla.
+
+-   Mezclar 10$\mu$l de una suspensión celular uniforme con 90$\mu$l de
+    azul de tripano 0.4%. Incubar 2 min.
+
+-   Colocar 10$\mu$l de la mezcla bajo el cubreobjetos y observar al
+    microscopio con una magnificación 40x.
+
+-   Contar las células sin colorante presentes en los cuadrantes 1, 2, 4
+    y 5 del hemocitómetro (Fig. 1) sin considerar las células que toquen
+    las líneas.
+
+-   Calcular concentración de células:
+
+$células/ml = \frac{células * 10^{5}}{volúmen}$
+
+-   Calcular la viabilidad celular
+
+$viabilidad = \frac{células}{total}*{100}$
+
+-   Limpiar el hemocitómetro con alcohol 70% y secar.
+:::
+
+::: {.callout-caution collapse="true"}
+### Notas
+
+-   
+:::
+
+### Diagrama de Flujo
+
+![Figura 1.
+Hemocitometro](https://www.omclab.org/images/R.png){width="25%"}
+
+![Figura 2. Conteo
+celular](https://www.omclab.org/images/R.png){width="25%"}
+
+![Figura 3. Viabilidad
+celular](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
