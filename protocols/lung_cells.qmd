@@ -3,7 +3,7 @@ title: Obtención de células linfoides de pulmón
 subtitle: 'Laboratorio de Inmunometabolismo'
 
 author:
-  name: omclab
+  name: RVR lab
   email: omedina@himfg.edu.mx
 
 abstract: |

@@ -1,0 +1,339 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  spanish,
+  12pt,
+  a4paper,
+]{article}
+\usepackage{xcolor}
+\usepackage[top=1in,bottom=1in,left=1in,right=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic,shorthands=off]{babel}
+\else
+\usepackage[bidi=default,shorthands=off]{babel}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+
+
+%-----------------------------------------------------------------------------%
+%                            SOME PREAMBLE STUFF                              %
+%-----------------------------------------------------------------------------%
+
+%-----------------------------------------------------------------------------%
+%                            LOAD PACKAGES                                    %
+%-----------------------------------------------------------------------------%
+
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage[style=apa, backend=biber,annotation=false]{biblatex}
+\usepackage[x11names]{xcolor}
+\usepackage{longtable}
+\usepackage{fancyhdr} % for header
+\usepackage{soul} % to make highlight for tags
+\usepackage{pdfpages} % to append pdf pages
+\usepackage{fontspec} % for fonts
+
+%-----------------------------------------------------------------------------%
+%                            Header                                           %
+%-----------------------------------------------------------------------------%
+
+\setlength{\headheight}{38pt}
+\setmainfont{Helvetica Neue}
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Tabla de contenidos}
+\else
+  \newcommand\contentsname{Tabla de contenidos}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Listado de Figuras}
+\else
+  \newcommand\listfigurename{Listado de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Listado de Tablas}
+\else
+  \newcommand\listtablename{Listado de Tablas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabla}
+\else
+  \newcommand\tablename{Tabla}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Listado de Listados}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Tinción de gotas de lípidos en adipocitos con rojo oleoso},
+  pdfauthor={Sara y Dianis},
+  pdflang={es-MX},
+  colorlinks=true,
+  linkcolor={DarkSlateBlue},
+  filecolor={Maroon},
+  citecolor={DarkSlateBlue},
+  urlcolor={DarkSlateBlue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+%-----------------------------------------------------------------------------%
+%                            BIBLATEX                                         %
+%-----------------------------------------------------------------------------%
+
+\usepackage[style=apa,backend=biber]{biblatex}
+
+\setlength\bibitemsep{0pt}  % No space between bib entries
+\renewcommand*{\bibfont}{\footnotesize}  % Use smaller font
+\setlength\bibhang{\parindent}  % Match document indentation
+
+% Fix biblatex's odd preference for using In: by default.
+\renewbibmacro{in:}{%
+  \ifentrytype{article}{}{%
+  \printtext{\bibstring{}\intitlepunct}}}
+
+\addbibresource{refs.bib}
+
+\begin{document}
+%-----------------------------------------------------------------------------%
+%                            SOME PREAMBLE STUFF                              %
+%-----------------------------------------------------------------------------%
+
+%-----------------------------------------------------------------------------%
+%                            Set Page STYLE                                   %
+%-----------------------------------------------------------------------------%
+
+\pagestyle{fancy}
+\fancyhead[L]{\thepage \\ Sara y Dianis }
+\fancyhead[R]{Tinción de gotas de lípidos en adipocitos con rojo
+oleoso \\ Laboratorio de Inmunometabolismo }
+\cfoot{\textbf{Version} \texttt{Inicial} 2022-02 }
+\renewcommand*\contentsname{Tabla de contenidos}
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\newpage{}
+
+\subsubsection{Descripción del
+Protocolo}\label{descripciuxf3n-del-protocolo}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, bottomrule=.15mm, bottomtitle=1mm, breakable, colback=white, colbacktitle=quarto-callout-note-color!10!white, colframe=quarto-callout-note-color-frame, coltitle=black, left=2mm, leftrule=.75mm, opacityback=0, opacitybacktitle=0.6, rightrule=.15mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Pasos}, titlerule=0mm, toprule=.15mm, toptitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Retirar el medio a las células.
+\item
+  Agregar por las paredes del pozo 1 mL de PBS 1X estéril a las células,
+  realizar movimientos circulares y tenues, para eliminar el medio.
+  Repetir este paso 2 veces más.
+\item
+  Retirar el PBS 1X y agregar 700 μL de paraformaldehído (PAF) al 4\%,
+  incubar a temperatura ambiente por 20 min.
+\item
+  Eliminar el PAF con la pipeta y realizar 3 lavados con PBS 1X, ya
+  descritos anteriormente.
+\item
+  Agregar 500 μL de rojo oleoso a la monocapa e incubar a temperatura
+  ambiente por 1 hora.
+\item
+  Retirar el rojo oleoso y realizar 3 lavados con PBS 1X.
+\item
+  Observar al microscopio.
+\end{itemize}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, bottomrule=.15mm, bottomtitle=1mm, breakable, colback=white, colbacktitle=quarto-callout-caution-color!10!white, colframe=quarto-callout-caution-color-frame, coltitle=black, left=2mm, leftrule=.75mm, opacityback=0, opacitybacktitle=0.6, rightrule=.15mm, title=\textcolor{quarto-callout-caution-color}{\faFire}\hspace{0.5em}{Notas}, titlerule=0mm, toprule=.15mm, toptitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  La adición y eliminación de los reactivos se realizará por las paredes
+  del pozo, para evitar el desprendimiento de la monocapa de células.
+\item
+  Para los lavados, los movimientos no deberán ser vigorosos porque
+  puede provocar el desprendimiento de la monocapa de células.
+\item
+  Los volúmenes que se mencionan en el procedimiento es para el tamaño
+  de un pozo de placa 6 pozos, estos volúmenes se pueden adecuar de
+  acuerdo al tamaño del pozo en donde se esté realizando la tinción.
+\end{itemize}
+
+\end{tcolorbox}
+
+\subsubsection{Diagrama de Flujo}\label{diagrama-de-flujo}
+
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.25\linewidth,height=\textheight,keepaspectratio]{images/oil.png}
+
+}
+
+\caption{Figura 1. Diagrama de flujo}
+
+\end{figure}%
+
+\subsubsection{Anexos}\label{anexos}
+
+Soluciones
+
+Preparación de medios. a) Medio de crecimiento
+
+Medio DMEM + 10\% SFB + antibiótico/antimicótico + l-glutamina
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\setcounter{enumi}{1}
+\item
+  Medios de diferenciación(MD) La siguiente tabla es descrita para 3 Ml
+  de m, es decir para un pozo. Al medio de crecimiento se le adicionara
+  los reactivos necesarios para preparar los medios de diferenciación
+
+  MD-I MD-II MD-III Dexamentasona 25 μM 30 μL 30 μL --- IBMX 125 μM 12
+  μL 12 μL --- Insulina 300 UI/mL 1 μL 1 μL 1 μL Rosiglitazona 20 mM ---
+  3 μL de una dilución 1:10 (9 μL de medio de crecimiento + 1 μL de
+  rosiglitazona 20 Mm) ---
+\end{enumerate}
+
+\subsubsection{\texorpdfstring{Documentos de
+\textbf{?@sec-ref}}{Documentos de ?@sec-ref}}\label{documentos-de--sec-ref}
+
+Zebisch K, Voigt V, Wabitsch M, Brandsch M. Protocol for effective
+differentiation of 3T3-L1 cells to adipocytes. Analytical biochemistry.
+2012;425(1):88-90.
+
+
+\printbibliography[title=References]
+
+
+
+\end{document}

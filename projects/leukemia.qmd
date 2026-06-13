@@ -2,6 +2,9 @@
 title: "Metabolic diversity of the gut microbiota as a predictor of treatment success in leukemia"
 subtitle: "The Immune Regulation"
 author:
+  - name: "Tania Angeles"
+    affiliation: "Hospital Infantil de Mexico"
+    url: /404.qmd
   - name: "Oscar Medina"
     affiliation: "Hospital Infantil de Mexico"
     url: /members/oscar-medina.qmd

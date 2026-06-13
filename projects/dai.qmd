@@ -2,7 +2,7 @@
 title: "Role of diet in cancer"
 subtitle: "The Immune Regulation"
 author:
-  - name: "Denisse Castro"
+  - name: "Alejandra Rueda"
     affiliation: "Universidad Anahuac Mexico"
     url: /members/alejandra-rueda.qmd
   - name: "Brenda Landa"
@@ -10,7 +10,7 @@ author:
     url: /members/brenda-landa.qmd
   - name: "Denisse Castro"
     affiliation: "National Cancer Institute"
-    url: /members/oscar-medina.qmd
+    url: /members/denisse-castro.qmd
 date: 2022-03-10
 description: "---"
 categories:

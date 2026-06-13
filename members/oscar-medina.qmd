@@ -43,40 +43,55 @@ To date, I have served on the editorial boards of Gene Reports and Mediators of 
 :::
 
 ## Publications
+```{r}
+#| echo: false
+#| results: asis
+#| message: false
+#| warning: false
 
-Torre-Baez, R. D., Vizcarra-Soto, M., Valdez-Palomares, F., Díaz-González, D., Hernandez-Gonzalez, A., Silva-
-Olivares, A., Betanzos, A., Encarnación-Garcia, M., Escobar-Sánchez, M., Torres-Ramírez, N., Baay-Guzman, G.,
-Medina-Contreras, O., Noriega, L., & Nava, P. (2026). Colitogenic environment suppresses Notch/mechanistic
-target of rapamycin-mediated epithelial proliferation to promote goblet cell differentiation in the colon. *American
-Journal of Pathology*, 196 (4), 900–919. https://doi.org/10.1016/j.ajpath.2025.12.011
+library(RefManageR)
 
-Castro-Manrreza, M., Romano, L. E., López-García, L., Medina-Contreras, O., & Montesinos, J. (2025). Persis-
-tent stimulation of human mesenchymal stem/stromal cells with TNF𝛼 and IFN𝛾 affects the release of large
-eExtracellular vesicles with immunoregulatory phenotype. *Stem Cells and Development*, 13-14(34), 291–303.
-https://doi.org/10.1089/scd.2025.0064
+# 1. Load your master references.bib file
+bib <- ReadBib("/Users/os/Library/Mobile Documents/com~apple~CloudDocs/OMC Lab/website/OMC.Lab/publications.bib")
 
-Hernández-Cuellar, E., Tsuchiya, K., Medina-Contreras, O., & Valle-Ríos, R. (2025). The role of inflammasomes in
-LPS and Gram-negative bacterial sepsis. *Journal of Clinical Medicine*, 14(19), 7102. https://doi.org/10.3390/jcm14197102
+# 2. Helper function to ignore accents, hyphens, and case
+normalize_text <- function(text) {
+  text <- tolower(text)
+  text <- chartr("áéíóúñü", "aeiounu", text)
+  text <- gsub("-", " ", text)
+  return(text)
+}
 
-Jaimes-Ortega, G. A., Angeles-Floriano, T., Rivera-Torruco, G., Almanza-Pérez, J. C., Xicohtencatl-
-Cortes, J., Hernandez-Cuellar, E., Medina-Contreras, O., Cruz-Córdova, A., & Valle-Rios, R. (2025).
-Isthmin1 upregulation in the intestinal microenvironment during *Salmonella typhimurium* infec-
-tion: identification and characterization of Isthmin1-producing cells. *Microorganisms*, 13(6), 1280.
-https://doi.org/10.3390/microorganisms13061280
+# 3. Define who you are looking for
+target_author <- "medina contreras"
 
-Negrete-Méndez, H., Valencia-Toxqui, G., Martínez-Peñafiel, E., Medina-Contreras, O., Fernández-Ramírez, F.,
-Morales-Ríos, E., Navarro-González, L. J., Torres-Flores, J. M., & Kameyama, L. (2025). A Lambda-evo (𝜆evo)
-phage platform for Zika virus EDIII protein display. *Applied Microbiology and Biotechnology*, 109(8), 1–20.
-https://doi.org/10.1007/s00253-024-13380-3
+# 4. Search the bib file
+idx <- sapply(bib, function(entry) {
+  authors_str <- paste(format(entry$author), collapse = " ")
+  clean_authors <- normalize_text(authors_str)
+  grepl(target_author, clean_authors, fixed = TRUE)
+})
 
-Olivera-Castillo, L., Grant, G., Medina-Contreras, O., Cruz-López, H., Carrillo-Cocom, L., Cruz-Córdova, A.,
-Segura-Cadiz, F., Fernández-Velasco, D. A., Rodríguez-Morales, S., Cauhich-Rodriguez, J. V., Moo-Puc, R.
-E., Puerto-Castillo, C., J. Moo-Pech, G. de, Uuh-Narvaez, J. J., Olvera-Novoa, M. Á., & Rodriguez-Canul,
-R. (2025). Sea cucumber (Isostichopus badionotus): bioactivity and wound healing capacity *in vitro* of small
-peptide isolates from digests of whole-body wall or purified collagen. *Marine Drugs*, 23(11), 411. https://doi.org/
-10.3390/md23110411
-
-Prieto-Islas, M. A., Godoy-Dahbura, E., Villalpando-Sanchez, D. C., Cortés-Benavides, C., Hernández-Cuellar, E.,
-Castro-Eguiluz, D., Álvarez-Neri, H., & Medina-Contreras, O. (2025). HPV vaccination improves immune
-response in children with respiratory papillomatosis. *Scientific Reports*, 15(Iss), 29885. https://doi.org/10.1038/
-s41598-025-14787-2
+# 5. Check if we found anything
+if (sum(idx) > 0) {
+  # Subset to only the author's papers
+  author_bib <- bib[idx]
+  
+  # 6. Extract years safely (assigns year 0 if a year is missing so it doesn't break)
+  years <- sapply(author_bib, function(x) {
+    if (is.null(x$year)) return(0) else return(as.numeric(x$year))
+  })
+  
+  # Sort the list descending by year
+  author_bib <- author_bib[order(years, decreasing = TRUE)]
+  
+  # 7. Print the formatted references AND stop it from re-sorting alphabetically!
+  print(author_bib, .opts = list(style = "markdown", 
+                                 bib.style = "authoryear", 
+                                 sorting = "none"))
+  
+} else {
+  # Print this if no matches are found
+  cat("not yet, but working on it")
+}
+```

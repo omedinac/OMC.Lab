@@ -20,11 +20,15 @@
   },
   {
     "listing": "/members/brenda-hernandez.html",
-    "items": []
+    "items": [
+      "/projects/ifng.html"
+    ]
   },
   {
     "listing": "/members/denisse-castro.html",
-    "items": []
+    "items": [
+      "/projects/dai.html"
+    ]
   },
   {
     "listing": "/members/diana-villalpando.html",
@@ -55,7 +59,6 @@
       "/projects/metabolism-sectei.html",
       "/projects/il36-secihti.html",
       "/projects/caries.html",
-      "/projects/cart copy 2.html",
       "/projects/cart.html",
       "/projects/exosomes.html",
       "/projects/ifng.html",
@@ -77,8 +80,10 @@
   {
     "listing": "/protocols.html",
     "items": [
-      "/protocols/gut_lp.html",
       "/protocols/adipocytes.html",
+      "/protocols/lung_cells.html",
+      "/protocols/oil.html",
+      "/protocols/gut_lp.html",
       "/protocols/bacterial_tranlocation.html",
       "/protocols/competents.html",
       "/protocols/cytoflex.html",
@@ -86,8 +91,6 @@
       "/protocols/dna_restriction.html",
       "/protocols/explants.html",
       "/protocols/flow.html",
-      "/protocols/lung_cells.html",
-      "/protocols/oil.html",
       "/protocols/peritonitis.html",
       "/protocols/total_prot.html",
       "/protocols/transfection.html",

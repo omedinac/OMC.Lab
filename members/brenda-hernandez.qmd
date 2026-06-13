@@ -25,5 +25,57 @@ listing:
 ::: {#projects}
 :::
 
-## Publications
+## Publications## Publications
+```{r}
+#| echo: false
+#| results: asis
+#| message: false
+#| warning: false
+
+library(RefManageR)
+
+# 1. Load your master references.bib file
+bib <- ReadBib("/Users/os/Library/Mobile Documents/com~apple~CloudDocs/OMC Lab/website/OMC.Lab/publications.bib")
+
+# 2. Helper function to ignore accents, hyphens, and case
+normalize_text <- function(text) {
+  text <- tolower(text)
+  text <- chartr("áéíóúñü", "aeiounu", text)
+  text <- gsub("-", " ", text)
+  return(text)
+}
+
+# 3. Define who you are looking for
+target_author <- "hernandez martinez"
+
+# 4. Search the bib file
+idx <- sapply(bib, function(entry) {
+  authors_str <- paste(format(entry$author), collapse = " ")
+  clean_authors <- normalize_text(authors_str)
+  grepl(target_author, clean_authors, fixed = TRUE)
+})
+
+# 5. Check if we found anything
+if (sum(idx) > 0) {
+  # Subset to only the author's papers
+  author_bib <- bib[idx]
+  
+  # 6. Extract years safely (assigns year 0 if a year is missing so it doesn't break)
+  years <- sapply(author_bib, function(x) {
+    if (is.null(x$year)) return(0) else return(as.numeric(x$year))
+  })
+  
+  # Sort the list descending by year
+  author_bib <- author_bib[order(years, decreasing = TRUE)]
+  
+  # 7. Print the formatted references AND stop it from re-sorting alphabetically!
+  print(author_bib, .opts = list(style = "markdown", 
+                                 bib.style = "authoryear", 
+                                 sorting = "none"))
+  
+} else {
+  # Print this if no matches are found
+  cat("not yet, but working on it")
+}
+```
 

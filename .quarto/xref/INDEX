@@ -295,7 +295,8 @@
     "viability.html": "7b58dbb5"
   },
   "protocols/adipocytes.qmd": {
-    "adipocytes.html": "a2ea37ed"
+    "adipocytes.html": "a2ea37ed",
+    "adipocytes.tex": "95e581c9"
   },
   "protocols/cell_freeze.qmd": {
     "cell_freeze.html": "952ed07b"
@@ -310,10 +311,12 @@
     "bacteria_transformation.html": "f785f2f6"
   },
   "protocols/lung_cells.qmd": {
-    "lung_cells.html": "492af898"
+    "lung_cells.html": "492af898",
+    "lung_cells.tex": "ec52da1b"
   },
   "protocols/oil.qmd": {
-    "oil.html": "a04cfcb5"
+    "oil.html": "a04cfcb5",
+    "oil.tex": "6a79743d"
   },
   "protocols/competents.qmd": {
     "competents.html": "f86ba7ab"

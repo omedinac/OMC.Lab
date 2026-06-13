@@ -4,7 +4,7 @@ title: Tinción de gotas de lípidos en adipocitos con rojo oleoso
 subtitle: 'Laboratorio de Inmunometabolismo'
 
 author:
-  name: omclab
+  name: Sara y Dianis
   email: omedina@himfg.edu.mx
 
 abstract: |
