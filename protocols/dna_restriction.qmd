@@ -8,7 +8,7 @@ author:
 
 abstract: |
   Utilizar enzimas de restricción para cortar en un sitio especifico del ADN de interés.
-categories: [CULTIVO CELULAR]
+categories: [Biología Molecular]
 thanks: |
   **Version** `Inicial` 2022-02
 

@@ -9,7 +9,7 @@ author:
 
 abstract: |
   Extraer células linfoides de pulmón de ratón para los fines que se.
-categories: [CULTIVO CELULAR]
+categories: [Cultivo Celular]
 thanks: |
   **Version** `Inicial` 2022-02
 

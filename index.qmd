@@ -33,6 +33,8 @@ Our group employs clinical interventions, immuno-proteomic, flow cytometry, prot
 
 We combine our expertise to gain novel insight on basic research questions, and we aim for translating our findings into clinical applications and therapeutic interventions to promote human health.
 
+## Principal Investigators
+
 **Denisse Castro-Eguiluz** is a Researcher for México at the National Cancer Institute, where she works on cervical cancer. **Oscar Medina-Contreras** is a medical sciences researcher at Mexico Children’s Hospital, where he works on mucosal immunology.
 
 :::{.columns}
@@ -52,12 +54,8 @@ We combine our expertise to gain novel insight on basic research questions, and 
 
 
 ::: {.callout-warning}
-
 Following our [Instagram](https://www.instagram.com/omc_lab/) may cause sudden bursts of curiosity and accidental intelligence.
-
 :::
-
-
 
 ## Ongoing research projects
 

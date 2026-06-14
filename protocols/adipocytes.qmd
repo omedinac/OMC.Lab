@@ -3,12 +3,12 @@ title: Adipocitos
 subtitle: 'Laboratorio de Inmunometabolismo'
 
 author:
-  name: Dianis
+  name: Dianis y Sara
   email: omedina@himfg.edu.mx
 
 abstract: |
-  Obtener células de lámina propia de intestino de ratón para su análisis posterior
-categories: [CULTIVO CELULAR]
+  Diferenciación de adipocitos a partir de fibroblastes 3T3
+categories: [Cultivo Celular]
 thanks: |
   **Version** `Inicial` 2022-02
 

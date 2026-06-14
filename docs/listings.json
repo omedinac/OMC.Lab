@@ -9,14 +9,7 @@
       "/news/paper01.html",
       "/news/paper02.html",
       "/projects/dai.html",
-      "/projects/metabolism-sectei.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/ciic.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/metabolism-sectei.html"
     ]
   },
   {
@@ -40,17 +33,9 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/montemorelos.html",
       "/projects/dai.html",
       "/projects/metabolism-sectei.html",
-      "/projects/il36-secihti.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/ciic.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/il36-secihti.html"
     ]
   },
   {
@@ -85,28 +70,28 @@
   {
     "listing": "/protocols.html",
     "items": [
-      "/protocols/adipocytes.html",
+      "/protocols/cytoflex.html",
+      "/protocols/facs.html",
+      "/protocols/flow.html",
       "/protocols/lung_cells.html",
+      "/protocols/peritonitis.html",
+      "/protocols/viability.html",
+      "/protocols/transfection.html",
+      "/protocols/total_prot.html",
+      "/protocols/gel_dna.html",
+      "/protocols/dna_restriction.html",
+      "/protocols/dna_electrophoresis.html",
+      "/protocols/competents.html",
+      "/protocols/bacterial_tranlocation.html",
+      "/protocols/wound.html",
+      "/protocols/tumor_organoids.html",
+      "/protocols/thaw.html",
       "/protocols/oil.html",
       "/protocols/gut_lp.html",
-      "/protocols/bacterial_tranlocation.html",
-      "/protocols/competents.html",
-      "/protocols/cytoflex.html",
-      "/protocols/dna_electrophoresis.html",
-      "/protocols/dna_restriction.html",
       "/protocols/explants.html",
-      "/protocols/flow.html",
-      "/protocols/peritonitis.html",
-      "/protocols/total_prot.html",
-      "/protocols/transfection.html",
-      "/protocols/viability.html",
-      "/protocols/tumor_organoids.html",
-      "/protocols/gel_dna.html",
-      "/protocols/facs.html",
-      "/protocols/wound.html",
+      "/protocols/cell_freeze.html",
       "/protocols/bacteria_transformation.html",
-      "/protocols/thaw.html",
-      "/protocols/cell_freeze.html"
+      "/protocols/adipocytes.html"
     ]
   }
 ]

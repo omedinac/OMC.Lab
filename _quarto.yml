@@ -27,14 +27,14 @@ website:
         text: Protocols
   page-footer:
    right: 
-    - text: "by omc lab"
+    - text: "by おすかーる"
       href: https://omclab.org
-    - text: "& "
+    - text: "& ふぶき"
    center:
     - text: '<img src="/images/icons/codeberg.svg" alt="Codeberg" style="height:1em; vertical-align:middle; margin-right:0.5em"> View source code'
       href: https://codeberg.org/
     - text: "Report an issue"
-      href: (mailto:)
+      href: (mailto:omc@omclab.org)
   announcement: 
     content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany, and the International Congress on Obesity (ICO 2026) in Mexico City (see details [here](/news/ico26.qmd) and [here](/news/espen26.qmd))"
     dismissable: true
