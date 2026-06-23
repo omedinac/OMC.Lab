@@ -76,7 +76,7 @@ BSc Student
 Researcher at National Cancer Institute
 :::
 ::: {.member-card}
-![](images/members/omc.jpg){.member-photo}
+![](images/members/the_omc.jpg){.member-photo}
 
 [**Oscar Medina**](members/oscar-medina.qmd)  
 Researcher at Hospital Infantil de Mexico
