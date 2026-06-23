@@ -1,0 +1,36 @@
+---
+title: "吹雪"
+listing:
+  - id: projects
+    contents: ../projects/*.qmd
+    type: default
+    sort: "date desc"
+    date-format: long
+    fields: [image, title, author, reading-time]
+    include:
+      author: 'Fubuki'
+---
+
+::: {.member-profile}
+![](//images/members/fubuki.jpeg){.member-photo}
+<div class="member-links">
+<a class="social-link" href="https://www.instagram.com/fubuki.sandayu" target="_blank" rel="noopener"><img class="social-icon" src="/images/icons/bluesky.svg" alt="Instagram" /></a>
+</div>
+:::
+
+
+::: {.callout-important}
+# Position
+
+Experiment ***634***. [Check the world get ready for me](https://www.instagram.com/fubuki.sandayu)
+:::
+
+I am who I am.
+
+## Research Projects
+
+::: {#projects}
+:::
+
+## Publications
+
