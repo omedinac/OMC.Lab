@@ -84,7 +84,7 @@ Researcher at Hospital Infantil de Mexico
 ::: {.member-card}
 ![](images/members/fubuki.jpeg){.member-photo}
 
-[**Fubuki**](members/fubuki.qmd)  
+[**Fubuki**](members/fubuki-sandayu.qmd)  
 limited-edition prototype
 :::
 :::
