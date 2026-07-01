@@ -1,6 +1,6 @@
 ---
 title: "ICO 2026"
-author: Ysais-Chong S, Villalpando-Sánchez DC, Castro-Eguiluz D, Medina-Contreras O
+author: Ysais-Chong S, Nuncio-Mora L, Villalpando-Sánchez DC, Zaldívar-Sánchez P, Landa-Esquivias B, Castro-Eguiluz D, Medina-Contreras O
 date: 2026-07-17
 categories: "Meetings"
 image: ico.png
@@ -14,28 +14,30 @@ image: ico.png
 Reengineering Leptin therapy: BCH2 mutant leptin for obesity and its comorbidities-an approach to an enteral delivery platform
 :::
 
+
+::: {.callout-note}
+# Poster
+
+![](inper.png)
+:::
+
+::: {.callout-note}
+# Poster
+
+![](ugto.png)
+:::
+
+::: {.callout-note}
+# Poster
+
+![](himfg.png)
+:::
+
+
+<!--
 ::: {.callout-note}
 # Poster
 
 Microbial TLR ligands induce IL-36γ expression in adipocytes *in vitro*
 :::
-
-::: {.callout-note}
-# Poster
-
-The IL-36 axis in metainflammation: an imbalance of agonists and antagonists links obesity, type 2 diabetes, and hypertension
-:::
-
-::: {.callout-note}
-# Poster
-
-Early prediction of insulin resistance in childhood obesity through proinflammatory cytokine profiling
-:::
-
-::: {.callout-note}
-# Poster
-
-Pregestational overweight and obesity alter late-pregnancy gut microbiota: distinct microbial signatures in the OBESO cohort
-:::
-
-
+-->
