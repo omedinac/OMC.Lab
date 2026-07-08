@@ -366,5 +366,17 @@
   },
   "members/fubuki-sandayu.qmd": {
     "fubuki-sandayu.html": "53cb6ad0"
+  },
+  "protocols/apcr.qmd": {
+    "apcr.html": "35989bdd"
+  },
+  "protocols/2d-page.qmd": {
+    "2d-page.html": "8890a998"
+  },
+  "protocols/bacterial_infection.qmd": {
+    "bacterial_infection.html": "43fe7a05"
+  },
+  "news/paper05.qmd": {
+    "paper05.html": "e733d64c"
   }
 }

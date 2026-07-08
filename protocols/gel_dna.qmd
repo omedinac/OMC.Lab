@@ -7,7 +7,7 @@ author:
   email: omedina@himfg.edu.mx
 
 abstract: |
-  Obtener células de lámina propia de intestino de ratón para su análisis posterior
+  extraer fragmentos de ADN de geles de agarosa
 categories: [Biología Molecular]
 thanks: |
   **Version** `Inicial` 2022-02

@@ -65,7 +65,7 @@ execute:
 
 ### Diagrama de Flujo
 
-![Figura](img/imagen.png){width="50%"}
+![Figura](img/lp.png){width="50%"}
 
 ### Anexos
 

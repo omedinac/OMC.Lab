@@ -7,7 +7,7 @@ author:
   email: omedina@himfg.edu.mx
 
 abstract: |
-  Extraer células linfoides de pulmón de ratón para los fines que serequiera.
+  tinción de superficie e intracelular de células linfoides para su posterior análisis por citometría de flujo
 categories: [Citometría]
 thanks: |
   **Version** `Inicial` 2022-02

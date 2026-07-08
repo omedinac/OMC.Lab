@@ -1,0 +1,97 @@
+---
+title: Reacción en Cadena de la Polimerasa (PCR) en tiempo real
+
+subtitle: 'Laboratorio de Inmunometabolismo'
+
+author:
+  name: omclab
+  email: omedina@himfg.edu.mx
+
+abstract: conocer la expresión de un gen o genes de interés en una muestra de cDNA
+categories: [Biología Molecular]
+thanks: |
+  **Version** `Inicial` 2022-02
+
+format:
+  html: default
+  fancy-doc-pdf: default
+number-sections: false
+title-block-banner: "#0047AB"
+title-block-banner-color: "#FFFFFF"
+crossref:
+  chapters: true
+
+date: last-modified
+lang: es-MX
+bibliography: refs.bib
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+---
+
+{{< pagebreak >}}
+
+### Descripción del Protocolo
+
+::: callout-note
+### Pasos
+
+-   	Al cDNA de la muestra adicionar 100uL de agua MiliQ dilución 1:5
+	En una placa de 96 pozos para PCR añadir para cada muestra por triplicado los 25 uL de reacción para el gen GAPDH (housekeepin gene) en los pozos y para el gen de interés el volumen de 25uL de la reacción como se muestra en la tabla 1 de los Anexos.
+	Homogenizar las reacciones.
+	Cubrir la placa con las películas adhesivas.
+	Analizar las muestras siguiendo la programación de la reacción se muestra en la tabla 2 de los Anexos.
+
+Notas: 
+Antes de usar cualquier reactivo homogenizarlo.
+Durante el proceso mantener todos los reactivos en hielo.
+Realizar la preparación en un periodo de tiempo corto
+Asegúrese de homogenizar correctamente las reacciones finales.
+Verificar que los pozos no contengan burbujas y que el volumen final de la reacción se encuentre en la superficie del pozo.
+
+:::
+
+### Diagrama de Flujo
+
+![Figura](https://www.omclab.org/images/R.png){width="25%"}
+
+### Anexos
+
+<details open>
+
+<summary>Soluciones</summary>
+
+</details>
+
+### Documentos de [-@sec-ref]
+
+@cite Shain KH, Dalton WS, Tao J. 2015. The tumor microenvironment
+shapes hallmarks of mature B cell malignancies. Oncogene 34:4673-4682.
+
+7.	Anexos
+
+Tabla 1. Preparación de la reacción: 
+Componente	Volumen final 25 uL
+SYBER green Master Mix qPCR	12.5 uL
+Primer Fw (10 mM)	1 uL
+Primer Rv (10 mM)	1 uL
+cDNA (1:5)	1uL
+Agua MiliQ	9.5 uL
+
+Tabla 2. Programación qPCR:
+Paso	Temperatura	Tiempo
+Desnaturalización inicial	94°C	5 minutos
+40 ciclos	94°C
+60°C
+72°C	30 segundos
+30 segundos
+1 minuto
+Nota: Temperatura de adquisición 60°C
+Reactivos y Soluciones 
+SYBER Green Master Mix qPCR
+Primer Fw 10 mM
+Primer Rv 10 mM
+Agua MiliQ
+

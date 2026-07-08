@@ -51,7 +51,7 @@ execute:
 
 ## Diagrama de Flujo
 
-![pasos a seguir](img/imagen.png){width="50%"}
+![pasos a seguir](img/thaw.png){width="50%"}
 
 ## Anexos
 
