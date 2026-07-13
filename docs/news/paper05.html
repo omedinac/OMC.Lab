@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Rueda-Escalona AA, Palazuelos-Altamirano LF, Zaldívar-Díaz P, Landa-Esquivias B, Jiménez-García AM, Castro-Eguiluz D, Medina-Contreras O">
-<meta name="dcterms.date" content="2026-08-10">
+<meta name="dcterms.date" content="2026-07-12">
 
 <title>Addressing the Gut Microbiota-Immunometabolism Axis in Pediatric Sarcopenic Obesity: The Therapeutic Potential of Dietary Anthocyanins and Microbial Galactose Metabolism – Castro-Medina Lab</title>
 <style>
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -165,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 10, 2026</p>
+      <p class="date">July 12, 2026</p>
     </div>
   </div>
   
@@ -187,10 +216,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Pediatric sarcopenic obesity (PSO) is an emerging conceptual framework characterized by the coexistence of excess visceral adiposity and impaired skeletal muscle accretion. Evidence suggests that this pathology is driven by systemic meta-inflammation rooted in the gut microbiota-immunometabolism axis. Dysbiosis, particularly the depletion of infant-type Bifidobacterium, compromises the intestinal barrier, potentially causing metabolic endotoxemia. In preclinical models, this triggers a pro-inflammatory, “Warburg-like” glycolytic shift in innate immune cells, releasing cytokines (IL-6, TNF-α) that heavily upregulate the ubiquitin-proteasome system in developing muscle. To address this cascade, we hypothesize that a targeted synbiotic approach utilizing dietary anthocyanins (e.g., cyanidin-3-O-galactoside) and prebiotic galacto-oligosaccharides (GOS) may offer metabolic benefits. This review clarifies the pharmacokinetic distinction between the systemic toxicity of high-dose injected galactose and the safety of dietary galactosides. Preclinical data suggest that ingested galactosides resist upper gastrointestinal digestion and undergo colonic cleavage by commensal β-galactosidase, yielding short-chain fatty acids (SCFAs) that support intestinal permeability while releasing bioactive phenolic aglycones. Systemically, these aglycones may attenuate skeletal muscle catabolism by supporting PI3K/Akt signaling. Synthesizing current preclinical and adult-derived evidence, this review highlights the theoretical therapeutic potential of early-life synbiotic interventions as adjunctive therapies to support healthy muscle developmental trajectories in pediatric populations.</p>
+<p>Pediatric sarcopenic obesity (PSO) is an emerging conceptual framework characterized by the coexistence of excess visceral adiposity and impaired skeletal muscle accretion. Evidence suggests that this pathology is driven by systemic meta-inflammation rooted in the gut microbiota-immunometabolism axis. Dysbiosis, particularly the depletion of infant-type Bifidobacterium, compromises the intestinal barrier, potentially causing metabolic endotoxemia. In preclinical models, this triggers a pro-inflammatory, “Warburg-like” glycolytic shift in innate immune cells, releasing cytokines (IL-6, TNF-<span class="math inline">\(\alpha\)</span>) that heavily upregulate the ubiquitin-proteasome system in developing muscle. To address this cascade, we hypothesize that a targeted synbiotic approach utilizing dietary anthocyanins (e.g., cyanidin-3-O-galactoside) and prebiotic galacto-oligosaccharides (GOS) may offer metabolic benefits. This review clarifies the pharmacokinetic distinction between the systemic toxicity of high-dose injected galactose and the safety of dietary galactosides. Preclinical data suggest that ingested galactosides resist upper gastrointestinal digestion and undergo colonic cleavage by commensal <span class="math inline">\(\beta\)</span>-galactosidase, yielding short-chain fatty acids (SCFAs) that support intestinal permeability while releasing bioactive phenolic aglycones. Systemically, these aglycones may attenuate skeletal muscle catabolism by supporting PI3K/Akt signaling. Synthesizing current preclinical and adult-derived evidence, this review highlights the theoretical therapeutic potential of early-life synbiotic interventions as adjunctive therapies to support healthy muscle developmental trajectories in pediatric populations.</p>
 </div>
 </div>
-<p><a href="https://omclab.org/news/paper05.html">doi</a><!--(https://doi.org/10.3390/xxxx)--></p>
+<p><a href="https://www.mdpi.com/journal/nutraceuticals">doi</a><!--(https://doi.org/10.3390/xxxx)--></p>
 
 
 
