@@ -1,43 +1,86 @@
 ---
-title: "ICO 2026"
-author: Ysais-Chong S, Nuncio-Mora L, Villalpando-Sánchez DC, Zaldívar-Sánchez P, Landa-Esquivias B, Castro-Eguiluz D, Medina-Contreras O
-date: 2026-07-17
+title: "Meetings & Conferences"
+author: the lab
+date: today
 categories: "Meetings"
-image: ico.png
+image: omclab.png
 ---
 
-<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="10344776" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="ICO 2026" href="//www.tickcounter.com/">ICO 2026</a>
+::: {.callout-note}
+# CongreCito
+
+![](congrecito.png)
+:::
 
 ::: {.callout-note}
-# Oral
+# ESPEN
 
-Reengineering Leptin therapy: BCH2 mutant leptin for obesity and its comorbidities-an approach to an enteral delivery platform
+![](espen.png)
 :::
 
 
 ::: {.callout-note}
-# Poster
+# Congreso del 60 Aniversario de la Asociación Psiquiátrica Mexicana
+
+![](apm.png)
+:::
+
+::: {.callout-note}
+# CICSA
+
+![](cicsa.png)
+:::
+
+::: {.callout-note}
+# ICO
+
+![](ico.png)
+:::
+
+::: {.callout-note}
+# ALADS
+
+![](alads.png)
+:::
+
+::: {.callout-note}
+# ISDA
+
+![](isda.png)
+:::
+
+::: {.callout-note}
+# CTV-HGM
+
+![](ctv.png)
+:::
+
+::: {.callout-note}
+# RAI-INPer
 
 ![](inper.png)
 :::
 
 ::: {.callout-note}
-# Poster
+# Mujer en la Ciencia
 
-![](ugto.png)
+![](mujer.png)
 :::
 
 ::: {.callout-note}
-# Poster
+# Relevancia de la respuesta inflamatoria en los trastornos psiquiátricos
 
-![](himfg.png)
+![](psiq.png)
 :::
 
-
-<!--
 ::: {.callout-note}
-# Poster
+# Diplomado Internacional de Medicina del Sueño
 
-Microbial TLR ligands induce IL-36γ expression in adipocytes *in vitro*
+![](sleep.png)
 :::
--->
+
+::: {.callout-note}
+# Congreso de Biomedicina Molecular
+
+![](biomedicina.png)
+:::

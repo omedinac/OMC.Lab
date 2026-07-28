@@ -1,4 +1,7 @@
 
+## AOP
+Rueda-Escalona AA, Palazuelos-Altamirano LF, Zaldívar-Díaz P, Landa-Esquivias B, Jiménez-García AM, Castro-Eguiluz D, Medina-Contreras O. (2026). "Addressing the Gut Microbiota–Immunometabolism Axis in Pediatric Sarcopenic Obesity: The Therapeutic Potential of Dietary Anthocyanins and Microbial Galactose Metabolism". In: *Nutraceuticals* 6:47. DOI: [10.3390/nutraceuticals6030047](https://doi.org/10.3390/nutraceuticals6030047)
+
 
 ```{r}
 #| echo: false
