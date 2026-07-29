@@ -378,5 +378,11 @@
   },
   "news/paper05.qmd": {
     "paper05.html": "e733d64c"
+  },
+  "news/dai_difusión.qmd": {
+    "dai_difusión.html": "1e10fc09"
+  },
+  "news/dai_difusion.qmd": {
+    "dai_difusion.html": "99287eca"
   }
 }

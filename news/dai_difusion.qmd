@@ -1,0 +1,19 @@
+---
+title: "Beneficios de una dieta anti-inflamatoria en comparación con una dieta baja en residuos durante la quimio-radioterapia concomitante en pacientes con cáncer cervicouterino localmente avanzado: un ensayo clínico aleatorizado"
+date: 2026-08-01
+categories: "Difusión"
+image: equipo.png
+lang: es-MX
+---
+
+::: {.callout-important}
+
+Hace algunos años, se sabía muy poco sobre qué alimentación debían llevar las personas con cáncer
+que recibían tratamientos como la quimioterapia o la radioterapia. Por eso, las recomendaciones sobre
+qué comer se basaban más en creencias y experiencias que en evidencia científica.
+
+:::
+
+**Para más información da click a la imágen**
+
+[![](dai.png){width="100%" fig-align="center"}](difusion.pdf)
