@@ -2,6 +2,7 @@
 ## AOP
 Rueda-Escalona AA, Palazuelos-Altamirano LF, Zaldívar-Díaz P, Landa-Esquivias B, Jiménez-García AM, Castro-Eguiluz D, Medina-Contreras O. (2026). "Addressing the Gut Microbiota–Immunometabolism Axis in Pediatric Sarcopenic Obesity: The Therapeutic Potential of Dietary Anthocyanins and Microbial Galactose Metabolism". In: *Nutraceuticals* 6:47. DOI: [10.3390/nutraceuticals6030047](https://doi.org/10.3390/nutraceuticals6030047)
 
+Bahena-Delgado AI, Hernandez-Chavez C, Martínez-Medina S, Gil-Martínez G, Canul-Euan AA, Mancilla-Herrera I, Rodríguez-Hernández C, Rojo-Prieto BJ, Rodríguez-Cano AM, Perichart-Perera O, Morales-González J, Estrada-Gutierrez G, Irles C, Medina-Contreras O, Gonzalez-Perez G. (2026). "Immune and body composition signatures of neurodevelopmental impairments in preterm preschoolers" In: *Frontiers in Immunology* DOI: [10.3389/fimmu.2026.1941190](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1941190/abstract)
 
 ```{r}
 #| echo: false
