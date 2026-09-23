@@ -35,10 +35,10 @@ website:
       href: https://codeberg.org/
     - text: "Report an issue"
       href: (mailto:omc@omclab.org)
-  announcement: 
-    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span> we are going to the 48th ESPEN Congress 2026 in Berlin, Germany (see details [here](/news/espen26.qmd))"
-    dismissable: true
-    position: below-navbar
+#  announcement: 
+#    content: "<span class=\"announcement-icon\" aria-hidden=\"true\"></span>  [here](/news/espen26.qmd))"
+#    dismissable: true
+#    position: below-navbar
 
 format:
   html:

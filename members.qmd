@@ -4,12 +4,6 @@ title: "Members"
 
 ::: {.member-grid}
 ::: {.member-card}
-![](images/members/diana.png){.member-photo}
-
-[**Diana Villalpando**](members/diana-villalpando.qmd)  
-Postdoctoral Researcher
-:::
-::: {.member-card}
 ![](images/members/sam.png){.member-photo}
 
 [**Samantha Ysais**](404.qmd)  
@@ -37,12 +31,6 @@ MSc Candidate
 ![](images/members/omclab.jpg){.member-photo}
 
 [**coco**](404.qmd)  
-MSc Student
-:::
-::: {.member-card}
-![](images/members/ashley.png){.member-photo}
-
-[**Ashley Garcia**](404.qmd)  
 MSc Student
 :::
 ::: {.member-card}
@@ -99,6 +87,12 @@ limited-edition prototype
 Postdoctoral Fellow at Rochester University
 :::
 ::: {.member-card}
+![](images/members/diana.png){.member-photo}
+
+[**Diana Villalpando**](members/diana-villalpando.qmd)  
+Flow Cytometry and Cell Sorting Core Facility Manager at Instituto de Biotecnología UNAM
+:::
+::: {.member-card}
 ![](images/members/clau.png){.member-photo}
 
 [**Claudia Gutierrez**](404.qmd)  
@@ -151,6 +145,12 @@ Escuela Nacional de Ciencias Biológicas
 
 [**Celic Cisneros**](404.qmd)  
 Universidad Anáhuac México
+:::
+::: {.member-card}
+![](images/members/ashley.png){.member-photo}
+
+[**Ashley Garcia**](404.qmd)  
+CINVESTAV
 :::
 ::: {.member-card}
 ![](images/members/omclab.jpg){.member-photo}

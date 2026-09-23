@@ -2,23 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/news/espen26.html",
-      "/news/dai_difusion.html",
       "/news/meetings.html",
+      "/news/paper06.html",
+      "/news/dai_difusion.html",
       "/news/paper05.html",
       "/news/paper04.html",
       "/news/paper03.html",
       "/news/paper01.html",
       "/news/paper02.html",
       "/projects/dai.html",
-      "/projects/metabolism-sectei.html",
-      "/projects/caries.html",
-      "/projects/cart.html",
-      "/projects/ciic.html",
-      "/projects/exosomes.html",
-      "/projects/ifng.html",
-      "/projects/leptin.html",
-      "/projects/leukemia.html"
+      "/projects/metabolism-sectei.html"
     ]
   },
   {
@@ -50,9 +43,9 @@
   {
     "listing": "/news.html",
     "items": [
-      "/news/espen26.html",
-      "/news/dai_difusion.html",
       "/news/meetings.html",
+      "/news/paper06.html",
+      "/news/dai_difusion.html",
       "/news/paper05.html",
       "/news/paper04.html",
       "/news/paper03.html",

@@ -1,0 +1,15 @@
+---
+title: "Immune and body composition signatures of neurodevelopmental impairments in preterm preschoolers"
+author: Bahena-Delgado AI, Hernandez-Chavez C, Martínez-Medina S, Gil-Martínez G, Canul-Euan AA, Mancilla-Herrera I, Rodríguez-Hernández C, Rojo-Prieto BJ, Rodríguez-Cano AM, Perichart-Perera O, Morales-González J, Estrada-Gutierrez G, Irles C, Medina-Contreras O, Gonzalez-Perez G
+date: 2026-09-17
+categories: "Papers"
+image: fronimmunol.png
+---
+
+::: callout-important
+## *Nutraceuticals* 6:47
+
+Background: Preterm birth is a primary risk factor for long-term neurodevelopmental deficits. While acute neonatal inflammation is a known disruptor of brain development, the persistence of immune dysregulation and its relationship with body composition in the preschool years remains poorly characterized. This study aimed to identify immunological and anthropometric signatures associated with neurodevelopmental outcomes in preschoolers born preterm. Methods: We conducted a prospective cohort study of preschoolers born at ≤ 34 weeks gestation. We performed comprehensive anthropometry, high-dimensional flow cytometry, and quantification of serum neuroinflammatory biomarkers, on children with Normal, Delay or Risk in neurodevelopment. Results: Neurodevelopmental impairments predominantly affected motor, language and cognitive domains in our cohort. Children in the Delay and Risk groups exhibited significantly reduced subcutaneous adiposity and lower fat mass compared to the Normal group, despite comparable linear growth. Immunologically, the Risk group was characterized by decreased neutrophils, platelets, and IP-10 levels. The B-cell compartment was the strongest predictor of clinical status; children with neurodevelopmental deficits exhibited a persistence of immature transitional B cells (CD38+CD24+IgD+), whereas those with normal development were enriched for mature class-switched memory B cells (CD27+IgD-). Conclusion: Preterm preschoolers with neurodevelopmental impairments showed a systemic profile of biological immaturity (reduced subcutaneous adiposity, lower neutrophil and platelet counts and a persistence of transitional B cells). Our identification of a distinct B-cell signature and altered body composition profiles in preschoolers born preterm offers promising new avenues for early detection and intervention.
+:::
+
+[doi](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1941190/abstract) <!--(https://doi.org/10.3389/fimmu.2026.1941190)-->
