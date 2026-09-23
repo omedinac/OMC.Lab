@@ -1,7 +1,13 @@
 ---
 title: "Members"
 ---
+::: {.member-card}
+![](images/members/diana.png){.member-photo}
 
+[**Diana Villalpando**](members/diana-villalpando.qmd)  
+Postdoctoral Fellow\
+Flow Cytometry and Cell Sorting Core Facility Manager at Instituto de Biotecnología UNAM
+:::
 ::: {.member-grid}
 ::: {.member-card}
 ![](images/members/sam.png){.member-photo}
@@ -85,12 +91,6 @@ limited-edition prototype
 
 [**Laura Manzanares**](404.qmd)  
 Postdoctoral Fellow at Rochester University
-:::
-::: {.member-card}
-![](images/members/diana.png){.member-photo}
-
-[**Diana Villalpando**](members/diana-villalpando.qmd)  
-Flow Cytometry and Cell Sorting Core Facility Manager at Instituto de Biotecnología UNAM
 :::
 ::: {.member-card}
 ![](images/members/clau.png){.member-photo}
